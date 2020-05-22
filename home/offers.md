@@ -1,0 +1,4 @@
+---
+title: "Offers"
+offer: "Get 15% discount if you are first-time customer"
+---
