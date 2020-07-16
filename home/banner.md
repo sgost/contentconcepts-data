@@ -1,5 +1,5 @@
 ---
-title: "Affordable manuscript editing service."
+title: "Affordable manuscript editing services."
 content: "For"
 typedWords: ["Academics", "Authors", "Corporate", "Students", "Publishers"]
 services: [
