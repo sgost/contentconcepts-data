@@ -1,5 +1,6 @@
 ---
-title: "Different levels of editing"
+title: "Pricing"
+heading: "Different levels of editing"
 subHeading: "Because each author is unique"
 pricing: [
   {
@@ -23,7 +24,7 @@ pricing: [
     themeColor: 'linear-gradient(119.96deg, #B361FF -2.59%, #C98EFF 104.08%)'
   },
   {
-    id: 2,
+    id: 3,
     title: 'Premium Editing',
     editingServices: ['English and scientific editing', 'Analysis of your paper by subject matter expert', 'Detailed report on the structure and technical correctness of your paper'],
     price: {
