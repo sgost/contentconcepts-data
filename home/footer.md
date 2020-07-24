@@ -8,17 +8,17 @@ sitemapList: [
       {
         id: 1,
         title: "Our Editors",
-        link: "/"
+        link: "/about/"
       },
       {
         id: 2,
         title: "Pricing",
-        link: "/"
+        link: "/pricing/"
       },
       {
         id: 3,
         title: "Contact",
-        link: "/"
+        link: "/contact/"
       }
     ]
   },
@@ -29,42 +29,42 @@ sitemapList: [
       {
         id: 1,
         title: "Website Content",
-        link: "/"
+        link: "/services/website_content"
       },
       {
         id: 2,
         title: "Marketing Collateral",
-        link: "/"
+        link: "/services/marketing_collateral"
       },
       {
         id: 3,
         title: "Resume Writing",
-        link: "/"
+        link: "/services/resume_writing"
       },
       {
         id: 4,
         title: "UI Content / Microcopy",
-        link: "/"
+        link: "/services/ui_microcopy"
       },
       {
         id: 5,
         title: "Blog Content",
-        link: "/"
+        link: "/services/blog_content"
       },
       {
         id: 6,
         title: "Social Media Content",
-        link: "/"
+        link: "/services/social_media_content"
       },
       {
         id: 7,
         title: "Adwords",
-        link: "/"
+        link: "/services/adwords"
       },
       {
         id: 8,
         title: "Facebook Ads",
-        link: "/"
+        link: "/services/facebook_ads"
       }
     ]
   },
@@ -90,7 +90,7 @@ sitemapList: [
       {
         id: 4,
         title: "Technical Reports",
-        link: "/services/technical_reports"
+        link: "/services/academic_technical_reports"
       },
       {
         id: 5,
@@ -136,7 +136,7 @@ sitemapList: [
       {
         id: 3,
         title: "Marketing Collateral",
-        link: "/services/marketing_collateral"
+        link: "/services/business_marketing_collateral"
       },
       {
         id: 4,
@@ -151,7 +151,7 @@ sitemapList: [
       {
         id: 6,
         title: "Website Content",
-        link: "/services/website_content"
+        link: "/services/business_website_content"
       },
       {
         id: 7,
@@ -187,12 +187,33 @@ sitemapList: [
       {
         id: 3,
         title: "Website Contents",
-        link: "/services/website_contents"
+        link: "/services/technical_website_contents"
       },
       {
         id: 4,
         title: "Technical Reports",
         link: "/services/technical_reports"
+      }
+    ]
+  },
+  {
+    id: 6,
+    title: "Consulting",
+    sitemap: [
+      {
+        id: 1,
+        title: "Content Strategy",
+        link: "/services/content_strategy"
+      },
+      {
+        id: 2,
+        title: "Digital Marketing",
+        link: "/services/digital_marketing"
+      },
+      {
+        id: 3,
+        title: "Social Media",
+        link: "/services/social_media"
       }
     ]
   }

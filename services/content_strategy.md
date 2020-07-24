@@ -1,5 +1,5 @@
 ---
-title: "Newsletters"
+title: "Content Strategy"
 highlight: "Best Selling Service on our site"
 editedTypes: {
   title: "Types of Manuscripts edited",
@@ -165,6 +165,6 @@ editingHighlights: {
     }
   ]
 }
-key: "newsletters"
-parentType: "business"
+key: "content_strategy"
+parentType: "consulting"
 ---

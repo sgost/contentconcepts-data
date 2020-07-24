@@ -1,5 +1,5 @@
 ---
-title: "Newsletters"
+title: "Resume Writing"
 highlight: "Best Selling Service on our site"
 editedTypes: {
   title: "Types of Manuscripts edited",
@@ -165,6 +165,6 @@ editingHighlights: {
     }
   ]
 }
-key: "newsletters"
-parentType: "business"
+key: "resume_writing"
+parentType: "content_development"
 ---

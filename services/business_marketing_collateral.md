@@ -1,5 +1,5 @@
 ---
-title: "Newsletters"
+title: "Marketing Collateral"
 highlight: "Best Selling Service on our site"
 editedTypes: {
   title: "Types of Manuscripts edited",
@@ -165,6 +165,6 @@ editingHighlights: {
     }
   ]
 }
-key: "newsletters"
+key: "business_marketing_collateral"
 parentType: "business"
 ---

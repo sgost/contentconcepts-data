@@ -1,5 +1,5 @@
 ---
-title: "Newsletters"
+title: "Social Media Content"
 highlight: "Best Selling Service on our site"
 editedTypes: {
   title: "Types of Manuscripts edited",
@@ -165,6 +165,6 @@ editingHighlights: {
     }
   ]
 }
-key: "newsletters"
-parentType: "business"
+key: "social_media_content"
+parentType: "content_development"
 ---

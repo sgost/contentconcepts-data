@@ -1,5 +1,5 @@
 ---
-title: "Newsletters"
+title: "Digital Marketing"
 highlight: "Best Selling Service on our site"
 editedTypes: {
   title: "Types of Manuscripts edited",
@@ -165,6 +165,6 @@ editingHighlights: {
     }
   ]
 }
-key: "newsletters"
-parentType: "business"
+key: "digital_marketing"
+parentType: "consulting"
 ---

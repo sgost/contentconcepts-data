@@ -143,31 +143,27 @@ editingHighlights: {
       id: 1,
       title: "Affordable Prices",
       description: "Our manuscript editing fee is one of the best in the industry for the level of quality work we offer from our trusted PhD and native English editors.",
-      image: "../assets/affordable.png"
+      image: "../assets/affordable.svg"
     },
     {
       id: 2,
       title: "Superior Support",
       description: "You can talk to your manuscript editor until you are satisfied with our editing service, get your queries answered via email or chat and send your manuscript after review from journal editor for further check.",
-      image: "../assets/support.png"
+      image: "../assets/support.svg"
     },
     {
       id: 3,
       title: "Confidentiality",
       description: "We ensure your documents are handled with utmost care. We can sign NDA if necessary.",
-      image: "../assets/confidential.png"
+      image: "../assets/confidential.svg"
     },
     {
       id: 4,
       title: "Secure transaction",
       description: "Your documents as wells as payment is handled by our secure website which has passed the best level of security testing in the industry.",
-      image: "../assets/transaction.png"
+      image: "../assets/transaction.svg"
     }
   ]
-}
-quality: {
-  title: "Quality Assurance",
-  description: "At ContentConcepts, we assure you top-notch work with every document we deliver, every timeline we commit and every time we interact with our customers."
 }
 key: "essay_editing"
 parentType: "academic"

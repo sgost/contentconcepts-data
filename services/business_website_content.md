@@ -1,5 +1,5 @@
 ---
-title: "Newsletters"
+title: "Website Content"
 highlight: "Best Selling Service on our site"
 editedTypes: {
   title: "Types of Manuscripts edited",
@@ -165,6 +165,6 @@ editingHighlights: {
     }
   ]
 }
-key: "newsletters"
+key: "business_website_content"
 parentType: "business"
 ---

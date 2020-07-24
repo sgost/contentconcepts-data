@@ -1,7 +1,7 @@
 ---
 title: "What makes us <span>Special?</span>"
 description: "We are PhDs. We understand the hard work behind every manuscript. We offer top quality service at affordable editing rate."
-badge: "../assets/quality_badge.png"
+badge: "../assets/quality_badge.svg"
 specialities: [
   {
     id: 1,
