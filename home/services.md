@@ -9,14 +9,14 @@ services: [
   },
   {
     id: 2,
-    title: "Content Developement",
-    description: "We provide clear, concise and engaging content that WORKS for you. Be it creative content for your brand or technical content for white papers, our team has diverse skills.",
+    title: "Publication Support",
+    description: "We offer end-to-end support in editing, formatting, journal selection, plagiarism check, artwork and submission assistance. If you do not have a lot of time and want to publish quickly, talk to us.",
     image: "../assets/development.png"
   },
   {
     id: 3,
-    title: "Digital Content Consulting",
-    description: "Communication is the key to success in your business. Digital Marketing content, error messages, app messages, UI, software and product communications are some of areas we consult.",
+    title: "Plagiarism Check",
+    description: "Get a detailed and accurate plagiarism report indicating what percentage matches to the other sources. We recommend how you can improve the the paper and help you fix the writing.",
     image: "../assets/consulting.png"
   }
 ]
