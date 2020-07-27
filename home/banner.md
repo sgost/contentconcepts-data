@@ -10,12 +10,12 @@ services: [
   },
   {
     id: 2,
-    title: "Thesis Editing",
+    title: "Plagiarism Check",
     link: "thesis_editing"
   },
   {
     id: 3,
-    title: "Proposal Editing",
+    title: "Publication Support",
     link: "proposal_editing"
   }
 ]
