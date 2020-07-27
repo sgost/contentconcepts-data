@@ -7,5 +7,5 @@ Subject knowledge and the art of academic writing and editing is what our manusc
  
 We are your affordable and honest partners in academic success.\
 
-Need more help in writing and publishing? Explore our Publication Support Services
+Need more help in writing and publishing? Explore our Publication Support Services"
 ---
