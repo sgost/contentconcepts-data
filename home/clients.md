@@ -1,6 +1,6 @@
 ---
 title: "Trusted by 100+ Clients"
-description: "ContentConcepts provides English editing and proofreading services to authors, publishers, universities, govt, NGOs. Our content team works with startups, SMEs and corporates. Here is a list of few selected customers."
+description: "We provide English editing, formatting, plagiarism check and publication support to authors, students, publishers, universities, govt, NGOs. Here is a list of few selected customers."
 clients: [
   {
     id: 1,
