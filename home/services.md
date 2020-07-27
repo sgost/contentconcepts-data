@@ -11,13 +11,13 @@ services: [
     id: 2,
     title: "Publication Support",
     description: "We offer end-to-end support in editing, formatting, journal selection, plagiarism check, artwork and submission assistance. If you do not have a lot of time and want to publish quickly, talk to us.",
-    image: "../assets/development.png"
+    image: "../assets/development.svg"
   },
   {
     id: 3,
     title: "Plagiarism Check",
     description: "Get a detailed and accurate plagiarism report indicating what percentage matches to the other sources. We recommend how you can improve the the paper and help you fix the writing.",
-    image: "../assets/consulting.png"
+    image: "../assets/consulting.svg"
   }
 ]
 ---
