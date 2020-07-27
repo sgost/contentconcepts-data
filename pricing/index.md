@@ -5,7 +5,7 @@ subHeading: "Because each author is unique"
 pricing: [
   {
     id: 1,
-    title: 'English Editing',
+    title: 'Copy Editing',
     editingServices: ['Grammar, spelling', 'Check for appropriate usage of words', 'Editing at word and sentence level'],
     price: {
       inr: '₹ <span>1.50</span>/word',
@@ -15,7 +15,7 @@ pricing: [
   },
   {
     id: 2,
-    title: 'Scientific Editing',
+    title: 'Substantive Editing',
     editingServices: ['All services offered in English editing plus', 'Substantive editing to ensure proper sentence structure and flow', 'Correct terminology', 'Adherence to style guide'],
     price: {
       inr: '₹ <span>1.50</span>/word',
@@ -25,7 +25,7 @@ pricing: [
   },
   {
     id: 3,
-    title: 'Premium Editing',
+    title: 'Scientific Editing',
     editingServices: ['English and scientific editing', 'Analysis of your paper by subject matter expert', 'Detailed report on the structure and technical correctness of your paper'],
     price: {
       inr: '₹ <span>1.50</span>/word',
