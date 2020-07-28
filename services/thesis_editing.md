@@ -2,7 +2,7 @@
 title: "Thesis Editing"
 highlight: "Fast & Affordable"
 editedTypes: {
-  title: "what type of documents to submit?",
+  title: "What type of documents can you submit?",
   types: ["Thesis", "Dissertation", "Thesis Proposal", "Dissertation Proposal"]
 }
 features: [
@@ -28,8 +28,8 @@ features: [
   }
 ]
 editingLevels: {
-  title: "Different levels of editing",
-  subHeading: "Because each author is unique",
+  title: "Thesis Editing Service Levels",
+  subHeading: "Because each thesis is unique",
   levelTypes: [
     {
       id: 1,
@@ -114,7 +114,7 @@ editingLevels: {
   ]
 }
 editingSample: {
-  title: "Editing Sample",
+  title: "Thesiss Editing Sample",
   samples: [
     {
       id: 1,
@@ -137,7 +137,7 @@ editingSample: {
   ]
 }
 editingHighlights: {
-  title: "Highlights of our thesis editing services",
+  title: "Highlights of our Thesis Editing service",
   highlights: [
     {
       id: 1,
