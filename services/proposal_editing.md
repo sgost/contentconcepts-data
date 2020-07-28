@@ -130,7 +130,7 @@ editingSample: {
   ]
 }
 editingHighlights: {
-  title: "Highlights of our Proposal editing services",
+  title: "Highlights of our Proposal Editing service",
   highlights: [
     {
       id: 1,
