@@ -65,7 +65,7 @@ editingLevels: {
     {
       id: 3,
       title: "Style and formatting as per journal guidelines",
-      copy: "yes",
+      copy: "no",
       substantive: "yes",
       developmental: "yes"
     },
@@ -80,14 +80,14 @@ editingLevels: {
       id: 5,
       title: "Technical review of manuscript by editor",
       copy: "no",
-      substantive: "yes",
+      substantive: "no",
       developmental: "yes"
     },
     {
       id: 6,
       title: "Detailed report on structure and technical correctness of your manuscript",
       copy: "no",
-      substantive: "yes",
+      substantive: "no",
       developmental: "yes"
     },
       ]
