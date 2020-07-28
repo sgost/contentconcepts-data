@@ -3,20 +3,21 @@ title: "Proposal Editing"
 highlight: "Concsie and complete is the key"
 editedTypes: {
   title: "Types of Proposals edited",
-  types: ["Grant proposals, Thesis proposals, Book proposals, Business proposals"]
+  types: ["You have a great idea that you think will get you grant. It is very important that your proposal is clear, concise and conveys your ideas effectively.
+"]
 }
 features: [
   {
     id: 1,
-    title: "Edited by qualified subject matter experts"
+    title: "Edited by experienced grant writers"
   },
   {
     id: 2,
-    title: "Certified English language editing skills"
+    title: "Check for proper structure and flow"
   },
   {
     id: 3,
-    title: "Native-English editors available"
+    title: "Cut down redundancy and get to the point"
   }
 ]
 editingLevels: {
@@ -49,7 +50,7 @@ editingLevels: {
     },
     {
       id: 2,
-      title: "Ensuring the manuscripts adheres to style guide",
+      title: "Ensuring the proposal adheres to guidelines",
       copy: "yes",
       substantive: "yes",
       developmental: "yes"
