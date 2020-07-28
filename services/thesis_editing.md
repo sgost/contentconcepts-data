@@ -1,9 +1,9 @@
 ---
 title: "Thesis Editing"
-highlight: "Best Selling Service on our site"
+highlight: "Fast & Affordable"
 editedTypes: {
-  title: "Types of Manuscripts edited",
-  types: ["Research Paper", "Thesis", "Proposal", "Technical Editing"]
+  title: "what type of documents to submit?",
+  types: ["Thesis", "Dissertation", "Thesis Proposal", "Dissertation Proposal"]
 }
 features: [
   {
@@ -20,11 +20,11 @@ features: [
   },
   {
     id: 4,
-    title: "1500 plus journal style and formats edited"
+    title: "Over 1500 thesis edited"
   },
   {
     id: 5,
-    title: "Flawless editing"
+    title: "APA, Chicago and MLA style check & formatting"
   }
 ]
 editingLevels: {
@@ -137,24 +137,24 @@ editingSample: {
   ]
 }
 editingHighlights: {
-  title: "Highlights of our manuscript editing services",
+  title: "Highlights of our thesis editing services",
   highlights: [
     {
       id: 1,
       title: "Affordable Prices",
-      description: "Our manuscript editing fee is one of the best in the industry for the level of quality work we offer from our trusted PhD and native English editors.",
+      description: "Our thesis editing fee is one of the best in the industry for the level of quality work we offer from our trusted PhD and native English editors.",
       image: "../assets/affordable.svg"
     },
     {
       id: 2,
       title: "Superior Support",
-      description: "You can talk to your manuscript editor until you are satisfied with our editing service, get your queries answered via email or chat and send your manuscript after review from journal editor for further check.",
+      description: "You can talk to your thesis editor until you are satisfied with our editing service, get your queries answered via email or chat and send your manuscript after review from your thesis guide for further check.",
       image: "../assets/support.svg"
     },
     {
       id: 3,
       title: "Confidentiality",
-      description: "We ensure your documents are handled with utmost care. We can sign NDA if necessary.",
+      description: "We ensure your thesis is handled with utmost care. We can sign NDA if necessary.",
       image: "../assets/confidential.svg"
     },
     {
