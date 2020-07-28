@@ -1,9 +1,9 @@
 ---
 title: "Proposal Editing"
-highlight: "Best Selling Service on our site"
+highlight: "Concsie and complete is the key"
 editedTypes: {
   title: "Types of Proposals edited",
-  types: ["Thesis", "Proposal", "Technical Editing"]
+  types: ["Grant proposals, Thesis proposals, Book proposals, Business proposals"]
 }
 features: [
   {
@@ -12,16 +12,16 @@ features: [
   },
   {
     id: 2,
-    title: "Phd Editors with certified English language editing skills"
+    title: "Certified English language editing skills"
   },
   {
     id: 3,
-    title: "Native-English editors"
+    title: "Native-English editors available"
   }
 ]
 editingLevels: {
-  title: "Different levels of editing",
-  subHeading: "Because each author is unique",
+  title: "Proposal Editing levels",
+  subHeading: "Because each proposal is unique",
   levelTypes: [
     {
       id: 1,
@@ -106,7 +106,7 @@ editingLevels: {
   ]
 }
 editingSample: {
-  title: "Editing Sample",
+  title: "Proposal Editing Sample",
   samples: [
     {
       id: 1,
@@ -129,18 +129,18 @@ editingSample: {
   ]
 }
 editingHighlights: {
-  title: "Highlights of our manuscript editing services",
+  title: "Highlights of our Proposal editing services",
   highlights: [
     {
       id: 1,
       title: "Affordable Prices",
-      description: "Our manuscript editing fee is one of the best in the industry for the level of quality work we offer from our trusted PhD and native English editors.",
+      description: "Our proposal editing fee is one of the best in the industry for the level of quality work we offer from our trusted PhD and native English editors.",
       image: "../assets/affordable.svg"
     },
     {
       id: 2,
       title: "Superior Support",
-      description: "You can talk to your manuscript editor until you are satisfied with our editing service, get your queries answered via email or chat and send your manuscript after review from journal editor for further check.",
+      description: "You can talk to your proposal editor until you are satisfied with our editing service, get your queries answered via email or chat and send your proposal after review from for further check.",
       image: "../assets/support.svg"
     },
     {
