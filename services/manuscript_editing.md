@@ -28,8 +28,8 @@ features: [
   }
 ]
 editingLevels: {
-  title: "Different levels of editing",
-  subHeading: "Because each author is unique",
+  title: "Manuscript Editing Levels",
+  subHeading: "Choose the editing level you want",
   levelTypes: [
     {
       id: 1,
@@ -43,7 +43,7 @@ editingLevels: {
     },
     {
       id: 3,
-      title: "Developmental Editing",
+      title: "Scientific Editing",
       themeColor: "#03CA8B"
     }
   ],
