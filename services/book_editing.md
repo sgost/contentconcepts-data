@@ -1,34 +1,35 @@
 ---
 title: "Book Editing"
-highlight: "Best Selling Service on our site"
+highlight: "For Authors & Publishers"
 editedTypes: {
-  title: "Types of Manuscripts edited",
-  types: ["Research Paper", "Thesis", "Proposal", "Technical Editing"]
+  title: "ContentConcepts specializes in editing and proofreading science, technology, business and non-fiction book manuscripts.
+",
+  types: ["Editing a book manuscript is an art. It's more than just grammar and correct usage of words. We have exclusive editors for book manuscripts who have experiece in editing more than 100 manuscripts. Our manuscript editing combines copy editing and developmental editing by"]
 }
 features: [
   {
     id: 1,
-    title: "Edited by qualified subject matter experts"
+    title: "Analyzing your manuscript as a whole"
   },
   {
     id: 2,
-    title: "Phd Editors with certified English language editing skills"
+    title: "Improving the structure and flow"
   },
   {
     id: 3,
-    title: "Native-English editors"
+    title: "Maintaining consistent tone and style"
   },
   {
     id: 4,
-    title: "1500 plus journal style and formats edited"
+    title: "Rewriting sentences to make content clear, concise and effective"
   },
   {
     id: 5,
-    title: "Flawless editing"
+    title: "Suggesting, illustrations and artwork"
   }
 ]
 editingLevels: {
-  title: "Different levels of editing",
+  title: "Book Editing levels",
   subHeading: "Because each author is unique",
   levelTypes: [
     {
@@ -114,7 +115,7 @@ editingLevels: {
   ]
 }
 editingSample: {
-  title: "Editing Sample",
+  title: "Book Editing Sample",
   samples: [
     {
       id: 1,
@@ -137,18 +138,18 @@ editingSample: {
   ]
 }
 editingHighlights: {
-  title: "Highlights of our manuscript editing services",
+  title: "Highlights of our Book Editing service",
   highlights: [
     {
       id: 1,
       title: "Affordable Prices",
-      description: "Our manuscript editing fee is one of the best in the industry for the level of quality work we offer from our trusted PhD and native English editors.",
+      description: "Our book manuscript editing fee is one of the best in the industry for the level of quality work we offer from our trusted PhD and native English editors.",
       image: "../assets/affordable.svg"
     },
     {
       id: 2,
       title: "Superior Support",
-      description: "You can talk to your manuscript editor until you are satisfied with our editing service, get your queries answered via email or chat and send your manuscript after review from journal editor for further check.",
+      description: "You can talk to your book manuscript editor until you are satisfied with our editing service, get your queries answered via email or chat and send your manuscript after review for further check.",
       image: "../assets/support.svg"
     },
     {
