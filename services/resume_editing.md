@@ -1,35 +1,35 @@
 ---
 title: "Resume Editing"
-highlight: "Best Selling Service on our site"
+highlight: "Make a first & best impression"
 editedTypes: {
-  title: "Types of Manuscripts edited",
-  types: ["Research Paper", "Thesis", "Proposal", "Technical Editing"]
+  title: "Recruiters spend just 20 seconds to review a resume to decide whether to select you for the next stage or reject your resume. Therefore, your resume or CV should immediately catch the attention of the prospective employer.",
+  types: ["Let your resume editors craft out that perfect resume that wins"]
 }
 features: [
   {
     id: 1,
-    title: "Edited by qualified subject matter experts"
+    title: "Industry vocabulary that suits your target role"
   },
   {
     id: 2,
-    title: "Phd Editors with certified English language editing skills"
+    title: "High impact resume structure"
   },
   {
     id: 3,
-    title: "Native-English editors"
+    title: "Clear, consice and crisp writing"
   },
   {
     id: 4,
-    title: "1500 plus journal style and formats edited"
+    title: "Experienced Resume Editors"
   },
   {
     id: 5,
-    title: "Flawless editing"
+    title: "Flawless language"
   }
 ]
 editingLevels: {
   title: "Different levels of editing",
-  subHeading: "Because each author is unique",
+  subHeading: "Because each resume is unique",
   levelTypes: [
     {
       id: 1,
@@ -137,30 +137,30 @@ editingSample: {
   ]
 }
 editingHighlights: {
-  title: "Highlights of our manuscript editing services",
+  title: "Highlights of our Resume Editing service",
   highlights: [
     {
       id: 1,
       title: "Affordable Prices",
-      description: "Our manuscript editing fee is one of the best in the industry for the level of quality work we offer from our trusted PhD and native English editors.",
+      description: "Our resume editing fee is one of the best in the industry for the level of quality work we offer from our trusted editors.",
       image: "../assets/affordable.svg"
     },
     {
       id: 2,
       title: "Superior Support",
-      description: "You can talk to your manuscript editor until you are satisfied with our editing service, get your queries answered via email or chat and send your manuscript after review from journal editor for further check.",
+      description: "You can talk to your resume editor until you are satisfied with our editing service, get your queries answered via email or chat and send your resume after review for further check.",
       image: "../assets/support.svg"
     },
     {
       id: 3,
       title: "Confidentiality",
-      description: "We ensure your documents are handled with utmost care. We can sign NDA if necessary.",
+      description: "We ensure your resumes are handled with utmost care. We can sign NDA if necessary.",
       image: "../assets/confidential.svg"
     },
     {
       id: 4,
       title: "Secure transaction",
-      description: "Your documents as wells as payment is handled by our secure website which has passed the best level of security testing in the industry.",
+      description: "Your resume as wells as payment is handled by our secure website which has passed the best level of security testing in the industry.",
       image: "../assets/transaction.svg"
     }
   ]
