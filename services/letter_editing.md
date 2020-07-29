@@ -1,34 +1,34 @@
 ---
 title: "Letter Editing"
-highlight: "Best Selling Service on our site"
+highlight: "Deliver the right message"
 editedTypes: {
-  title: "Types of Manuscripts edited",
-  types: ["Research Paper", "Thesis", "Proposal", "Technical Editing"]
+  title: "Writing a letter that gets your readers' attention isn't alawys easy",
+  types: ["Writing a cover letter to journal or grant proposal or for a job? Our team will help you craft the perfect letter that delivers the message. To do this our editors"]
 }
 features: [
   {
     id: 1,
-    title: "Edited by qualified subject matter experts"
+    title: "Reduce the clutter and get to the point"
   },
   {
     id: 2,
-    title: "Phd Editors with certified English language editing skills"
+    title: "Modify the tone and structure for better flow"
   },
   {
     id: 3,
-    title: "Native-English editors"
+    title: "Use the right words to convey the message"
   },
   {
     id: 4,
-    title: "1500 plus journal style and formats edited"
+    title: "Highlight the best part of the content"
   },
   {
     id: 5,
-    title: "Flawless editing"
+    title: "Review and re-edit multiple times"
   }
 ]
 editingLevels: {
-  title: "Different levels of editing",
+  title: "Levels of Letter Editing",
   subHeading: "Because each author is unique",
   levelTypes: [
     {
@@ -114,7 +114,7 @@ editingLevels: {
   ]
 }
 editingSample: {
-  title: "Editing Sample",
+  title: "Letter Editing Sample",
   samples: [
     {
       id: 1,
@@ -137,18 +137,18 @@ editingSample: {
   ]
 }
 editingHighlights: {
-  title: "Highlights of our manuscript editing services",
+  title: "Highlights of our Letter Editing service",
   highlights: [
     {
       id: 1,
       title: "Affordable Prices",
-      description: "Our manuscript editing fee is one of the best in the industry for the level of quality work we offer from our trusted PhD and native English editors.",
+      description: "Our Letter Editing fee is one of the best in the industry for the level of quality work we offer from our trusted PhD and native English editors.",
       image: "../assets/affordable.svg"
     },
     {
       id: 2,
       title: "Superior Support",
-      description: "You can talk to your manuscript editor until you are satisfied with our editing service, get your queries answered via email or chat and send your manuscript after review from journal editor for further check.",
+      description: "You can talk to your Letter Editor until you are satisfied with our editing service, get your queries answered via email or chat and send your letter after review for further check.",
       image: "../assets/support.svg"
     },
     {
