@@ -1,9 +1,15 @@
 ---
 title: "Website Content"
 highlight: "Best Selling Service on our site"
-editedTypes: {
-  title: "Types of Manuscripts edited",
-  types: ["Research Paper", "Thesis", "Proposal", "Technical Editing"]
+description: 'Types of Ad copies edited - Research Paper, Thesis, Proposal'
+message: 'Not happy with edit? <span>100% refund without any condition</span>'
+priceCard: {
+  pricing: {
+    title: 'Starting from',
+    price: '<span>$0.03</span>/word'
+  },
+  tagContent: 'Edited by qualified subject matter experts',
+  content: 'Don't need major revisions before journal submission?'
 }
 features: [
   {

@@ -1,9 +1,15 @@
 ---
 title: "Essay Editing"
 highlight: "Fast & Affordable"
-editedTypes: {
-  title: "Essay it loud!",
-  types: ["Get the perfect esasay that highlights your strength and written to the point"]
+description: 'Essay it loud! Get the perfect esasay that highlights your strength and written to the point'
+message: 'Not happy with edit? <span>100% refund without any condition</span>'
+priceCard: {
+  pricing: {
+    title: 'Starting from',
+    price: '<span>$0.03</span>/word'
+  },
+  tagContent: 'Edited by qualified subject matter experts',
+  content: 'Don't need major revisions before journal submission?'
 }
 features: [
   {

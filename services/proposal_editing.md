@@ -1,10 +1,15 @@
 ---
 title: "Proposal Editing"
 highlight: "Concsie and complete is the key"
-editedTypes: {
-  title: "Types of Proposals edited",
-  types: ["You have a great idea that you think will get you grant. It is very important that your proposal is clear, concise and conveys your ideas effectively.
-"]
+description: 'Types of Proposals edited - You have a great idea that you think will get you grant. It is very important that your proposal is clear, concise and conveys your ideas effectively.'
+message: 'Not happy with edit? <span>100% refund without any condition</span>'
+priceCard: {
+  pricing: {
+    title: 'Starting from',
+    price: '<span>$0.03</span>/word'
+  },
+  tagContent: 'Edited by qualified subject matter experts',
+  content: 'Don't need major revisions before journal submission?'
 }
 features: [
   {
