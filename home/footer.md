@@ -80,7 +80,7 @@ sitemapList: [
     sitemap: [
       {
         id: 1,
-        title: "Website Content",
+        title: "Journal Selection",
         link: "/services/website_content"
       },
       {
