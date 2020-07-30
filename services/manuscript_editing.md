@@ -1,9 +1,15 @@
 ---
 title: "Manuscript Editing"
 highlight: "Our #1 selling service"
-editedTypes: {
-  title: "Types of Manuscripts edited",
-  types: ["Research Paper", "Thesis", "Proposal", "Technical Reports"]
+description: 'Types of Manuscripts edited - Research Paper, Thesis, Proposal, Technical Editing'
+message: 'Not happy with edit? <span>100% refund without any condition</span>'
+priceCard: {
+  pricing: {
+    title: 'Starting from',
+    price: '<span>$0.03</span>/word'
+  },
+  tagContent: 'Edited by qualified subject matter experts',
+  content: 'Don't need major revisions before journal submission?'
 }
 features: [
   {
