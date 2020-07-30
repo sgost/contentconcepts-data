@@ -122,6 +122,32 @@ sitemapList: [
   },
   {
     id: 4,
+    title: "Plagiarism Check",
+    sitemap: [
+      {
+        id: 1,
+        title: "User Manuals",
+        link: "/services/user_manuals"
+      },
+      {
+        id: 2,
+        title: "Instructional Gids",
+        link: "/services/instructional_guides"
+      },
+      {
+        id: 3,
+        title: "Website Contents",
+        link: "/services/technical_website_contents"
+      },
+      {
+        id: 4,
+        title: "Technical Reports",
+        link: "/services/technical_reports"
+      }
+    ]
+  },
+  {
+    id: 5,
     title: "Business Editing",
     sitemap: [
       {
@@ -168,32 +194,6 @@ sitemapList: [
         id: 9,
         title: "Biographies",
         link: "/services/biographies"
-      }
-    ]
-  },
-  {
-    id: 5,
-    title: "Technical Editing",
-    sitemap: [
-      {
-        id: 1,
-        title: "User Manuals",
-        link: "/services/user_manuals"
-      },
-      {
-        id: 2,
-        title: "Instructional Gids",
-        link: "/services/instructional_guides"
-      },
-      {
-        id: 3,
-        title: "Website Contents",
-        link: "/services/technical_website_contents"
-      },
-      {
-        id: 4,
-        title: "Technical Reports",
-        link: "/services/technical_reports"
       }
     ]
   },
