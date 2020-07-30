@@ -1,15 +1,15 @@
 ---
 title: "Letter Editing"
 highlight: "Deliver the right message"
-description: 'Writing a letter that gets your readers' attention isn't alawys easy. Writing a cover letter to journal or grant proposal or for a job? Our team will help you craft the perfect letter that delivers the message. To do this our editors'
-message: 'Not happy with edit? <span>100% refund without any condition</span>'
+description: "Writing a letter that gets your readers' attention isn't alawys easy. Writing a cover letter to journal or grant proposal or for a job? Our team will help you craft the perfect letter that delivers the message. To do this our editors"
+message: "Not happy with edit? <span>100% refund without any condition</span>"
 priceCard: {
   pricing: {
-    title: 'Starting from',
-    price: '<span>$0.03</span>/word'
+    title: "Starting from",
+    price: "<span>$0.03</span>/word"
   },
-  tagContent: 'Edited by qualified subject matter experts',
-  content: 'Don't need major revisions before journal submission?'
+  tagContent: "Edited by qualified subject matter experts",
+  content: "Don't need major revisions before journal submission?"
 }
 features: [
   {

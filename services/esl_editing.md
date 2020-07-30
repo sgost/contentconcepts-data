@@ -1,15 +1,15 @@
 ---
 title: "ESL Editing"
 highlight: "If English is your second language, choose this"
-description: 'For non-native speakers of English, writing a research manuscript or paper is a difficlut task. Your strength is research and your language may not be effective. Our ESL editors specalise in editing manuscripts written by authors whose first language is not English. Get the right word, right sentence structure and convey your research findings effectively'
-message: 'Not happy with edit? <span>100% refund without any condition</span>'
+description: "For non-native speakers of English, writing a research manuscript or paper is a difficlut task. Your strength is research and your language may not be effective. Our ESL editors specalise in editing manuscripts written by authors whose first language is not English. Get the right word, right sentence structure and convey your research findings effectively"
+message: "Not happy with edit? <span>100% refund without any condition</span>"
 priceCard: {
   pricing: {
-    title: 'Starting from',
-    price: '<span>$0.03</span>/word'
+    title: "Starting from",
+    price: "<span>$0.03</span>/word"
   },
-  tagContent: 'Edited by qualified subject matter experts',
-  content: 'Don't need major revisions before journal submission?'
+  tagContent: "Edited by qualified subject matter experts",
+  content: "Don't need major revisions before journal submission?"
 }
 features: [
   {

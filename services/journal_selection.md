@@ -1,15 +1,15 @@
 ---
 title: "Journal Selection"
 highlight: "Get it right"
-description: 'One of the key task in publishing is selecting the right journal for your paper. More often papers are rejected becuase the topic may not be relevant for the selected journal. Let our experts choose the right journal for your manuscript'
-message: 'Not happy with edit? <span>100% refund without any condition</span>'
+description: "One of the key task in publishing is selecting the right journal for your paper. More often papers are rejected becuase the topic may not be relevant for the selected journal. Let our experts choose the right journal for your manuscript"
+message: "Not happy with edit? <span>100% refund without any condition</span>"
 priceCard: {
   pricing: {
-    title: 'Starting from',
-    price: '<span>$0.03</span>/word'
+    title: "Starting from",
+    price: "<span>$0.03</span>/word"
   },
-  tagContent: 'Edited by qualified subject matter experts',
-  content: 'Don't need major revisions before journal submission?'
+  tagContent: "Edited by qualified subject matter experts",
+  content: "Don't need major revisions before journal submission?"
 }
 features: [
   {
