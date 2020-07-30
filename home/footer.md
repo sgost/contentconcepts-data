@@ -22,54 +22,9 @@ sitemapList: [
       }
     ]
   },
+  
   {
     id: 2,
-    title: "Content Development",
-    sitemap: [
-      {
-        id: 1,
-        title: "Website Content",
-        link: "/services/website_content"
-      },
-      {
-        id: 2,
-        title: "Marketing Collateral",
-        link: "/services/marketing_collateral"
-      },
-      {
-        id: 3,
-        title: "Resume Writing",
-        link: "/services/resume_writing"
-      },
-      {
-        id: 4,
-        title: "UI Content / Microcopy",
-        link: "/services/ui_microcopy"
-      },
-      {
-        id: 5,
-        title: "Blog Content",
-        link: "/services/blog_content"
-      },
-      {
-        id: 6,
-        title: "Social Media Content",
-        link: "/services/social_media_content"
-      },
-      {
-        id: 7,
-        title: "Adwords",
-        link: "/services/adwords"
-      },
-      {
-        id: 8,
-        title: "Facebook Ads",
-        link: "/services/facebook_ads"
-      }
-    ]
-  },
-  {
-    id: 3,
     title: "Academic Editing",
     sitemap: [
       {
@@ -116,6 +71,52 @@ sitemapList: [
         id: 9,
         title: "Resume Editing",
         link: "/services/resume_editing"
+      }
+    ]
+  },
+  {
+    id: 3,
+    title: "Publication Support",
+    sitemap: [
+      {
+        id: 1,
+        title: "Website Content",
+        link: "/services/website_content"
+      },
+      {
+        id: 2,
+        title: "Marketing Collateral",
+        link: "/services/marketing_collateral"
+      },
+      {
+        id: 3,
+        title: "Resume Writing",
+        link: "/services/resume_writing"
+      },
+      {
+        id: 4,
+        title: "UI Content / Microcopy",
+        link: "/services/ui_microcopy"
+      },
+      {
+        id: 5,
+        title: "Blog Content",
+        link: "/services/blog_content"
+      },
+      {
+        id: 6,
+        title: "Social Media Content",
+        link: "/services/social_media_content"
+      },
+      {
+        id: 7,
+        title: "Adwords",
+        link: "/services/adwords"
+      },
+      {
+        id: 8,
+        title: "Facebook Ads",
+        link: "/services/facebook_ads"
       }
     ]
   },
@@ -196,26 +197,7 @@ sitemapList: [
       }
     ]
   },
-  {
-    id: 6,
-    title: "Consulting",
-    sitemap: [
-      {
-        id: 1,
-        title: "Content Strategy",
-        link: "/services/content_strategy"
-      },
-      {
-        id: 2,
-        title: "Digital Marketing",
-        link: "/services/digital_marketing"
-      },
-      {
-        id: 3,
-        title: "Social Media",
-        link: "/services/social_media"
-      }
-    ]
+      ]
   }
 ]
 ---
