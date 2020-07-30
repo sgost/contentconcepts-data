@@ -1,15 +1,15 @@
 ---
 title: "Content Strategy"
 highlight: "Best Selling Service on our site"
-description: 'Types of Ad copies edited - Research Paper, Thesis, Proposal'
-message: 'Not happy with edit? <span>100% refund without any condition</span>'
+description: "Types of Ad copies edited - Research Paper, Thesis, Proposal"
+message: "Not happy with edit? <span>100% refund without any condition</span>"
 priceCard: {
   pricing: {
-    title: 'Starting from',
-    price: '<span>$0.03</span>/word'
+    title: "Starting from",
+    price: "<span>$0.03</span>/word"
   },
-  tagContent: 'Edited by qualified subject matter experts',
-  content: 'Don't need major revisions before journal submission?'
+  tagContent: "Edited by qualified subject matter experts",
+  content: "Don't need major revisions before journal submission?"
 }
 features: [
   {
