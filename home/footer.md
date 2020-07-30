@@ -81,7 +81,7 @@ sitemapList: [
       {
         id: 1,
         title: "Journal Selection",
-        link: "/services/website_content"
+        link: "/services/journal_selection"
       },
       {
         id: 2,
