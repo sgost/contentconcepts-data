@@ -7,6 +7,7 @@ priceCard: {
   pricing: {
     title: "Starts from",
     price: "<span>INR 1.5</span>/word"
+    price: "<span>USD 0.03</span>/word"
   },
   tagContent: "No express fee, quick turnaround",
   content: "Don't need major revisions before journal submission?"
