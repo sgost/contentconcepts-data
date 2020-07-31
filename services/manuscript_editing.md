@@ -5,10 +5,10 @@ description: "Types of Manuscripts edited - Research Paper, Thesis, Proposal, Te
 message: "Not happy with edit? <span>100% refund without any condition</span>"
 priceCard: {
   pricing: {
-    title: "Starting from",
-    price: "<span>$0.03</span>/word"
+    title: "Starts from",
+    price: "<span>INR 1.5</span>/word" "<span>$0.03</span>/word"
   },
-  tagContent: "Edited by qualified subject matter experts",
+  tagContent: "No express fee, quick turnaround",
   content: "Don't need major revisions before journal submission?"
 }
 features: [
