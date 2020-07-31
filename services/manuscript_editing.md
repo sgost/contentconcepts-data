@@ -6,11 +6,10 @@ message: "Not happy with edit? <span>100% refund without any condition</span>"
 priceCard: {
   pricing: {
     title: "Starts from",
-    price: "<span>INR 1.5</span>/word 
-    <span>USD 0.03</span>/word"
-      },
+    price: "<span>INR 1.5</span>/word"
+    },
   tagContent: "No express fee, quick turnaround",
-  content: "Don't need major revisions before journal submission?"
+  content: "Top quality yet truly affordable price"
 }
 features: [
   {
