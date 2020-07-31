@@ -1,8 +1,8 @@
 ---
-title: "User Manuals"
-highlight: "Best Selling Service on our site"
-description: "Types of Manuscripts edited - Research Paper, Thesis, Proposal, Technical Editing"
-message: "Not happy with edit? <span>100% refund without any condition</span>"
+title: "Plagiarism Check"
+highlight: "Powered by Technology + Human"
+description: "You read it right. Our plagiarism check is powered by industry leading software followed by a review by our editors to identify the nature of simlarity and recommendation on further work "
+message: "Significant reduction in similarity<span>Talk to us for more details</span>"
 priceCard: {
   pricing: {
     title: "Starting from",
@@ -14,23 +14,23 @@ priceCard: {
 features: [
   {
     id: 1,
-    title: "Edited by qualified subject matter experts"
+    title: "Industry leading software for checking"
   },
   {
     id: 2,
-    title: "Phd Editors with certified English language editing skills"
+    title: "Human review by editors"
   },
   {
     id: 3,
-    title: "Native-English editors"
+    title: "Detailed report on similarity"
   },
   {
     id: 4,
-    title: "1500 plus journal style and formats edited"
+    title: "Recommendations to reduce similarity"
   },
   {
     id: 5,
-    title: "Flawless editing"
+    title: "Same day delivery"
   }
 ]
 editingLevels: {
