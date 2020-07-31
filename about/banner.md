@@ -1,5 +1,5 @@
 ---
-title: "Affordable Partners in Academic Success"
+title: "Manuscript Editing Services, Truly Affordable"
 ---
 
 
