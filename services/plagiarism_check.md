@@ -171,6 +171,6 @@ editingHighlights: {
     }
   ]
 }
-key: "user_manuals"
+key: "plagiarism_check"
 parentType: "technical"
 ---
