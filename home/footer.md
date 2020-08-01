@@ -126,8 +126,8 @@ sitemapList: [
     sitemap: [
       {
         id: 1,
-        title: "User Manuals",
-        link: "/services/user_manuals"
+        title: "Plagiarism Check",
+        link: "/services/plagiarism_check"
       },
       {
         id: 2,
