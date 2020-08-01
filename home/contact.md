@@ -1,6 +1,6 @@
 ---
 title: "Contact Us"
-call: "8985823651"
+call: "+91-9840903949"
 email: "info@contentconcepts.in"
 categories: [
   {
@@ -10,8 +10,8 @@ categories: [
   },
   {
     id: 2,
-    title: "Content Development",
-    value: "contentDevelopment"
+    title: "Publication Support",
+    value: "pulicationsupport"
   }
 ]
 ---
