@@ -2,32 +2,32 @@
 title: "Category"
 categories: [
   {
-    label: 'Academic Editing',
-    value: 'Academic Editing'
+    label: 'Copy Editing',
+    value: 'Copy Editing'
   },
   {
-    label: 'Business Editing',
-    value: 'Business Editing'
+    label: 'Substantive Editing',
+    value: 'Substantive Editing'
   },
   {
-    label: 'Content Development',
-    value: 'Content Development'
+    label: 'Scientific Editing',
+    value: 'Scientific Editing'
   },
   {
-    label: 'Content Consulting',
-    value: 'Content Consulting'
+    label: 'Publication Support',
+    value: 'Publication Support'
   },
   {
-    label: 'Resume Writing',
-    value: 'Resume Writing'
+    label: 'Plagiarism Check',
+    value: 'Plagiarism Check'
   },
   {
-    label: 'Social Media Content',
-    value: 'Social Media Content'
+    label: 'Manuscript Rewriting',
+    value: 'Manuscript Rewriting'
   },
   {
-    label: 'Marketing Communications',
-    value: 'Marketing Communications'
+    label: 'Business Document Editing',
+    value: 'Business Document Editing'
   },
   {
     label: 'Others',
