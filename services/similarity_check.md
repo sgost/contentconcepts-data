@@ -1,5 +1,5 @@
 ---
-title: "Manuscript Similarity Check"
+title: "Similarity Check"
 highlight: "Reduce to less than 5%"
 description: "Our similarity check is done by software and then reviewed by editors for your recommendation"
 message: "Not happy with edit? <span>100% refund without any condition</span>"
@@ -58,7 +58,7 @@ editingSample: {
   ]
 }
 editingHighlights: {
-  title: "Highlights of our Similarity Check services",
+  title: "Why choose our Similarity Check ervices?",
   highlights: [
     {
       id: 1,
