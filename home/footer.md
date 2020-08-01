@@ -131,8 +131,8 @@ sitemapList: [
       },
       {
         id: 2,
-        title: "Instructional Gids",
-        link: "/services/instructional_guides"
+        title: "Manuscript Similarity Check",
+        link: "/services/similarity_check"
       },
       {
         id: 3,
