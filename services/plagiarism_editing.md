@@ -1,6 +1,6 @@
 ---
 title: "Plagiarism Editing"
-highlight: "Reduce similarity and risk"
+highlight: "Reduce similarity & risk"
 description: "Worried your manuscirpt might be rejected for plagiarism? Our plagiarism check and editing services provide you detailed report on your paper and then recommendations to rewrite your paper to reduce similarity. Our editors help you fix the problem areas, English language and flow of the paper"
 message: "Not happy with edit? <span>100% refund without any condition</span>"
 priceCard: {
@@ -8,8 +8,8 @@ priceCard: {
     title: "Starting from",
     price: "<span>$0.08</span>/word"
   },
-  tagContent: "Edited by qualified subject matter experts",
-  content: "Don't need major revisions before journal submission?"
+  tagContent: "Tech + Human powered solution",
+  content: "Significantly reduced similarity results with report"
 }
 features: [
   {
