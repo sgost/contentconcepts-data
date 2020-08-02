@@ -1,7 +1,7 @@
 ---
 title: "Manuscript Editing"
 highlight: "Our #1 selling service"
-description: "Types of Manuscripts edited - Research Paper, Thesis, Proposal, Technical Editing"
+description: "Manuscript editing need not be so expensive. We provide top-qualty work at really affordable price. Starting from simple copy editing to advanced editing, you can choose the level of editing that suits your budget or what your manuscript requires."
 message: "Not happy with edit? <span>100% refund without any condition</span>"
 priceCard: {
   pricing: {
@@ -14,7 +14,7 @@ priceCard: {
 features: [
   {
     id: 1,
-    title: "Edited by qualified subject matter experts"
+    title: "Top-notch editing work at truly affordable price"
   },
   {
     id: 2,
