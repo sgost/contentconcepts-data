@@ -1,5 +1,5 @@
 ---
-title: "Journal Submission Service"
+title: "Journal Submission"
 highlight: "Free up time, focus on research"
 description: "Are you finding it difficult to deal with the journal submission process? You are not alone? Many authors want to just focus on their research work without spending time on th tedious process of submitting mansucript to the journal. Let or experts take care of the journal submission while you can focus on your research work "
 message: "Not happy with edit? <span>100% refund without any condition</span>"
