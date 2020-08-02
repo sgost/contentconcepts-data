@@ -136,8 +136,8 @@ sitemapList: [
       },
       {
         id: 3,
-        title: "Website Contents",
-        link: "/services/technical_website_contents"
+        title: "Plagiarism Editing",
+        link: "/services/plagiarism_editing"
       },
       {
         id: 4,
@@ -152,7 +152,7 @@ sitemapList: [
     sitemap: [
       {
         id: 1,
-        title: "Propsals",
+        title: "Proposal",
         link: "/services/propsals"
       },
       {
