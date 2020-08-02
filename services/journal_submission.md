@@ -1,20 +1,20 @@
 ---
 title: "Journal Submission"
 highlight: "Free up time, focus on research"
-description: "Are you finding it difficult to deal with the journal submission process? You are not alone? Many authors want to just focus on their research work without spending time on th tedious process of submitting mansucript to the journal. Let or experts take care of the journal submission while you can focus on your research work "
+description: "Are you finding it difficult to deal with the journal submission process? You are not alone. Many authors want to just focus on their research work without spending time on th tedious process of submitting mansucript to the journal. Let or experts take care of the journal submission while you can focus on your research work "
 message: "Not happy with edit? <span>100% refund without any condition</span>"
 priceCard: {
   pricing: {
     title: "Starting from",
     price: "<span>$100</span>"
   },
-  tagContent: "Edited by qualified subject matter experts",
-  content: "Don't need major revisions before journal submission?"
+  tagContent: "Get it done in 2 days ",
+  content: "Write, edit and publish hassle free"
 }
 features: [
   {
     id: 1,
-    title: "Complete process take care by our experts"
+    title: "Complete process taken care by our experts"
   },
   {
     id: 2,
@@ -26,7 +26,7 @@ features: [
   },
   {
     id: 4,
-    title: "1500 plus journal style and formats available"
+    title: "Handle communications from the journal"
   },
   {
     id: 5,
