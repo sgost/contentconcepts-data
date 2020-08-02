@@ -85,8 +85,8 @@ sitemapList: [
       },
       {
         id: 2,
-        title: "Marketing Collateral",
-        link: "/services/marketing_collateral"
+        title: "Journal Submission",
+        link: "/services/journal_submission"
       },
       {
         id: 3,
