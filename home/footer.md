@@ -95,8 +95,8 @@ sitemapList: [
       },
       {
         id: 4,
-        title: "UI Content / Microcopy",
-        link: "/services/ui_microcopy"
+        title: "Manuscript Re-submission",
+        link: "/services/manuscript_resubmission"
       },
       {
         id: 5,
