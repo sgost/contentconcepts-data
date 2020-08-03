@@ -110,13 +110,13 @@ sitemapList: [
       },
       {
         id: 7,
-        title: "Adwords",
-        link: "/services/adwords"
+        title: "Manuscript Rewriting",
+        link: "/services/manuscript_rewriting"
       },
       {
         id: 8,
-        title: "Facebook Ads",
-        link: "/services/facebook_ads"
+        title: "Manuscript Formatting",
+        link: "/services/manuscript_formatting"
       }
     ]
   },
