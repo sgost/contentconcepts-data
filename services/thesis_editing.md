@@ -8,7 +8,7 @@ priceCard: {
     title: "Starting from",
     price: "<span>$0.03</span>/word"
   },
-  tagContent: "Edited by qualified subject matter experts",
+  tagContent: "Quality & Affordable",
   content: "Don't need major revisions before journal submission?"
 }
 features: [
@@ -34,7 +34,7 @@ features: [
   }
 ]
 editingLevels: {
-  title: "Manuscript Editing Levels",
+  title: "Thesis Editing Levels",
   subHeading: "Choose the right editing level",
   levelTypes: [
     {
@@ -99,7 +99,7 @@ editingLevels: {
       ]
 }
 editingSample: {
-  title: "Thesiss Editing Sample",
+  title: "Thesis Editing Sample",
   samples: [
     {
       id: 1,
