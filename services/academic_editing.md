@@ -1,15 +1,15 @@
 ---
-title: "Technical Reports"
-highlight: "Best Selling Service on our site"
-description: "Types of Manuscripts edited - Research Paper, Thesis, Proposal, Technical Editing"
+title: "Academic Editing Services"
+highlight: "Truly Affordable"
+description: "If you are looking for affordable and yet top-quality academic editing services, you have reached the right place. Our mission is to prvoide manuscript editing and proofreading services at affordable price. When you select us, you will get personalised support, and prompt responses at a quicker pace than others"
 message: "Not happy with edit? <span>100% refund without any condition</span>"
 priceCard: {
   pricing: {
-    title: "Starting from",
-    price: "<span>$0.03</span>/word"
+    title: "Starts from",
+    price: "<span>INR 1.50</span>/word"
   },
-  tagContent: "Edited by qualified subject matter experts",
-  content: "Don't need major revisions before journal submission?"
+  tagContent: "No express fee, quick delivery",
+  content: "Publish with confidence"
 }
 features: [
   {
@@ -171,6 +171,6 @@ editingHighlights: {
     }
   ]
 }
-key: "technical_reports"
+key: "academic_editing"
 parentType: "technical"
 ---
