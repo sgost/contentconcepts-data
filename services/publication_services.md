@@ -37,6 +37,9 @@ features: [
     title: "Illustration & Artwork Enhancements"
   }
 ]
+title: "Pricing"
+heading: "Top quality, truly affordable services."
+subHeading: "Why pay in dollar when you can pay in rupee? Our editing fee is one of the best and affordable for authors and students. No express fee, fast turnaround, personal attention are some of the benefits why our customers stay with us."
 pricing: [
   {
     id: 1,
