@@ -37,115 +37,38 @@ features: [
     title: "Illustration & Artwork Enhancements"
   }
 ]
-editingLevels: {
-  title: "Different levels of editing",
-  subHeading: "Because each author is unique",
-  levelTypes: [
-    {
-      id: 1,
-      title: "Copy Editing",
-      themeColor: "#FFA351"
+pricing: [
+  {
+    id: 1,
+    title: 'Copy Editing',
+    editingServices: ['Grammar, spelling', 'Check for appropriate usage of words', 'Editing at word and sentence level'],
+    price: {
+      inr: '₹ <span>1.50</span>/word',
+      usd: '$ <span>0.03</span>/word',
     },
-    {
-      id: 2,
-      title: "Substantive Editing",
-      themeColor: "#C78BFF"
+    themeColor: 'linear-gradient(116.8deg, #FF912F -9.97%, #FFAD64 105%)'
+  },
+  {
+    id: 2,
+    title: 'Substantive Editing',
+    editingServices: ['All services offered in English editing plus', 'Substantive editing to ensure proper sentence structure and flow', 'Correct terminology', 'Adherence to style guide'],
+    price: {
+      inr: '₹ <span>1.50</span>/word',
+      usd: '$ <span>0.03</span>/word',
     },
-    {
-      id: 3,
-      title: "Developmental Editing",
-      themeColor: "#03CA8B"
-    }
-  ],
-  levels: [
-    {
-      id: 1,
-      title: "Checking for grammatical errors Correcting spelling mistakes",
-      copy: "yes",
-      substantive: "yes",
-      developmental: "yes"
+    themeColor: 'linear-gradient(119.96deg, #B361FF -2.59%, #C98EFF 104.08%)'
+  },
+  {
+    id: 3,
+    title: 'Scientific Editing',
+    editingServices: ['English and scientific editing', 'Analysis of your paper by subject matter expert', 'Detailed report on the structure and technical correctness of your paper'],
+    price: {
+      inr: '₹ <span>1.50</span>/word',
+      usd: '$ <span>0.03</span>/word',
     },
-    {
-      id: 2,
-      title: "Ensuring the manuscripts adheres to style guide",
-      copy: "yes",
-      substantive: "yes",
-      developmental: "yes"
-    },
-    {
-      id: 3,
-      title: "Ensuring the final copy is clean without any Typographical or other errors",
-      copy: "yes",
-      substantive: "yes",
-      developmental: "yes"
-    },
-    {
-      id: 4,
-      title: "A thorough line-edit to ensure correct grammar, tone, clarity and consistency",
-      copy: "no",
-      substantive: "yes",
-      developmental: "yes"
-    },
-    {
-      id: 5,
-      title: "Editing at word level and sentence level",
-      copy: "no",
-      substantive: "yes",
-      developmental: "yes"
-    },
-    {
-      id: 6,
-      title: "Checking for appropirate usage for words and terms",
-      copy: "no",
-      substantive: "yes",
-      developmental: "yes"
-    },
-    {
-      id: 7,
-      title: "Analyzing your manuscript as whole",
-      copy: "no",
-      substantive: "no",
-      developmental: "yes"
-    },
-    {
-      id: 8,
-      title: "Verifing effective structure and outline",
-      copy: "no",
-      substantive: "no",
-      developmental: "yes"
-    },
-    {
-      id: 9,
-      title: "Rewriting sentences to make content clear, concise and effective",
-      copy: "no",
-      substantive: "no",
-      developmental: "yes"
-    }
-  ]
-}
-editingSample: {
-  title: "Editing Sample",
-  samples: [
-    {
-      id: 1,
-      title: "Copy Editing",
-      description: "Line by line editing for language, readibility nad technical learning improvement",
-      image: "../assets/substantive_editing.png"
-    },
-    {
-      id: 2,
-      title: "Substantive Editing",
-      description: "Line by line editing for language, readibility nad technical learning improvement",
-      image: "../assets/substantive_editing.png"
-    },
-    {
-      id: 3,
-      title: "Developmental Editing",
-      description: "Line by line editing for language, readibility nad technical learning improvement",
-      image: "../assets/substantive_editing.png"
-    }
-  ]
-}
+    themeColor: 'linear-gradient(116.47deg, #03CA8B -5.73%, #02C688 -5.72%, #05E29C 103.5%)'
+  }
+]
 editingHighlights: {
   title: "Highlights of our manuscript editing services",
   highlights: [
