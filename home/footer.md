@@ -105,8 +105,8 @@ sitemapList: [
       },
       {
         id: 6,
-        title: "Social Media Content",
-        link: "/services/social_media_content"
+        title: "Illustration & Artwork",
+        link: "/services/illustration_artwork"
       },
       {
         id: 7,
