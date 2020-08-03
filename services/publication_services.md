@@ -1,7 +1,7 @@
 ---
-title: "Blog Content"
-highlight: "Best Selling Service on our site"
-description: "Types of Manuscripts edited - Research Paper, Thesis, Proposal, Technical Editing"
+title: "Publication Services"
+highlight: "For the time-constrained"
+description: "We offer end-to-end publication support and services right from manuscript editing and rewriting to selecting and subbmitting in relevant journal. If you are a busy researcher or want to just focus on your research, we are here to help you with the following pack of publication support services"
 message: "Not happy with edit? <span>100% refund without any condition</span>"
 priceCard: {
   pricing: {
@@ -14,23 +14,27 @@ priceCard: {
 features: [
   {
     id: 1,
-    title: "Edited by qualified subject matter experts"
+    title: "Journal Selection"
   },
   {
     id: 2,
-    title: "Phd Editors with certified English language editing skills"
+    title: "Journal Submission"
   },
   {
     id: 3,
-    title: "Native-English editors"
+    title: "Manuscript Pre-submission Review"
   },
   {
     id: 4,
-    title: "1500 plus journal style and formats edited"
+    title: "Manuscript Re-subsumission Review"
   },
   {
     id: 5,
-    title: "Flawless editing"
+    title: "Plagiarism Check"
+  },
+  {
+    id: 6,
+    title: "Illustration & Artwork Enhancements"
   }
 ]
 editingLevels: {
