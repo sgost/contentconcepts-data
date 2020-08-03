@@ -44,8 +44,8 @@ sitemapList: [
       },
       {
         id: 4,
-        title: "Technical Reports",
-        link: "/services/academic_technical_reports"
+        title: "Academic Editing",
+        link: "/services/academic_editing"
       },
       {
         id: 5,
