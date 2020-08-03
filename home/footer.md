@@ -100,8 +100,8 @@ sitemapList: [
       },
       {
         id: 5,
-        title: "Blog Content",
-        link: "/services/blog_content"
+        title: "Publication Services",
+        link: "/services/publication_services"
       },
       {
         id: 6,
