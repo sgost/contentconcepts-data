@@ -26,6 +26,7 @@ sitemapList: [
   {
     id: 2,
     title: "Academic Editing",
+    link: "/services/academic_editing"
     sitemap: [
       {
         id: 1,
