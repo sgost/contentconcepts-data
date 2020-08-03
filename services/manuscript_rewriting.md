@@ -1,36 +1,36 @@
 ---
-title: "Adwords"
-highlight: "Best Selling Service on our site"
-description: "Types of Manuscripts edited - Research Paper, Thesis, Proposal, Technical Editing"
-message: "Not happy with edit? <span>100% refund without any condition</span>"
+title: "Manuscript Rewriting"
+highlight: "Get it Write"
+description: "Manuscript rewriting is done when the writing or English language of the paper is poor and most often rejected by journals. Or you may want to convert your paper to thesis or vice versa. Manuscript rewriting involves extensively rewriting the entire sentence or paragraphs or sections of the manuscript. This is done by our senior manuscript editors who have expereince of rewriting more than 1000 manuscripts across different subjects - Science, Technnology, Medicine and Business"
+message: "Convert your ideas to writing <span>Research papers, thesis, dissertation</span>"
 priceCard: {
   pricing: {
     title: "Starting from",
-    price: "<span>$0.03</span>/word"
+    price: "<span>$0.08</span>/word"
   },
-  tagContent: "Edited by qualified subject matter experts",
-  content: "Don't need major revisions before journal submission?"
+  tagContent: "Affordable & Fast",
+  content: "Publish with confidence"
 }
 features: [
   {
     id: 1,
-    title: "Edited by qualified subject matter experts"
+    title: "Review of overall structure of manuscript"
   },
   {
     id: 2,
-    title: "Phd Editors with certified English language editing skills"
+    title: "Rewriting at word, sentence, paragraph and section levels"
   },
   {
     id: 3,
-    title: "Native-English editors"
+    title: "Clear, concise and complete writing"
   },
   {
     id: 4,
-    title: "1500 plus journal style and formats edited"
+    title: "PhD editors and native English editors available"
   },
   {
     id: 5,
-    title: "Flawless editing"
+    title: "Free followup support"
   }
 ]
 editingLevels: {
@@ -143,18 +143,18 @@ editingSample: {
   ]
 }
 editingHighlights: {
-  title: "Highlights of our manuscript editing services",
+  title: "Benefits of our Manuscript  Rewriting service",
   highlights: [
     {
       id: 1,
       title: "Affordable Prices",
-      description: "Our manuscript editing fee is one of the best in the industry for the level of quality work we offer from our trusted PhD and native English editors.",
+      description: "Our Manuscript  Rewriting service fee is one of the best in the industry for the level of quality work we offer from our trusted PhD and native English editors.",
       image: "../assets/affordable.svg"
     },
     {
       id: 2,
       title: "Superior Support",
-      description: "You can talk to your manuscript editor until you are satisfied with our editing service, get your queries answered via email or chat and send your manuscript after review from journal editor for further check.",
+      description: "You can talk to your manuscript editor until you are satisfied with our rewriting service, get your queries answered via email or chat and send your manuscript after review from journal editor for further check.",
       image: "../assets/support.svg"
     },
     {
@@ -171,6 +171,6 @@ editingHighlights: {
     }
   ]
 }
-key: "adwords"
+key: "manuscript_rewriting"
 parentType: "content_development"
 ---
