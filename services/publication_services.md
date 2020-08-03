@@ -98,6 +98,6 @@ editingHighlights: {
     }
   ]
 }
-key: "blog_content"
+key: "publication_services"
 parentType: "content_development"
 ---
