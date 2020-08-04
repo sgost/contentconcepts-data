@@ -2,7 +2,7 @@
 title: "Manuscript Formatting"
 highlight: "Fast & Affordable"
 description: "For many researchers and manuscript authors, formatting is a nightmare and eats in to a lot of their research time. We are here to take care of the manuscript formatting guidelines. Since we do this everyday, our experts will quickly format and make it ready for submission"
-message: "APA, Chicago, MLA, etc. <span>Citation, References, Layout, etc</span>"
+message: "For research papers, thesis<span>All major formatting styles - APA, Chicago, MLA</span>"
 priceCard: {
   pricing: {
     title: "Starts from",
@@ -14,11 +14,11 @@ priceCard: {
 features: [
   {
     id: 1,
-    title: "Available for all major style guides"
+    title: "Quick & affordable"
   },
   {
     id: 2,
-    title: "Skilled editors for quick delivery"
+    title: "Skilled editors with tons of experience"
   },
   {
     id: 3,
@@ -33,94 +33,9 @@ features: [
     title: "Great time-saving work"
   }
 ]
-editingLevels: {
-  title: "Different levels of editing",
-  subHeading: "Because each author is unique",
-  levelTypes: [
-    {
-      id: 1,
-      title: "Copy Editing",
-      themeColor: "#FFA351"
-    },
-    {
-      id: 2,
-      title: "Substantive Editing",
-      themeColor: "#C78BFF"
-    },
-    {
-      id: 3,
-      title: "Developmental Editing",
-      themeColor: "#03CA8B"
-    }
-  ],
-  levels: [
-    {
-      id: 1,
-      title: "Checking for grammatical errors Correcting spelling mistakes",
-      copy: "yes",
-      substantive: "yes",
-      developmental: "yes"
-    },
-    {
-      id: 2,
-      title: "Ensuring the manuscripts adheres to style guide",
-      copy: "yes",
-      substantive: "yes",
-      developmental: "yes"
-    },
-    {
-      id: 3,
-      title: "Ensuring the final copy is clean without any Typographical or other errors",
-      copy: "yes",
-      substantive: "yes",
-      developmental: "yes"
-    },
-    {
-      id: 4,
-      title: "A thorough line-edit to ensure correct grammar, tone, clarity and consistency",
-      copy: "no",
-      substantive: "yes",
-      developmental: "yes"
-    },
-    {
-      id: 5,
-      title: "Editing at word level and sentence level",
-      copy: "no",
-      substantive: "yes",
-      developmental: "yes"
-    },
-    {
-      id: 6,
-      title: "Checking for appropirate usage for words and terms",
-      copy: "no",
-      substantive: "yes",
-      developmental: "yes"
-    },
-    {
-      id: 7,
-      title: "Analyzing your manuscript as whole",
-      copy: "no",
-      substantive: "no",
-      developmental: "yes"
-    },
-    {
-      id: 8,
-      title: "Verifing effective structure and outline",
-      copy: "no",
-      substantive: "no",
-      developmental: "yes"
-    },
-    {
-      id: 9,
-      title: "Rewriting sentences to make content clear, concise and effective",
-      copy: "no",
-      substantive: "no",
-      developmental: "yes"
-    }
-  ]
-}
+
 editingSample: {
-  title: "Editing Sample",
+  title: "Formatting Sample",
   samples: [
     {
       id: 1,
@@ -143,18 +58,18 @@ editingSample: {
   ]
 }
 editingHighlights: {
-  title: "Highlights of our manuscript editing services",
+  title: "Benefits of our Manuscript Formatting service",
   highlights: [
     {
       id: 1,
       title: "Affordable Prices",
-      description: "Our manuscript editing fee is one of the best in the industry for the level of quality work we offer from our trusted PhD and native English editors.",
+      description: "Our Manuscript Formatting fee is one of the best in the industry for the level of quality work we offer",
       image: "../assets/affordable.svg"
     },
     {
       id: 2,
       title: "Superior Support",
-      description: "You can talk to your manuscript editor until you are satisfied with our editing service, get your queries answered via email or chat and send your manuscript after review from journal editor for further check.",
+      description: "You can talk to your formatting editor until you are satisfied with our editing service, get your queries answered via email or chat and send your manuscript after review from journal editor for further check.",
       image: "../assets/support.svg"
     },
     {
