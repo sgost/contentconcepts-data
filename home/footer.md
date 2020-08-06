@@ -157,7 +157,7 @@ sitemapList: [
       },
       {
         id: 2,
-        title: "Business Editing",
+        title: "Business Document Editing",
         link: "/services/business_editing"
       },
       {
