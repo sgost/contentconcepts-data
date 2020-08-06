@@ -1,11 +1,13 @@
 ---
-title: "Business Plans"
-highlight: "Best Selling Service on our site"
-description: "Types of Ad copies edited - Research Paper, Thesis, Proposal"
+title: "Business Document Editing"
+highlight: "Take our word"
+description: "Does your content work? Whether you create website content or white paper or blogpost or product presentation, each of these has a purpose - convey the right message at the right place. But, most often content is not tailored to the medium or audience. 
+
+Our editors enhance your business writing and make it work for you. Business Document Editing is not just grammar and spell check. Our Business Document Editor,"
 message: "Not happy with edit? <span>100% refund without any condition</span>"
 priceCard: {
   pricing: {
-    title: "Starting from",
+    title: "Starts from",
     price: "<span>$0.03</span>/word"
   },
   tagContent: "Edited by qualified subject matter experts",
@@ -14,23 +16,23 @@ priceCard: {
 features: [
   {
     id: 1,
-    title: "Edited by qualified subject matter experts"
+    title: "1. Analyses overall structure and purpose"
   },
   {
     id: 2,
-    title: "Phd Editors with certified English language editing skills"
+    title: "2. Edits for clarity, conciseness and completeness"
   },
   {
     id: 3,
-    title: "Native-English editors"
+    title: "3. Recommends additional information or section"
   },
   {
     id: 4,
-    title: "1500 plus journal style and formats edited"
+    title: "4. Suggests relevant title or creates title and headings"
   },
   {
     id: 5,
-    title: "Flawless editing"
+    title: "Makes your content crisp and impactful"
   }
 ]
 editingLevels: {
@@ -120,7 +122,7 @@ editingLevels: {
   ]
 }
 editingSample: {
-  title: "Editing Sample",
+  title: "Business Editing Sample",
   samples: [
     {
       id: 1,
@@ -143,18 +145,18 @@ editingSample: {
   ]
 }
 editingHighlights: {
-  title: "Highlights of our manuscript editing services",
+  title: "Benefits of our Business Document Editing",
   highlights: [
     {
       id: 1,
       title: "Affordable Prices",
-      description: "Our manuscript editing fee is one of the best in the industry for the level of quality work we offer from our trusted PhD and native English editors.",
+      description: "Our business document editing fee is one of the best in the industry for the level of quality work we offer.",
       image: "../assets/affordable.svg"
     },
     {
       id: 2,
       title: "Superior Support",
-      description: "You can talk to your manuscript editor until you are satisfied with our editing service, get your queries answered via email or chat and send your manuscript after review from journal editor for further check.",
+      description: "You can talk to your Business Document Editor until you are satisfied with our editing service, get your queries answered via email or chat and send your manuscript after review from the author for further check.",
       image: "../assets/support.svg"
     },
     {
@@ -171,6 +173,6 @@ editingHighlights: {
     }
   ]
 }
-key: "business_plans"
+key: "business_editing"
 parentType: "business"
 ---
