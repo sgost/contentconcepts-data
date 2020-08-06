@@ -157,8 +157,8 @@ sitemapList: [
       },
       {
         id: 2,
-        title: "Business Plans",
-        link: "/services/business_plans"
+        title: "Business Editing",
+        link: "/services/business_editing"
       },
       {
         id: 3,
