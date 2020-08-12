@@ -1,6 +1,6 @@
 ---
-title: "Propsals"
-highlight: "Best Selling Service on our site"
+title: "Business Proposal Editing"
+highlight: "Polish it"
 description: "Types of Manuscripts edited - Research Paper, Thesis, Proposal, Technical Editing"
 message: "Not happy with edit? <span>100% refund without any condition</span>"
 priceCard: {
