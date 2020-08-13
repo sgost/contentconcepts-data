@@ -152,7 +152,7 @@ sitemapList: [
     sitemap: [
       {
         id: 1,
-        title: "Business Proposal Editing",
+        title: "Business Proposal",
         link: "/services/business_proposal"
       },
       {
