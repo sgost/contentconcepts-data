@@ -1,7 +1,13 @@
 ---
 title: "Business Proposal Editing"
 highlight: "Polish it"
-description: "Types of Manuscripts edited - Research Paper, Thesis, Proposal, Technical Editing"
+description: "Congratulations! Since you are here, you should be serious and sincere about your business proposal. And that’s a good start. 
+
+Most often business proposals are a collaborative work and hence the language is inconsistent, complex and vary in tone. 
+
+Our Business Proposal Editors are here to help you create wining proposals that are easy to read and written to the point. 
+
+Editing a business proposal is more than just checking for English language and proposal structure. Here is what our Business Proposal Editing service will do:"
 message: "Not happy with edit? <span>100% refund without any condition</span>"
 priceCard: {
   pricing: {
@@ -14,23 +20,23 @@ priceCard: {
 features: [
   {
     id: 1,
-    title: "Edited by qualified subject matter experts"
+    title: "Use industry-specific vocabulary to sound professional"
   },
   {
     id: 2,
-    title: "Phd Editors with certified English language editing skills"
+    title: "Bring consistent voice and tone to the content"
   },
   {
     id: 3,
-    title: "Native-English editors"
+    title: "Make sentences and paragraphs clear in terms of writing and flow"
   },
   {
     id: 4,
-    title: "1500 plus journal style and formats edited"
+    title: "Remove redundant	content"
   },
   {
     id: 5,
-    title: "Flawless editing"
+    title: "Make the proposal concise and to the point"
   }
 ]
 editingLevels: {
@@ -120,7 +126,7 @@ editingLevels: {
   ]
 }
 editingSample: {
-  title: "Editing Sample",
+  title: "Business Proposal Editing Sample",
   samples: [
     {
       id: 1,
@@ -143,18 +149,18 @@ editingSample: {
   ]
 }
 editingHighlights: {
-  title: "Highlights of our manuscript editing services",
+  title: "Highlights of our Business Proposal Editing service",
   highlights: [
     {
       id: 1,
       title: "Affordable Prices",
-      description: "Our manuscript editing fee is one of the best in the industry for the level of quality work we offer from our trusted PhD and native English editors.",
+      description: "Our Business Proposal Editing fee is one of the best in the industry for the level of quality work we offer from our trusted Business Proposal Editors.",
       image: "../assets/affordable.svg"
     },
     {
       id: 2,
       title: "Superior Support",
-      description: "You can talk to your manuscript editor until you are satisfied with our editing service, get your queries answered via email or chat and send your manuscript after review from journal editor for further check.",
+      description: "You can talk to your Business Proposal Editor until you are satisfied with our editing service, get your queries answered via email or chat and send your manuscript after review from journal editor for further check.",
       image: "../assets/support.svg"
     },
     {
@@ -171,6 +177,6 @@ editingHighlights: {
     }
   ]
 }
-key: "propsals"
+key: "business_proposal"
 parentType: "business"
 ---
