@@ -152,8 +152,8 @@ sitemapList: [
     sitemap: [
       {
         id: 1,
-        title: "Proposal",
-        link: "/services/propsals"
+        title: "Business Proposal Editing",
+        link: "/services/business_proposal"
       },
       {
         id: 2,
