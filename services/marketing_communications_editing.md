@@ -1,13 +1,13 @@
 ---
 title: "Marketing Communications"
 highlight: "Are you content?"
-description: "<p>Have a fresh pair of eyes look at your marketing communications and correct the little flaws or the major thing that you have overlooked. Most often, as an author you would be so close to the content that you may not have the readers’ perspective.</p>
+description: "Have a fresh pair of eyes look at your marketing communications and correct the little flaws or the major thing that you have overlooked. Most often, as an author you would be so close to the content that you may not have the readers’ perspective.
 
-<p>Marketing Communications is all about saying the right thing at the right place using very little content. While writing the copy it is difficult to write in short, but a skilled business communications editor can make the content crisper and complete.</p>
+Marketing Communications is all about saying the right thing at the right place using very little content. While writing the copy it is difficult to write in short, but a skilled business communications editor can make the content crisper and complete.
 
-<p>We have got a talented team of editors who are adept in marketing communications and make your written communications do the work.</p>
+We have got a talented team of editors who are adept in marketing communications and make your written communications do the work.
 
-<p>What will you receive?</p>."
+What will you receive?"
 message: "Not happy with edit? <span>100% refund without any condition</span>"
 priceCard: {
   pricing: {
@@ -20,23 +20,23 @@ priceCard: {
 features: [
   {
     id: 1,
-    title: "Edited by qualified subject matter experts"
+    title: "Edited copy with clear and concise content"
   },
   {
     id: 2,
-    title: "Phd Editors with certified English language editing skills"
+    title: "Changes and recommendations to improve the flow, structure, tone and clarity"
   },
   {
     id: 3,
-    title: "Native-English editors"
+    title: "Two versions of documents - one with track changes and one clean copy"
   },
   {
     id: 4,
-    title: "1500 plus journal style and formats edited"
+    title: "A short editing report on what work is done and what should be addressed "
   },
   {
     id: 5,
-    title: "Flawless editing"
+    title: "Free followup revisions"
   }
 ]
 editingLevels: {
@@ -126,7 +126,7 @@ editingLevels: {
   ]
 }
 editingSample: {
-  title: "Editing Sample",
+  title: "Marketing Communications Editing Sample",
   samples: [
     {
       id: 1,
@@ -137,30 +137,30 @@ editingSample: {
     {
       id: 2,
       title: "Substantive Editing",
-      description: "Line by line editing for language, readibility nad technical learning improvement",
+      description: "Line by line editing for language, readibility and technical learning improvement",
       image: "../assets/substantive_editing.png"
     },
     {
       id: 3,
       title: "Developmental Editing",
-      description: "Line by line editing for language, readibility nad technical learning improvement",
+      description: "Line by line editing for language, readibility and technical learning improvement",
       image: "../assets/substantive_editing.png"
     }
   ]
 }
 editingHighlights: {
-  title: "Highlights of our manuscript editing services",
+  title: "Highlights of our Marketing Communications Editing service",
   highlights: [
     {
       id: 1,
       title: "Affordable Prices",
-      description: "Our manuscript editing fee is one of the best in the industry for the level of quality work we offer from our trusted PhD and native English editors.",
+      description: "Our Marketing Communications Editing fee is one of the best in the industry for the level of quality work we offer from our trusted Marketing Communications editors.",
       image: "../assets/affordable.svg"
     },
     {
       id: 2,
       title: "Superior Support",
-      description: "You can talk to your manuscript editor until you are satisfied with our editing service, get your queries answered via email or chat and send your manuscript after review from journal editor for further check.",
+      description: "You can talk to your Marketing Communications editor until you are satisfied with our editing service, get your queries answered via email or chat and send your manuscript after review for further check.",
       image: "../assets/support.svg"
     },
     {
@@ -177,6 +177,6 @@ editingHighlights: {
     }
   ]
 }
-key: "business_marketing_collateral"
+key: "marketing_communications_editing"
 parentType: "business"
 ---
