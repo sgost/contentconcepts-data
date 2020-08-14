@@ -162,8 +162,8 @@ sitemapList: [
       },
       {
         id: 3,
-        title: "Marketing Collateral",
-        link: "/services/business_marketing_collateral"
+        title: "Marketing Communications",
+        link: "/services/marketing_communications_editing"
       },
       {
         id: 4,
