@@ -8,7 +8,7 @@ Now that you are here, we assume you are not convinced with the content of your 
 Our website copy editors and content reviewers analyse the scope, target audience, geography and industry so that they understand it better to create engaging content that works for you. 
 
 Here is what our talented  Website Content Copy Editors do:"
-message: "Make content work for you<span>Clear, concise, & compelling</span>"
+message: "Make content work for you<span>Clear, concise, and compelling</span>"
 priceCard: {
   pricing: {
     title: "Starting from",
@@ -37,11 +37,11 @@ features: [
   {
     id: 5,
     title: "Bring the calls to actions clearly on the copy"
-  }
+  },
   {
     id: 6,
     title: "Recommend further actions and improvements - images, illustrations"
-  }
+  },
   {
     id: 7,
     title: "Suggest page titles, keywords and meta descriptions"
