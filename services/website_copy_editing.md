@@ -1,40 +1,54 @@
 ---
-title: "Website Content"
-highlight: "Best Selling Service on our site"
-description: "Types of Ad copies edited - Research Paper, Thesis, Proposal"
-message: "Not happy with edit? <span>100% refund without any condition</span>"
+title: "Website Copy Editing"
+highlight: "Content that clicks"
+description: "Website content is not just having correct grammar and impressive vocabulary. More than anything, it should work. 
+
+Now that you are here, we assume you are not convinced with the content of your website or blogpost. You are not alone. We have reviewed and edited more than 10000 pages of website content for startups and SMEs and we know what works and how to make it work. 
+
+Our website copy editors and content reviewers analyse the scope, target audience, geography and industry so that they understand it better to create engaging content that works for you. 
+
+Here is what our talented  Website Content Copy Editors do:"
+message: "Make content work for you<span>Clear, concise, & compelling</span>"
 priceCard: {
   pricing: {
     title: "Starting from",
-    price: "<span>$0.03</span>/word"
+    price: "<span>INR 3.00</span>/word"
   },
-  tagContent: "Edited by qualified subject matter experts",
-  content: "Don't need major revisions before journal submission?"
+  tagContent: "Afforable, Actionable Content",
+  content: "Tailored to your target audience"
 }
 features: [
   {
     id: 1,
-    title: "Edited by qualified subject matter experts"
+    title: "Understand what your target audience want from each page and edit accordingly"
   },
   {
     id: 2,
-    title: "Phd Editors with certified English language editing skills"
+    title: "Make your content simple and easier to read"
   },
   {
     id: 3,
-    title: "Native-English editors"
+    title: "Edit to capture reader’s attention in short span (we all have attention deficiency)"
   },
   {
     id: 4,
-    title: "1500 plus journal style and formats edited"
+    title: "Adapt the content for mobile, tablet and desktop"
   },
   {
     id: 5,
-    title: "Flawless editing"
+    title: "Bring the calls to actions clearly on the copy"
+  }
+  {
+    id: 6,
+    title: "Recommend further actions and improvements - images, illustrations"
+  }
+  {
+    id: 7,
+    title: "Suggest page titles, keywords and meta descriptions"
   }
 ]
 editingLevels: {
-  title: "Different levels of editing",
+  title: "Different levels of website copy editing",
   subHeading: "Because each author is unique",
   levelTypes: [
     {
@@ -120,7 +134,7 @@ editingLevels: {
   ]
 }
 editingSample: {
-  title: "Editing Sample",
+  title: "Website Copy Editing Sample",
   samples: [
     {
       id: 1,
@@ -143,18 +157,18 @@ editingSample: {
   ]
 }
 editingHighlights: {
-  title: "Highlights of our manuscript editing services",
+  title: "Highlights of our Website Copy Editing service",
   highlights: [
     {
       id: 1,
       title: "Affordable Prices",
-      description: "Our manuscript editing fee is one of the best in the industry for the level of quality work we offer from our trusted PhD and native English editors.",
+      description: "Our Website Copy Editing fee is one of the best in the industry for the level of quality work we offer from our trusted Website Copy  Editors.",
       image: "../assets/affordable.svg"
     },
     {
       id: 2,
       title: "Superior Support",
-      description: "You can talk to your manuscript editor until you are satisfied with our editing service, get your queries answered via email or chat and send your manuscript after review from journal editor for further check.",
+      description: "You can talk to your Website Copy Editor until you are satisfied with our editing service, get your queries answered via email or chat and send your copy after review for further check.",
       image: "../assets/support.svg"
     },
     {
@@ -171,6 +185,6 @@ editingHighlights: {
     }
   ]
 }
-key: "business_website_content"
+key: "website_copy_editing"
 parentType: "business"
 ---
