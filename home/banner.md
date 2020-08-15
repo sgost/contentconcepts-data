@@ -16,7 +16,7 @@ services: [
   {
     id: 3,
     title: "Publication Support",
-    link: "proposal_editing"
+    link: "publication_services"
   }
 ]
 ---
