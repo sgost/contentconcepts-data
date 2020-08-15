@@ -177,8 +177,8 @@ sitemapList: [
       },
       {
         id: 6,
-        title: "Website Content",
-        link: "/services/business_website_content"
+        title: "Website Copy Editing",
+        link: "/services/website_copy_editing"
       },
       {
         id: 7,
