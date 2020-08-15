@@ -26,9 +26,7 @@ sitemapList: [
   {
     id: 2,
     title: "Academic Editing",
-    link: "/services/academic_editing"
-    },
-    sitemap: [
+        sitemap: [
       {
         id: 1,
         title: "Manuscript Editing",
