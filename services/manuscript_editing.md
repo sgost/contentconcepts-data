@@ -99,23 +99,23 @@ editingLevels: {
       ]
 }
 editingSample: {
-  title: "Editing Sample",
+  title: "Manuscript Editing Sample",
   samples: [
     {
       id: 1,
-      title: "Copy Editing",
+      title: "Manuscript Copy Editing",
       description: "Line by line editing for language, readibility nad technical learning improvement",
       image: "../assets/substantive_editing.png"
     },
     {
       id: 2,
-      title: "Substantive Editing",
+      title: "Manuscript Substantive Editing",
       description: "Line by line editing for language, readibility nad technical learning improvement",
       image: "../assets/substantive_editing.png"
     },
     {
       id: 3,
-      title: "Developmental Editing",
+      title: "Manuscript Developmental Editing",
       description: "Line by line editing for language, readibility nad technical learning improvement",
       image: "../assets/substantive_editing.png"
     }
