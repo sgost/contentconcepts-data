@@ -105,7 +105,7 @@ editingSample: {
       id: 1,
       title: "Manuscript Copy Editing",
       description: "Line by line editing for language, readibility nad technical learning improvement",
-      image: "../assets/substantive_editing.png"
+      image: "../assets/Copy_editing_sample.png"
     },
     {
       id: 2,
