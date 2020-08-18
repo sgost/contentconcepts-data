@@ -3,27 +3,27 @@ title: "Listen from our customers"
 customers: [
   {
     id: 1,
-    name: "Justin Maller",
-    comment: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc pretium scelerisque neque amet",
-    role: "Customer Engagement Manager",
-    company: "CADD Centre",
-    image: "../assets/justin.png"
+    name: "Marco Cremaschi",
+    comment: "Great job by the manuscript editor. I am pleased to see how my manuscript has changed for good. Hope I get the same quality next time",
+    role: "Associate Professor",
+    company: "Università degli Studi Roma Tre",
+    image: "../assets/marco.png"
   },
   {
     id: 2,
-    name: "Candy Smith",
-    comment: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc pretium scelerisque neque amet",
-    role: "Customer Engagement Manager",
-    company: "CADD Centre",
-    image: "../assets/candy.png"
+    name: "Zhongua Sun",
+    comment: "The manuscript copy editing service provided by ContentConcepts is great and very professional. They have edited many manuscripts for me and my colleagues, and more than 90% of the edited manuscripts have been published in international journals",
+    role: "Professor - Medical Imaging",
+    company: "Curtin University",
+    image: "../assets/zho.png"
   },
   {
     id: 3,
-    name: "John Milton",
-    comment: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc pretium scelerisque neque amet",
-    role: "Customer Engagement Manager",
-    company: "CADD Centre",
-    image: "../assets/john.png"
+    name: "Dr Shreya Sharma",
+    comment: "Very well organized and authentic manuscript proof reading and editing services in India. Timely work with valuable input improved the writing material",
+    role: "Data Scientist",
+    company: "Indian Institue of Management",
+    image: "../assets/shreya.png"
   }
 ]
 ---
