@@ -10,5 +10,5 @@ questions:
     question: Is my information secure with you?
     answer: We can edit as per two English language styles – American English and
       British English. You can choose your preferred language style in the
-      online submission form
+      online submission form.
 ---
