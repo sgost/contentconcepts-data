@@ -1,18 +1,15 @@
 ---
 title: "Website Copy Editing"
 highlight: "Content that clicks"
-description: "Website content is not just having correct grammar and impressive vocabulary. More than anything, it should work. 
-
-Now that you are here, we assume you are not convinced with the content of your website or blogpost. You are not alone. We have reviewed and edited more than 10000 pages of website content for startups and SMEs and we know what works and how to make it work. 
-
-Our website copy editors and content reviewers analyse the scope, target audience, geography and industry so that they understand it better to create engaging content that works for you. 
-
-Here is what our talented  Website Content Copy Editors do:"
+description: "<p>Website content is not just having correct grammar and impressive vocabulary. More than anything, it should work.</p><p>Now that you are here, we assume you are not convinced with the content of your website or blogpost. You are not alone. We have reviewed and edited more than 10000 pages of website content for startups and SMEs and we know what works and how to make it work.</p><p>Our website copy editors and content reviewers analyse the scope, target audience, geography and industry so that they understand it better to create engaging content that works for you.</p><p>Here is what our talented  Website Content Copy Editors do:</p>"
 message: "Make content work for you<span>Clear, concise, and compelling</span>"
 priceCard: {
   pricing: {
     title: "Starting from",
-    price: "<span>INR 3.00</span>/word"
+    price: {
+      inr: "<span>INR 3.00</span>/word",
+      usd: ""
+    }
   },
   tagContent: "Afforable, Actionable Content",
   content: "Tailored to your target audience"
@@ -182,6 +179,54 @@ editingHighlights: {
       title: "Secure transaction",
       description: "Your documents as wells as payment is handled by our secure website which has passed the best level of security testing in the industry.",
       image: "../assets/transaction.svg"
+    }
+  ]
+}
+serviceProcess: {
+  title: "How it works?",
+  steps: [
+    {
+      id: 1,
+      order: "01",
+      title: "Submit Manuscript",
+      description: "Customer submits manuscript via our Request for quote page.",
+      themeColor: "#98ECA6"
+    },
+    {
+      id: 2,
+      order: "02",
+      title: "Recieve Quote",
+      description: "After receiving the manuscript, ContentConcepts sends price quote.",
+      themeColor: "#F5DA7D"
+    },
+    {
+      id: 3,
+      order: "03",
+      title: "Confirm Order",
+      description: "After payment is made by the customer, ContentConcepts sends confirmation of payment.",
+      themeColor: "#98E5E0"
+    },
+    {
+      id: 4,
+      order: "04",
+      title: "Edit & Return",
+      description: "CC assigns the right editor who edits and sends the edited document back to the customer.",
+      themeColor: "#FFABAB"
+    }
+  ]
+}
+faq: {
+  title: "Frequently Asked Questions",
+  questions: [
+    {
+      id: 1,
+      question: "What are the different English language styles you use while editing?",
+      answer: "We can edit as per two English language styles – American English and British English. You can choose your preferred language style in the online submission form."
+    },
+    {
+      id: 2,
+      question: "Is my information secure with you?",
+      answer: "We can edit as per two English language styles – American English and British English."
     }
   ]
 }

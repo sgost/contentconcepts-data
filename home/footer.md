@@ -26,7 +26,8 @@ sitemapList: [
   {
     id: 2,
     title: "Academic Editing",
-        sitemap: [
+    link: "/services/academic_editing",
+    sitemap: [
       {
         id: 1,
         title: "Manuscript Editing",
@@ -44,31 +45,26 @@ sitemapList: [
       },
       {
         id: 4,
-        title: "Academic Editing",
-        link: "/services/academic_editing"
-      },
-      {
-        id: 5,
         title: "Essay Editing",
         link: "/services/essay_editing"
       },
       {
-        id: 6,
+        id: 5,
         title: "Letter Editing",
         link: "/services/letter_editing"
       },
       {
-        id: 7,
+        id: 6,
         title: "ESL Editing",
         link: "/services/esl_editing"
       },
       {
-        id: 8,
+        id: 7,
         title: "Book Editing",
         link: "/services/book_editing"
       },
       {
-        id: 9,
+        id: 8,
         title: "Resume Editing",
         link: "/services/resume_editing"
       }
@@ -77,6 +73,7 @@ sitemapList: [
   {
     id: 3,
     title: "Publication Support",
+    link: "/services/publication_services",
     sitemap: [
       {
         id: 1,
@@ -100,21 +97,16 @@ sitemapList: [
       },
       {
         id: 5,
-        title: "Publication Services",
-        link: "/services/publication_services"
-      },
-      {
-        id: 6,
         title: "Illustration & Artwork",
         link: "/services/illustration_artwork"
       },
       {
-        id: 7,
+        id: 6,
         title: "Manuscript Rewriting",
         link: "/services/manuscript_rewriting"
       },
       {
-        id: 8,
+        id: 7,
         title: "Manuscript Formatting",
         link: "/services/manuscript_formatting"
       }
@@ -123,24 +115,20 @@ sitemapList: [
   {
     id: 4,
     title: "Plagiarism Check",
+    link: "/services/plagiarism_check",
     sitemap: [
       {
         id: 1,
-        title: "Plagiarism Check",
-        link: "/services/plagiarism_check"
-      },
-      {
-        id: 2,
         title: "Manuscript Similarity Check",
         link: "/services/similarity_check"
       },
       {
-        id: 3,
+        id: 2,
         title: "Plagiarism Editing",
         link: "/services/plagiarism_editing"
       },
       {
-        id: 4,
+        id: 3,
         title: "Technical Reports",
         link: "/services/technical_reports"
       }
@@ -149,6 +137,7 @@ sitemapList: [
   {
     id: 5,
     title: "Business Editing",
+    link: "/services/business_editing",
     sitemap: [
       {
         id: 1,
@@ -157,41 +146,36 @@ sitemapList: [
       },
       {
         id: 2,
-        title: "Business Document Editing",
-        link: "/services/business_editing"
-      },
-      {
-        id: 3,
         title: "Marketing Communications",
         link: "/services/marketing_communications_editing"
       },
       {
-        id: 4,
+        id: 3,
         title: "Newsletters",
         link: "/services/newsletters"
       },
       {
-        id: 5,
+        id: 4,
         title: "Ad copies",
         link: "/services/adcopies"
       },
       {
-        id: 6,
+        id: 5,
         title: "Website Copy Editing",
         link: "/services/website_copy_editing"
       },
       {
-        id: 7,
+        id: 6,
         title: "White Papers",
         link: "/services/white_papers"
       },
       {
-        id: 8,
+        id: 7,
         title: "Presentations",
         link: "/services/presentations"
       },
       {
-        id: 9,
+        id: 8,
         title: "Biographies",
         link: "/services/biographies"
       }

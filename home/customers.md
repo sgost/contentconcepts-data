@@ -4,6 +4,7 @@ customers: [
   {
     id: 1,
     name: "Marco Cremaschi",
+    commentExcerpt: "The results were amazing",
     comment: "Great job by the manuscript editor. I am pleased to see how my manuscript has changed for good. Hope I get the same quality next time",
     role: "Associate Professor",
     company: "Università degli Studi Roma Tre",
@@ -12,6 +13,7 @@ customers: [
   {
     id: 2,
     name: "Zhongua Sun",
+    commentExcerpt: "The results were amazing",
     comment: "The manuscript copy editing service provided by ContentConcepts is great and very professional. They have edited many manuscripts for me and my colleagues, and more than 90% of the edited manuscripts have been published in international journals",
     role: "Professor - Medical Imaging",
     company: "Curtin University",
@@ -20,6 +22,7 @@ customers: [
   {
     id: 3,
     name: "Dr Shreya Sharma",
+    commentExcerpt: "The results were amazing",
     comment: "Very well organized and authentic manuscript proof reading and editing services in India. Timely work with valuable input improved the writing material",
     role: "Data Scientist",
     company: "Indian Institue of Management",
