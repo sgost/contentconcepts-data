@@ -1,18 +1,15 @@
 ---
 title: "Business Proposal Editing"
 highlight: "Polish it"
-description: "Congratulations! Since you are here, you should be serious and sincere about your business proposal. And that’s a good start. 
-
-Most often business proposals are a collaborative work and hence the language is inconsistent, complex and vary in tone. 
-
-Our Business Proposal Editors are here to help you create wining proposals that are easy to read and written to the point. 
-
-Editing a business proposal is more than just checking for English language and proposal structure. Here is what our Business Proposal Editing service will do:"
+description: "<p>Congratulations! Since you are here, you should be serious and sincere about your business proposal. And that’s a good start.</p><p>Most often business proposals are a collaborative work and hence the language is inconsistent, complex and vary in tone.</p><p>Our Business Proposal Editors are here to help you create wining proposals that are easy to read and written to the point.</p><p>Editing a business proposal is more than just checking for English language and proposal structure. Here is what our Business Proposal Editing service will do:</p>"
 message: "Not happy with edit? <span>100% refund without any condition</span>"
 priceCard: {
   pricing: {
     title: "Starting from",
-    price: "<span>$0.03</span>/word"
+    price: {
+      inr: "",
+      usd: "<span>$0.03</span>/word"
+    }
   },
   tagContent: "Edited by qualified subject matter experts",
   content: "Don't need major revisions before journal submission?"
@@ -174,6 +171,54 @@ editingHighlights: {
       title: "Secure transaction",
       description: "Your documents as wells as payment is handled by our secure website which has passed the best level of security testing in the industry.",
       image: "../assets/transaction.svg"
+    }
+  ]
+}
+serviceProcess: {
+  title: "How it works?",
+  steps: [
+    {
+      id: 1,
+      order: "01",
+      title: "Submit Manuscript",
+      description: "Customer submits manuscript via our Request for quote page.",
+      themeColor: "#98ECA6"
+    },
+    {
+      id: 2,
+      order: "02",
+      title: "Recieve Quote",
+      description: "After receiving the manuscript, ContentConcepts sends price quote.",
+      themeColor: "#F5DA7D"
+    },
+    {
+      id: 3,
+      order: "03",
+      title: "Confirm Order",
+      description: "After payment is made by the customer, ContentConcepts sends confirmation of payment.",
+      themeColor: "#98E5E0"
+    },
+    {
+      id: 4,
+      order: "04",
+      title: "Edit & Return",
+      description: "CC assigns the right editor who edits and sends the edited document back to the customer.",
+      themeColor: "#FFABAB"
+    }
+  ]
+}
+faq: {
+  title: "Frequently Asked Questions",
+  questions: [
+    {
+      id: 1,
+      question: "What are the different English language styles you use while editing?",
+      answer: "We can edit as per two English language styles – American English and British English. You can choose your preferred language style in the online submission form."
+    },
+    {
+      id: 2,
+      question: "Is my information secure with you?",
+      answer: "We can edit as per two English language styles – American English and British English."
     }
   ]
 }

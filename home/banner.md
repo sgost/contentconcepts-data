@@ -1,6 +1,5 @@
 ---
-title: "Affordable Editing & Proofreading Services."
-content: "For"
+title: "Affordable Editing & Proofreading Services for"
 typedWords: ["Academics", "Authors", "Corporate", "Students", "Publishers"]
 services: [
   {
