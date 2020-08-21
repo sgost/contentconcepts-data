@@ -8,7 +8,7 @@ priceCard: {
     title: "Starts from",
     price: {
       inr: "<span>INR 1.5</span>/word",
-      usd: ""
+      usd: "<span>USD 0.02</span>/word"
     }
   },
   tagContent: "No express fee, quick turnaround",
