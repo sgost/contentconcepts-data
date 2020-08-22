@@ -11,6 +11,6 @@ features:
     title: Unlimited Support
     image: ../assets/support.svg
   - id: 4
-    title: Secure
+    title: Secure & Confidential
     image: ../assets/confidential.svg
 ---
