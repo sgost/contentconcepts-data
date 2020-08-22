@@ -21,8 +21,8 @@ priceCard:
   pricing:
     title: Starts from
     price:
-      inr: <span>INR 1.5</span>/word
-      usd: <span>USD 0.02</span>/word
+      inr: <span>INR 1.5</span>/word  OR
+      usd: <span>USD 0.03</span>/word
   tagContent: No express fee, quick turnaround
   content: Top quality yet truly affordable price
 editingLevels:
