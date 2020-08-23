@@ -68,7 +68,7 @@ sitemapList:
         link: /services/manuscript_formatting
   - id: 4
     title: Plagiarism Check
-    link: /services/plagiarism_check
+    link: /services/plagiarism_correction
     sitemap:
       - id: 1
         title: Manuscript Similarity Check
