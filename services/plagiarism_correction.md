@@ -28,7 +28,7 @@ priceCard:
       inr: <span>INR 4</span>  OR
       usd: <span>USD 0.07</span>/word
   tagContent: Reduce similarity from 50% to 5%
-  content: Reviwed by software and manuscript editor
+  content: Polished by English Editing
 editingLevels:
   title: Different levels of editing
   subHeading: Because each author is unique
