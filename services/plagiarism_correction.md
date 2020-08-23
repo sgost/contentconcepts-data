@@ -9,7 +9,8 @@ description: "Our plagiarism checker service is powered by technology as well as
   plagiarism and reduce the similarity faster by using industry leadin software
   and then checked by expert editors in the chosen field. Our Plagiarism Checker
   services involve:"
-message: Significant reduction in similarity<span>Talk to us for more details</span>
+message: Reduce similarity to less than 5%<span>Using software and manuscript
+  editor</span>
 features:
   - id: 1
     title: Manuscript Similarity Check
@@ -22,12 +23,12 @@ features:
     link: /services/plagiarism_check
 priceCard:
   pricing:
-    title: Starting from
+    title: Starts from
     price:
-      inr: ""
-      usd: <span>$0.03</span>/word
-  tagContent: Edited by qualified subject matter experts
-  content: Don't need major revisions before journal submission?
+      inr: <span>INR 4</span>  OR
+      usd: <span>USD 0.07</span>/word
+  tagContent: Reduce similarity from 50% to 5%
+  content: Reviwed by software and manuscript editor
 editingLevels:
   title: Different levels of editing
   subHeading: Because each author is unique
@@ -108,12 +109,12 @@ editingSample:
         learning improvement
       image: ../assets/substantive_editing.png
 editingHighlights:
-  title: Highlights of our manuscript editing services
+  title: Highlights of our Plagiarism Correction services
   highlights:
     - id: 1
       title: Affordable Prices
-      description: Our manuscript editing fee is one of the best in the industry for
-        the level of quality work we offer from our trusted PhD and native
+      description: Our plagiarism correction fee is one of the best in the industry
+        for the level of quality work we offer from our trusted PhD and native
         English editors.
       image: ../assets/affordable.svg
     - id: 2
