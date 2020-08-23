@@ -8,7 +8,7 @@ description: "Our plagiarism checker service is powered by technology as well as
   and are universal. Let our experts help you find out the root cause of
   plagiarism and reduce the similarity faster by using industry leadin software
   and then checked by expert editors in the chosen field. Our Plagiarism Checker
-  services involve "
+  services involve:"
 message: Significant reduction in similarity<span>Talk to us for more details</span>
 features:
   - id: 1
