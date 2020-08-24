@@ -1,14 +1,14 @@
 ---
-title: "Ad copies"
-highlight: "Best Selling Service on our site"
-description: "Types of Ad copies edited - Research Paper, Thesis, Proposal"
+title: "Document Formatting"
+highlight: "Look does matter"
+description: "Document formatting, especially MS Word or MS PowerPoint formatting, is a time-consuming and laborious process. But not when you leave it to the experts. Our document formatting service has document experts who have formatted thousands of pages for various types of documents such as proposals, thesis, reports, white papers, annual reports, forms and presentations. Our document formatting service offers the following:"
 message: "Not happy with edit? <span>100% refund without any condition</span>"
 priceCard: {
   pricing: {
-    title: "Starting from",
+    title: "Starts from",
     price: {
-      inr: "",
-      usd: "<span>$0.03</span>/word"
+      inr: "<span>INR 75</span> OR",
+      usd: "<span>USD 1.00</span>/page"
     }
   },
   tagContent: "Edited by qualified subject matter experts",
@@ -17,23 +17,31 @@ priceCard: {
 features: [
   {
     id: 1,
-    title: "Edited by qualified subject matter experts"
+    title: "Clean up the whole document for spacing and inconsistency"
   },
   {
     id: 2,
-    title: "Phd Editors with certified English language editing skills"
+    title: "Style - Apply relevant style based on the type of document"
   },
   {
     id: 3,
-    title: "Native-English editors"
+    title: "Title, Headings - Ensure proper and consistent font and size"
   },
   {
     id: 4,
-    title: "1500 plus journal style and formats edited"
+    title: "Tables, Figures, Artwork - Proper size and format"
   },
   {
     id: 5,
-    title: "Flawless editing"
+    title: "Branding - Ensure your branding is visible in terms, of colour, logo, fonts"
+  },
+  {
+    id: 6,
+    title: "Headers & Footers - Automatic header and footer"
+  },
+   {
+    id: 7,
+    title: "Table of contents - Ensure list of all content is present for easy navigation"
   }
 ]
 editingLevels: {
@@ -116,7 +124,7 @@ editingLevels: {
   ]
 }
 editingSample: {
-  title: "Editing Sample",
+  title: "Document Formatting Sample",
   samples: [
     {
       id: 1,
@@ -139,18 +147,18 @@ editingSample: {
   ]
 }
 editingHighlights: {
-  title: "Highlights of our manuscript editing services",
+  title: "Highlights of our Document Formatting service",
   highlights: [
     {
       id: 1,
       title: "Affordable Prices",
-      description: "Our manuscript editing fee is one of the best in the industry for the level of quality work we offer from our trusted PhD and native English editors.",
+      description: "Our Document Formatting fee is one of the best in the industry for the level of quality work we offer from our trusted document editors.",
       image: "../assets/affordable.svg"
     },
     {
       id: 2,
       title: "Superior Support",
-      description: "You can talk to your manuscript editor until you are satisfied with our editing service, get your queries answered via email or chat and send your manuscript after review from journal editor for further check.",
+      description: "You can talk to your document editor until you are satisfied with our formatting service, get your queries answered via email or chat and send your document after review from for further check.",
       image: "../assets/support.svg"
     },
     {
@@ -173,8 +181,8 @@ serviceProcess: {
     {
       id: 1,
       order: "01",
-      title: "Submit Manuscript",
-      description: "Customer submits manuscript via our Request for quote page.",
+      title: "Submit Document",
+      description: "Customer submits document via our Request for quote page.",
       themeColor: "#98ECA6"
     },
     {
@@ -215,6 +223,6 @@ faq: {
     }
   ]
 }
-key: "adcopies"
+key: "document_formatting"
 parentType: "business"
 ---
