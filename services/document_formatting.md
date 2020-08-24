@@ -11,8 +11,8 @@ priceCard: {
       usd: "<span>USD 1.00</span>/page"
     }
   },
-  tagContent: "Edited by qualified subject matter experts",
-  content: "Don't need major revisions before journal submission?"
+  tagContent: "Report, Manuscript, Thesis, Presentation, Brochure",
+  content: "Formatting for all type of documents at truly affordable prices"
 }
 features: [
   {
