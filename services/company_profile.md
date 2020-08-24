@@ -1,43 +1,43 @@
 ---
-title: "Newsletters"
-highlight: "Best Selling Service on our site"
-description: "Types of Manuscripts edited - Research Paper, Thesis, Proposal, Technical Editing"
+title: "Business Profile"
+highlight: "Content for Company Profile"
+description: "Company profile or business profile is written in different formats based on the requirements and target audience. A company profile summarises cearly its business activities and highlights important information. The language and tone varies based on whether you are raising capital or informing stakeholders. Company profile is like a resume of the company - make it bright. Our Business/Company Profile editing service:"
 message: "Not happy with edit? <span>100% refund without any condition</span>"
 priceCard: {
   pricing: {
-    title: "Starting from",
+    title: "Starts from",
     price: {
-      inr: "",
-      usd: "<span>$0.03</span>/word"
+      inr: "<span>INR 3.00</span> OR",
+      usd: "<span>USD.05</span>/word"
     }
   },
-  tagContent: "Edited by qualified subject matter experts",
-  content: "Don't need major revisions before journal submission?"
+  tagContent: "Editd by Copy Writers",
+  content: "Create winning profiles"
 }
 features: [
   {
     id: 1,
-    title: "Edited by qualified subject matter experts"
+    title: "Analyses overall structure and purpose"
   },
   {
     id: 2,
-    title: "Phd Editors with certified English language editing skills"
+    title: "Edits for clarity, conciseness and completeness"
   },
   {
     id: 3,
-    title: "Native-English editors"
+    title: "Recommends additional content if necessary"
   },
   {
     id: 4,
-    title: "1500 plus journal style and formats edited"
+    title: "Suggests artwork or infographics"
   },
   {
     id: 5,
-    title: "Flawless editing"
+    title: "Creates, crisp & compelling company profile"
   }
 ]
 editingLevels: {
-  title: "Different levels of editing",
+  title: "Different levels of Company Profile editing",
   subHeading: "Because each author is unique",
   levelTypes: [
     {
@@ -146,18 +146,18 @@ editingSample: {
   ]
 }
 editingHighlights: {
-  title: "Highlights of our manuscript editing services",
+  title: "Highlights of our Company Profile Editing service",
   highlights: [
     {
       id: 1,
       title: "Affordable Prices",
-      description: "Our manuscript editing fee is one of the best in the industry for the level of quality work we offer from our trusted PhD and native English editors.",
+      description: "Our Company Profile editing fee is one of the best in the industry for the level of quality work we offer from our trusted Business English editors.",
       image: "../assets/affordable.svg"
     },
     {
       id: 2,
       title: "Superior Support",
-      description: "You can talk to your manuscript editor until you are satisfied with our editing service, get your queries answered via email or chat and send your manuscript after review from journal editor for further check.",
+      description: "You can talk to your Business Document editor until you are satisfied with our editing service, get your queries answered via email or chat and send your dpcument after review for further check.",
       image: "../assets/support.svg"
     },
     {
@@ -181,14 +181,14 @@ serviceProcess: {
       id: 1,
       order: "01",
       title: "Submit Manuscript",
-      description: "Customer submits manuscript via our Request for quote page.",
+      description: "Customer submits document via our Request for quote page.",
       themeColor: "#98ECA6"
     },
     {
       id: 2,
       order: "02",
       title: "Recieve Quote",
-      description: "After receiving the manuscript, ContentConcepts sends price quote.",
+      description: "After receiving the document, ContentConcepts sends price quote.",
       themeColor: "#F5DA7D"
     },
     {
@@ -202,7 +202,7 @@ serviceProcess: {
       id: 4,
       order: "04",
       title: "Edit & Return",
-      description: "CC assigns the right editor who edits and sends the edited document back to the customer.",
+      description: "CC assigns the right editor to work and complete your document.",
       themeColor: "#FFABAB"
     }
   ]
@@ -222,6 +222,6 @@ faq: {
     }
   ]
 }
-key: "newsletters"
+key: "company_profile"
 parentType: "business"
 ---
