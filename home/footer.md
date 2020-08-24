@@ -93,7 +93,7 @@ sitemapList:
         title: Business Profile
         link: /services/company_profile
       - id: 4
-        title: Ad copies
+        title: Document Formatting
         link: /services/document_formatting
       - id: 5
         title: Website Copy Editing
