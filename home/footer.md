@@ -94,7 +94,7 @@ sitemapList:
         link: /services/company_profile
       - id: 4
         title: Ad copies
-        link: /services/adcopies
+        link: /services/document_formatting
       - id: 5
         title: Website Copy Editing
         link: /services/website_copy_editing
