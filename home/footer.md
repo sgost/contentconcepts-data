@@ -90,8 +90,8 @@ sitemapList:
         title: Marketing Communications
         link: /services/marketing_communications_editing
       - id: 3
-        title: Newsletters
-        link: /services/newsletters
+        title: Business Profile
+        link: /services/company_profile
       - id: 4
         title: Ad copies
         link: /services/adcopies
