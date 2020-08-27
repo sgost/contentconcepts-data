@@ -1,43 +1,45 @@
 ---
-title: "Biographies"
-highlight: "Best Selling Service on our site"
-description: "Types of Manuscripts edited - Research Paper, Thesis, Proposal, Technical Editing"
+title: "English Editing & Proofeading"
+highlight: "Best selling service in India"
+description: "Business content works when the written content is clear, concise and compelling. Whether you create content for websites or marketing collateral r or white paper, each of these has a purpose - convey the right message at the right place. However, English language in the written content often fails in this purpose .
+
+Our English language editors who have edited and proofread 1000s of pages, enhance your business writing and make it work for you. English Editing is not just grammar and spell check. Our English Editing service:"
 message: "Not happy with edit? <span>100% refund without any condition</span>"
 priceCard: {
   pricing: {
-    title: "Starting from",
+    title: "Starts from",
     price: {
-      inr: "",
-      usd: "<span>$0.03</span>/word"
+      inr: "<span>INR 1.5</span>/ OR",
+      usd: "<span>USD 0.03</span>/word"
     }
   },
-  tagContent: "Edited by qualified subject matter experts",
-  content: "Don't need major revisions before journal submission?"
+  tagContent: "Clear, Concise, Compelling",
+  content: "Make content work for you"
 }
 features: [
   {
     id: 1,
-    title: "Edited by qualified subject matter experts"
+    title: "Analyses structure of the business content"
   },
   {
     id: 2,
-    title: "Phd Editors with certified English language editing skills"
+    title: "Edits for clarity, conciseness and completeness"
   },
   {
     id: 3,
-    title: "Native-English editors"
+    title: "Recommends additional information or sections where required"
   },
   {
     id: 4,
-    title: "1500 plus journal style and formats edited"
+    title: "Suggests relevant title or creates title and headings"
   },
   {
     id: 5,
-    title: "Flawless editing"
+    title: "Provides content review report"
   }
 ]
 editingLevels: {
-  title: "Different levels of editing",
+  title: "Different levels of English editing",
   subHeading: "Because each author is unique",
   levelTypes: [
     {
@@ -123,7 +125,7 @@ editingLevels: {
   ]
 }
 editingSample: {
-  title: "Editing Sample",
+  title: "English Editing Sample",
   samples: [
     {
       id: 1,
@@ -146,18 +148,18 @@ editingSample: {
   ]
 }
 editingHighlights: {
-  title: "Highlights of our manuscript editing services",
+  title: "Highlights of our English Editing service",
   highlights: [
     {
       id: 1,
       title: "Affordable Prices",
-      description: "Our manuscript editing fee is one of the best in the industry for the level of quality work we offer from our trusted PhD and native English editors.",
+      description: "Our English Editing fee is one of the best in the industry for the level of quality work we offer from our English editors.",
       image: "../assets/affordable.svg"
     },
     {
       id: 2,
       title: "Superior Support",
-      description: "You can talk to your manuscript editor until you are satisfied with our editing service, get your queries answered via email or chat and send your manuscript after review from journal editor for further check.",
+      description: "You can talk to your English editor until you are satisfied with our editing service, get your queries answered via email or chat and send your manuscript after review for further check.",
       image: "../assets/support.svg"
     },
     {
@@ -180,15 +182,15 @@ serviceProcess: {
     {
       id: 1,
       order: "01",
-      title: "Submit Manuscript",
-      description: "Customer submits manuscript via our Request for quote page.",
+      title: "Submit Document",
+      description: "Customer submits document via our Request for quote page.",
       themeColor: "#98ECA6"
     },
     {
       id: 2,
       order: "02",
       title: "Recieve Quote",
-      description: "After receiving the manuscript, ContentConcepts sends price quote.",
+      description: "After receiving the document, ContentConcepts sends price quote.",
       themeColor: "#F5DA7D"
     },
     {
@@ -222,6 +224,6 @@ faq: {
     }
   ]
 }
-key: "biographies"
+key: "english_editing_india"
 parentType: "business"
 ---
