@@ -105,6 +105,6 @@ sitemapList:
         title: Presentations
         link: /services/presentations
       - id: 8
-        title: Biographies
-        link: /services/biographies
+        title: English Editing
+        link: /services/english_editing_india
 ---
