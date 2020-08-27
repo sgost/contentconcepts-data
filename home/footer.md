@@ -99,8 +99,8 @@ sitemapList:
         title: Website Copy Editing
         link: /services/website_copy_editing
       - id: 6
-        title: White Papers
-        link: /services/white_papers
+        title: Blog Editing
+        link: /services/blogpost_editing
       - id: 7
         title: Presentations
         link: /services/presentations
