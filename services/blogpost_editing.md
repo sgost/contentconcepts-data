@@ -1,39 +1,39 @@
 ---
-title: "White Papers"
-highlight: "Best Selling Service on our site"
-description: "Types of Manuscripts edited - Research Paper, Thesis, Proposal, Technical Editing"
+title: "Blog Editing"
+highlight: "Make content work for you"
+description: "Blog editing or blogpost editing? Well, a blog has many blogposts. Blogposts come in different lengths	- an SME or a consultant writes longform blogposts that are detailed and well researched. A business or corporate blogpost can be a mix of smaller and longer blogposts that informs, educates the readers. Whatever length you choose, engaging with readers is important so that they comeback to your blog again. Our blogpost editors make your content, crisper and more engaging. When you send your blogpost content to our editors, here is what they will do:"
 message: "Not happy with edit? <span>100% refund without any condition</span>"
 priceCard: {
   pricing: {
-    title: "Starting from",
+    title: "Starts from",
     price: {
-      inr: "",
-      usd: "<span>$0.03</span>/word"
+      inr: "<span>INR 1.5</span> OR",
+      usd: "<span> USD 0.03</span>/word"
     }
   },
-  tagContent: "Edited by qualified subject matter experts",
-  content: "Don't need major revisions before journal submission?"
+  tagContent: "Clear, Crisp & Engaging",
+  content: "We make content that clicks"
 }
 features: [
   {
     id: 1,
-    title: "Edited by qualified subject matter experts"
+    title: "Understand  your target audience and edit the content accordingly"
   },
   {
     id: 2,
-    title: "Phd Editors with certified English language editing skills"
+    title: "Make blogpost  content simple and easier to read"
   },
   {
     id: 3,
-    title: "Native-English editors"
+    title: "Edit to capture reader’s attention in short span (we all have ADD)"
   },
   {
     id: 4,
-    title: "1500 plus journal style and formats edited"
+    title: "Adapt the content for mobile, tablet and desktop"
   },
   {
     id: 5,
-    title: "Flawless editing"
+    title: "Recommend further actions and improvements - images, illustrations"
   }
 ]
 editingLevels: {
@@ -123,7 +123,7 @@ editingLevels: {
   ]
 }
 editingSample: {
-  title: "Editing Sample",
+  title: "Blog Editing Sample",
   samples: [
     {
       id: 1,
@@ -146,18 +146,18 @@ editingSample: {
   ]
 }
 editingHighlights: {
-  title: "Highlights of our manuscript editing services",
+  title: "Highlights of our Blog Editing service",
   highlights: [
     {
       id: 1,
       title: "Affordable Prices",
-      description: "Our manuscript editing fee is one of the best in the industry for the level of quality work we offer from our trusted PhD and native English editors.",
+      description: "Our Blog Editing fee is one of the best in the industry for the level of quality work we offer from our trusted blogpost editors.",
       image: "../assets/affordable.svg"
     },
     {
       id: 2,
       title: "Superior Support",
-      description: "You can talk to your manuscript editor until you are satisfied with our editing service, get your queries answered via email or chat and send your manuscript after review from journal editor for further check.",
+      description: "You can talk to your blogpost editor until you are satisfied with our editing service, get your queries answered via email or chat and send your blogpost content after review for further check.",
       image: "../assets/support.svg"
     },
     {
@@ -180,15 +180,15 @@ serviceProcess: {
     {
       id: 1,
       order: "01",
-      title: "Submit Manuscript",
-      description: "Customer submits manuscript via our Request for quote page.",
+      title: "Submit Document",
+      description: "Customer submits document via our Request for quote page.",
       themeColor: "#98ECA6"
     },
     {
       id: 2,
       order: "02",
       title: "Recieve Quote",
-      description: "After receiving the manuscript, ContentConcepts sends price quote.",
+      description: "After receiving the document, ContentConcepts sends price quote.",
       themeColor: "#F5DA7D"
     },
     {
@@ -222,6 +222,6 @@ faq: {
     }
   ]
 }
-key: "white_papers"
+key: "blogpost_editing"
 parentType: "business"
 ---
