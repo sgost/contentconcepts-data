@@ -1,7 +1,6 @@
 ---
 title: "Facebook Ads"
 highlight: "Best Selling Service on our site"
-description: "Types of Ad copies edited - Research Paper, Thesis, Proposal"
 message: "Not happy with edit? <span>100% refund without any condition</span>"
 priceCard: {
   pricing: {
@@ -225,3 +224,5 @@ faq: {
 key: "facebook_ads"
 parentType: "content_development"
 ---
+
+Types of Ad copies edited - Research Paper, Thesis, Proposal

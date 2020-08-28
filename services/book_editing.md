@@ -1,7 +1,6 @@
 ---
 title: "Book Editing"
 highlight: "For Authors & Publishers"
-description: "ContentConcepts specializes in editing and proofreading science, technology, business and non-fiction book manuscripts. Editing a book manuscript is an art. It's more than just grammar and correct usage of words. We have exclusive editors for book manuscripts who have experiece in editing more than 100 manuscripts. Our manuscript editing combines copy editing and developmental editing by"
 message: "Not happy with edit? <span>100% refund without any condition</span>"
 priceCard: {
   pricing: {
@@ -225,3 +224,5 @@ faq: {
 key: "book_editing"
 parentType: "academic"
 ---
+
+ContentConcepts specializes in editing and proofreading science, technology, business and non-fiction book manuscripts. Editing a book manuscript is an art. It's more than just grammar and correct usage of words. We have exclusive editors for book manuscripts who have experiece in editing more than 100 manuscripts. Our manuscript editing combines copy editing and developmental editing by

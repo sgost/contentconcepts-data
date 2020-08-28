@@ -1,7 +1,6 @@
 ---
 title: "Manuscript Re-submission"
 highlight: "Rejected Manuscript Handling"
-description: "Manuscripts are rejected for various reasons. If you need support in re-submitting your manuscript, let our experts do the work for you. From looking at the reviewer comments to responding to the comments, we will supoort you in resubmitting your manuscript with proper response"
 message: "Not happy with edit? <span>100% refund without any condition</span>"
 priceCard: {
   pricing: {
@@ -140,3 +139,5 @@ faq: {
 key: "manuscript_resubmission"
 parentType: "content_development"
 ---
+
+Manuscripts are rejected for various reasons. If you need support in re-submitting your manuscript, let our experts do the work for you. From looking at the reviewer comments to responding to the comments, we will supoort you in resubmitting your manuscript with proper response

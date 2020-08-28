@@ -1,7 +1,6 @@
 ---
 title: "Journal Selection"
 highlight: "Get it right"
-description: "One of the key task in publishing is selecting the right journal for your paper. More often papers are rejected becuase the topic may not be relevant for the selected journal. Let our experts choose the right journal for your manuscript"
 message: "Not happy with edit? <span>100% refund without any condition</span>"
 priceCard: {
   pricing: {
@@ -117,3 +116,5 @@ faq: {
 key: "journal_selection"
 parentType: "content_development"
 ---
+
+One of the key task in publishing is selecting the right journal for your paper. More often papers are rejected becuase the topic may not be relevant for the selected journal. Let our experts choose the right journal for your manuscript

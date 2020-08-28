@@ -1,7 +1,6 @@
 ---
 title: "Letter Editing"
 highlight: "Deliver the right message"
-description: "Writing a letter that gets your readers' attention isn't alawys easy. Writing a cover letter to journal or grant proposal or for a job? Our team will help you craft the perfect letter that delivers the message. To do this our editors"
 message: "Not happy with edit? <span>100% refund without any condition</span>"
 priceCard: {
   pricing: {
@@ -225,3 +224,5 @@ faq: {
 key: "letter_editing"
 parentType: "academic"
 ---
+
+Writing a letter that gets your readers' attention isn't alawys easy. Writing a cover letter to journal or grant proposal or for a job? Our team will help you craft the perfect letter that delivers the message. To do this our editors

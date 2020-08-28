@@ -1,7 +1,6 @@
 ---
 title: "Thesis Editing"
 highlight: "Fast & Affordable"
-description: "What type of documents can you submit? - Thesis, Dissertation, Thesis Proposal, Dissertation Proposal"
 message: "Not happy with edit? <span>100% refund without any condition</span>"
 priceCard: {
   pricing: {
@@ -204,3 +203,5 @@ faq: {
 key: "thesis_editing"
 parentType: "academic"
 ---
+
+What type of documents can you submit? - Thesis, Dissertation, Thesis Proposal, Dissertation Proposal

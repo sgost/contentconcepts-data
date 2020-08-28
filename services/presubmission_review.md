@@ -1,7 +1,6 @@
 ---
 title: "Pre-submission Review"
 highlight: "Publish with Confidence"
-description: "Our manuscript reviewers conduct a detailed review of your manuscript to ensure the manuscript is properly structured and the technical content is sound and clear. Our experts validate the study design and methodology as well as the flow and language of the manuscript"
 message: "Not happy with edit? <span>100% refund without any condition</span>"
 priceCard: {
   pricing: {
@@ -140,3 +139,5 @@ faq: {
 key: "presubmission_review"
 parentType: "content_development"
 ---
+
+Our manuscript reviewers conduct a detailed review of your manuscript to ensure the manuscript is properly structured and the technical content is sound and clear. Our experts validate the study design and methodology as well as the flow and language of the manuscript

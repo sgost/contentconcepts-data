@@ -1,7 +1,6 @@
 ---
 title: "ESL Editing"
 highlight: "If English is your second language, choose this"
-description: "For non-native speakers of English, writing a research manuscript or paper is a difficlut task. Your strength is research and your language may not be effective. Our ESL editors specalise in editing manuscripts written by authors whose first language is not English. Get the right word, right sentence structure and convey your research findings effectively"
 message: "Not happy with edit? <span>100% refund without any condition</span>"
 priceCard: {
   pricing: {
@@ -225,3 +224,5 @@ faq: {
 key: "esl_editing"
 parentType: "academic"
 ---
+
+For non-native speakers of English, writing a research manuscript or paper is a difficlut task. Your strength is research and your language may not be effective. Our ESL editors specalise in editing manuscripts written by authors whose first language is not English. Get the right word, right sentence structure and convey your research findings effectively

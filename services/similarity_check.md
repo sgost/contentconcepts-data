@@ -1,7 +1,6 @@
 ---
 title: "Similarity Check"
 highlight: "Reduce to less than 5%"
-description: "Our similarity check is done by software and then reviewed by editors for your recommendation"
 message: "Not happy with edit? <span>100% refund without any condition</span>"
 priceCard: {
   pricing: {
@@ -140,3 +139,5 @@ faq: {
 key: "similarity_check"
 parentType: "technical"
 ---
+
+Our similarity check is done by software and then reviewed by editors for your recommendation
