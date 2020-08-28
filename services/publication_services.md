@@ -35,11 +35,6 @@ pricing:
       103.5%)"
 title: Publication Services
 highlight: For the time-constrained
-description: We offer end-to-end publication support and services right from
-  manuscript editing and rewriting to selecting and subbmitting in relevant
-  journal. If you are a busy researcher or want to just focus on your research,
-  we are here to help you with the following pack of publication support
-  services
 message: Not happy with edit? <span>100% refund without any condition</span>
 features:
   - id: 1
@@ -132,3 +127,5 @@ faq:
         British English.
 key: publication_services
 ---
+
+We offer end-to-end publication support and services right from manuscript editing and rewriting to selecting and subbmitting in relevant journal. If you are a busy researcher or want to just focus on your research, we are here to help you with the following pack of publication support services

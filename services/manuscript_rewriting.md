@@ -1,7 +1,6 @@
 ---
 title: "Manuscript Rewriting"
 highlight: "Get it Write"
-description: "Manuscript rewriting is done when the writing or English language of the paper is poor and most often rejected by journals. Or you may want to convert your paper to thesis or vice versa. Manuscript rewriting involves extensively rewriting the entire sentence or paragraphs or sections of the manuscript. This is done by our senior manuscript editors who have expereince of rewriting more than 1000 manuscripts across different subjects - Science, Technnology, Medicine and Business"
 message: "Convert your ideas to writing <span>Research papers, thesis, dissertation</span>"
 priceCard: {
   pricing: {
@@ -225,3 +224,5 @@ faq: {
 key: "manuscript_rewriting"
 parentType: "content_development"
 ---
+
+Manuscript rewriting is done when the writing or English language of the paper is poor and most often rejected by journals. Or you may want to convert your paper to thesis or vice versa. Manuscript rewriting involves extensively rewriting the entire sentence or paragraphs or sections of the manuscript. This is done by our senior manuscript editors who have expereince of rewriting more than 1000 manuscripts across different subjects - Science, Technnology, Medicine and Business

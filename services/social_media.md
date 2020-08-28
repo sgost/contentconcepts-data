@@ -1,7 +1,6 @@
 ---
 title: "Social Media"
 highlight: "Best Selling Service on our site"
-description: "Types of Manuscripts edited - Research Paper, Thesis, Proposal, Technical Editing"
 message: "Not happy with edit? <span>100% refund without any condition</span>"
 priceCard: {
   pricing: {
@@ -225,3 +224,5 @@ faq: {
 key: "social_media"
 parentType: "consulting"
 ---
+
+Types of Manuscripts edited - Research Paper, Thesis, Proposal, Technical Editing

@@ -1,11 +1,6 @@
 ---
 title: Academic Editing Services
 highlight: Truly Affordable
-description: If you are looking for affordable yet top-quality academic editing
-  services, you have reached the right place. Our mission is to prvoide
-  manuscript editing and proofreading services at affordable price. When you
-  select us, you will get personalised support, and prompt responses at a
-  quicker pace than others. Here is the list of our Academic Editing Services
 message: Not happy with edit? <span>100% refund without any condition</span>
 features:
   - id: 1
@@ -184,3 +179,7 @@ faq:
 key: academic_editing
 parentType: technical
 ---
+
+If you are looking for affordable yet top-quality academic editing services, you have reached the right place. Our mission is to prvoide [manuscript editing](/services/manuscript_editing) and proofreading services at affordable price.
+
+When you select us, you will get personalised support, and prompt responses at a quicker pace than others. Here is the list of our Academic Editing Services

@@ -1,7 +1,6 @@
 ---
 title: "Document Formatting"
 highlight: "Look does matter"
-description: "Document formatting, especially MS Word or MS PowerPoint formatting, is a time-consuming and laborious process. But not when you leave it to the experts. Our document formatting service has document experts who have formatted thousands of pages for various types of documents such as proposals, thesis, reports, white papers, annual reports, forms and presentations. Our document formatting service offers the following:"
 message: "Not happy with edit? <span>100% refund without any condition</span>"
 priceCard: {
   pricing: {
@@ -226,3 +225,5 @@ faq: {
 key: "document_formatting"
 parentType: "business"
 ---
+
+Document formatting, especially MS Word or MS PowerPoint formatting, is a time-consuming and laborious process. But not when you leave it to the experts. Our document formatting service has document experts who have formatted thousands of pages for various types of documents such as proposals, thesis, reports, white papers, annual reports, forms and presentations. Our document formatting service offers the following:

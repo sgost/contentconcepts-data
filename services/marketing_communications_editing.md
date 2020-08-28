@@ -1,7 +1,6 @@
 ---
 title: "Marketing Communications"
 highlight: "Are you content?"
-description: "<p>Have a fresh pair of eyes look at your marketing communications and correct the little flaws or the major thing that you have overlooked. Most often, as an author you would be so close to the content that you may not have the readers’ perspective.</p><p>Marketing Communications is all about saying the right thing at the right place using very little content. While writing the copy it is difficult to write in short, but a skilled business communications editor can make the content crisper and complete.</p><p>We have got a talented team of editors who are adept in marketing communications and make your written communications do the work.</p><p>What will you receive?</p>"
 message: "Not happy with edit? <span>100% refund without any condition</span>"
 priceCard: {
   pricing: {
@@ -225,3 +224,11 @@ faq: {
 key: "marketing_communications_editing"
 parentType: "business"
 ---
+
+Have a fresh pair of eyes look at your marketing communications and correct the little flaws or the major thing that you have overlooked. Most often, as an author you would be so close to the content that you may not have the readers’ perspective.
+
+Marketing Communications is all about saying the right thing at the right place using very little content. While writing the copy it is difficult to write in short, but a skilled business communications editor can make the content crisper and complete.
+
+We have got a talented team of editors who are adept in marketing communications and make your written communications do the work.
+
+What will you receive?

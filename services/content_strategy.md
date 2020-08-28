@@ -1,7 +1,6 @@
 ---
 title: "Content Strategy"
 highlight: "Best Selling Service on our site"
-description: "Types of Ad copies edited - Research Paper, Thesis, Proposal"
 message: "Not happy with edit? <span>100% refund without any condition</span>"
 priceCard: {
   pricing: {
@@ -225,3 +224,5 @@ faq: {
 key: "content_strategy"
 parentType: "consulting"
 ---
+
+Types of Ad copies edited - Research Paper, Thesis, Proposal

@@ -1,7 +1,6 @@
 ---
 title: "Business Profile"
 highlight: "Content for Company Profile"
-description: "Company profile or business profile is written in different formats based on the requirements and target audience. A company profile summarises cearly its business activities and highlights important information. The language and tone varies based on whether you are raising capital or informing stakeholders. Company profile is like a resume of the company - make it bright. Our Business/Company Profile editing service:"
 message: "Not happy with edit? <span>100% refund without any condition</span>"
 priceCard: {
   pricing: {
@@ -225,3 +224,5 @@ faq: {
 key: "company_profile"
 parentType: "business"
 ---
+
+Company profile or business profile is written in different formats based on the requirements and target audience. A company profile summarises cearly its business activities and highlights important information. The language and tone varies based on whether you are raising capital or informing stakeholders. Company profile is like a resume of the company - make it bright. Our Business/Company Profile editing service:

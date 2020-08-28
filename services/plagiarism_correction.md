@@ -1,14 +1,6 @@
 ---
 title: Plagiarism Correction
 highlight: Powered by Technology + Human
-description: "Our plagiarism checker service is powered by technology as well as
-  expert minds. Modern day academic plagiarism involves a lot of unintentional
-  similairty that the authors have as part of sections such as Materials &
-  Methods or References or definition of principles or laws that remain constant
-  and are universal. Let our experts help you find out the root cause of
-  plagiarism and reduce the similarity faster by using industry leadin software
-  and then checked by expert editors in the chosen field. Our Plagiarism Checker
-  services involve:"
 message: Reduce similarity to less than 5%<span>Using software and manuscript
   editor</span>
 features:
@@ -173,3 +165,5 @@ faq:
 key: plagiarism_correction
 parentType: technical
 ---
+
+Our plagiarism checker service is powered by technology as well as expert minds. Modern day academic plagiarism involves a lot of unintentional similairty that the authors have as part of sections such as Materials & Methods or References or definition of principles or laws that remain constant and are universal. Let our experts help you find out the root cause of plagiarism and reduce the similarity faster by using industry leadin software and then checked by expert editors in the chosen field. Our Plagiarism Checker services involve:

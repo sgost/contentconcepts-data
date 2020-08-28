@@ -1,10 +1,6 @@
 ---
 title: Manuscript Editing
 highlight: "Our #1 selling service"
-description: Manuscript editing need not be so expensive. We provide top-qualty
-  work at really affordable price. Starting from simple copy editing to advanced
-  editing, you can choose the level of editing that suits your budget or what
-  your manuscript requires.
 message: Not happy with edit? <span>100% refund without any condition</span>
 features:
   - id: 1
@@ -152,3 +148,5 @@ faq:
 key: manuscript_editing
 parentType: academic
 ---
+
+Manuscript editing need not be so expensive. We provide top-qualty work at really affordable price. Starting from simple copy editing to advanced editing, you can choose the level of editing that suits your budget or what your manuscript requires.
