@@ -105,6 +105,6 @@ sitemapList:
         title: Presentations
         link: /services/presentations
       - id: 8
-        title: English Editing & Proofeading
+        title: English Editing & Proofreading
         link: /services/english_editing_india
 ---
