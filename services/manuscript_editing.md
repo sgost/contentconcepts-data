@@ -70,7 +70,7 @@ editingSample:
   samples:
     - id: 1
       title: Manuscript Copy Editing
-      description: Line by line editing for language, readibility nad technical
+      description: Line by line editing for language, readability and technical
         learning improvement
       image: ../assets/Copy_editing_sample.png
     - id: 2
@@ -164,4 +164,4 @@ seo:
     - manuscript editing services, cheap english editing services
 ---
 
-Manuscript editing need not be so expensive. We provide top-qualty work at really affordable price. Starting from simple copy editing to advanced editing, you can choose the level of editing that suits your budget or what your manuscript requires.
+Manuscript editing need not be so expensive. We provide top-quality work at really affordable price. Starting from simple copy editing to advanced editing, you can choose the level of editing that suits your budget or what your manuscript requires.
