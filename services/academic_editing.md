@@ -77,7 +77,7 @@ editingLevels:
       substantive: yes
       developmental: yes
     - id: 6
-      title: Checking for appropirate usage for words and terms
+      title: Checking for appropriate usage for words and terms
       copy: no
       substantive: yes
       developmental: yes
@@ -87,7 +87,7 @@ editingLevels:
       substantive: no
       developmental: yes
     - id: 8
-      title: Verifing effective structure and outline
+      title: Verifying effective structure and outline
       copy: no
       substantive: no
       developmental: yes
@@ -106,7 +106,7 @@ editingSample:
       image: ../assets/substantive_editing.png
     - id: 2
       title: Substantive Editing
-      description: Line by line editing for language, readibility nad technical
+      description: Line by line editing for language, readibility and technical
         learning improvement
       image: ../assets/substantive_editing.png
     - id: 3
