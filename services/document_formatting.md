@@ -224,6 +224,16 @@ faq: {
 }
 key: "document_formatting"
 parentType: "business"
+seo:
+  title: Document formatting services in India. Document format free sample
+  description: Document formatting services in India at affordable prices and quality services. No-nonsese business services.
+  keywords:
+    - Document formatting
+    - document format sample
+    - Word document formatting
+    - formatting sample
+    - formatting services
+    - formatting services in India
 ---
 
 Document formatting, especially MS Word or MS PowerPoint formatting, is a time-consuming and laborious process. But not when you leave it to the experts. Our document formatting service has document experts who have formatted thousands of pages for various types of documents such as proposals, thesis, reports, white papers, annual reports, forms and presentations. Our document formatting service offers the following:

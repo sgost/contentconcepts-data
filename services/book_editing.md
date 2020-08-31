@@ -223,6 +223,16 @@ faq: {
 }
 key: "book_editing"
 parentType: "academic"
+seo:
+  title: Book editing and proofreading services in India.
+  description: Book manuscript editing and proofreading services in India. Book editing available for Business, Technology, Science and Medicine.
+  keywords:
+    - Book editing
+    - book proofreading
+    - Book editing services in India
+    - book proofreading services in India
+    - Book editing services
+    - book proofreading services
 ---
 
 ContentConcepts specializes in editing and proofreading science, technology, business and non-fiction book manuscripts. Editing a book manuscript is an art. It's more than just grammar and correct usage of words. We have exclusive editors for book manuscripts who have experiece in editing more than 100 manuscripts. Our manuscript editing combines copy editing and developmental editing by

@@ -223,6 +223,20 @@ faq: {
 }
 key: "esl_editing"
 parentType: "academic"
+seo:
+  title: English Editing and Proofreading Services in India
+  description: English Ediitng and proofreading services in India. Truly affordable and top-quality services for manuscript authors and publishers.
+  keywords:
+    - english editing
+    - editing english
+    - editing manuscripts
+    - editing service
+    - manuscript editor
+    - editing a manuscript
+    - manuscript editing
+    - manuscript edit
+    - manuscript editing services free online english language editing service
+    - english language editing service india
 ---
 
 For non-native speakers of English, writing a research manuscript or paper is a difficlut task. Your strength is research and your language may not be effective. Our ESL editors specalise in editing manuscripts written by authors whose first language is not English. Get the right word, right sentence structure and convey your research findings effectively

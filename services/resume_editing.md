@@ -223,6 +223,14 @@ faq: {
 }
 key: "resume_editing"
 parentType: "academic"
+seo:
+  title: Resume editing and proofreading services in India.
+  description: Resume editing and proofreading services in India.
+  keywords:
+    - Resume editing
+    - bio data editing
+    - resume proofreading
+    - resume writing services in India
 ---
 
 Recruiters spend just 20 seconds to review a resume to decide whether to select you for the next stage or reject your resume. Therefore, your resume or CV should immediately catch the attention of the prospective employer. Let your resume editors craft out that perfect resume that wins

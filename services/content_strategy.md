@@ -223,6 +223,14 @@ faq: {
 }
 key: "content_strategy"
 parentType: "consulting"
+seo:
+  title: Company profile document editing and proofreading services in India.
+  description: Company Profile document editing and proofreading services in India at affordable prices.
+  keywords:
+    - Company Profile document editing
+    - Company Profile document proofreading
+    - Company Profile document editing services
+    - Company Profile document proofreading services
 ---
 
 Types of Ad copies edited - Research Paper, Thesis, Proposal

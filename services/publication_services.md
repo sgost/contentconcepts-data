@@ -126,6 +126,14 @@ faq:
       answer: We can edit as per two English language styles – American English and
         British English.
 key: publication_services
+seo:
+  title: Manuscript publication support.
+  description: Manuscript publication support services in India. Truly affordable prices for top quality work offered by PhD editors.
+  keywords:
+    - Publication services
+    - publication support
+    - manuscript publication support
+    - manuscript submission support
 ---
 
 We offer end-to-end publication support and services right from manuscript editing and rewriting to selecting and subbmitting in relevant journal. If you are a busy researcher or want to just focus on your research, we are here to help you with the following pack of publication support services

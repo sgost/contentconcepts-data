@@ -223,6 +223,18 @@ faq: {
 }
 key: "blogpost_editing"
 parentType: "business"
+seo:
+  title: Blogpost, blog editing and proofreading services in India.
+  description: Blogpost, blog editing and proofreading services in India at affordable prices and quality services. No-nonsese business services.
+  keywords:
+    - Blog
+    - blogpost editing
+    - Blog
+    - blogpost proofreading
+    - Blog
+    - blogpost editing services
+    - Blog
+    - blogpost proofreading services
 ---
 
 Blog editing or blogpost editing? Well, a blog has many blogposts. Blogposts come in different lengths	- an SME or a consultant writes longform blogposts that are detailed and well researched. A business or corporate blogpost can be a mix of smaller and longer blogposts that informs, educates the readers. Whatever length you choose, engaging with readers is important so that they comeback to your blog again. Our blogpost editors make your content, crisper and more engaging. When you send your blogpost content to our editors, here is what they will do:

@@ -223,6 +223,14 @@ faq: {
 }
 key: "letter_editing"
 parentType: "academic"
+seo:
+  title: Letter editing and proofreading services in India
+  description: Letter writing and proofreading services in India at affordable prices. Trusted for over 25 years/
+  keywords:
+    - Letter editing
+    - letter proofreading
+    - letter writing
+    - business letter writing
 ---
 
 Writing a letter that gets your readers' attention isn't alawys easy. Writing a cover letter to journal or grant proposal or for a job? Our team will help you craft the perfect letter that delivers the message. To do this our editors

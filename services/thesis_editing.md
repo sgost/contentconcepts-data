@@ -147,5 +147,17 @@ faq:
         British English.
 key: thesis_editing
 parentType: academic
+seo:
+  title: Thesis Editing services in India, Thesis proofreading services in India
+  description: Thesis editing, thesis proofreading services in India. Thesis rewriting
+  keywords:
+    - Thesis editing
+    - Thesis proofreading
+    - dissertation editing
+    - dissertation proofreading
+    - Thesis editing service
+    - Thesis proofreading service
+    - dissertation editing service
+    - dissertation proofreading service
 ---
 Our PhD thesis editing and dissertation editing services is one of the most trusted and affordable in India. Our qualified editors are well aware of the expectations from universities in India as well as out of India. We comply to most familiar style guides such as APA, Chicago, MLA, etc. Here is a snapshot of our very affordable thesis editing and proofreading services:

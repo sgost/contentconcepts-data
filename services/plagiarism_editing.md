@@ -138,6 +138,15 @@ faq: {
 }
 key: "plagiarism_editing"
 parentType: "technical"
+seo:
+  title: Plagiarism editing, Plagiarism rewriting, Plagiarism proofreading services in India
+  description: Similarity checker and plagiarism checker, removal services in India
+  keywords:
+    - Plagiarism editing
+    - Plagiarism rewriting
+    - Plagiarism proofreading
+    - Plagiarism checker
+    - Plagiarism remover
 ---
 
 Worried your manuscirpt might be rejected for plagiarism? Our plagiarism check and editing services provide you detailed report on your paper and then recommendations to rewrite your paper to reduce similarity. Our editors help you fix the problem areas, English language and flow of the paper

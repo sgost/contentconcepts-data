@@ -223,6 +223,16 @@ faq: {
 }
 key: "social_media"
 parentType: "consulting"
+seo:
+  title: Manuscript similarity checkPlagiarism removal services in India, Plagiarism checker services, Similarity checker
+  description: Manuscript similarity checkPlagiarism removal services in India, Plagiarism checker services, Similarity checker
+  keywords:
+    - manuscript similarity check
+    - Plagiarism checker
+    - Plagiarism correction
+    - Plagiarism checking
+    - Plagiarism detection
+    - Plagiarism remover
 ---
 
 Types of Manuscripts edited - Research Paper, Thesis, Proposal, Technical Editing
