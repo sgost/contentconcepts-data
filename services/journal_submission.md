@@ -115,6 +115,14 @@ faq: {
 }
 key: "journal_submission"
 parentType: "content_development"
+seo:
+  title: Manuscript publication support.
+  description: Manuscript publication support services in India. Truly affordable prices for top quality work offered by PhD editors.
+  keywords:
+    - Publication services
+    - publication support
+    - manuscript publication support
+    - manuscript submission support
 ---
 
 Are you finding it difficult to deal with the journal submission process? You are not alone. Many authors want to just focus on their research work without spending time on th tedious process of submitting mansucript to the journal. Let or experts take care of the journal submission while you can focus on your research work 

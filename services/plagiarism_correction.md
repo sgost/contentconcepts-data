@@ -164,6 +164,15 @@ faq:
         British English.
 key: plagiarism_correction
 parentType: technical
+seo:
+  title: Plagiarism removal services in India, Plagiarism checker services
+  description: Plagiarism checker and plagiarism removal services in India at truly affordable prices. We help reduce similarity in manuscript
+  keywords:
+    - Plagiarism checker
+    - Plagiarism correction
+    - Plagiarism checking
+    - Plagiarism detection
+    - Plagiarism remover
 ---
 
 Our plagiarism checker service is powered by technology as well as expert minds. Modern day academic plagiarism involves a lot of unintentional similairty that the authors have as part of sections such as Materials & Methods or References or definition of principles or laws that remain constant and are universal. Let our experts help you find out the root cause of plagiarism and reduce the similarity faster by using industry leadin software and then checked by expert editors in the chosen field. Our Plagiarism Checker services involve:

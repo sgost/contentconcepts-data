@@ -223,6 +223,15 @@ faq: {
 }
 key: "marketing_communications_editing"
 parentType: "business"
+seo:
+  title: Business document editing and proofreading services in India.
+  description: Marketing editing and proofreading services in India at affordable prices.
+  keywords:
+    - Marketing document editing
+    - Marketing document proofreading
+    - Marketing document editing services
+    - Marketing document proofreading services
+    - proofreading
 ---
 
 Have a fresh pair of eyes look at your marketing communications and correct the little flaws or the major thing that you have overlooked. Most often, as an author you would be so close to the content that you may not have the readers’ perspective.

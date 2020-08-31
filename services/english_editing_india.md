@@ -223,6 +223,20 @@ faq: {
 }
 key: "english_editing_india"
 parentType: "business"
+seo:
+  title: English Editing and Proofreading Services in India
+  description: English Ediitng and proofreading services in India. Truly affordable and top-quality services for manuscript authors and publishers
+  keywords:
+    - english editing
+    - editing english
+    - editing manuscripts
+    - editing service
+    - manuscript editor
+    - editing a manuscript
+    - manuscript editing
+    - manuscript edit
+    - manuscript editing services free online english language editing service
+    - english language editing service india
 ---
 
 Business content works when the written content is clear, concise and compelling. Whether you create content for websites or marketing collateral r or white paper, each of these has a purpose - convey the right message at the right place. However, English language in the written content often fails in this purpose .

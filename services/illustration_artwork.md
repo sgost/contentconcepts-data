@@ -138,6 +138,14 @@ faq: {
 }
 key: "illustration_artwork"
 parentType: "content_development"
+seo:
+  title: Research paper artwork and illustration services in India
+  description: Illustration and artwork services for research paper, books, websites at truly affordale prices and yet top quality.
+  keywords:
+    - Artwork for research paper
+    - illustrations for scientific research
+    - science illustrations
+    - infographics designer
 ---
 
 Looking for help in illustrating research concepts or enhancing your charts, photos and other visuals? We create aesthetically good looking illustrations that make a great impact in scientific and research communications and publishing. We use the latest technologies and tools to craft the right illustration for your needs

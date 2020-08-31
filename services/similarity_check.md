@@ -138,6 +138,16 @@ faq: {
 }
 key: "similarity_check"
 parentType: "technical"
+seo:
+  title: Manuscript similarity checkPlagiarism removal services in India, Plagiarism checker services, Similarity checker
+  description: Manuscript similarity checkPlagiarism removal services in India, Plagiarism checker services, Similarity checker
+  keywords:
+    - manuscript similarity check
+    - Plagiarism checker
+    - Plagiarism correction
+    - Plagiarism checking
+    - Plagiarism detection
+    - Plagiarism remover
 ---
 
 Our similarity check is done by software and then reviewed by editors for your recommendation

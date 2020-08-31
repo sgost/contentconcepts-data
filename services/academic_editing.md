@@ -178,6 +178,20 @@ faq:
         British English.
 key: academic_editing
 parentType: technical
+seo:
+  title: English Editing and Proofreading Services for academics in India
+  description: Academic English editing and proofreading services in India at affordable prices. Why pay in dollar when you can pay in rupee?
+  keywords:
+    - English editing
+    - editing english
+    - editing manuscripts
+    - editing service
+    - manuscript editor
+    - editing a manuscript
+    - manuscript editing
+    - manuscript edit
+    - manuscript editing services free online english language editing service
+    - english language editing service india
 ---
 
 If you are looking for affordable yet top-quality academic editing services, you have reached the right place. Our mission is to prvoide [manuscript editing](/services/manuscript_editing) and proofreading services at affordable price.

@@ -215,6 +215,19 @@ faq: {
 }
 key: "proposal_editing"
 parentType: "academic"
+seo:
+  title: Research proposal editing services in India. Proposal proofreading services
+  description: Proposal editing and proofreading services in India at affordable prices. Proposal formatting available.
+  keywords:
+    - Proposal editing service
+    - proposal proofreading service
+    - proposal english editing
+    - proposal editing
+    - proposal proofreading
+    - proposal writing
+    - proposal review
+    - proposal checking
+    - proposal formatting
 ---
 
 Types of Proposals edited - You have a great idea that you think will get you grant. It is very important that your proposal is clear, concise and conveys your ideas effectively.

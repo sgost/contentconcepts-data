@@ -223,6 +223,16 @@ faq: {
 }
 key: "business_editing"
 parentType: "business"
+seo:
+  title: Business document editing and proofreading services in India.
+  description: Business document editing and proofreading services in India.
+  keywords:
+    - Business document editing
+    - Business document proofreading
+    - Business document editing services
+    - Business document proofreading services
+    - corporate document editing
+    - corporate document proofreading
 ---
 
 Does your content work? Whether you create website content or white paper or blogpost or product presentation, each of these has a purpose - convey the right message at the right place. But, most often content is not tailored to the medium or audience.

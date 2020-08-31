@@ -231,6 +231,15 @@ faq: {
 }
 key: "website_copy_editing"
 parentType: "business"
+seo:
+  title: Website copy editing, website proofreading services in India
+  description: Website editing and proofreading services in India at affordable prices and quality services. No-nonsese business services.
+  keywords:
+    - Website copy editing
+    - website proofreading services in India
+    - Web site copy editing
+    - web site proofreading
+    - website English editing
 ---
 
 Website content is not just having correct grammar and impressive vocabulary. More than anything, it should work.

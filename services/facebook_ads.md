@@ -223,6 +223,14 @@ faq: {
 }
 key: "facebook_ads"
 parentType: "content_development"
+seo:
+  title: Admission essay editing services in India. College essay proofreading and editing services
+  description: Essay editing and proofreading services in India at affordable prices. One of the best and cheaper essay editing services in India.
+  keywords:
+    - Essay editing services
+    - essay proofreading services
+    - admission essay editing
+    - admission essay proofreading
 ---
 
 Types of Ad copies edited - Research Paper, Thesis, Proposal

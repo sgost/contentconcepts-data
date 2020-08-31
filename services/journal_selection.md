@@ -115,6 +115,14 @@ faq: {
 }
 key: "journal_selection"
 parentType: "content_development"
+seo:
+  title: Manuscript publication support.
+  description: Manuscript publication support services in India. Truly affordable prices for top quality work offered by PhD editors.
+  keywords:
+    - Publication services
+    - publication support
+    - manuscript publication support
+    - manuscript submission support
 ---
 
 One of the key task in publishing is selecting the right journal for your paper. More often papers are rejected becuase the topic may not be relevant for the selected journal. Let our experts choose the right journal for your manuscript

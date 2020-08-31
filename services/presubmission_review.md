@@ -138,6 +138,14 @@ faq: {
 }
 key: "presubmission_review"
 parentType: "content_development"
+seo:
+  title: Manuscript publication support.
+  description: Manuscript publication support services in India. Truly affordable prices for top quality work offered by PhD editors.
+  keywords:
+    - Publication services
+    - publication support
+    - manuscript publication support
+    - manuscript submission support
 ---
 
 Our manuscript reviewers conduct a detailed review of your manuscript to ensure the manuscript is properly structured and the technical content is sound and clear. Our experts validate the study design and methodology as well as the flow and language of the manuscript

@@ -223,6 +223,16 @@ faq: {
 }
 key: "presentations"
 parentType: "business"
+seo:
+  title: Business document editing and proofreading services in India.
+  description: Business document editing and proofreading services in India.
+  keywords:
+    - Business document editing
+    - Business document proofreading
+    - Business document editing services
+    - Business document proofreading services
+    - corporate document editing
+    - corporate document proofreading
 ---
 
 Types of Manuscripts edited - Research Paper, Thesis, Proposal, Technical Editing

@@ -223,6 +223,14 @@ faq: {
 }
 key: "company_profile"
 parentType: "business"
+seo:
+  title: Company profile document editing and proofreading services in India.
+  description: Company Profile document editing and proofreading services in India at affordable prices.
+  keywords:
+    - Company Profile document editing
+    - Company Profile document proofreading
+    - Company Profile document editing services
+    - Company Profile document proofreading services
 ---
 
 Company profile or business profile is written in different formats based on the requirements and target audience. A company profile summarises cearly its business activities and highlights important information. The language and tone varies based on whether you are raising capital or informing stakeholders. Company profile is like a resume of the company - make it bright. Our Business/Company Profile editing service:

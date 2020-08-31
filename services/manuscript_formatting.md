@@ -138,6 +138,16 @@ faq: {
 }
 key: "manuscript_formatting"
 parentType: "academic"
+seo:
+  title: Manuscript formatting, research paper formatting services in India
+  description: Manuscript formatting and research paper formatting services in India. APA style formats, Chicago style format, References formatting.
+  keywords:
+    - Manuscript formatting services in India
+    - manuscript formatting
+    - research paper formatting
+    - references formatting
+    - APA formatting
+    - APA editor
 ---
 
 For many researchers and manuscript authors, formatting is a nightmare and eats in to a lot of their research time. We are here to take care of the manuscript formatting guidelines. Since we do this everyday, our experts will quickly format and make it ready for submission

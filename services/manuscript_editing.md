@@ -147,6 +147,21 @@ faq:
         British English.
 key: manuscript_editing
 parentType: academic
+seo:
+  title: Manuscript editing services in India for research papers
+  description: Manuscript editing services in India for research papers
+  keywords:
+    - english editing
+    - editing english
+    - editing manuscripts
+    - editing service
+    - manuscript editor
+    - editing a manuscript
+    - manuscript editing
+    - manuscript edit
+    - manuscript editing services free online english language editing service
+    - english language editing service india
+    - manuscript editing services, cheap english editing services
 ---
 
 Manuscript editing need not be so expensive. We provide top-qualty work at really affordable price. Starting from simple copy editing to advanced editing, you can choose the level of editing that suits your budget or what your manuscript requires.

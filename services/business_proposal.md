@@ -223,6 +223,14 @@ faq: {
 }
 key: "business_proposal"
 parentType: "business"
+seo:
+  title: Proposal editing and proofreading services in India.
+  description: Proposal editing and proofreading services in India at affordable prices. Proposal formatting available.
+  keywords:
+    - Proposal document editing
+    - Proposal document proofreading
+    - Proposal document editing services
+    - Proposal document proofreading services
 ---
 
 Congratulations! Since you are here, you should be serious and sincere about your business proposal. And that’s a good start.
