@@ -4,14 +4,14 @@ highlight: "For Authors & Publishers"
 message: "Not happy with edit? <span>100% refund without any condition</span>"
 priceCard: {
   pricing: {
-    title: "Starting from",
+    title: "Starts from",
     price: {
-      inr: "",
+      inr: "<span>INR 1.50</span>/word",
       usd: "<span>$0.03</span>/word"
     }
   },
-  tagContent: "Edited by qualified subject matter experts",
-  content: "Don't need major revisions before journal submission?"
+  tagContent: "Clear, Concise, Engaging style",
+  content: "Suggestions for artwork & infographics"
 }
 features: [
   {
