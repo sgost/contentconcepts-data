@@ -6,12 +6,12 @@ priceCard: {
   pricing: {
     title: "Starting from",
     price: {
-      inr: "",
+      inr: "INR 1.50</span>/word",
       usd: "<span>$0.03</span>/word"
     }
   },
-  tagContent: "Edited by qualified subject matter experts",
-  content: "Don't need major revisions before journal submission?"
+  tagContent: "Clear, Concise and Complete",
+  content: "Create winning proposals"
 }
 features: [
   {
@@ -50,7 +50,7 @@ editingLevels: {
   levels: [
     {
       id: 1,
-      title: "Checking for grammatical errors Correcting spelling mistakes",
+      title: "Checking for grammatical errors, correcting spelling mistakes",
       copy: "yes",
       substantive: "yes",
       developmental: "yes"
@@ -64,7 +64,7 @@ editingLevels: {
     },
     {
       id: 3,
-      title: "Ensuring the final copy is clean without any Typographical or other errors",
+      title: "Ensuring the final copy is clean without any typographical or other errors",
       copy: "yes",
       substantive: "yes",
       developmental: "yes"
@@ -85,7 +85,7 @@ editingLevels: {
     },
     {
       id: 6,
-      title: "Checking for appropirate usage for words and terms",
+      title: "Checking for appropriate usage for words and terms",
       copy: "no",
       substantive: "yes",
       developmental: "yes"
@@ -99,7 +99,7 @@ editingLevels: {
     },
     {
       id: 8,
-      title: "Verifing effective structure and outline",
+      title: "Verifying effective structure and outline",
       copy: "no",
       substantive: "no",
       developmental: "yes"
