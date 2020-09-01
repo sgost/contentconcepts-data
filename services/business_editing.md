@@ -6,12 +6,12 @@ priceCard: {
   pricing: {
     title: "Starts from",
     price: {
-      inr: "",
+      inr: "<span>INR 1.50</span>/word",
       usd: "<span>$0.03</span>/word"
     }
   },
-  tagContent: "Edited by qualified subject matter experts",
-  content: "Don't need major revisions before journal submission?"
+  tagContent: "Clear, Conncise & Engaging content",
+  content: "Make your content do the business for you?"
 }
 features: [
   {
@@ -127,19 +127,19 @@ editingSample: {
     {
       id: 1,
       title: "Copy Editing",
-      description: "Line by line editing for language, readibility nad technical learning improvement",
+      description: "Line by line editing for language, readability and technical learning improvement",
       image: "../assets/substantive_editing.png"
     },
     {
       id: 2,
       title: "Substantive Editing",
-      description: "Line by line editing for language, readibility nad technical learning improvement",
+      description: "Line by line editing for language, readability and technical learning improvement",
       image: "../assets/substantive_editing.png"
     },
     {
       id: 3,
       title: "Developmental Editing",
-      description: "Line by line editing for language, readibility nad technical learning improvement",
+      description: "Line by line editing for language, readability and technical learning improvement",
       image: "../assets/substantive_editing.png"
     }
   ]
@@ -186,7 +186,7 @@ serviceProcess: {
     {
       id: 2,
       order: "02",
-      title: "Recieve Quote",
+      title: "Receive Quote",
       description: "After receiving the manuscript, ContentConcepts sends price quote.",
       themeColor: "#F5DA7D"
     },
