@@ -4,7 +4,7 @@ highlight: "Reduce to less than 5%"
 message: "Not happy with edit? <span>100% refund without any condition</span>"
 priceCard: {
   pricing: {
-    title: "Starting from",
+    title: "Starts from",
     price: {
       inr: "<span>INR 3500</span>",
       usd: "<span>USD 50</span>"
