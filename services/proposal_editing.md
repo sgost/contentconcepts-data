@@ -178,7 +178,7 @@ serviceProcess: {
     {
       id: 2,
       order: "02",
-      title: "Recieve Quote",
+      title: "Receive Quote",
       description: "After receiving the manuscript, ContentConcepts sends price quote.",
       themeColor: "#F5DA7D"
     },
