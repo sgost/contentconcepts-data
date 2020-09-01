@@ -90,7 +90,7 @@ sitemapList:
         title: Marketing Communications
         link: /services/marketing_communications_editing
       - id: 3
-        title: Business Profile
+        title: Company Profile
         link: /services/company_profile
       - id: 4
         title: Document Formatting
