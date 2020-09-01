@@ -93,7 +93,7 @@ editingLevels: {
     },
     {
       id: 6,
-      title: "Checking for appropirate usage for words and terms",
+      title: "Checking for appropriate usage for words and terms",
       copy: "no",
       substantive: "yes",
       developmental: "yes"
@@ -107,7 +107,7 @@ editingLevels: {
     },
     {
       id: 8,
-      title: "Verifing effective structure and outline",
+      title: "Verifying effective structure and outline",
       copy: "no",
       substantive: "no",
       developmental: "yes"
@@ -127,7 +127,7 @@ editingSample: {
     {
       id: 1,
       title: "Copy Editing",
-      description: "Line by line editing for language, readibility nad technical learning improvement",
+      description: "Line by line editing for language, readability and technical learning improvement",
       image: "../assets/substantive_editing.png"
     },
     {
@@ -186,7 +186,7 @@ serviceProcess: {
     {
       id: 2,
       order: "02",
-      title: "Recieve Quote",
+      title: "Receive Quote",
       description: "After receiving the manuscript, ContentConcepts sends price quote.",
       themeColor: "#F5DA7D"
     },
@@ -235,4 +235,4 @@ seo:
     - book proofreading services
 ---
 
-ContentConcepts specializes in editing and proofreading science, technology, business and non-fiction book manuscripts. Editing a book manuscript is an art. It's more than just grammar and correct usage of words. We have exclusive editors for book manuscripts who have experiece in editing more than 100 manuscripts. Our manuscript editing combines copy editing and developmental editing by
+ContentConcepts specializes in editing and proofreading science, technology, business and non-fiction book manuscripts. Editing a book manuscript is an art. It's more than just grammar and correct usage of words. We have exclusive editors for book manuscripts who have experience in editing more than 1000 book manuscripts. Our manuscript editing combines copy editing and developmental editing by:
