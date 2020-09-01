@@ -32,7 +32,7 @@ features: [
   },
   {
     id: 5,
-    title: "Less than 5$ similarity"
+    title: "Less than 5% similarity"
   }
 ]
 
@@ -42,25 +42,25 @@ editingSample: {
     {
       id: 1,
       title: "Copy Editing",
-      description: "Line by line editing for language, readibility nad technical learning improvement",
+      description: "Line by line editing for language, readability and technical learning improvement",
       image: "../assets/substantive_editing.png"
     },
     {
       id: 2,
       title: "Substantive Editing",
-      description: "Line by line editing for language, readibility nad technical learning improvement",
+      description: "Line by line editing for language, readability and technical learning improvement",
       image: "../assets/substantive_editing.png"
     },
     {
       id: 3,
       title: "Developmental Editing",
-      description: "Line by line editing for language, readibility nad technical learning improvement",
+      description: "Line by line editing for language, readability and   technical learning improvement",
       image: "../assets/substantive_editing.png"
     }
   ]
 }
 editingHighlights: {
-  title: "Why choose our Similarity Check ervices?",
+  title: "Why choose our Similarity Check Services?",
   highlights: [
     {
       id: 1,
@@ -101,7 +101,7 @@ serviceProcess: {
     {
       id: 2,
       order: "02",
-      title: "Recieve Quote",
+      title: "Receive Quote",
       description: "After receiving the manuscript, ContentConcepts sends price quote.",
       themeColor: "#F5DA7D"
     },
@@ -139,8 +139,8 @@ faq: {
 key: "similarity_check"
 parentType: "technical"
 seo:
-  title: Manuscript similarity checkPlagiarism removal services in India, Plagiarism checker services, Similarity checker
-  description: Manuscript similarity checkPlagiarism removal services in India, Plagiarism checker services, Similarity checker
+  title: Plagiarism removal services in India, Plagiarism checker services, Manuscript similarity check, Similarity checker
+  description: Plagiarism removal services in India - We check for plagiarism, similarity and edit/rewrite your mansucript based on the similarity report. Affordable and quick service that is trusted by many authors and publishers
   keywords:
     - manuscript similarity check
     - Plagiarism checker
