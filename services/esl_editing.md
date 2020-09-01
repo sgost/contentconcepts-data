@@ -93,7 +93,7 @@ editingLevels: {
     },
     {
       id: 6,
-      title: "Checking for appropirate usage for words and terms",
+      title: "Checking for appropriate usage for words and terms",
       copy: "no",
       substantive: "yes",
       developmental: "yes"
@@ -107,7 +107,7 @@ editingLevels: {
     },
     {
       id: 8,
-      title: "Verifing effective structure and outline",
+      title: "Verifying effective structure and outline",
       copy: "no",
       substantive: "no",
       developmental: "yes"
@@ -127,7 +127,7 @@ editingSample: {
     {
       id: 1,
       title: "Copy Editing",
-      description: "Line by line editing for language, readibility nad technical learning improvement",
+      description: "Line by line editing for language, readability and technical learning improvement",
       image: "../assets/substantive_editing.png"
     },
     {
@@ -186,7 +186,7 @@ serviceProcess: {
     {
       id: 2,
       order: "02",
-      title: "Recieve Quote",
+      title: "Receive Quote",
       description: "After receiving the manuscript, ContentConcepts sends price quote.",
       themeColor: "#F5DA7D"
     },
@@ -239,4 +239,4 @@ seo:
     - english language editing service india
 ---
 
-For non-native speakers of English, writing a research manuscript or paper is a difficlut task. Your strength is research and your language may not be effective. Our ESL editors specalise in editing manuscripts written by authors whose first language is not English. Get the right word, right sentence structure and convey your research findings effectively
+For non-native speakers of English, writing a research manuscript or paper is a difficult task. Your strength is research and your language may not be effective. Our ESL editors specialise in editing manuscripts written by authors whose first language is not English. Get the right word, right sentence structure and convey your research findings effectively
