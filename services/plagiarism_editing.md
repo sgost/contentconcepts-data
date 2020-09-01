@@ -4,10 +4,10 @@ highlight: "Reduce similarity & risk"
 message: "Not happy with edit? <span>100% refund without any condition</span>"
 priceCard: {
   pricing: {
-    title: "Starting from",
+    title: "Starts from",
     price: {
-      inr: "",
-      usd: "<span>$0.08</span>/word"
+      inr: "<span>INR 4</span>/word",
+      usd: "<span>$0.07</span>/word"
     }
   },
   tagContent: "Tech + Human powered solution",
@@ -42,19 +42,19 @@ editingSample: {
     {
       id: 1,
       title: "Copy Editing",
-      description: "Line by line editing for language, readibility nad technical learning improvement",
+      description: "Line by line editing for language, readability and technical learning improvement",
       image: "../assets/substantive_editing.png"
     },
     {
       id: 2,
       title: "Substantive Editing",
-      description: "Line by line editing for language, readibility nad technical learning improvement",
+      description: "Line by line editing for language, readability and technical learning improvement",
       image: "../assets/substantive_editing.png"
     },
     {
       id: 3,
       title: "Developmental Editing",
-      description: "Line by line editing for language, readibility nad technical learning improvement",
+      description: "Line by line editing for language, readability and technical learning improvement",
       image: "../assets/substantive_editing.png"
     }
   ]
@@ -101,7 +101,7 @@ serviceProcess: {
     {
       id: 2,
       order: "02",
-      title: "Recieve Quote",
+      title: "Receive Quote",
       description: "After receiving the manuscript, ContentConcepts sends price quote.",
       themeColor: "#F5DA7D"
     },
@@ -140,7 +140,7 @@ key: "plagiarism_editing"
 parentType: "technical"
 seo:
   title: Plagiarism editing, Plagiarism rewriting, Plagiarism proofreading services in India
-  description: Similarity checker and plagiarism checker, removal services in India
+  description: We check for plagiarised content and edit or rewrite the manuscript based on similarity or plagiarism report. 
   keywords:
     - Plagiarism editing
     - Plagiarism rewriting
@@ -149,4 +149,4 @@ seo:
     - Plagiarism remover
 ---
 
-Worried your manuscirpt might be rejected for plagiarism? Our plagiarism check and editing services provide you detailed report on your paper and then recommendations to rewrite your paper to reduce similarity. Our editors help you fix the problem areas, English language and flow of the paper
+Worried your manuscript might be rejected for plagiarism? Our plagiarism check and editing services provide you detailed report on your paper and then recommendations to rewrite your paper to reduce similarity. Our editors help you fix the problem areas, English language and flow of the paper
