@@ -63,7 +63,7 @@ editingLevels:
       substantive: yes
       developmental: yes
     - id: 6
-      title: Checking for appropirate usage for words and terms
+      title: Checking for appropriate usage for words and terms
       copy: no
       substantive: yes
       developmental: yes
@@ -73,7 +73,7 @@ editingLevels:
       substantive: no
       developmental: yes
     - id: 8
-      title: Verifing effective structure and outline
+      title: Verifying effective structure and outline
       copy: no
       substantive: no
       developmental: yes
@@ -87,17 +87,17 @@ editingSample:
   samples:
     - id: 1
       title: Copy Editing
-      description: Line by line editing for language, readibility nad technical
+      description: Line by line editing for language, readability and technical
         learning improvement
       image: ../assets/substantive_editing.png
     - id: 2
       title: Substantive Editing
-      description: Line by line editing for language, readibility nad technical
+      description: Line by line editing for language, readability and technical
         learning improvement
       image: ../assets/substantive_editing.png
     - id: 3
       title: Developmental Editing
-      description: Line by line editing for language, readibility nad technical
+      description: Line by line editing for language, readability and technical
         learning improvement
       image: ../assets/substantive_editing.png
 editingHighlights:
@@ -135,7 +135,7 @@ serviceProcess:
       themeColor: "#98ECA6"
     - id: 2
       order: "02"
-      title: Recieve Quote
+      title: Receive Quote
       description: After receiving the manuscript, ContentConcepts sends price quote.
       themeColor: "#F5DA7D"
     - id: 3
@@ -165,7 +165,7 @@ faq:
 key: plagiarism_correction
 parentType: technical
 seo:
-  title: Plagiarism removal services in India, Plagiarism checker services
+  title: Plagiarism removal services in India, Plagiarism checker services, Plagiarism detection
   description: Plagiarism checker and plagiarism removal services in India at truly affordable prices. We help reduce similarity in manuscript
   keywords:
     - Plagiarism checker
@@ -175,4 +175,4 @@ seo:
     - Plagiarism remover
 ---
 
-Our plagiarism checker service is powered by technology as well as expert minds. Modern day academic plagiarism involves a lot of unintentional similairty that the authors have as part of sections such as Materials & Methods or References or definition of principles or laws that remain constant and are universal. Let our experts help you find out the root cause of plagiarism and reduce the similarity faster by using industry leadin software and then checked by expert editors in the chosen field. Our Plagiarism Checker services involve:
+Our plagiarism checker service is powered by technology as well as expert minds. Modern day academic plagiarism involves a lot of unintentional similarity that the authors have as part of sections such as Materials & Methods or References or definition of principles or laws that remain constant and are universal. Let our experts help you find out the root cause of plagiarism and reduce the similarity faster by using industry leading software and then checked by expert editors in the chosen field. Our Plagiarism Checker services involve:
