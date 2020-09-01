@@ -6,12 +6,12 @@ priceCard: {
   pricing: {
     title: "Starting from",
     price: {
-      inr: "",
+      inr: "<span>INR 1.50</span>/word",
       usd: "<span>$0.03</span>/word"
     }
   },
-  tagContent: "Edited by qualified subject matter experts",
-  content: "Don't need major revisions before journal submission?"
+  tagContent: "Edited by native-English editors",
+  content: "Spot typical errors in ESL writing"
 }
 features: [
   {
@@ -65,14 +65,14 @@ editingLevels: {
     },
     {
       id: 2,
-      title: "Ensuring the manuscripts adheres to style guide",
+      title: "Ensuring the manuscript adheres to style guide",
       copy: "yes",
       substantive: "yes",
       developmental: "yes"
     },
     {
       id: 3,
-      title: "Ensuring the final copy is clean without any Typographical or other errors",
+      title: "Ensuring the final copy is clean without any typographical or other errors",
       copy: "yes",
       substantive: "yes",
       developmental: "yes"
