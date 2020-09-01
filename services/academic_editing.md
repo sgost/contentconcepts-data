@@ -31,8 +31,8 @@ priceCard:
   pricing:
     title: Starts from
     price:
-      inr: <span>INR 1.50</span> OR
-      usd: <span>USD 0.03</span> / word
+      inr: <span>INR 1.50</span>word
+      usd: <span>USD 0.03</span>/word
   tagContent: No express fee, quick delivery
   content: Publish with confidence
 editingLevels:
@@ -149,7 +149,7 @@ serviceProcess:
       themeColor: "#98ECA6"
     - id: 2
       order: "02"
-      title: Recieve Quote
+      title: Receive Quote
       description: After receiving the manuscript, ContentConcepts sends price quote.
       themeColor: "#F5DA7D"
     - id: 3
@@ -179,7 +179,7 @@ faq:
 key: academic_editing
 parentType: technical
 seo:
-  title: English Editing and Proofreading Services for academics in India
+  title: English Editing and Proofreading Services in India for research paper & manuscript
   description: Academic English editing and proofreading services in India at affordable prices. Why pay in dollar when you can pay in rupee?
   keywords:
     - English editing
