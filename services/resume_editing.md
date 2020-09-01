@@ -4,10 +4,10 @@ highlight: "Make a first & best impression"
 message: "Not happy with edit? <span>100% refund without any condition</span>"
 priceCard: {
   pricing: {
-    title: "Starting from",
+    title: "Starts from",
     price: {
-      inr: "",
-      usd: "<span>$0.03</span>/word"
+      inr: "<span>INR 2.00</span>/word",
+      usd: "<span>$0.05</span>/word"
     }
   },
   tagContent: "Edited by qualified subject matter experts",
@@ -72,7 +72,7 @@ editingLevels: {
     },
     {
       id: 3,
-      title: "Ensuring the final copy is clean without any Typographical or other errors",
+      title: "Ensuring the final copy is clean without any typographical or other errors",
       copy: "yes",
       substantive: "yes",
       developmental: "yes"
@@ -186,7 +186,7 @@ serviceProcess: {
     {
       id: 2,
       order: "02",
-      title: "Recieve Quote",
+      title: "Receive Quote",
       description: "After receiving the manuscript, ContentConcepts sends price quote.",
       themeColor: "#F5DA7D"
     },
