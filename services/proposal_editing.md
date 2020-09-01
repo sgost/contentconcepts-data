@@ -1,6 +1,6 @@
 ---
 title: "Proposal Editing"
-highlight: "Concsie and complete is the key"
+highlight: "Concise and complete is the key"
 message: "Not happy with edit? <span>100% refund without any condition</span>"
 priceCard: {
   pricing: {
@@ -119,7 +119,7 @@ editingSample: {
     {
       id: 1,
       title: "Copy Editing",
-      description: "Line by line editing for language, readibility nad technical learning improvement",
+      description: "Line by line editing for language, readability and technical learning improvement",
       image: "../assets/substantive_editing.png"
     },
     {
