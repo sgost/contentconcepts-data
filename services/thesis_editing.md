@@ -20,7 +20,7 @@ priceCard:
       inr: <span>INR 1.5</span>/word
       usd: <span>$0.03</span>/word
   tagContent: Quality & Affordable
-  content: Don't need major revisions before journal submission?
+  content: PhD Editors, Format Editors
 editingLevels:
   title: Thesis Editing Levels
   subHeading: Choose the right editing level
@@ -70,17 +70,17 @@ editingSample:
   samples:
     - id: 1
       title: Copy Editing
-      description: Line by line editing for language, readibility nad technical
+      description: Line by line editing for language, readability and technical
         learning improvement
       image: ../assets/substantive_editing.png
     - id: 2
       title: Substantive Editing
-      description: Line by line editing for language, readibility nad technical
+      description: Line by line editing for language, rreadability and technical
         learning improvement
       image: ../assets/substantive_editing.png
     - id: 3
       title: Developmental Editing
-      description: Line by line editing for language, readibility nad technical
+      description: Line by line editing for language, readability and technical
         learning improvement
       image: ../assets/substantive_editing.png
 editingHighlights:
@@ -118,7 +118,7 @@ serviceProcess:
       themeColor: "#98ECA6"
     - id: 2
       order: "02"
-      title: Recieve Quote
+      title: Receive Quote
       description: After receiving the manuscript, ContentConcepts sends price quote.
       themeColor: "#F5DA7D"
     - id: 3
