@@ -13,6 +13,9 @@ sitemapList:
       - id: 3
         title: Contact
         link: /contact/
+      - id: 4
+        title: Sitemap
+        link: /sitemap/
   - id: 2
     title: Academic Editing
     link: /services/academic_editing
