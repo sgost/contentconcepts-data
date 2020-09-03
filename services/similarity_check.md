@@ -16,7 +16,7 @@ priceCard: {
 features: [
   {
     id: 1,
-    title: "Recommendations to rewrite text"
+    title: "Top-rated plagiarism software for checking"
   },
   {
     id: 2,
@@ -24,7 +24,7 @@ features: [
   },
   {
     id: 3,
-    title: "Editor assistance for recheck"
+    title: "Editor assistance for clarifications"
   },
   {
     id: 4,
