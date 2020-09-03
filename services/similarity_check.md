@@ -1,7 +1,7 @@
 ---
 title: "Similarity Check"
-highlight: "Reduce to less than 5%"
-message: "Not happy with edit? <span>100% refund without any condition</span>"
+highlight: "Reduce plagiarism"
+message: "Get detailed report <span>Receive suggestions to reduce similarity</span>"
 priceCard: {
   pricing: {
     title: "Starts from",
@@ -32,7 +32,7 @@ features: [
   },
   {
     id: 5,
-    title: "Less than 5% similarity"
+    title: "Plagiarism Editing available to reduce similarity"
   }
 ]
 
