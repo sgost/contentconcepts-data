@@ -71,7 +71,7 @@ sitemapList:
         link: /services/manuscript_formatting
   - id: 4
     title: Plagiarism Check
-    link: /services/plagiarism_correction
+    link: /services/plagiarism_check
     sitemap:
       - id: 1
         title: Manuscript Similarity Check
@@ -79,9 +79,6 @@ sitemapList:
       - id: 2
         title: Plagiarism Editing
         link: /services/plagiarism_editing
-      - id: 3
-        title: Plagiarism Correction
-        link: /services/plagiarism_check
   - id: 5
     title: Business Editing
     link: /services/business_editing
