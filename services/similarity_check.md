@@ -4,14 +4,14 @@ highlight: "Reduce plagiarism"
 message: "Get detailed report <span>Receive suggestions to reduce similarity</span>"
 priceCard: {
   pricing: {
-    title: "Starts from",
+    title: "Starts from*",
     price: {
       inr: "<span>INR 3500</span>",
       usd: "<span>USD 50</span>"
     }
   },
   tagContent: "Technology. + Human service",
-  content: "Reduce similarity, ready for publishing"
+  content: " *Price changes based on Plagiarism software used"
 }
 features: [
   {
