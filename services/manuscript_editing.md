@@ -77,7 +77,7 @@ editingSample:
       title: Manuscript Substantive Editing
       description: Line by line editing for language, readibility nad technical
         learning improvement
-      image: ../assets/substantive_editing.png
+      image: ../assets/manuscript_editing_sample_free.png
     - id: 3
       title: Manuscript Developmental Editing
       description: Line by line editing for language, readibility nad technical
