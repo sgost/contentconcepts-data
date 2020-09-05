@@ -101,18 +101,15 @@ editingSample:
   samples:
     - id: 1
       title: Copy Editing
-      description: Line by line editing for language, readibility nad technical
-        learning improvement
-      image: ../assets/substantive_editing.png
+      description: Grammatically correct sentences, appropriate use of words and terminologies
+      image: ../assets/Copy_editing_sample.png
     - id: 2
       title: Substantive Editing
-      description: Line by line editing for language, readibility and technical
-        learning improvement
-      image: ../assets/substantive_editing.png
+      description: Line by line editing for language, readibility. Overall structure of the paper, tone and section transition.
+ image: ../assets/Manuscript_editing_sample_free.png
     - id: 3
       title: Developmental Editing
-      description: Line by line editing for language, readibility nad technical
-        learning improvement
+      description: Technical review of manuscript by editor + Copy editing, substantive editing features
       image: ../assets/substantive_editing.png
 editingHighlights:
   title: Highlights of our manuscript editing services
