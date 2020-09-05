@@ -4,13 +4,13 @@ highlight: Affordable & Quality Service
 message: Not happy with edit? <span>100% refund without any condition</span>
 features:
   - id: 1
-    title: Edited by qualified subject matter experts
+    title: "Phd Editors with certified English language editing skills "
   - id: 2
-    title: Phd Editors with certified English language editing skills
+    title: Subject matter experts in Science, Medicine, Humanities and Technology
   - id: 3
     title: Native-English editors
   - id: 4
-    title: Over 1500 thesis edited
+    title: Over 5000 thesis edited
   - id: 5
     title: APA, Chicago and MLA style check & formatting
 priceCard:
@@ -70,14 +70,14 @@ editingSample:
   samples:
     - id: 1
       title: Copy Editing
-      description: Line by line editing for language, readability and technical
-        learning improvement
-      image: ../assets/substantive_editing.png
+      description: Grammatically correct sentences, appropriate use of words and
+        terminologies in thesis
+      image: ../assets/thesis_editing_sample_free.png
     - id: 2
       title: Substantive Editing
-      description: Line by line editing for language, rreadability and technical
-        learning improvement
-      image: ../assets/substantive_editing.png
+      description: Line by line editing for language, readibility. Overall structure
+        of the paper, tone and section transition.
+      image: ../assets/Manuscript_editing_sample_free.png
     - id: 3
       title: Developmental Editing
       description: Line by line editing for language, readability and technical
@@ -149,15 +149,18 @@ key: thesis_editing
 parentType: academic
 seo:
   title: Thesis Editing services in India, Thesis proofreading services in India
-  description: Thesis editing, thesis proofreading services in India. Thesis rewriting
+  description: "Thesis editing and and proofreading services in India,
+    dissertation editng and proofreadig services at truly affordable prices by
+    PhD editors and native English editors. Free sample edit for thesis
+    available. "
   keywords:
-    - Thesis editing
-    - Thesis proofreading
-    - dissertation editing
-    - dissertation proofreading
+    - Thesis editing services in India
+    - Thesis proofreading services in India
+    - dissertation editing services
+    - dissertation proofreading services
     - Thesis editing service
     - Thesis proofreading service
     - dissertation editing service
-    - dissertation proofreading service
+    - dissertation proofreading services
 ---
 Our PhD thesis editing and dissertation editing services is one of the most trusted and affordable in India. Our qualified editors are well aware of the expectations from universities in India as well as out of India. We comply to most familiar style guides such as APA, Chicago, MLA, etc. Here is a snapshot of our very affordable thesis editing and proofreading services:
