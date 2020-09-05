@@ -106,7 +106,7 @@ editingSample:
     - id: 2
       title: Substantive Editing
       description: Line by line editing for language, readibility. Overall structure of the paper, tone and section transition
- image: ../assets/Manuscript_editing_sample_free.png
+      image: ../assets/Manuscript_editing_sample_free.png
     - id: 3
       title: Developmental Editing
       description: Technical review of manuscript by editor + Copy editing, substantive editing features
