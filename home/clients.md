@@ -13,7 +13,7 @@ clients:
     image: ../assets/scientific_editing_services.png
   - id: 3
     title: Manuscript Editing Service
-    image: ../assets/manuscript_editing_elsevier.png
+    image: ../assets/manuscript_editing_services.png
   - id: 4
     title: English Editing and Proofreading Service in India
     image: ../assets/thesis_editing_iim.png
