@@ -10,7 +10,7 @@ clients:
     image: ../assets/nus.png
   - id: 2
     title: Scientific Manauscript Editing Service in India
-    image: ../assets/world_scientific.png
+    image: ../assets/scientific_editing_services.png
   - id: 3
     title: Manuscript Editing Service
     image: ../assets/manuscript_editing_elsevier.png
