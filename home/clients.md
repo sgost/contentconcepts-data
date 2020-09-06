@@ -16,5 +16,5 @@ clients:
     image: ../assets/manuscript_editing_services.png
   - id: 4
     title: English Editing and Proofreading Service in India
-    image: ../assets/thesis_editing_iim.png
+    image: ../assets/cadd_centre.png
 ---
