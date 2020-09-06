@@ -6,15 +6,15 @@ description: We provide English editing & proofreading, manuscript formatting,
   customers.
 clients:
   - id: 1
-    title: NUS
+    title: English Editing and Proofreading Service in India
     image: ../assets/nus.png
   - id: 2
-    title: World Scientific
+    title: Scientific Manauscript Editing Service in India
     image: ../assets/world_scientific.png
   - id: 3
-    title: University of Malaya
+    title: Manuscript Editing Service
     image: ../assets/manuscript_editing_elsevier.png
   - id: 4
-    title: CADD centre
-    image: ../assets/cadd_centre.png
+    title: English Editing and Proofreading Service in India
+    image: ../assets/thesis_editing_iim.png
 ---
