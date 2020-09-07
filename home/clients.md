@@ -15,5 +15,5 @@ clients:
     image: ../assets/manuscript_editing_services.png
   - id: 4
     title: Document editing services in India
-    image: ../assets/cadd_centre.png
+    image: ../assets/document_proofreading_service.png
 ---
