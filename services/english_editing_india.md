@@ -89,12 +89,12 @@ editingSample:
       title: Copy Editing
       description: Line by line editing for language, readibility nad technical
         learning improvement
-      image: ../assets/substantive_editing.png
+      image: ../assets/Copy_editing_sample.png
     - id: 2
       title: Substantive Editing
       description: Line by line editing for language, readibility nad technical
         learning improvement
-      image: ../assets/substantive_editing.png
+      image: ../assets/Manuscript_editing_sample_free.png
     - id: 3
       title: Developmental Editing
       description: Line by line editing for language, readibility nad technical
