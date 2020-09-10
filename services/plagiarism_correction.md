@@ -6,10 +6,10 @@ message: Reduce similarity to less than 5%<span>Using software and manuscript
 features:
   - id: 1
     title: Manuscript Similarity Check
-    link: /services/similarity_check
+    link: /services/plagiarism_check/similarity_check
   - id: 4
     title: Plagiarism Editing
-    link: /services/plagiarism_editing
+    link: /services/plagiarism_check/plagiarism_editing
   - id: 2
     title: Plagiarism Correction
     link: /services/plagiarism_check

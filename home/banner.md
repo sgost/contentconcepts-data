@@ -5,17 +5,17 @@ services: [
   {
     id: 1,
     title: "Manuscript Editing",
-    link: "manuscript_editing"
+    link: "academic_editing/manuscript_editing"
   },
   {
     id: 2,
     title: "Plagiarism Check",
-    link: "plagiarism_correction"
+    link: "plagiarism_check"
   },
   {
     id: 3,
     title: "Publication Support",
-    link: "publication_services"
+    link: "publication_support"
   }
 ]
 ---
