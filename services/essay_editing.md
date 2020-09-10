@@ -94,12 +94,12 @@ editingSample:
       title: Substantive Editing
       description: Line by line editing for language, readibility. Overall structure
         of the paper, tone and section transition.
-      image: ../assets/substantive_editing.png
+      image: ../assets/essay_editing_sample.png
     - id: 3
       title: Developmental Editing
       description: Technical review of manuscript by editor + Copy editing,
         substantive editing features
-      image: ../assets/substantive_editing.png
+      image: ../assets/essay_editing_sample_free.png
 editingHighlights:
   title: Highlights of our Essay Editing service
   highlights:
@@ -165,13 +165,14 @@ faq:
 key: essay_editing
 parentType: academic
 seo:
-  title: Admission essay editing services in India. College essay proofreading and
-    editing services
-  description: Essay editing and proofreading services in India at affordable
-    prices. One of the best and cheaper essay editing services in India.
+  title: Admission essay editing services in India. Essay editor, Essay editing sample
+  description: Essay editing and proofreading services, Essay editor in India at
+    affordable prices. One of the best and cheaper essay editing services in
+    India.
   keywords:
     - Essay editing services
     - essay proofreading services
+    - essay editor
     - admission essay editing
     - admission essay proofreading
 ---
