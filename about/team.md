@@ -20,7 +20,7 @@ teamMembers:
       States, he taught non-American lawyers reader-friendly, plain English
       drafting skills. Allan holds a bachelor's degree from the University of
       Minnesota and a master's degree from the University of Illinois.
-    image: /english_document_editor.png
+    image: /academic_editor.png
     themeColor: "#ACADED"
   - id: 3
     name: Dr. Rajalakshmi, Ph.D
