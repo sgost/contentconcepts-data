@@ -13,8 +13,8 @@ teamMembers:
     themeColor: "#ACADED"
   - id: 2
     name: Alan Wichelman
-    role: Business & Humanities
-    description: Allan is our native English editor and his responsibilities include
+    role: Business & Technology Document Editor
+    description: Alan is our native English editor and his responsibilities include
       proofreading, editing and rewriting a wide range of corporate documents
       and correspondence. Additionally, as an attorney licensed in the United
       States, he taught non-American lawyers reader-friendly, plain English
@@ -24,8 +24,8 @@ teamMembers:
     themeColor: "#ACADED"
   - id: 3
     name: Dr. Rajalakshmi, Ph.D
-    role: Science and Medicine
-    description: Dr. Rajalakshmi has over 15 years of experience in editing and
+    role: Scientific Manuscript Editor
+    description: Dr. Rajalakshmi has over 25 years of experience in editing and
       writing academic papers, theses, and dissertations. She specializes in
       editing ESL documents and has edited more than 20,000 pages. She has a
       broad knowledge of biological and medical sciences, IT, and
@@ -38,9 +38,9 @@ teamMembers:
     themeColor: "#FFC6CD"
   - id: 4
     name: Dr Nalini Krishna, PhD
-    role: Consulting Editor (Biological Sciences and Medicine)
+    role: Scientific Editor - Manuscript, Thesis & Dissertation
     description: Dr Nalini gained extensive writing and editing experience from her
-      10-year career as a scientist at a leading biotechnology lab in India. She
+      20-year career as a scientist at a leading biotechnology lab in India. She
       has written and edited many types of academic documents, from research
       proposals to regulatory documents. She has conducted and supervised
       clinical research trials for reputed pharmaceuticals companies. Scientific
