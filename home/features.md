@@ -5,11 +5,11 @@ features:
     title: PhD Editors
     image: ../assets/editors.svg
   - id: 2
-    title: Affordable Prices
+    title: Affordable Price
     image: ../assets/affordable.svg
   - id: 3
-    title: Unlimited Support
-    image: ../assets/support.svg
+    title: Editing Certificate
+    image: ../assets/editing_certificate.svg
   - id: 4
     title: Secure & Confidential
     image: ../assets/confidential.svg
