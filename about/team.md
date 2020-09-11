@@ -9,7 +9,7 @@ teamMembers:
       technology manuscripts. He has a certification in teaching English as a
       foreign language. David has been working on a variety of assignments from
       authors in the Far East, Asia and Europe.
-    image: /english_document_editor.png
+    image: ../assets/english_document_editor.png
     themeColor: "#ACADED"
   - id: 2
     name: Alan Wichelman
@@ -20,7 +20,7 @@ teamMembers:
       States, he taught non-American lawyers reader-friendly, plain English
       drafting skills. Allan holds a bachelor's degree from the University of
       Minnesota and a master's degree from the University of Illinois.
-    image: /academic_editor.png
+    image: ../assets/academic_editor.png
     themeColor: "#ACADED"
   - id: 3
     name: Dr. Rajalakshmi, Ph.D
@@ -34,7 +34,7 @@ teamMembers:
       focuses on bringing clarity and conciseness to the documents. Rajalakshmi
       has conducted many workshops and training to improve the quality of
       writing among the academic community in Asia.
-    image: /scientific_editor.png
+    image: ../assets/scientific_editor.png
     themeColor: "#FFC6CD"
   - id: 4
     name: Dr Nalini Krishna, PhD
@@ -48,6 +48,6 @@ teamMembers:
       English language problems faced by these researchers. She helped these
       researchers communicate effectively by teaching them ESL writing
       techniques. She is a specialist in ESL writing and editing.
-    image: /essay_editor.png
+    image: ../assets/essay_editor.png
     themeColor: "#FFC6CD"
 ---
