@@ -18,7 +18,7 @@ priceCard:
     title: Starts from
     price:
       inr: <span>INR 1.50</span>/word
-      usd: <span>$0.03</span>/word
+      usd: <span>$0.025</span>/word
   tagContent: Clear, Concise, Engaging style
   content: Suggestions for artwork & infographics
 editingLevels:
