@@ -1,16 +1,16 @@
 ---
-title: Presentations
+title: Presentation PPT Editing
 highlight: Best Selling Service on our site
 message: Not happy with edit? <span>100% refund without any condition</span>
 features:
   - id: 1
-    title: Edited by qualified subject matter experts
+    title: Understand  your target audience and edit the content accordingly
   - id: 2
-    title: Phd Editors with certified English language editing skills
+    title: Make presentation  content simple and easier to read
   - id: 3
-    title: Native-English editors
+    title: Edit to capture reader’s attention in short span
   - id: 4
-    title: 1500 plus journal style and formats edited
+    title: Recommend further actions and improvements - images, illustrations
   - id: 5
     title: Flawless editing
 priceCard:
@@ -175,5 +175,4 @@ seo:
     - corporate document editing
     - corporate document proofreading
 ---
-
-Types of Manuscripts edited - Research Paper, Thesis, Proposal, Technical Editing
+Presentations are usually dominated by visuals and hence have lesser space for content. So the content on PPT has to be crisp and yet powerful complementing the visuals. Our PPT editors are adept in marketing communications and make your presentation engaging and informative. When you send your presentation content to our editors, here is what they will do:
