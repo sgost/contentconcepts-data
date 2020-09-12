@@ -18,7 +18,7 @@ priceCard:
     title: Starts from
     price:
       inr: <span>INR 1.5</span>/word
-      usd: <span>$0.03</span>/word
+      usd: <span>$0.025</span>/word
   tagContent: Quality & Affordable
   content: PhD Editors, Format Editors
 editingLevels:
