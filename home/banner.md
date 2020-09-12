@@ -12,7 +12,7 @@ services:
     link: academic_editing/manuscript_editing
   - id: 2
     title: Plagiarism Check
-    link: /services/plagiarism_correction
+    link: plagiarism_correction
   - id: 3
     title: Publication Support
     link: publication_support
