@@ -18,7 +18,7 @@ priceCard:
     title: Starts from
     price:
       inr: <span>INR 1.5</span>/word
-      usd: <span>USD 0.03</span>/word
+      usd: <span>$ 0.025</span>/word
   tagContent: Clear, Concise, Compelling
   content: Make content work for you
 editingLevels:
