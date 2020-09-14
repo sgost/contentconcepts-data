@@ -13,13 +13,13 @@ tags:
   - business writing
   - SMS lingo
 ---
-<!--\\[if gte mso 9]><xml>
+<!--\\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\\[endif]-->
+</xml><!\\\[endif]-->
 
-<!--\\[if gte mso 9]><xml>
+<!--\\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -58,9 +58,9 @@ tags:
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\\[endif]-->
+</xml><!\\\[endif]-->
 
-<!--\\[if gte mso 9]><xml>
+<!--\\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -639,9 +639,9 @@ tags:
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\\[endif]-->
+</xml><!\\\[endif]-->
 
-<!--\\[if gte mso 10]>
+<!--\\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -664,13 +664,11 @@ tags:
 	mso-bidi-theme-font:minor-bidi;
 	mso-fareast-language:EN-US;}
 </style>
-<!\\[endif]-->
+<!\\\[endif]-->
 
 <!--StartFragment-->
 
-
-
-Which is correct - “She’s younger than me” or “she’s younger than I” ? Is it ok to use whom in the place of who? Should you use may or might? Can or could? Well, there is no one right or wrong answer. It depends on where and to whom you write. It’s a fact that bad grammar is invading the social media as well as workspace. But, does grammar really matter anymore, especially in this age of attention scarcity.
+Which is correct - “She’s younger than me” or “she’s younger than I” ? Is it ok to use whom in the place of who? Should you use may or might? Can or could? Well, there is no one right or wrong answer. It depends on where and to whom you write. It’s a fact that bad grammar is invading the social media as well as workspace. But, does grammar really matter anymore, especially in this age of attention scarcity?
 
 Many of us spend a lot of time in informal communication - sending SMS, tweeting about things, responding to friends’ posts on social media. To sound cool and get the message in short time, we write in the way we talk. We don’t care abt grammar or speling. Unfortunately this habit creeps in to workplace and in business documents. Is it ok to be lax when you write emails to your colleagues in SMS lingo? Is it ok to use informal language in your presentations? Heck, I don’t have time, does grammar really matter?
 
