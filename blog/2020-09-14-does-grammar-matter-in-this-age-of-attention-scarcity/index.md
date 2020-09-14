@@ -13,6 +13,12 @@ tags:
   - business writing
   - SMS lingo
 ---
+
+
+![Grammar in the digital age](grammar_social_media_sms.png "Grammar in the digital age - does it matter?")
+
+
+
 Which is correct - “She’s younger than me” or “she’s younger than I” ? Is it ok to use whom in the place of who? Should you use may or might? Can or could? Well, there is no one right or wrong answer. It depends on where and to whom you write. It’s a fact that bad grammar is invading the social media as well as workspace. But, does grammar really matter anymore, especially in this age of attention scarcity?
 
 Many of us spend a lot of time in informal communication - sending SMS, tweeting about things, responding to friends’ posts on social media. To sound cool and get the message in short time, we write in the way we talk. We don’t care abt grammar or speling. Unfortunately this habit creeps in to workplace and in business documents. Is it ok to be lax when you write emails to your colleagues in SMS lingo? Is it ok to use informal language in your presentations? Heck, I don’t have time, does grammar really matter?
@@ -36,5 +42,3 @@ In communications where real estate is premium such as name boards, standees, ma
 Write it right. And enjoy while you are at it. 
 
 Still here? Oh, are you looking for the answer for - Which is correct - “She’s younger than me” or “she’s younger than I” ?. Both are correct, stick to what you feel comfortable using. The latter is old-school style and the ‘than me’ is the modern one.
-
-<!--EndFragment-->
