@@ -12,6 +12,20 @@ tags:
   - Business Communication
   - Communication Skills
   - Grammar
+seo:
+  keywords:
+    - manuscript editing service
+    - manuscript proofreading service
+    - manuscript editor
+    - english editing service
+    - english proofreading service
+    - document editing service
+    - document proofreading service
+    - essay editing service
+    - essay editor
+    - essay proofreading service
+  description: English editing and proofreading services in India. Truly affordable and top-quality services for manuscript authors and publishers.
+  title: Two books that can significantly improve your grammar and writing skills
 ---
 
 We all have fumbled and continue to when it comes to writing. Be it a simple email or a comprehensive business proposal or a complex project report, we all fret at times. English language is beautiful but twisty at times and the grammar is beyond comprehension for most of us Indians. Fear not, even the native English speakers find it difficult to write with perfect grammar.
