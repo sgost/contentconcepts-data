@@ -26,7 +26,7 @@ priceCard:
   tagContent: Clear, Concise & Convincing
   content: Essay that clicks
 editingLevels:
-  title: Essay Editing Services
+  title: Essay Editing Levels
   subHeading: Because each author is unique
   levelTypes:
     - id: 1
