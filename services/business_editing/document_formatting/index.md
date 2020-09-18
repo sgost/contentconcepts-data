@@ -43,103 +43,25 @@ features: [
     title: "Table of contents - Ensure list of all content is present for easy navigation"
   }
 ]
-editingLevels: {
-  title: "Different levels of editing",
-  subHeading: "Because each author is unique",
-  levelTypes: [
-    {
-      id: 1,
-      title: "Copy Editing",
-      themeColor: "#FFA351"
-    },
-    {
-      id: 2,
-      title: "Substantive Editing",
-      themeColor: "#C78BFF"
-    },
-    {
-      id: 3,
-      title: "Developmental Editing",
-      themeColor: "#03CA8B"
-    }
-  ],
-  levels: [
-    {
-      id: 1,
-      title: "Checking for grammatical errors Correcting spelling mistakes",
-      copy: "yes",
-      substantive: "yes",
-      developmental: "yes"
-    },
-    {
-      id: 2,
-      title: "Ensuring the manuscripts adheres to style guide",
-      copy: "yes",
-      substantive: "yes",
-      developmental: "yes"
-    },
-    {
-      id: 3,
-      title: "Ensuring the final copy is clean without any Typographical or other errors",
-      copy: "yes",
-      substantive: "yes",
-      developmental: "yes"
-    },
-    {
-      id: 4,
-      title: "A thorough line-edit to ensure correct grammar, tone, clarity and consistency",
-      copy: "no",
-      substantive: "yes",
-      developmental: "yes"
-    },
-    {
-      id: 5,
-      title: "Editing at word level and sentence level",
-      copy: "no",
-      substantive: "yes",
-      developmental: "yes"
-    },
-    {
-      id: 6,
-      title: "Checking for appropirate usage for words and terms",
-      copy: "no",
-      substantive: "yes",
-      developmental: "yes"
-    },
-    {
-      id: 7,
-      title: "Analyzing your manuscript as whole",
-      copy: "no",
-      substantive: "no",
-      developmental: "yes"
-    },
-    {
-      id: 8,
-      title: "Verifing effective structure and outline",
-      copy: "no",
-      substantive: "no",
-      developmental: "yes"
-    }
-  ]
-}
+
 editingSample: {
   title: "Document Formatting Sample",
   samples: [
     {
       id: 1,
-      title: "Copy Editing",
+      title: "Manuscript Formatting",
       description: "Line by line editing for language, readibility nad technical learning improvement",
       image: "./substantive_editing.png"
     },
     {
       id: 2,
-      title: "Substantive Editing",
+      title: "Reports & Business Document Formatting",
       description: "Line by line editing for language, readibility nad technical learning improvement",
       image: "./substantive_editing.png"
     },
     {
       id: 3,
-      title: "Developmental Editing",
+      title: "Books & Manuals Formatting",
       description: "Line by line editing for language, readibility nad technical learning improvement",
       image: "./substantive_editing.png"
     }
