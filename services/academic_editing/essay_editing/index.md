@@ -4,25 +4,29 @@ highlight: Fast & Affordable
 message: Not happy with edit? <span>100% refund without any condition</span>
 features:
   - id: 1
-    title: Over 100,000 essays edited
+    title: Significantly improve your essay style by editing sentence structure,
+      word choice
   - id: 2
-    title: Clear, concise and convincing
+    title: Maintain consistency in tone and presentation
   - id: 3
-    title: Native-English editors available
+    title: Eliminate superfluous words, redundancy
   - id: 4
-    title: Quick turnaround
+    title: Modify ambiguous statements, vague language
   - id: 5
-    title: No express charges
+    title: Feedback from the editor along with comments on issues in the document
+  - title: Two versions of your essay - one shows the changes made and the other a
+      clean version
+    id: 6
 priceCard:
   pricing:
     title: Starts from
     price:
       inr: <span>INR 2.00</span>/word
       usd: <span>$0.05</span>/word
-  tagContent: Clear, Concise & Compelling
+  tagContent: Clear, Concise & Convincing
   content: Essay that clicks
 editingLevels:
-  title: Essay Editing Services
+  title: Essay Editing Levels
   subHeading: Because each author is unique
   levelTypes:
     - id: 1
@@ -126,7 +130,7 @@ editingHighlights:
         which has passed the best level of security testing in the industry.
       image: ./transaction.svg
 serviceProcess:
-  title: How it works?
+  title: Essay Editing Process
   steps:
     - id: 1
       order: "01"
@@ -176,5 +180,8 @@ seo:
     - admission essay editing
     - admission essay proofreading
 ---
+Whether you are writing a college admission essay or assignment essay or a term paper you need to make sure your writing is free of grammar errors. A poorly written essay may cost you the admission or grade. We can help you. We have team of experienced essay editors who can chase grammar errors and kill it like seasoned hunters. 
 
-Essay it loud! Get the perfect esasay that highlights your strength and written to the point
+Admission essays may need more than proofreading to make your content crisp and convincing to the jury. 
+
+Here is what our Essay Editors do:
