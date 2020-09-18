@@ -14,17 +14,13 @@ tags:
   - SMS lingo
 seo:
   keywords:
-    - manuscript editing service
-    - manuscript proofreading service
-    - manuscript editor
-    - english editing service
-    - english proofreading service
-    - document editing service
-    - document proofreading service
-    - essay editing service
-    - essay editor
-    - essay proofreading service
-  description: English editing and proofreading services in India. Truly affordable and top-quality services for manuscript authors and publishers.
+    - Grammar in social media
+    - grammar in digital age
+    - grammar millenials
+    - grammar on internet
+  description: The rise of informal communication online is increasingly pushing
+    back English grammar. But, does grammar matter in this digital age where
+    attention is scarce?
   title: Does Grammar Matter in This Age of Attention Scarcity?
 ---
 
