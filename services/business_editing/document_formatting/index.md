@@ -34,12 +34,12 @@ editingSample:
       description: Line by line editing for language, readibility nad technical
         learning improvement
       image: ./substantive_editing.png
-    - id: 2
+    - id: 3
       title: Reports & User Manuals
       description: Line by line editing for language, readibility nad technical
         learning improvement
       image: annual_report_sample.png
-    - id: 3
+    - id: 2
       title: Books & Newsletters
       description: Line by line editing for language, readibility nad technical
         learning improvement
