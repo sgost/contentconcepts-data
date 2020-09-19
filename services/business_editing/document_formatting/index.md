@@ -35,15 +35,15 @@ editingSample:
         learning improvement
       image: ./substantive_editing.png
     - id: 2
-      title: Reports & Business Document Formatting
+      title: Reports & User Manuals
       description: Line by line editing for language, readibility nad technical
         learning improvement
-      image: ./substantive_editing.png
+      image: annual_report_sample.png
     - id: 3
-      title: Books & Manuals Formatting
+      title: Books & Newsletters
       description: Line by line editing for language, readibility nad technical
         learning improvement
-      image: book_format_sample.png
+      image: book_formatting_sample.png
 editingHighlights:
   title: Highlights of our Document Formatting service
   highlights:
