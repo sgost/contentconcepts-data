@@ -30,20 +30,19 @@ editingSample:
   title: Document Formatting Sample
   samples:
     - id: 1
-      title: Manuscript Formatting
-      description: Line by line editing for language, readibility nad technical
-        learning improvement
-      image: ./substantive_editing.png
-    - id: 3
-      title: Reports & User Manuals
-      description: Line by line editing for language, readibility nad technical
-        learning improvement
+      title: REPORTS & MANUALS
+      description: Modern, user-friendly formatting customised for digital and print media
       image: annual_report_sample.png
     - id: 2
-      title: Books & Newsletters
+      title: BOOKS & GUIDES
+      description: Book formatting with illustrations and reader-friendly formats
+        designed for digital & print media
+      image: book_formatting_sample.png
+    - id: 3
+      title: NEWSLETTER & MANUSCRIPT
       description: Line by line editing for language, readibility nad technical
         learning improvement
-      image: book_formatting_sample.png
+      image: newsletter_formatting_sample.png
 editingHighlights:
   title: Highlights of our Document Formatting service
   highlights:
