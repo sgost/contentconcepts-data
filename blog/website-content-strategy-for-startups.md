@@ -28,11 +28,7 @@ seo:
     - website content editing
     - website content proofreading
 ---
-
-
 ![Website content strategy and review](https://miro.medium.com/max/1920/1*TSMRAGOuMi8-rXGBzymzuQ.jpeg)
-
-
 
 Many startups offer really good products or services. They spend a lot of time refining the product or services to offer the best to the customer. However, they fail miserably in conveying their innovation to the world. In other words, they do not have a content strategy that will help market their product easier, better and faster.
 
@@ -58,3 +54,7 @@ As a new business, you should shout online to make your presence felt. Start by 
 Of course there will be many other ways to build your site with effective content. Share your thoughts and experience of how you built content for your startup.
 
 Should you need help in website content review or content editing, please check our [website copy editing services](https://contentconcepts.in/services/business_editing/website_copy_editing)
+
+
+
+*Originally published at [http://content2o.wordpress.com](https://content2o.wordpress.com/2012/05/08/content-strategy-for-startups/)*
