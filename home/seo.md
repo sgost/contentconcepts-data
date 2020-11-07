@@ -1,6 +1,8 @@
 ---
-title: English Editing and Proofreading Services in India
-description: English Ediitng and proofreading services in India. Truly affordable and top-quality services for manuscript authors and publishers.
+title: Manuscript Editing Services in India. Affordable and internationl
+  standard services
+description: English Ediitng and proofreading services in India. Truly
+  affordable and top-quality services for manuscript authors and publishers.
 keywords:
   - english editing
   - editing english
