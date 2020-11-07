@@ -179,8 +179,7 @@ faq:
 key: academic_editing
 parentType: technical
 seo:
-  title: English Editing and Proofreading Services in India for research paper &
-    manuscript
+  title: Academic Editing Services in India, English Editing and Proofreading Services
   description: Academic English editing and proofreading services in India at
     affordable prices. Why pay in dollar when you can pay in rupee?
   keywords:
