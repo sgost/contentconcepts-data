@@ -1,5 +1,5 @@
 ---
-title: Similarity Check
+title: Manuscript Similarity Check
 highlight: Reduce plagiarism
 message: Get detailed report <span>Receive suggestions to reduce similarity</span>
 features:
@@ -17,8 +17,8 @@ priceCard:
   pricing:
     title: Starts from*
     price:
-      inr: <span>INR 3500</span>
-      usd: <span>USD 75</span>
+      inr: <span>INR 500</span> OR
+      usd: <span>USD 10</span>
   tagContent: Technology. + Human service
   content: " *Price changes based on Plagiarism software used and document size"
 editingSample:
@@ -105,7 +105,7 @@ faq:
 key: similarity_check
 parentType: technical
 seo:
-  title: Plagiarism removal services in India, Plagiarism checker services,
+  title: Plagiarism removal services in India, Plagiarism correction services,
     Manuscript similarity check, Similarity checker
   description: Plagiarism removal services in India - We check for plagiarism,
     similarity and edit/rewrite your mansucript based on the similarity report.
@@ -118,5 +118,4 @@ seo:
     - Plagiarism detection
     - Plagiarism remover
 ---
-
-Our similarity check is done by software and then reviewed by editors for your recommendation
+Worried your manuscript has higher similarity index and will get rejected for plagiarism? Get your manuscript checked using our industry-leading software and get our [plagiarism correction service ](https://contentconcepts.in/services/plagiarism_correction)which can help you reduce the similarity of your manuscript or other academic work.
