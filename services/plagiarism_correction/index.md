@@ -1,38 +1,38 @@
 ---
 title: Plagiarism Correction
 highlight: Powered by Technology + Human
-message: Reduce similarity to less than 5%<span>Using software and manuscript
-  editor</span>
+message: Reduce manuscript similarity to less than 5%<span>Experts in manuscript
+  rewriting and paraphrasing</span>
 features:
   - id: 1
-    title: Manuscript Similarity Check
+    title: Manuscript similarity index check by software
     link: /services/plagiarism_check/similarity_check
   - id: 4
-    title: Plagiarism Editing
+    title: Plagiarism assessment
     link: /services/plagiarism_check/plagiarism_editing
   - id: 2
-    title: Plagiarism Correction
+    title: Plagiarism correction
     link: /services/plagiarism_check
 priceCard:
   pricing:
     title: Starts from
     price:
-      inr: <span>INR 4</span>  OR
+      inr: <span>INR 3</span>  OR
       usd: <span>USD 0.07</span>/word
   tagContent: Reduce similarity from 50% to 5%
   content: Polished by English Editing
 editingLevels:
-  title: Different levels of editing
-  subHeading: Because each author is unique
+  title: Plagiarism Check and Correction Services
+  subHeading: Get similarity report and edited manuscript
   levelTypes:
     - id: 1
-      title: Copy Editing
+      title: Plagiarism Check
       themeColor: "#FFA351"
     - id: 2
-      title: Substantive Editing
+      title: Plagiarism Assessment
       themeColor: "#C78BFF"
     - id: 3
-      title: Developmental Editing
+      title: Plagiarism  Editing
       themeColor: "#03CA8B"
   levels:
     - id: 1
@@ -165,8 +165,10 @@ faq:
 key: plagiarism_correction
 parentType: technical
 seo:
-  title: Plagiarism removal services in India, Plagiarism checker services, Plagiarism detection
-  description: Plagiarism checker and plagiarism removal services in India at truly affordable prices. We help reduce similarity in manuscript
+  title: Plagiarism removal services in India, Plagiarism checker services,
+    Plagiarism detection
+  description: Plagiarism checker and plagiarism removal services in India at
+    truly affordable prices. We help reduce similarity in manuscript
   keywords:
     - Plagiarism checker
     - Plagiarism correction
@@ -174,5 +176,8 @@ seo:
     - Plagiarism detection
     - Plagiarism remover
 ---
+Modern-day academic plagiarism involves mostly self-plagiarism - a lot of unintentional similarity that the authors have as part of sections such as Materials & Methods or References or definition of principles or laws that remain constant and are universal. 
 
-Our plagiarism checker service is powered by technology as well as expert minds. Modern day academic plagiarism involves a lot of unintentional similarity that the authors have as part of sections such as Materials & Methods or References or definition of principles or laws that remain constant and are universal. Let our experts help you find out the root cause of plagiarism and reduce the similarity faster by using industry leading software and then checked by expert editors in the chosen field. Our Plagiarism Checker services involve:
+***PLEASE NOTE WE DO NOT SUPPORT OR ENCOURAGE PLAGIARISING OTHERS' WORK.***
+
+Our plagiarism correction service help you reduce the similarity faster with the help of our expert editors who have experience in rephrasing sentences to reduce the similarity. Our Plagiarism Correction services involve:
