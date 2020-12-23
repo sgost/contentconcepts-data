@@ -11,4 +11,8 @@ questions:
     answer: We can edit as per two English language styles – American English and
       British English. You can choose your preferred language style in the
       online submission form.
+  - id: 3
+    question: How do I get started?
+    answer: You can send us the manuscript via our Request for Quote form or Contact
+      form
 ---
