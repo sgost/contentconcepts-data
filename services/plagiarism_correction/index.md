@@ -36,54 +36,43 @@ editingLevels:
       themeColor: "#03CA8B"
   levels:
     - id: 1
-      title: Checking for grammatical errors Correcting spelling mistakes
+      title: Plagiarism check by industry-leading software
       copy: yes
       substantive: yes
       developmental: yes
     - id: 2
-      title: Ensuring the manuscripts adheres to style guide
+      title: Plagiarism report with details of similarity by different sources
       copy: yes
       substantive: yes
       developmental: yes
     - id: 3
-      title: Ensuring the final copy is clean without any Typographical or other
-        errors
-      copy: yes
+      title: Editor suggestions and recommendations to rewrite
+      copy: No
       substantive: yes
       developmental: yes
     - id: 4
       title: A thorough line-edit to ensure correct grammar, tone, clarity and
         consistency
       copy: no
-      substantive: yes
+      substantive: no
       developmental: yes
     - id: 5
-      title: Editing at word level and sentence level
+      title: Editing to remove similarity
       copy: no
-      substantive: yes
+      substantive: no
       developmental: yes
     - id: 6
-      title: Checking for appropriate usage for words and terms
+      title: Plagiarism report after editing the manuscript
       copy: no
-      substantive: yes
+      substantive: no
       developmental: yes
     - id: 7
-      title: Analyzing your manuscript as whole
-      copy: no
-      substantive: no
-      developmental: yes
-    - id: 8
-      title: Verifying effective structure and outline
-      copy: no
-      substantive: no
-      developmental: yes
-    - id: 9
-      title: Rewriting sentences to make content clear, concise and effective
+      title: Re-ediitng support
       copy: no
       substantive: no
       developmental: yes
 editingSample:
-  title: Editing Sample
+  title: Plagiarism Editing Sample
   samples:
     - id: 1
       title: Copy Editing
@@ -126,7 +115,7 @@ editingHighlights:
         which has passed the best level of security testing in the industry.
       image: ./transaction.svg
 serviceProcess:
-  title: How it works?
+  title: How Plagiarism Correction Services work?
   steps:
     - id: 1
       order: "01"
@@ -154,14 +143,24 @@ faq:
   title: Frequently Asked Questions
   questions:
     - id: 1
-      question: What are the different English language styles you use while editing?
-      answer: We can edit as per two English language styles – American English and
-        British English. You can choose your preferred language style in the
-        online submission form.
+      question: What is your stand on plagiarised content?
+      answer: "We do not support, encourage or edit intentional plagiarism. However,
+        in the modern day most plagiarism or similarity issues are due to
+        self-plagiarism or unintentional plagiarism. We take up only such work.
+        "
     - id: 2
       question: Is my information secure with you?
-      answer: We can edit as per two English language styles – American English and
-        British English.
+      answer: Of course. We treat all our customer data with utmost care. We sign NDA
+        if necessary to bring in trust with our customers.
+    - id: 3
+      question: Do you provide plagiarism report after plagiarism correction is done?
+      answer: Yes, we run another round of similarity check after correcting the
+        manuscript to ensure the manuscript is free of plagiarised content?
+    - id: 4
+      question: Can you rewrite a mansucript based on others' work?
+      answer: Absolutely not. We edit and rewrite manuscripts only for self-plagiarism
+        and unintentional similarity as a result of citations and standard
+        definitions
 key: plagiarism_correction
 parentType: technical
 seo:
