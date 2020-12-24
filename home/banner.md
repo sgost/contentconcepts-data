@@ -14,6 +14,6 @@ services:
     title: Plagiarism Check
     link: plagiarism_correction
   - id: 3
-    title: Publication Support
-    link: publication_support
+    title: PhD Thesis Editing
+    link: thesis_editing
 ---
