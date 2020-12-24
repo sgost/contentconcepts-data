@@ -30,4 +30,6 @@ For example, in the Abstract section authors can use a mix of present and past t
 
 To help you remember what tense to use in a research paper, we have prepared a handy inforgraphic that illustrates tenses recommended for different sections of a research paper or manuscript or in science writing generally.
 
+If you do not have time to review or edit your manuscript or need a professional manuscript editing services, you can check [online manuscript editing services in India](https://contentconcepts.in/services/academic_editing/manuscript_editing)
+
 ![tense in research paper](tense-in-research-paper.png "Use of tenses in research paper manuscripts")
