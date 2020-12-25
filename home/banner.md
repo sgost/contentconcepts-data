@@ -15,5 +15,5 @@ services:
     link: plagiarism_correction
   - id: 3
     title: PhD Thesis Editing
-    link: thesis_editing
+    link: academic_editing/thesis_editing
 ---
