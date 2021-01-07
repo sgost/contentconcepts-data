@@ -85,7 +85,10 @@ Nowadays, most of the universities and journals use a plagiarism-checker softwar
 
 ### How does a plagiarism checker work?
 
-The two main elements that a plagiarism checker considers are comparing the text with a vast database, and running a plagiarism algorithm. 
+The two main elements that a plagiarism checker considers are:
+
+* comparing the text with a vast database, and
+*  running a plagiarism algorithm. 
 
 ### Which is a suitable plagiarism checker?
 
