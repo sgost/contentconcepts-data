@@ -23,6 +23,12 @@ seo:
     - plagiarismediting
     - plagiarism-removal
 ---
+
+
+![Plagiarism Guide](screenshot-2021-01-07-at-11.52.12-am.png "Guide to fixing plagiarism and reducing similarity index")
+
+
+
 In this modern day, academic plagiarism is mostly unintentional, or self-plagiarism, at least in the papers we receive for manuscript editing. This is because one cannot dodge plagiarism as there are many sophisticated software available to  deduct plagiarism. 
 
 ## So what is plagiarism?
