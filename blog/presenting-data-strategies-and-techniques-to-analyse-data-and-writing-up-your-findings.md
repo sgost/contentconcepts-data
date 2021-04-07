@@ -8,7 +8,7 @@ date: 2021-04-06T18:30:00.000Z
 previewImage: screenshot-2021-04-07-at-8.29.31-am.png
 excerpt: You have collected a lot of data but wondering how to analyse,
   interpret and present the findings in an interesting and meaningful way. Here
-  are some tip that will help you analyse your qualitative data and write it
+  are some tips that will help you analyse your qualitative data and write it
   convincingly
 tags:
   - data
@@ -26,13 +26,11 @@ seo:
     - writing
     - manuscriptwriting
 ---
-You have collected a lot of data but wondering how to analyse, interpret and present the findings in an interesting and meaningful way. Here are some tip that will help you analyse your qualitative data and write it convincingly.
+You have collected a lot of data but wondering how to analyse, interpret and present the findings in an interesting and meaningful way. Here are some tips that will help you analyse your qualitative data and write it convincingly.
 
-## Why analyse data? 
+## Why analyse data?
 
 "Why not just present, verbatim, the data that you collect or source? Why not let the data ‘speak for themselves’? The simple answer is that it won’t speak for itself if left in the form in which you collect it – recordings, or pages of transcripts, or documents of one kind or another. These raw data do not constitute the findings of the research."
-
-
 
 ![Data writing tips, manuscript writing tips](screenshot-2021-04-07-at-8.50.15-am.png "How to analyse and write up qualitative data?")
 
