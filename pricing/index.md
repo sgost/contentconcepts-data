@@ -10,25 +10,25 @@ types:
     title: Editing Services
     pricing:
       - id: 1
-        title: Copy Editing
+        title: Proofreading & Copy Editing
         editingServices:
           - Grammatically correct sentences
-          - Proper flow of words & paragraphs
+          - Correct spelling and punctuation
           - Appropriate usage of terminology
         price:
-          inr: "$ <span>0.025</span>/word "
-          usd: INR <span>1.50</span>/word
+          inr: "$ <span>0.02</span>/word "
+          usd: INR <span>1.00</span>/word
         themeColor: "linear-gradient(116.8deg, #FF912F -9.97%, #FFAD64 105%)"
       - id: 2
         title: Substantive Editing
         editingServices:
           - All services offered in English editing plus
           - Substantive editing to ensure proper sentence structure and flow
-          - Correct terminology
+          - Appropriate terminologies
           - Adherence to style guide
         price:
           inr: "$ <span>0.03</span>/word "
-          usd: INR <span>2.00</span>/word
+          usd: INR <span>1.50</span>/word
         themeColor: "linear-gradient(119.96deg, #B361FF -2.59%, #C98EFF 104.08%)"
       - id: 3
         title: Scientific Editing
