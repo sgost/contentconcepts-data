@@ -1,6 +1,6 @@
 ---
 title: Contact Us
-call: +91-98409-03949
+call: +91-70100-24345
 email: info@contentconcepts.in
 categories:
   - id: 1
