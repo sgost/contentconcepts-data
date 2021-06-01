@@ -31,12 +31,11 @@ types:
           usd: INR <span>1.50</span>/word
         themeColor: "linear-gradient(119.96deg, #B361FF -2.59%, #C98EFF 104.08%)"
       - id: 3
-        title: Scientific Editing
+        title: Plagiarism Editing
         editingServices:
-          - English and scientific editing
-          - Analysis of your paper by subject matter expert
-          - Detailed report on the structure and technical correctness of your
-            paper
+          - Manuscript rewriting for self-plagiarised content
+          - Similarity reduction for unintentional plagiarism
+          - Plagiarism report
         price:
           inr: "$ <span>0.045</span>/word "
           usd: ₹ <span>3.00</span>/word
