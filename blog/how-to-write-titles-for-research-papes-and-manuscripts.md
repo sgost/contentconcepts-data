@@ -2,7 +2,7 @@
 author_image: cc-logo-new.png
 author: ContentConcepts
 bio: Manuscript Editing Services
-title: How to write titles for research papes and manuscripts?
+title: How to write titles for research papers and manuscripts?
 date: 2020-12-24T18:30:00.000Z
 previewImage: abstract-cover.png
 excerpt: "The quality of your title and abstract determines whether other
