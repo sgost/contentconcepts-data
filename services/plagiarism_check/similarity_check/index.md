@@ -17,7 +17,7 @@ priceCard:
   pricing:
     title: Starts from*
     price:
-      inr: <span>INR 500</span> OR
+      inr: <span>INR 250</span> OR
       usd: <span>USD 10</span>
   tagContent: Technology. + Human service
   content: " *Price changes based on Plagiarism software used and document size"
@@ -118,4 +118,4 @@ seo:
     - Plagiarism detection
     - Plagiarism remover
 ---
-Worried your manuscript has higher similarity index and will get rejected for plagiarism? Get your manuscript checked using our industry-leading software and get our [plagiarism correction service ](https://contentconcepts.in/services/plagiarism_correction)which can help you reduce the similarity of your manuscript or other academic work.
+Worried your manuscript or research paper has higher similarity index and will get rejected for plagiarism? Get your manuscript checked using our industry-leading software and get our [plagiarism correction service ](https://contentconcepts.in/services/plagiarism_correction)which can help you reduce the similarity of your manuscript or other academic work.
