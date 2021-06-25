@@ -30,4 +30,20 @@ questions:
     answer: Our manuscript editing price is based on total the word count of your
       manuscript and the level of editing you choose. Please check our Pricing
       page for more details.
+  - id: 7
+    question: How do I make payment? Is your website secure?
+    answer: Our payment is handled by banks and PayPal, so there is no reason to
+      worry about your payment details. You can make payment via bank, Google
+      Pay, UPI, or PayPal
+  - id: 8
+    question: "Editing Certificate: Can I get a certificate after editing to submit
+      to the journal?"
+    answer: Yes, we offer Editing Certificate with QR code and other details so that
+      you can submit to the journal
+  - id: 9
+    question: How many revisions you will do on my paper? Do you edit again if the
+      journal reviewer has comments
+    answer: If your guide or journal reviewer has comments related to the English
+      language and grammar, we will re-edit for free. If you add changes to
+      editor's query, we will edit for free
 ---
