@@ -41,9 +41,41 @@ questions:
     answer: Yes, we offer Editing Certificate with QR code and other details so that
       you can submit to the journal
   - id: 9
-    question: How many revisions you will do on my paper? Do you edit again if the
+    question: How many revisions will do on my manuscript? Do you edit again if the
       journal reviewer has comments
     answer: If your guide or journal reviewer has comments related to the English
       language and grammar, we will re-edit for free. If you add changes to
       editor's query, we will edit for free
+  - id: 10
+    question: Can you edit my manuscript during weekends and holidays?
+    answer: "Of course! Our manuscript editors are available in different time zones
+      and geo so as to accommodate your requests round the clock. The editors
+      proofread and edit documents during weekends and holidays, wherever they
+      are in the world. "
+  - id: 11
+    question: What file types can I submit for editing?
+    answer: We accept all versions of Microsoft Word documents (doc, docx, rtf), as
+      well as LaTeX files. However, we cannot edit LaTeX files directly, so we
+      usually request you export or copy and paste your LaTeX text into a
+      Microsoft Word document or other .rtf or .txt editor.
+  - id: 12
+    question: "Do you check for plagiarism? "
+    answer: Yes, we check for plagiarism in the manuscripts using industry-leading
+      software and send you plagiarism report with similarity percentage and
+      details. This is available as an add-on service where you need to specify
+      when sending your manuscript to us
+  - id: 13
+    question: "Do you follow style guides such as Chicago Manual, APA, Australia
+      Style Manual? "
+    answer: "Yes, we do. Each journal has its own style guide and mostly based on
+      one of the style guides mentioned above. Please mention what style your
+      journal requires so that our editor can follow the required style for
+      editing and formatting  "
+  - id: 14
+    question: Do you offer a refund if I am not satisfied with the work?
+    answer: If you are unsatisfied with the service that you have received and can
+      produce justification that the editing quality was substandard (e.g.,
+      language and punctuation errors, very low editing), we may issue a partial
+      or full refund. Contact our project manager by sending an email to
+      info@contentconcepts.in
 ---
