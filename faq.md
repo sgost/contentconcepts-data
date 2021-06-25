@@ -2,17 +2,32 @@
 title: Frequently Asked Questions
 questions:
   - id: 1
-    question: What are the different English language styles you use while editing?
-    answer: We can edit as per two English language styles – American English and
-      British English. You can choose your preferred language style in the
-      online submission form.
+    question: How do I get started with manuscript editing service?
+    answer: You can use the Get Quote form to send the document or email us. Our
+      team will get back to you with quote and other details
   - id: 2
     question: Is my information secure with you?
-    answer: We can edit as per two English language styles – American English and
-      British English. You can choose your preferred language style in the
-      online submission form.
+    answer: Definitely. Our site is built with superior technology and is most
+      secure. Moreover, we have been in this field for over 15 years offering
+      secure services without any glitches so far
   - id: 3
-    question: How do I get started?
-    answer: You can send us the manuscript via our Request for Quote form or Contact
-      form
+    question: What is the editing process?
+    answer: Our editing process is explained clearly in the How it Works section.
+      Please check
+  - id: 4
+    question: What level of editing is right for my document?
+    answer: "We offer three levels of editing - Proofreading & Copy
+      Editing,  Substantive Editing and Plagiarism Editing. All are explained on
+      each service page and  Pricing page. "
+  - id: 5
+    question: Can I get a free sample editing for my manuscript?
+    answer: Yes, if your manuscript is longer than 20,000 words, you will get a
+      sample of approximately 500 words. This sample edit gives you an idea of
+      the editor’s editing style and a chance to ask questions and give
+      feedback.
+  - id: 6
+    question: What is your manuscript editing price? How do you calculate the fee?
+    answer: Our manuscript editing price is based on total the word count of your
+      manuscript and the level of editing you choose. Please check our Pricing
+      page for more details.
 ---
