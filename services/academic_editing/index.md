@@ -185,7 +185,7 @@ faq:
       answer: We offer three levels of editing - Proofreading & Copy Editing,
         Substantive Editing and Plagiarism Editing. All are explained on each
         service page and Pricing page.When you send your manuscript to us, we
-        can check and inform you the level of editing required.
+        can check and advise you on the level of editing required.
     - id: 5
       question: Can I get a free sample editing for my academic manuscript?
       answer: Yes, if your academic manuscript is longer than 20,000 words, you will
