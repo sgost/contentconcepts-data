@@ -140,7 +140,7 @@ serviceProcess:
         back to the customer.
       themeColor: "#FFABAB"
 faq:
-  title: Frequently Asked Questions
+  title: Plagiarism Checker and Correction - FAQ
   questions:
     - id: 1
       question: Why do you edit plagiarised manuscript and research papers?
@@ -167,6 +167,11 @@ faq:
       answer: Absolutely not. We edit and rewrite manuscripts only for self-plagiarism
         and unintentional similarity as a result of citations and standard
         definitions
+    - id: 6
+      question: How does your plagiarism checker/plagiarism removal service work?
+      answer: We first check the manuscript for similarity using industry-leading
+        plagiarism checker software and send you similarity report. You can then
+        decide whether you want to select plagiarism removal service.
 key: plagiarism_correction
 parentType: technical
 seo:
