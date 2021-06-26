@@ -1,14 +1,14 @@
 ---
 title: Manuscript Similarity Check
 highlight: Reduce plagiarism
-message: Get detailed report <span>Receive suggestions to reduce similarity</span>
+message: Get free plagiarism report <span>by selecting Plagiarism Editing service</span>
 features:
   - id: 1
     title: Top-rated plagiarism software for checking
   - id: 2
-    title: Detailed report on similarity
+    title: Detailed report on manuscript similarity
   - id: 3
-    title: Editor assistance for clarifications
+    title: Plagiarism Editor assistance for clarifications
   - id: 4
     title: Fast & affordable
   - id: 5
@@ -19,10 +19,10 @@ priceCard:
     price:
       inr: <span>INR 250</span> OR
       usd: <span>USD 10</span>
-  tagContent: Technology. + Human service
+  tagContent: Top Plagiarism Software
   content: " *Price changes based on Plagiarism software used and document size"
 editingSample:
-  title: Editing Sample
+  title: Plagiarism Editing Sample
   samples:
     - id: 1
       title: Copy Editing
@@ -66,7 +66,7 @@ editingHighlights:
         which has passed the best level of security testing in the industry.
       image: ./transaction.svg
 serviceProcess:
-  title: How it works?
+  title: How Similarity Check works?
   steps:
     - id: 1
       order: "01"
@@ -81,27 +81,53 @@ serviceProcess:
     - id: 3
       order: "03"
       title: Confirm Order
-      description: After payment is made by the customer, ContentConcepts sends
-        confirmation of payment.
+      description: After payment is made, we send confirmation of payment.
       themeColor: "#98E5E0"
     - id: 4
       order: "04"
       title: Edit & Return
-      description: CC assigns the right editor who edits and sends the edited document
-        back to the customer.
+      description: CC checks your manuscript using plagiarism checker software and
+        sends you a report
       themeColor: "#FFABAB"
 faq:
-  title: Frequently Asked Questions
+  title: Manuscript Similairty Check - FAQ
   questions:
     - id: 1
-      question: What are the different English language styles you use while editing?
-      answer: We can edit as per two English language styles – American English and
-        British English. You can choose your preferred language style in the
-        online submission form.
+      question: How do I get started with Similarity Checking service?
+      answer: You can use the Get Quote form to send the manuscript or email us. Our
+        team will get back to you with quote and other details
     - id: 2
       question: Is my information secure with you?
-      answer: We can edit as per two English language styles – American English and
-        British English.
+      answer: Definitely. Our site is built with superior technology and is most
+        secure. Moreover, we have been in this field for over 15 years offering
+        secure services without any glitches so far
+    - id: 3
+      question: How do I make payment? Is your website secure?
+      answer: Our payment gateway is handled by banks and PayPal, so there is no
+        reason to worry about your payment details. You can make payment via
+        bank, Google Pay, UPI, or PayPal
+    - id: 4
+      question: Do you offer a refund if I am not satisfied with the work?
+      answer: If you are unsatisfied with the service that you have received and can
+        produce justification that the editing quality was substandard (e.g.,
+        language and punctuation errors, very low editing), we may issue a
+        partial or full refund. Contact our project manager by sending an email
+        to info@contentconcepts.in
+    - id: 5
+      question: Is Similarity checking done free?
+      answer: We offer free similarity checking for thesis and research papers if you
+        choose plagiarism removal and plagiarism editing service. Otherwise
+        plagiarism checker starts from INR 250 (USD 5)
+    - id: 6
+      question: Do you provide similarity report after plagiarism correction is done?
+      answer: Yes, if you select Plagiarism Correction or Plagiarism Editing service,
+        we run another round of similarity check after correcting the manuscript
+        to ensure the manuscript is free of plagiarised content
+    - id: 7
+      question: How does your plagiarism checker/plagiarism removal service work?
+      answer: We first check the manuscript for similarity using industry-leading
+        plagiarism checker software and send you similarity report. You can then
+        decide whether you want to select plagiarism removal service.
 key: similarity_check
 parentType: technical
 seo:
@@ -118,4 +144,8 @@ seo:
     - Plagiarism detection
     - Plagiarism remover
 ---
-Worried your manuscript or research paper has higher similarity index and will get rejected for plagiarism? Get your manuscript checked using our industry-leading software and get our [plagiarism correction service ](https://contentconcepts.in/services/plagiarism_correction)which can help you reduce the similarity of your manuscript or other academic work.
+<span style="color:red">***WE DO NOT SUPPORT OR ENCOURAGE INTENTIONAL PLAGIARISM***</span>.
+
+Worried your manuscript or research paper will be rejected for high similarity index and plagiarism? Check your manuscript similarity percentage using our industry-leading software and remove similar or plagiarised content using our [plagiarism correction service ](https://contentconcepts.in/services/plagiarism_correction)which can help you reduce the similarity of your manuscript or other academic work.
+
+See the section below on <h3>How Similarity Checking service works</h3>
