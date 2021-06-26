@@ -31,12 +31,12 @@ priceCard:
   pricing:
     title: Starts from
     price:
-      inr: <span>INR 1.50</span>/word
+      inr: <span>INR 1.00</span>/word
       usd: <span> $0.025</span>/word
   tagContent: No express fee, quick delivery
   content: Publish with confidence
 editingLevels:
-  title: Different levels of editing
+  title: Different levels of manuscript editing
   subHeading: Because each author is unique
   levelTypes:
     - id: 1
@@ -97,7 +97,7 @@ editingLevels:
       substantive: no
       developmental: yes
 editingSample:
-  title: Editing Sample
+  title: Manuscript Editing Sample
   samples:
     - id: 1
       title: Copy Editing
@@ -115,7 +115,7 @@ editingSample:
         substantive editing features
       image: ./substantive_editing.png
 editingHighlights:
-  title: Highlights of our manuscript editing services
+  title: Highlights of our manuscript editing service
   highlights:
     - id: 1
       title: Affordable Prices
@@ -140,7 +140,7 @@ editingHighlights:
         which has passed the best level of security testing in the industry.
       image: ./transaction.svg
 serviceProcess:
-  title: How it works?
+  title: How academic editing service works?
   steps:
     - id: 1
       order: "01"
@@ -168,33 +168,55 @@ faq:
   title: Frequently Asked Questions
   questions:
     - id: 1
-      question: What are the different English language styles you use while editing?
-      answer: We can edit as per two English language styles – American English and
-        British English. You can choose your preferred language style in the
-        online submission form.
+      question: What type of manuscripts do you edit in academic editing service?
+      answer: We edit all types of academic documents across all subject areas. We
+        have editors for all subjects across the US, UK and India for better
+        availability
     - id: 2
-      question: Is my information secure with you?
-      answer: We can edit as per two English language styles – American English and
-        British English.
+      question: Is my manuscript and research paper secure with you?
+      answer: Absolutely. Our site is built with superior & latest technologies and is
+        most secure. Moreover, we have been in this field for over 15 years
+        offering secure services without any glitches so far
+    - id: 3
+      question: "What is the academic editing process? "
+      answer: Please refer to the section "How academic editing service works?"
+    - id: 4
+      question: How do I know which level of editing is right for my manuscript?
+      answer: We offer three levels of editing - Proofreading & Copy Editing,
+        Substantive Editing and Plagiarism Editing. All are explained on each
+        service page and Pricing page.When you send your manuscript to us, we
+        can check and inform you the level of editing required.
+    - id: 5
+      question: Can I get a free sample editing for my academic manuscript?
+      answer: Yes, if your academic manuscript is longer than 20,000 words, you will
+        get free sample edit of approximately 500 words. This sample edit gives
+        you an idea of the academic editor’s editing style and a chance to ask
+        questions and give feedback.
+    - id: 6
+      question: What is the editing fee for academic manuscripts?
+      answer: Our academic manuscript editing price is based on total the word count
+        of your academic manuscript and the required level of editing. Please
+        check our academic editing Pricing page for more details.
 key: academic_editing
 parentType: technical
 seo:
-  title: Academic Editing Services in India, English Editing and Proofreading Services
-  description: Academic English editing and proofreading services in India at
-    affordable prices. Why pay in dollar when you can pay in rupee?
+  title: Scientific manuscript editing service in India.  Why pay in dollar when
+    you can pay in rupee?
+  description: Scientific manuscript editing and proofreading services in India at
+    affordable prices.
   keywords:
-    - English editing
-    - editing english
-    - editing manuscripts
+    - English editing service
+    - scientific editing service
+    - scientific manuscript editing service
     - editing service
     - manuscript editor
     - editing a manuscript
     - manuscript editing
     - manuscript edit
     - manuscript editing services free online english language editing service
-    - english language editing service india
+    - english language editing service
 ---
 
-If you are looking for affordable yet top-quality academic editing services, you have reached the right place. Our mission is to prvoide [manuscript editing](/services/academic_editing/manuscript_editing) and proofreading services at affordable price.
+If you are looking for affordable yet top-quality academic manuscript editing services you have reached the right place. Our mission is to provide [manuscript editing](/services/academic_editing/manuscript_editing) and proofreading services at affordable price.
 
 When you select us, you will get personalised support, and prompt responses at a quicker pace than others. Here is the list of our Academic Editing Services
