@@ -143,20 +143,26 @@ faq:
   title: Frequently Asked Questions
   questions:
     - id: 1
-      question: What is your stand on plagiarised content?
-      answer: "We do not support, encourage or edit intentional plagiarism. However,
-        in the modern day most plagiarism or similarity issues are due to
-        self-plagiarism or unintentional plagiarism. We take up only such work.
-        "
+      question: Why do you edit plagiarised manuscript and research papers?
+      answer: "We do not support, encourage or edit intentional plagiarism of research
+        work. However, most plagiarism removal work or similarity reduction work
+        we take up are manuscripts with self-plagiarism or unintentional
+        plagiarism. We take up only such manuscripts and research papers for
+        editing. "
     - id: 2
       question: Is my information secure with you?
       answer: Of course. We treat all our customer data with utmost care. We sign NDA
         if necessary to bring in trust with our customers.
     - id: 3
+      question: Is plagiarism checking free?
+      answer: We offer free plagiarism checking for thesis and research papers if you
+        choose plagiarism removal and plagiarism editing service. Otherwise
+        plagiarism checker starts from INR 250 (USD 5)
+    - id: 4
       question: Do you provide plagiarism report after plagiarism correction is done?
       answer: Yes, we run another round of similarity check after correcting the
         manuscript to ensure the manuscript is free of plagiarised content?
-    - id: 4
+    - id: 5
       question: Can you rewrite a mansucript based on others' work?
       answer: Absolutely not. We edit and rewrite manuscripts only for self-plagiarism
         and unintentional similarity as a result of citations and standard
