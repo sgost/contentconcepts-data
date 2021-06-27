@@ -27,8 +27,8 @@ sitemapList:
         title: Thesis Editing
         link: /services/academic_editing/thesis_editing
       - id: 3
-        title: Proposal Editing
-        link: /services/academic_editing/proposal_editing
+        title: Scientific Manuscript Editing
+        link: /services/academic_editing/scientific_manuscript_editing
       - id: 4
         title: Essay Editing
         link: /services/academic_editing/essay_editing
