@@ -46,7 +46,7 @@ editingLevels:
       title: Substantive Editing
       themeColor: "#C78BFF"
     - id: 3
-      title: Scientific Editing
+      title: Plagiarism Editing
       themeColor: "#03CA8B"
   levels:
     - id: 1
