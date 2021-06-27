@@ -172,6 +172,11 @@ faq:
         Thesis plagiarism checking and correction service is is available as an
         add-on service. When you send your manuscript, ask for plagiarism
         checking and correction service.
+    - id: 7
+      question: How do I make payment for Thesis Editing service? Is your website safe?
+      answer: Our payment is handled by banks and PayPal, so there is no reason to
+        worry about your payment details. You can make payment via bank, Google
+        Pay, UPI, or PayPal
 key: thesis_editing
 parentType: academic
 seo:
