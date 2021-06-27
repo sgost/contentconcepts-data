@@ -150,14 +150,28 @@ faq:
   title: Scientific Manuscript Editing - FAQ
   questions:
     - id: 1
-      question: What are the different English language styles you use while editing?
-      answer: We can edit as per two English language styles – American English and
-        British English. You can choose your preferred language style in the
-        online submission form.
+      question: How do I get started with the scientific manuscript editing service?
+      answer: You can use the Get Quote form to send the document or email us. Our
+        team will get back to you with quote and other details
     - id: 2
-      question: Is my information secure with you?
-      answer: We can edit as per two English language styles – American English and
-        British English.
+      question: Is my scientific manuscript submitted for editing secure with you?
+      answer: Of course. Our site is built with superior & latest web technologies
+        with security built in. We sign NDA with editors and confidentiality
+        agreement with customers if required.
+    - id: 3
+      question: What does a scientific manuscript editor do?
+      answer: Apart from editing the manuscript for grammar, clarity, completeness,
+        the manuscript editor corrects scientific terminologies, flow of
+        paragraphs, scientific style and measurement units
+    - id: 4
+      question: Do you offer free sample editing for scientific manuscript?
+      answer: Yes, if your scientific manuscript is longer than 20,000 words, or you
+        send manuscript regularly, we do a free sample edit.
+    - id: 5
+      question: How do I make payment? Is your website safe for making online payment?
+      answer: Our payment is handled by banks and PayPal, so we would say it's 100%
+        safe. We do not keep any payment details and is directly done by bank's
+        payment gateway.
 key: proposal_editing
 parentType: academic
 seo:
