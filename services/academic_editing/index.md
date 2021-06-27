@@ -40,13 +40,13 @@ editingLevels:
   subHeading: Because each author is unique
   levelTypes:
     - id: 1
-      title: Copy Editing
+      title: Copy Editing/Proofreading
       themeColor: "#FFA351"
     - id: 2
       title: Substantive Editing
       themeColor: "#C78BFF"
     - id: 3
-      title: Developmental Editing
+      title: Scientific Editing
       themeColor: "#03CA8B"
   levels:
     - id: 1
