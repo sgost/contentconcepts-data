@@ -16,8 +16,8 @@ features:
     title: Essay Editing
     link: /services/academic_editing/essay_editing
   - id: 5
-    title: Proposal Editing
-    link: /services/academic_editing/proposal_editing
+    title: Scientific Manuscript Editing
+    link: /services/academic_editing/scientific_manuscript_editing
   - title: ESL Editing
     id: 6
     link: /services/academic_editing/esl_editing
