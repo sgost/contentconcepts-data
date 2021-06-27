@@ -172,7 +172,7 @@ faq:
       answer: Our payment is handled by banks and PayPal, so we would say it's 100%
         safe. We do not keep any payment details and is directly done by bank's
         payment gateway.
-key: proposal_editing
+key: scientific_manuscript_editing
 parentType: academic
 seo:
   title: Research proposal editing services in India. Proposal proofreading services
