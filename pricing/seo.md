@@ -1,10 +1,11 @@
 ---
 title: Affordable manuscript editing services in India
-description: Academic English editing and proofreading services in India at affordable prices. Why pay in dollar when you can pay in rupee?
+description: Manuscript editing and proofreading services in India at affordable
+  prices. Our manuscript editing fee start at INR 1 per word
 keywords:
-  - cheap editing services in India
-  - cheap proofreading services
-  - free editing services
-  - free proofreading services
-  - free editing sample
+  - manuscript-editingfee
+  - proofreading-fee
+  - manuscripteditingcharges
+  - best-manuscript-editing-rate
+  - ""
 ---
