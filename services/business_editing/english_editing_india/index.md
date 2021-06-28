@@ -1,5 +1,5 @@
 ---
-title: English Editing & Proofeading
+title: English Editing Service
 highlight: Best selling service in India
 message: Not happy with edit? <span>100% refund without any condition</span>
 features:
@@ -17,8 +17,8 @@ priceCard:
   pricing:
     title: Starts from
     price:
-      inr: <span>INR 1.5</span>/word
-      usd: <span>USD 0.03</span>/word
+      inr: <span>INR 1.00</span>/word
+      usd: <span>$ 0.025</span>/word
   tagContent: Clear, Concise, Compelling
   content: Make content work for you
 editingLevels:
@@ -125,7 +125,7 @@ editingHighlights:
         which has passed the best level of security testing in the industry.
       image: ./transaction.svg
 serviceProcess:
-  title: How it works?
+  title: How English Editing service works?
   steps:
     - id: 1
       order: "01"
@@ -150,37 +150,68 @@ serviceProcess:
         edited document back to the customer.
       themeColor: "#FFABAB"
 faq:
-  title: Frequently Asked Questions
+  title: English Editing Service - FAQ
   questions:
     - id: 1
-      question: What are the different English language styles you use while editing?
-      answer: We can edit as per two English language styles – American English and
-        British English. You can choose your preferred language style in the
-        online submission form.
+      question: How do I get started with English Editing service?
+      answer: You can use the Get Quote form to send the document or email us. Our
+        team will get back to you with quote and other details
     - id: 2
-      question: Is my information secure with you?
-      answer: We can edit as per two English language styles – American English and
-        British English. You can choose your preferred language style in the
-        online submission form.
+      question: Is my document secure and confidential with you?
+      answer: Definitely. Our site is built with superior technology and is most
+        secure. Moreover, we have been in this field for over 15 years offering
+        secure services without any glitches so far
+    - id: 3
+      question: How do I choose the right English editing level for my document?
+      answer: "We offer three levels of English \x10editing - Proofreading & Copy
+        Editing, Substantive Editing and Plagiarism Editing. All are explained
+        on English Editing service page and Pricing page.When you send your
+        manuscript to us, we can check and advise you on the level of editing
+        required."
+    - id: 4
+      question: Can I get a free English editing sample for my document?
+      answer: "Yes, if your document is longer than 20,000 words, you will get free
+        sample edit of approximately 300 words. This sample edit gives you an
+        idea of the English editor’s editing style "
+    - id: 5
+      question: How do I make payment? Is your website secure?
+      answer: Absolutely. Our payment is handled by banks and PayPal, so there is no
+        reason to worry about your payment details. You can make payment via
+        bank, Google Pay, UPI, or PayPal
+    - id: 6
+      question: Do do you provide English editing certificate for my document?
+      answer: Yes, we do. The  Editing Certificate will have a QR code and other
+        details so that you can submit to your reviewer.
+    - id: 7
+      question: What file types can I submit for English editing service?
+      answer: We accept all versions of Microsoft Word documents (doc, docx, rtf), as
+        well as LaTeX files. However, we cannot edit LaTeX files directly, so we
+        usually request you export or copy and paste your LaTeX text into a
+        Microsoft Word document or other .rtf or .txt editor.
+    - id: 8
+      question: Do you offer a refund if I am not satisfied with the work?
+      answer: If you are unsatisfied with the service that you have received and can
+        produce proof that the editing quality was substandard (e.g., language
+        and punctuation errors, very low editing), we issue a partial or full
+        refund. Contact our project manager by sending an email to
+        info@contentconcepts.in
 key: english_editing_india
 parentType: business
 seo:
-  title: English Editing Service in India, English Proofreading Service in India
-  description: English Ediitng and proofreading services in India. Truly
-    affordable and top-quality services for manuscript authors and publishers
+  title: English Editing Services, cheap and best price but top quality work and
+    premium service
+  description: Top-quality proofreading service at best rates - starts at INR 1
+    per word. To believe what we say, try a free sample proofreading with us,
+    you will not be disappointed.
   keywords:
-    - english editing
-    - editing english
-    - editing manuscripts
-    - editing service
-    - manuscript editor
-    - editing a manuscript
-    - manuscript editing
-    - manuscript edit
-    - manuscript editing services free online english language editing service
-    - english language editing service india
+    - English editing service
+    - English editing services
+    - English editing service fee
+    - English editing services India
+    - cheap English editing service
+    - English editing service price
+    - ""
 ---
-
 Business content works when the written content is clear, concise and compelling. Whether you create content for websites or marketing collateral r or white paper, each of these has a purpose - convey the right message at the right place. However, English language in the written content often fails in this purpose .
 
-Our English language editors who have edited and proofread 1000s of pages, enhance your business writing and make it work for you. English Editing is not just grammar and spell check. Our English Editing service:
+Our English language editors, who have edited and proofread 1000s of pages, enhance your business writing and make it work for you. English Editing is not just grammar and spell check. Our English Editing service:
