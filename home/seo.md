@@ -1,5 +1,5 @@
 ---
-title: Manuscript Editing Services in India. Affordable and internationl
+title: Manuscript Editing Services in India. Affordable and international
   standard services
 description: English Ediitng and proofreading services in India. Truly
   affordable and top-quality services for manuscript authors and publishers.
