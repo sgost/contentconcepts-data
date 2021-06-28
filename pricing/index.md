@@ -20,12 +20,12 @@ types:
           usd: INR <span>1.00</span>/word
         themeColor: "linear-gradient(116.8deg, #FF912F -9.97%, #FFAD64 105%)"
       - id: 2
-        title: Substantive Editing
+        title: Substantive Editing & Scientific Editing
         editingServices:
           - All services offered in English editing plus
           - Substantive editing to ensure proper sentence structure and flow
           - Appropriate terminologies
-          - Adherence to style guide
+          - Scientific style & language
         price:
           inr: "$ <span>0.03</span>/word "
           usd: INR <span>1.50</span>/word
