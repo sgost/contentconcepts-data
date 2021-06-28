@@ -50,4 +50,15 @@ teamMembers:
       techniques. She is a specialist in ESL writing and editing.
     image: ../assets/essay_editor.png
     themeColor: "#FFC6CD"
+  - id: 5
+    name: Dr Athira
+    role: ESL Editor, Scientific Manuscript Editor
+    image: ../assets/profile_female.png
+    description: Dr Athira has a doctoral degree in Biotechnology, with 16 years of
+      academic experience and 45+ research publications to her credit. She is a
+      certified editor by Board of Lifesciences. Dr Athira is a meticulous
+      editor who has edited thousands of pages of research papers and thesis.
+      She makes detailed observations in the manuscripts to help her clients
+      successfully publish their work.
+    themeColor: "#FFC6CD"
 ---
