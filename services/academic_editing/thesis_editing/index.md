@@ -10,19 +10,19 @@ features:
   - id: 3
     title: Native-English editors
   - id: 4
-    title: Over 5000 thesis edited
+    title: IIM, IIT, and other Ivy-league universities as customers
   - id: 5
     title: APA, Chicago and MLA style check & formatting
 priceCard:
   pricing:
     title: Starts from
     price:
-      inr: <span>INR 1.5</span>/word
+      inr: <span>INR 1.00</span>/word
       usd: <span>$0.025</span>/word
-  tagContent: Quality & Affordable
-  content: PhD Editors, Format Editors
+  tagContent: APA, Chicago | IIT, IIM
+  content: PhD Editors, Formatting Editors
 editingLevels:
-  title: Thesis Editing Levels
+  title: Thesis Editing levels
   subHeading: Choose the right editing level
   levelTypes:
     - id: 1
@@ -66,7 +66,7 @@ editingLevels:
       substantive: no
       developmental: yes
 editingSample:
-  title: Thesis Editing Sample
+  title: Thesis Editing sample
   samples:
     - id: 1
       title: Copy Editing
@@ -109,7 +109,7 @@ editingHighlights:
         which has passed the best level of security testing in the industry.
       image: ./transaction.svg
 serviceProcess:
-  title: How it works?
+  title: How Thesis Editing Service works?
   steps:
     - id: 1
       order: "01"
@@ -134,25 +134,55 @@ serviceProcess:
         back to the customer.
       themeColor: "#FFABAB"
 faq:
-  title: Frequently Asked Questions
+  title: Thesis Editing Service - FAQ
   questions:
     - id: 1
-      question: What are the different English language styles you use while editing?
-      answer: We can edit as per two English language styles – American English and
-        British English. You can choose your preferred language style in the
-        online submission form.
+      question: Is my thesis secure with you?
+      answer: Definitely. Our site is built with superior technology and is most
+        secure. Moreover, we have been in this field for over 15 years offering
+        secure services without any glitches so far
     - id: 2
-      question: Is my information secure with you?
-      answer: We can edit as per two English language styles – American English and
-        British English.
+      question: How do I get started with the Thesis Editing service?
+      answer: Our editing process is explained clearly in the How Thesis Editing Works
+        section. Or just send us an email to info@contentconcepts.in
+    - id: 3
+      question: "Which editing level is right for my thesis? You have got three levels
+        of editing, how do I choose? "
+      answer: We offer three levels of thesis editing - Proofreading & Copy Editing,
+        Substantive Editing and Plagiarism Editing. The editing levels are
+        explained on the Thesis Editing service page and Pricing page. When you
+        send your thesis manuscript to us, we can check and advise the level of
+        editing required.
+    - id: 4
+      question: Can I get a free sample editing for my thesis manuscript?
+      answer: Yes, if your thesis manuscript is longer than 20,000 words, you will get
+        free sample edit of approximately 300 words. This free sample edit of
+        your thesis gives you an idea of the thesis editor’s editing style and a
+        chance to ask questions and give feedback.
+    - id: 5
+      question: What is the thesis editing fee? How do you charge or thesis editing?
+      answer: Our thesis editing fee is based on total the word count of your thesis
+        manuscript and the required level of editing. Please check our Thesis
+        Editing service page and Pricing page for more detail
+    - id: 6
+      question: Do you check for plagiarism in thesis? Is thesis plagiarism checker
+        service available?
+      answer: Yes, we check for thesis plagiarism using industry-leading software and
+        send you plagiarism report with similarity percentage and details.
+        Thesis plagiarism checking and correction service is is available as an
+        add-on service. When you send your manuscript, ask for plagiarism
+        checking and correction service.
+    - id: 7
+      question: How do I make payment for Thesis Editing service? Is your website safe?
+      answer: Our payment is handled by banks and PayPal, so there is no reason to
+        worry about your payment details. You can make payment via bank, Google
+        Pay, UPI, or PayPal
 key: thesis_editing
 parentType: academic
 seo:
-  title: Thesis Editing services in India, Thesis proofreading services in India
-  description: "Thesis editing and and proofreading services in India,
-    dissertation editng and proofreadig services at truly affordable prices by
-    PhD editors and native English editors. Free sample edit for thesis
-    available. "
+  title: PhD Thesis editing & proofreading services in India, by PhD thesis editors
+  description: We provide the best thesis editing service in India at truly
+    affordable rates. Our thesis editing fee starts from INR 1.
   keywords:
     - Thesis editing services in India
     - Thesis proofreading services in India
@@ -163,4 +193,4 @@ seo:
     - dissertation editing service
     - dissertation proofreading services
 ---
-Our PhD thesis editing and dissertation editing services is one of the most trusted and affordable in India. Our qualified editors are well aware of the expectations from universities in India as well as out of India. We comply to most familiar style guides such as APA, Chicago, MLA, etc. Here is a snapshot of our very affordable thesis editing and proofreading services:
+Our PhD thesis editing and dissertation editing services is one of the most trusted and affordable in India. Our [Thesis Editors](https://contentconcepts.in/about/) are well aware of the expectations from universities in India as well as out of India. We comply to most familiar style guides such as APA, Chicago, MLA, etc. Here is a snapshot of our very affordable thesis editing and proofreading services:
