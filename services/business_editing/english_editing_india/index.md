@@ -1,5 +1,5 @@
 ---
-title: English Editing
+title: English Editing Service
 highlight: Best selling service in India
 message: Not happy with edit? <span>100% refund without any condition</span>
 features:
@@ -17,7 +17,7 @@ priceCard:
   pricing:
     title: Starts from
     price:
-      inr: <span>INR 1.5</span>/word
+      inr: <span>INR 1.00</span>/word
       usd: <span>$ 0.025</span>/word
   tagContent: Clear, Concise, Compelling
   content: Make content work for you
@@ -125,7 +125,7 @@ editingHighlights:
         which has passed the best level of security testing in the industry.
       image: ./transaction.svg
 serviceProcess:
-  title: How it works?
+  title: How English Editing service works?
   steps:
     - id: 1
       order: "01"
@@ -150,7 +150,7 @@ serviceProcess:
         edited document back to the customer.
       themeColor: "#FFABAB"
 faq:
-  title: Frequently Asked Questions
+  title: English Editing Service - FAQ
   questions:
     - id: 1
       question: What are the different English language styles you use while editing?
@@ -165,20 +165,19 @@ faq:
 key: english_editing_india
 parentType: business
 seo:
-  title: English Editing Service in India, English Proofreading Service in India
-  description: English Ediitng and proofreading services in India. Truly
-    affordable and top-quality services for manuscript authors and publishers
+  title: English Editing Services, cheap and best price but top quality work and
+    premium service
+  description: Top-quality proofreading service at best rates - starts at INR 1
+    per word. To believe what we say, try a free sample proofreading with us,
+    you will not be disappointed.
   keywords:
-    - english editing
-    - editing english
-    - editing manuscripts
-    - editing service
-    - manuscript editor
-    - editing a manuscript
-    - manuscript editing
-    - manuscript edit
-    - manuscript editing services free online english language editing service
-    - english language editing service india
+    - English editing service
+    - English editing services
+    - English editing service fee
+    - English editing services India
+    - cheap English editing service
+    - English editing service price
+    - ""
 ---
 Business content works when the written content is clear, concise and compelling. Whether you create content for websites or marketing collateral r or white paper, each of these has a purpose - convey the right message at the right place. However, English language in the written content often fails in this purpose .
 
