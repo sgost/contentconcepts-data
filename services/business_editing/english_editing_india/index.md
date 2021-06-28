@@ -1,5 +1,5 @@
 ---
-title: English Editing & Proofeading
+title: English Editing
 highlight: Best selling service in India
 message: Not happy with edit? <span>100% refund without any condition</span>
 features:
@@ -180,7 +180,6 @@ seo:
     - manuscript editing services free online english language editing service
     - english language editing service india
 ---
-
 Business content works when the written content is clear, concise and compelling. Whether you create content for websites or marketing collateral r or white paper, each of these has a purpose - convey the right message at the right place. However, English language in the written content often fails in this purpose .
 
-Our English language editors who have edited and proofread 1000s of pages, enhance your business writing and make it work for you. English Editing is not just grammar and spell check. Our English Editing service:
+Our English language editors, who have edited and proofread 1000s of pages, enhance your business writing and make it work for you. English Editing is not just grammar and spell check. Our English Editing service:
