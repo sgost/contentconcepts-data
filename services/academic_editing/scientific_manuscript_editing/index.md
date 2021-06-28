@@ -1,24 +1,24 @@
 ---
-title: Proposal Editing
-highlight: Concise and complete is the key
+title: Scientific Manuscript Editing
+highlight: by PhD and Native English Editors
 message: Not happy with edit? <span>100% refund without any condition</span>
 features:
   - id: 1
-    title: Edited by experienced grant writers
+    title: Premium editing service at affordable price
   - id: 2
-    title: Check for proper structure and flow
+    title: No express fee, quick turnaround
   - id: 3
-    title: Cut down redundancy and get to the point
+    title: "Plagiarism checker available "
 priceCard:
   pricing:
-    title: Starting from
+    title: Starts from
     price:
       inr: <span>INR 1.50</span>/word
       usd: <span>$0.025</span>/word
   tagContent: Clear, Concise and Complete
   content: Create winning proposals
 editingLevels:
-  title: Proposal Editing levels
+  title: Editing levels
   subHeading: Because each proposal is unique
   levelTypes:
     - id: 1
@@ -28,7 +28,7 @@ editingLevels:
       title: Substantive Editing
       themeColor: "#C78BFF"
     - id: 3
-      title: Developmental Editing
+      title: Scientific Editing
       themeColor: "#03CA8B"
   levels:
     - id: 1
@@ -79,7 +79,7 @@ editingLevels:
       substantive: no
       developmental: yes
 editingSample:
-  title: Proposal Editing Sample
+  title: Scientific Editing Sample
   samples:
     - id: 1
       title: Copy Editing
@@ -97,7 +97,7 @@ editingSample:
         learning improvement
       image: ./substantive_editing.png
 editingHighlights:
-  title: Highlights of our Proposal Editing service
+  title: Highlights of our Scientific Manuscript Editing service
   highlights:
     - id: 1
       title: Affordable Prices
@@ -122,7 +122,7 @@ editingHighlights:
         which has passed the best level of security testing in the industry.
       image: ./transaction.svg
 serviceProcess:
-  title: How it works?
+  title: How Scientific Manuscript Editing works?
   steps:
     - id: 1
       order: "01"
@@ -147,18 +147,32 @@ serviceProcess:
         back to the customer.
       themeColor: "#FFABAB"
 faq:
-  title: Frequently Asked Questions
+  title: Scientific Manuscript Editing - FAQ
   questions:
     - id: 1
-      question: What are the different English language styles you use while editing?
-      answer: We can edit as per two English language styles – American English and
-        British English. You can choose your preferred language style in the
-        online submission form.
+      question: How do I get started with the scientific manuscript editing service?
+      answer: You can use the Get Quote form to send the document or email us. Our
+        team will get back to you with quote and other details
     - id: 2
-      question: Is my information secure with you?
-      answer: We can edit as per two English language styles – American English and
-        British English.
-key: proposal_editing
+      question: Is my scientific manuscript submitted for editing secure with you?
+      answer: Of course. Our site is built with superior & latest web technologies
+        with security built in. We sign NDA with editors and confidentiality
+        agreement with customers if required.
+    - id: 3
+      question: What does a scientific manuscript editor do?
+      answer: Apart from editing the manuscript for grammar, clarity, completeness,
+        the manuscript editor corrects scientific terminologies, flow of
+        paragraphs, scientific style and measurement units
+    - id: 4
+      question: Do you offer free sample editing for scientific manuscript?
+      answer: Yes, if your scientific manuscript is longer than 20,000 words, or you
+        send manuscript regularly, we do a free sample edit.
+    - id: 5
+      question: How do I make payment? Is your website safe for making online payment?
+      answer: Our payment is handled by banks and PayPal, so we would say it's 100%
+        safe. We do not keep any payment details and is directly done by bank's
+        payment gateway.
+key: scientific_manuscript_editing
 parentType: academic
 seo:
   title: Research proposal editing services in India. Proposal proofreading services
@@ -175,5 +189,8 @@ seo:
     - proposal checking
     - proposal formatting
 ---
+Scientific Manuscript editing need not be so expensive. We provide top-quality scientific manuscript editing service at really affordable rates. Our editors are PhD and have more than 100 years of cumulative experience in editing scientific manuscripts. 
 
-Types of Proposals edited - You have a great idea that you think will get you grant. It is very important that your proposal is clear, concise and conveys your ideas effectively.
+You can check out the [scientific manuscript editing rates](https://contentconcepts.in/pricing/) on our Pricing page. Our editing fee is based on word count. 
+
+Our editing team has [scientific ](https://contentconcepts.in/about/)[manuscript ](https://contentconcepts.in/about/)[editors](https://contentconcepts.in/about/), PhD editors and native English editors.
