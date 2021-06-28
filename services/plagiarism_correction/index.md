@@ -1,8 +1,8 @@
 ---
 title: Plagiarism Correction
-highlight: Powered by Technology + Human
-message: Reduce manuscript similarity to less than 5%<span>Experts in manuscript
-  rewriting and paraphrasing</span>
+highlight: Powered by Plagiarism Checker + Manuscript Editor
+message: Reduce manuscript similarity to less than 15%<span>Best plagiarism
+  checker and similarity removal service</span>
 features:
   - id: 1
     title: Manuscript similarity index check by software
@@ -17,10 +17,10 @@ priceCard:
   pricing:
     title: Starts from
     price:
-      inr: <span>INR 3</span>  OR
-      usd: <span>USD 0.07</span>/word
-  tagContent: Reduce similarity from 50% to 5%
-  content: Polished by English Editing
+      inr: <span>INR 2.5</span>  OR
+      usd: <span>USD 0.05</span>/word
+  tagContent: Reduce similarity to <15%
+  content: Get Free Plagiarism Report
 editingLevels:
   title: Plagiarism Check and Correction Services
   subHeading: Get similarity report and edited manuscript
@@ -140,27 +140,38 @@ serviceProcess:
         back to the customer.
       themeColor: "#FFABAB"
 faq:
-  title: Frequently Asked Questions
+  title: Plagiarism Correction Service - FAQ
   questions:
     - id: 1
-      question: What is your stand on plagiarised content?
-      answer: "We do not support, encourage or edit intentional plagiarism. However,
-        in the modern day most plagiarism or similarity issues are due to
-        self-plagiarism or unintentional plagiarism. We take up only such work.
-        "
+      question: Why do you edit plagiarised manuscript and research papers?
+      answer: "We do not support, encourage or edit intentional plagiarism of research
+        work. However, most plagiarism removal work or similarity reduction work
+        we take up are manuscripts with self-plagiarism or unintentional
+        plagiarism. We take up only such manuscripts and research papers for
+        editing. "
     - id: 2
       question: Is my information secure with you?
       answer: Of course. We treat all our customer data with utmost care. We sign NDA
         if necessary to bring in trust with our customers.
     - id: 3
+      question: Is plagiarism checking free?
+      answer: We offer free plagiarism checking for thesis and research papers if you
+        choose plagiarism removal and plagiarism editing service. Otherwise
+        plagiarism checker starts from INR 250 (USD 5)
+    - id: 4
       question: Do you provide plagiarism report after plagiarism correction is done?
       answer: Yes, we run another round of similarity check after correcting the
         manuscript to ensure the manuscript is free of plagiarised content?
-    - id: 4
+    - id: 5
       question: Can you rewrite a mansucript based on others' work?
       answer: Absolutely not. We edit and rewrite manuscripts only for self-plagiarism
         and unintentional similarity as a result of citations and standard
         definitions
+    - id: 6
+      question: How does your plagiarism checker/plagiarism removal service work?
+      answer: We first check the manuscript for similarity using industry-leading
+        plagiarism checker software and send you similarity report. You can then
+        decide whether you want to select plagiarism removal service.
 key: plagiarism_correction
 parentType: technical
 seo:
@@ -175,8 +186,13 @@ seo:
     - Plagiarism detection
     - Plagiarism remover
 ---
+
+<span style="color:red">***WE DO NOT SUPPORT OR ENCOURAGE PLAGIARISING OTHERS' WORK  & INTENTIONAL PLAGIARISM***</span>.
+
+
 Modern-day academic plagiarism involves mostly self-plagiarism - a lot of unintentional similarity that the authors have as part of sections such as Materials & Methods or References or definition of principles or laws that remain constant and are universal. 
 
-***PLEASE NOTE WE DO NOT SUPPORT OR ENCOURAGE PLAGIARISING OTHERS' WORK.***
 
-Our plagiarism correction service help you reduce the similarity faster with the help of our expert editors who have experience in rephrasing sentences to reduce the similarity. Our Plagiarism Correction services involve:
+
+
+Our plagiarism correction service help you find the similarity percentage using industry-leading plagiarism checker and gives you plagiarism report. Based on the similarity report, our plagiarism editor advises what level of manuscript editing for removing plagiarism is required. Our plagiarism editors reduce the similarity faster with the help of the plagiarism report by rephrasing sentences to reduce the similarity. Our Plagiarism Correction services involve:
