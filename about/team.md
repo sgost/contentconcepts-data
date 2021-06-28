@@ -50,7 +50,7 @@ teamMembers:
       techniques. She is a specialist in ESL writing and editing.
     image: ../assets/essay_editor.png
     themeColor: "#FFC6CD"
-  - id: 5
+  - id: 6
     name: Dr Athira
     role: ESL Editor, Scientific Manuscript Editor
     image: ../assets/profile_female.png
@@ -61,4 +61,13 @@ teamMembers:
       She makes detailed observations in the manuscripts to help her clients
       successfully publish their work.
     themeColor: "#FFC6CD"
+  - id: 5
+    name: Dr Benny K, PhD
+    role: Principal Editor - Business, Management and Administration
+    description: Dr. Benny K is an acclaimed academic editor, writer, and reviewer
+      who has published 50+ papers and has edited many articles for high impact
+      journals in Business and Management. He is an Associate Editor for a high
+      impact factor journal published under Elsevier.
+    image: ../assets/manuscript-editor6.png
+    themeColor: "#ACADED"
 ---
