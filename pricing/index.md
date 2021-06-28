@@ -1,10 +1,10 @@
 ---
 title: Pricing
 heading: Top quality, truly affordable services.
-subHeading: Why pay in dollar when you can pay in rupee? Our editing fee is one
-  of the best and affordable for authors and students. No express fee, fast
-  turnaround, personal attention are some of the benefits why our customers stay
-  with us.
+subHeading: " Our manuscript editing & proofreading charge is one of the best
+  and affordable for authors and students. Why pay dollar$$ when you can pay in
+  INR? We do not charge express fee. Our payment gateway is secured and handled
+  by banks. Try with us and you will not be disappointed"
 types:
   - id: 1
     title: Editing Services
