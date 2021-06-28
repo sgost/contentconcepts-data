@@ -153,15 +153,48 @@ faq:
   title: English Editing Service - FAQ
   questions:
     - id: 1
-      question: What are the different English language styles you use while editing?
-      answer: We can edit as per two English language styles – American English and
-        British English. You can choose your preferred language style in the
-        online submission form.
+      question: How do I get started with English Editing service?
+      answer: You can use the Get Quote form to send the document or email us. Our
+        team will get back to you with quote and other details
     - id: 2
-      question: Is my information secure with you?
-      answer: We can edit as per two English language styles – American English and
-        British English. You can choose your preferred language style in the
-        online submission form.
+      question: Is my document secure and confidential with you?
+      answer: Definitely. Our site is built with superior technology and is most
+        secure. Moreover, we have been in this field for over 15 years offering
+        secure services without any glitches so far
+    - id: 3
+      question: How do I choose the right English editing level for my document?
+      answer: "We offer three levels of English \x10editing - Proofreading & Copy
+        Editing, Substantive Editing and Plagiarism Editing. All are explained
+        on English Editing service page and Pricing page.When you send your
+        manuscript to us, we can check and advise you on the level of editing
+        required."
+    - id: 4
+      question: Can I get a free English editing sample for my document?
+      answer: "Yes, if your document is longer than 20,000 words, you will get free
+        sample edit of approximately 300 words. This sample edit gives you an
+        idea of the English editor’s editing style "
+    - id: 5
+      question: How do I make payment? Is your website secure?
+      answer: Absolutely. Our payment is handled by banks and PayPal, so there is no
+        reason to worry about your payment details. You can make payment via
+        bank, Google Pay, UPI, or PayPal
+    - id: 6
+      question: Do do you provide English editing certificate for my document?
+      answer: Yes, we do. The  Editing Certificate will have a QR code and other
+        details so that you can submit to your reviewer.
+    - id: 7
+      question: What file types can I submit for English editing service?
+      answer: We accept all versions of Microsoft Word documents (doc, docx, rtf), as
+        well as LaTeX files. However, we cannot edit LaTeX files directly, so we
+        usually request you export or copy and paste your LaTeX text into a
+        Microsoft Word document or other .rtf or .txt editor.
+    - id: 8
+      question: Do you offer a refund if I am not satisfied with the work?
+      answer: If you are unsatisfied with the service that you have received and can
+        produce proof that the editing quality was substandard (e.g., language
+        and punctuation errors, very low editing), we issue a partial or full
+        refund. Contact our project manager by sending an email to
+        info@contentconcepts.in
 key: english_editing_india
 parentType: business
 seo:
