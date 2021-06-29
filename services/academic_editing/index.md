@@ -18,9 +18,9 @@ features:
   - id: 5
     title: Scientific Manuscript Editing
     link: /services/academic_editing/scientific_manuscript_editing
-  - title: ESL Editing
+  - title: English Editing
     id: 6
-    link: /services/academic_editing/esl_editing
+    link: /services/academic_editing/english_editing
   - title: Book Editing
     id: 7
     link: /services/academic_editing/book_editing
