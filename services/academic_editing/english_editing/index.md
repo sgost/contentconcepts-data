@@ -1,5 +1,5 @@
 ---
-title: ESL Editing
+title: English Editing
 highlight: If English is your second language, choose this
 message: Not happy with edit? <span>100% refund without any condition</span>
 features:
@@ -22,7 +22,7 @@ priceCard:
   tagContent: Edited by native-English editors
   content: Spot typical errors in ESL writing
 editingLevels:
-  title: Different levels of editing
+  title: English Editing at 3 levels
   subHeading: Because each author is unique
   levelTypes:
     - id: 1
@@ -83,7 +83,7 @@ editingLevels:
       substantive: no
       developmental: yes
 editingSample:
-  title: ESL Editing Sample
+  title: English Editing sample
   samples:
     - id: 1
       title: Copy Editing
@@ -101,7 +101,7 @@ editingSample:
         substantive editing features
       image: ./substantive_editing.png
 editingHighlights:
-  title: Highlights of our ESL Manuscript Editing services
+  title: Why people use our English Editing services?
   highlights:
     - id: 1
       title: Affordable Prices
@@ -127,7 +127,7 @@ editingHighlights:
         which has passed the best level of security testing in the industry.
       image: ./transaction.svg
 serviceProcess:
-  title: How it works?
+  title: English Editing process
   steps:
     - id: 1
       order: "01"
@@ -152,7 +152,7 @@ serviceProcess:
         back to the customer.
       themeColor: "#FFABAB"
 faq:
-  title: Frequently Asked Questions
+  title: English Editing - FAQ
   questions:
     - id: 1
       question: What are the different English language styles you use while editing?
@@ -163,7 +163,7 @@ faq:
       question: Is my information secure with you?
       answer: We can edit as per two English language styles – American English and
         British English.
-key: esl_editing
+key: english_editing
 parentType: academic
 seo:
   title: English Editing and Proofreading Services in India
@@ -181,5 +181,6 @@ seo:
     - manuscript editing services free online english language editing service
     - english language editing service india
 ---
+Our English editing service is top-notch yet affordable for researchers. For non-native speakers of English, writing a research manuscript or paper is a difficult task. Your strength and focus is on research but your communication language may need to be edited for it to be effective. 
 
-For non-native speakers of English, writing a research manuscript or paper is a difficult task. Your strength is research and your language may not be effective. Our ESL editors specialise in editing manuscripts written by authors whose first language is not English. Get the right word, right sentence structure and convey your research findings effectively
+Our [English manuscript editors](https://contentconcepts.in/about/) specialise in editing manuscripts written by authors whose first language is not English. Get the right word, right sentence structure and convey your research findings effectively.
