@@ -4,15 +4,20 @@ highlight: If English is your second language, choose this
 message: Not happy with edit? <span>100% refund without any condition</span>
 features:
   - id: 1
-    title: Native-English editors
+    title: English Editing - Manuscript
+    link: /services/academic_editing/manuscript_editing
   - id: 2
-    title: Phd Editors with certified English language editing skills
+    title: English Editing - Thesis and Dissertation
+    link: /services/academic_editing/thesis_editing
   - id: 3
-    title: Over 10,000 papers edited for ESL authors
+    title: Academic English Editing
+    link: /services/academic_editing/
   - id: 4
-    title: Fast and affordable service
+    title: English Editing - Book Manuscript
+    link: /services/academic_editing/book_editing
   - id: 5
-    title: Multiple rounds of editing available
+    title: Essay Editing in English
+    link: /services/academic_editing/essay_editing
 priceCard:
   pricing:
     title: Starting from
@@ -184,3 +189,5 @@ seo:
 Our English editing service is top-notch yet affordable for researchers. For non-native speakers of English, writing a research manuscript or paper is a difficult task. Your strength and focus is on research but your communication language may need to be edited for it to be effective. 
 
 Our [English manuscript editors](https://contentconcepts.in/about/) specialise in editing manuscripts written by authors whose first language is not English. Get the right word, right sentence structure and convey your research findings effectively.
+
+Here is a list of our English Editing services:
