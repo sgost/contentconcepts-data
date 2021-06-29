@@ -160,14 +160,31 @@ faq:
   title: English Editing - FAQ
   questions:
     - id: 1
-      question: What are the different English language styles you use while editing?
-      answer: We can edit as per two English language styles – American English and
-        British English. You can choose your preferred language style in the
-        online submission form.
+      question: What is English Editing? What changes can I expect on my document?
+      answer: We offer three levels of English editing - Proofreading & Copy Editing,
+        Substantive Editing and Plagiarism Editing. All are explained on our
+        English Editing page and Pricing page.When you send your manuscript to
+        us, we can check and advise you on the level of editing required.
     - id: 2
-      question: Is my information secure with you?
-      answer: We can edit as per two English language styles – American English and
-        British English.
+      question: Is my document submitted for English editing secure with you?
+      answer: Absolutely. Our site is built with superior & latest technologies and is
+        most secure. Moreover, we have been in this field for over 15 years
+        offering secure services without any glitches so far
+    - id: 3
+      question: Can I get a free English editing sample?
+      answer: Yes, if your English manuscript is longer than 20,000 words, you will
+        get free sample edit of approximately 500 words. If you are a publisher
+        or journal editor, we can offer discounted prices and free sample edit.
+    - id: 4
+      question: How do I make payment for English Editing service? Is your website
+        secure?
+      answer: Our payment is handled by banks and PayPal, so there is no reason to
+        worry about your payment details. You can make payment via bank, Google
+        Pay, UPI, or PayPal
+    - id: 5
+      question: Do you provide editing certificate after editing my document?
+      answer: Yes, we provide English Editing Certificate with QR code and other
+        details so that you can submit to your reviewer or journal
 key: english_editing
 parentType: academic
 seo:
