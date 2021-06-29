@@ -84,7 +84,7 @@ editingSample:
         substantive editing features
       image: ./substantive_editing.png
 editingHighlights:
-  title: Highlights of our manuscript editing services
+  title: Why people choose our Manuscript Editing service?
   highlights:
     - id: 1
       title: Affordable Prices
