@@ -48,6 +48,6 @@ seo:
     - manuscript editor
     - ""
 ---
-Our team of manuscript editors are Ph.D Editors and native English editors who have edited more than 100,000 pages of manuscripts. They excel in subject knowledge and the art of academic writing and editing. We can help you put your research findings convincingly and enable manuscript authors communicate to the journal with CONFIDENCE.
+ContentConcepts [manuscript editing](https://contentconcepts.in/services/academic_editing/manuscript_editing) process is created keeping in mind a short and best experience for our customers. Our editing process is simple and faster as you could see in the illustration below in the section - How Manuscript Editing service works.
 
-If you are worried about self-plagiarism or unintentional plagiarism, we help you check the similarity index and reduce the similarity percentage with our plagiarism correction services.
+Pricing - We offer the best price for proofreading and manuscript editing in India. To know about our [proofreading and manuscript editing rates](https://contentconcepts.in/pricing/), please check our [Pricing](https://contentconcepts.in/pricing/) page.
