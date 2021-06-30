@@ -183,9 +183,9 @@ faq:
 key: book_editing
 parentType: academic
 seo:
-  title: Book editing and proofreading services in India.
-  description: Book manuscript editing and proofreading services in India. Book
-    editing available for Business, Technology, Science and Medicine.
+  title: Book manuscript editing and proofreading services in India.
+  description: Book manuscript editing and proofreading services in India starts
+    at INR 1. One of the most trusted and affordable services online
   keywords:
     - Book editing services
     - book proofreading service
