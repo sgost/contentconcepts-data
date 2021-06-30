@@ -20,12 +20,12 @@ features:
     link: /services/academic_editing/essay_editing
 priceCard:
   pricing:
-    title: Starting from
+    title: Starts from
     price:
       inr: <span>INR 1.50</span>/word
       usd: <span>$0.025</span>/word
   tagContent: Edited by native-English editors
-  content: Spot typical errors in ESL writing
+  content: 2-3 days delivery time
 editingLevels:
   title: English Editing at 3 levels
   subHeading: Because each author is unique
