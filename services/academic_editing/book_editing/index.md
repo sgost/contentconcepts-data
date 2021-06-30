@@ -154,14 +154,32 @@ faq:
   title: Book Manuscript Editing - FAQ
   questions:
     - id: 1
-      question: What are the different English language styles you use while editing?
-      answer: We can edit as per two English language styles – American English and
-        British English. You can choose your preferred language style in the
-        online submission form.
+      question: How do I get started with book manuscript editing service?
+      answer: You can use the Get Quote form to send the document or email us. Our
+        team will get back to you with quote and other details
     - id: 2
-      question: Is my information secure with you?
-      answer: We can edit as per two English language styles – American English and
-        British English.
+      question: Do you provide free sample editing for my manuscript?
+      answer: " Yes, if your book manuscript is longer than 20,000 words, you will get
+        free sample edit of approximately 300 words. This sample edit gives you
+        an idea of the book manuscript editor’s and English editor’s editing
+        style "
+    - id: 3
+      question: How do I choose the editing level for my manuscript? How do you decide?
+      answer: We offer three levels of editing - Proofreading & Copy Editing,
+        Substantive Editing and Plagiarism Editing. All are explained on each
+        service page and Pricing page.When you send your manuscript to us, we
+        can check and advise you on the level of editing required.
+    - id: 4
+      question: Is my book manuscript secure with you?
+      answer: Absolutely. Our site is built with superior & latest technologies and is
+        most secure. Moreover, we have been in this field for over 15 years
+        offering secure services without any glitches so far
+    - id: 5
+      question: How do I make payment for book editing? Is your website safe for
+        making online payment?
+      answer: Our payment is handled by banks and PayPal, so we would say it's 100%
+        safe. We do not keep any payment details and is directly done by bank's
+        payment gateway.
 key: book_editing
 parentType: academic
 seo:
