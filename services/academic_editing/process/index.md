@@ -36,7 +36,7 @@ serviceProcess:
         back to the customer.
       themeColor: "#FFABAB"
 key: process
-parentType: about
+parentType: academic
 seo:
   title: Manuscript Editing process and rates
   description: Cheap and best editing manuscript editing services in India trusted
