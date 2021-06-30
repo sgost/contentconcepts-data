@@ -18,7 +18,7 @@ priceCard:
     title: Starts from
     price:
       inr: <span>INR 1.50</span>/word
-      usd: <span>$0.025</span>/word
+      usd: <span>$0.03</span>/word
   tagContent: Clear, Concise, Engaging style
   content: Suggestions for artwork & infographics
 editingLevels:
@@ -101,7 +101,7 @@ editingSample:
         substantive editing features
       image: ./substantive_editing.png
 editingHighlights:
-  title: Highlights of our Book Editing service
+  title: Why people use our Book Editing service?
   highlights:
     - id: 1
       title: Affordable Prices
@@ -126,7 +126,7 @@ editingHighlights:
         which has passed the best level of security testing in the industry.
       image: ./transaction.svg
 serviceProcess:
-  title: How it works?
+  title: How the book editing process works?
   steps:
     - id: 1
       order: "01"
@@ -151,7 +151,7 @@ serviceProcess:
         back to the customer.
       themeColor: "#FFABAB"
 faq:
-  title: Frequently Asked Questions
+  title: Book Manuscript Editing - FAQ
   questions:
     - id: 1
       question: What are the different English language styles you use while editing?
