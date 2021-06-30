@@ -16,9 +16,6 @@ sitemapList:
       - id: 4
         title: Sitemap
         link: /sitemap/
-      - id: 5
-        title: Editing Process
-        link: /about/index
   - id: 2
     title: Academic Editing
     link: /services/academic_editing
