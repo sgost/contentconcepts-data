@@ -1,5 +1,5 @@
 ---
-title: Academic Editing Services
+title: Academic Editing Service
 highlight: Truly Affordable
 message: Not happy with edit? <span>100% refund without any condition</span>
 features:
@@ -18,9 +18,9 @@ features:
   - id: 5
     title: Scientific Manuscript Editing
     link: /services/academic_editing/scientific_manuscript_editing
-  - title: ESL Editing
+  - title: English Editing
     id: 6
-    link: /services/academic_editing/esl_editing
+    link: /services/academic_editing/english_editing
   - title: Book Editing
     id: 7
     link: /services/academic_editing/book_editing
@@ -115,7 +115,7 @@ editingSample:
         substantive editing features
       image: ./substantive_editing.png
 editingHighlights:
-  title: Highlights of our manuscript editing service
+  title: Highlights of our Academic Editing service
   highlights:
     - id: 1
       title: Affordable Prices
@@ -140,7 +140,7 @@ editingHighlights:
         which has passed the best level of security testing in the industry.
       image: ./transaction.svg
 serviceProcess:
-  title: How academic editing service works?
+  title: How Academic Editing service works?
   steps:
     - id: 1
       order: "01"
@@ -165,7 +165,7 @@ serviceProcess:
         back to the customer.
       themeColor: "#FFABAB"
 faq:
-  title: Frequently Asked Questions
+  title: Academic Editing Service - FAQ
   questions:
     - id: 1
       question: What type of manuscripts do you edit in academic editing service?
