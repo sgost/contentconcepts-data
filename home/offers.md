@@ -1,8 +1,7 @@
 ---
-title: "Offers"
-offer: "Get 15% discount for your first job"
-offerLink: {
-  title: 'Check our truly affordable prirces',
-  link: '/pricing/'
-}
+title: Offers
+offer: Get 15% discount for your first job...
+offerLink:
+  title: Best manuscript editing service rates at cost price
+  link: /pricing/
 ---
