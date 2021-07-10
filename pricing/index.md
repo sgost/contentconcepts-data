@@ -16,8 +16,8 @@ types:
           - Correct spelling and punctuation
           - Appropriate usage of terminology
         price:
-          inr: "$ <span>0.02</span>/word "
-          usd: INR <span>1.00</span>/word
+          inr: "$ <span>0.025</span>/word "
+          usd: INR <span>1.50</span>/word
         themeColor: "linear-gradient(116.8deg, #FF912F -9.97%, #FFAD64 105%)"
       - id: 2
         title: Substantive Editing & Scientific Editing
@@ -27,8 +27,8 @@ types:
           - Appropriate terminologies
           - Scientific style & language
         price:
-          inr: "$ <span>0.03</span>/word "
-          usd: INR <span>1.50</span>/word
+          inr: "$ <span>0.027</span>/word "
+          usd: INR <span>1.75</span>/word
         themeColor: "linear-gradient(119.96deg, #B361FF -2.59%, #C98EFF 104.08%)"
       - id: 3
         title: Plagiarism Editing
