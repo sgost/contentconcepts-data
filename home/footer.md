@@ -44,7 +44,7 @@ sitemapList:
       - id: 8
         title: Resume Editing
         link: /services/academic_editing/resume_editing
-  - id: 3
+  - id: 2
     title: Business Editing
     link: /services/business_editing
     sitemap:
@@ -72,7 +72,7 @@ sitemapList:
       - id: 8
         title: English Editing & Proofreading
         link: /services/business_editing/english_editing_india
-  - id: 4
+  - id: 3
     title: Plagiarism Check
     link: /services/plagiarism_correction
     sitemap:
@@ -82,7 +82,7 @@ sitemapList:
       - id: 2
         title: Plagiarism Editing
         link: /services/plagiarism_check/plagiarism_editing
-  - id: 5
+  - id: 4
     title: Publication Support
     link: /services/publication_support
     sitemap:
