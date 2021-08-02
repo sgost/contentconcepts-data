@@ -1,16 +1,10 @@
 ---
 title: Category
 categories:
-  - label: Copy Editing
+  - label: Proofreading
     value: Copy Editing
   - label: Substantive Editing
     value: Substantive Editing
-  - label: Scientific Editing
-    value: Scientific Editing
-  - label: Plagiarism Check
+  - label: Plagiarism Check & Editing
     value: Plagiarism Check
-  - label: Manuscript Rewriting
-    value: Manuscript Rewriting
-  - label: Business Document Editing
-    value: Business Document Editing
 ---
