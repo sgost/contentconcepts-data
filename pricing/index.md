@@ -17,7 +17,7 @@ types:
           - Appropriate usage of terminology
         price:
           inr: "$ <span>0.025</span>/word "
-          usd: INR <span>1.50</span>/word
+          usd: INR <span>1.20</span>/word
         themeColor: "linear-gradient(116.8deg, #FF912F -9.97%, #FFAD64 105%)"
       - id: 2
         title: Substantive Editing & Scientific Editing
@@ -28,7 +28,7 @@ types:
           - Scientific style & language
         price:
           inr: "$ <span>0.027</span>/word "
-          usd: INR <span>1.75</span>/word
+          usd: INR <span>1.50</span>/word
         themeColor: "linear-gradient(119.96deg, #B361FF -2.59%, #C98EFF 104.08%)"
       - id: 3
         title: Plagiarism Editing
@@ -38,7 +38,7 @@ types:
           - Plagiarism report
         price:
           inr: "$ <span>0.045</span>/word "
-          usd: ₹ <span>3.00</span>/word
+          usd: ₹ <span>2.50</span>/word
         themeColor: "linear-gradient(116.47deg, #03CA8B -5.73%, #02C688 -5.72%, #05E29C
           103.5%)"
   - id: 2
