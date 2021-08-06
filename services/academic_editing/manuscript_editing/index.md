@@ -26,7 +26,7 @@ editingLevels:
   subHeading: Choose the right editing level
   levelTypes:
     - id: 1
-      title: Copy Editing
+      title: Proofreading
       themeColor: "#FFA351"
     - id: 2
       title: Substantive Editing
@@ -84,7 +84,7 @@ editingSample:
         substantive editing features
       image: ./substantive_editing.png
 editingHighlights:
-  title: Highlights of our manuscript editing services
+  title: Why people choose our Manuscript Editing service?
   highlights:
     - id: 1
       title: Affordable Prices
