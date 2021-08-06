@@ -26,7 +26,7 @@ editingLevels:
   subHeading: Choose the right editing level
   levelTypes:
     - id: 1
-      title: Copy Editing
+      title: Proofreading
       themeColor: "#FFA351"
     - id: 2
       title: Substantive Editing
