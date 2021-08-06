@@ -22,9 +22,9 @@ types:
       - id: 2
         title: Substantive Editing
         editingServices:
-          - Correct usage of words for the document
-          - Calrity & sentence structure and flow
-          - Grammar and spell check
+          - Correct usage of words
+          - Ensure clarity & proper structure and flow
+          - Grammar & spell check
         price:
           inr: "$ <span>0.027</span>/word "
           usd: INR <span>1.50</span>/word
