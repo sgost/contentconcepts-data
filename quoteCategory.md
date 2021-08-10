@@ -1,10 +1,8 @@
 ---
 title: Category
 categories:
-  - label: Proofreading
-    value: Copy Editing
-  - label: Substantive Editing
-    value: Substantive Editing
-  - label: Plagiarism Check & Editing
-    value: Plagiarism Check
+  - label: English (U.S.)
+    value: English (U.S.)
+  - label: English (U.K.)
+    value: English (U.K.)
 ---
