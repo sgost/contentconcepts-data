@@ -15,9 +15,10 @@ types:
           - Grammatically correct sentences
           - Correct spelling and punctuation
           - Appropriate usage of terminology
+          - Certificate
         price:
-          inr: "$ <span>0.025</span>/word "
-          usd: INR <span>1.20</span>/word
+          inr: "$ <span>0.022</span>/word "
+          usd: INR <span>1.50</span>/word
         themeColor: "linear-gradient(116.8deg, #FF912F -9.97%, #FFAD64 105%)"
       - id: 2
         title: Substantive Editing
@@ -25,9 +26,10 @@ types:
           - Correct usage of words
           - Ensure clarity & proper structure and flow
           - Grammar & spell check
+          - Certificate
         price:
-          inr: "$ <span>0.027</span>/word "
-          usd: INR <span>1.50</span>/word
+          inr: "$ <span>0.025</span>/word "
+          usd: INR <span>1.75</span>/word
         themeColor: "linear-gradient(119.96deg, #B361FF -2.59%, #C98EFF 104.08%)"
       - id: 3
         title: Plagiarism Editing
