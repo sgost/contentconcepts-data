@@ -15,6 +15,7 @@ types:
           - Grammatically correct sentences
           - Correct spelling and punctuation
           - Appropriate usage of terminology
+          - Certificate
         price:
           inr: "$ <span>0.022</span>/word "
           usd: INR <span>1.50</span>/word
@@ -25,6 +26,7 @@ types:
           - Correct usage of words
           - Ensure clarity & proper structure and flow
           - Grammar & spell check
+          - Certificate
         price:
           inr: "$ <span>0.025</span>/word "
           usd: INR <span>1.75</span>/word
