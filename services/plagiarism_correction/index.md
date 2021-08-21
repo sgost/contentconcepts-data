@@ -125,13 +125,12 @@ serviceProcess:
     - id: 2
       order: "02"
       title: Receive Quote
-      description: After receiving the manuscript, ContentConcepts sends price quote.
+      description: We send plagiarism report and quote for editing
       themeColor: "#F5DA7D"
     - id: 3
       order: "03"
       title: Confirm Order
-      description: After payment is made by the customer, ContentConcepts sends
-        confirmation of payment.
+      description: Customer confirms quote by making payment for plagiarism edit
       themeColor: "#98E5E0"
     - id: 4
       order: "04"
