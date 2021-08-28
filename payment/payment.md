@@ -1,7 +1,7 @@
 ---
 title: Payment Options
 description: If you are outside India, please use this link to pay via PayPal
-description1: Scan the QR Code to make Payment (India)
+description1: To pay, scan the QR Code
 description2: Payment Details
 description3: ●  UPI ID
 description4: contentconcepts@icici
