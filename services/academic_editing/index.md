@@ -31,8 +31,8 @@ priceCard:
   pricing:
     title: Starts from
     price:
-      inr: <span>INR 1.00</span>/word
-      usd: <span> $0.025</span>/word
+      inr: <span>INR 1.50</span>/word
+      usd: <span> $0.020</span>/word
   tagContent: No express fee, quick delivery
   content: Publish with confidence
 editingLevels:
