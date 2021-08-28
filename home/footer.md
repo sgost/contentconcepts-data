@@ -36,7 +36,7 @@ sitemapList:
         title: Letter Editing
         link: /services/academic_editing/letter_editing
       - id: 6
-        title: ESL Editing
+        title: English Editing
         link: /services/academic_editing/english_editing
       - id: 7
         title: Book Editing
