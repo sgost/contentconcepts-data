@@ -185,20 +185,28 @@ seo:
     - Plagiarism detection
     - Plagiarism remover
 ---
-<span style="color:red">***WE DO NOT SUPPORT OR ENCOURAGE PLAGIARISING OTHERS' WORK  & INTENTIONAL PLAGIARISM***</span>.
+<span style="color:red">*WE DO NOT SUPPORT OR ENCOURAGE PLAGIARISING OTHERS' WORK  & INTENTIONAL PLAGIARISM*</span>.
 
-<p></p>
+<br>
 
 ### What is offered in Plagiarism Correction Service?
 
-<p></p>
+<br>
 
-**Step 1**: **[Similarity Check](https://contentconcepts.in/services/plagiarism_check/similarity_check)** - We check **similarity percentage** using [plagiarism software](https://contentconcepts.in/blog/online-plagiarism-checker-how-does-plagiarism-detection-software-tool-work/) (INR 350 per paper. Free if you select [plagiarism editing service](https://contentconcepts.in/services/plagiarism_check/plagiarism_editing))
+**Step 1**: [Similarity Check](https://contentconcepts.in/services/plagiarism_check/similarity_check) - We check **similarity percentage** using [plagiarism software](https://contentconcepts.in/blog/online-plagiarism-checker-how-does-plagiarism-detection-software-tool-work/) (INR 350 per paper. Free if you select [plagiarism editing service](https://contentconcepts.in/services/plagiarism_check/plagiarism_editing))
 
-**Step 2**: **[Plagiarism Correction/Plagiarism Editing](https://contentconcepts.in/services/plagiarism_check/plagiarism_editing)** - Based on the similarity report, we recommend the level of editing required (Usually this involves heavy editing or rewriting to reduce similarity. If you opt for this.
+**Step 2**: [Plagiarism Correction/Plagiarism Editing](https://contentconcepts.in/services/plagiarism_check/plagiarism_editing) - Based on the similarity report, we recommend the level of editing required (Usually this involves heavy editing or rewriting to reduce similarity. If you opt for this.
+
+<br>
 
 ### What is our definition of academic plagiarism?
 
 Modern-day [academic plagiarism](https://contentconcepts.in/blog/manuscript-plagiarism-%E2%80%93-quick-guide-to-fix-it-and-reduce-similarity-index/) involves mostly self-plagiarism - a lot of unintentional similarity that the authors have as part of sections such as Materials & Methods or References or definition of principles or laws that remain constant and are universal. 
 
-Our plagiarism correction service help you find the similarity percentage using industry-leading plagiarism checker and gives you plagiarism report. Based on the similarity report, our plagiarism editor advises what level of manuscript editing for removing plagiarism is required. Our plagiarism editors reduce the similarity faster with the help of the plagiarism report by rephrasing sentences to reduce the similarity. Our Plagiarism Correction services involve:
+<br>
+
+Our plagiarism correction service help you find the similarity percentage using industry-leading plagiarism checker and gives you plagiarism report. Based on the similarity report, our plagiarism editor advises what level of manuscript editing for removing plagiarism is required. 
+
+<br>
+
+ Our plagiarism editors reduce the similarity faster with the help of the plagiarism report by rephrasing sentences to reduce the similarity. Our Plagiarism Correction services involve:
