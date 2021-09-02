@@ -201,6 +201,10 @@ seo:
 
 <p></p>
 
+<p></p>
+
+<p></p>
+
 ### What is our definition of academic plagiarism?
 
 Modern-day [academic plagiarism](https://contentconcepts.in/blog/manuscript-plagiarism-%E2%80%93-quick-guide-to-fix-it-and-reduce-similarity-index/) involves mostly self-plagiarism - a lot of unintentional similarity that the authors have as part of sections such as Materials & Methods or References or definition of principles or laws that remain constant and are universal. 
