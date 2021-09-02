@@ -1,8 +1,9 @@
 ---
 title: Trusted by 500+ Clients
-description: We provide English editing & proofreading, manuscript formatting,
-  plagiarism check, and publication support to authors, students, publishers,
-  universities, startups and corporate. Here is a list of few selected customers
+description: We provide English editing, manuscript editing & proofreading,
+  manuscript formatting, plagiarism check, and publication support to authors,
+  students, publishers, universities, startups and corporate. Here is a list of
+  few selected customers
 clients:
   - id: 1
     title: English Editing and Proofreading Service in India
