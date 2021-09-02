@@ -195,9 +195,9 @@ seo:
 
 <p></p>
 
-**Step 1**: **[Similarity Check](https://contentconcepts.in/services/plagiarism_check/similarity_check)** - We check **similarity percentage** using [plagiarism software](https://contentconcepts.in/blog/online-plagiarism-checker-how-does-plagiarism-detection-software-tool-work/) (INR 350 per paper. Free if you select [plagiarism editing service](https://contentconcepts.in/services/plagiarism_check/plagiarism_editing))
+**Step 1**: [Similarity Check](https://contentconcepts.in/services/plagiarism_check/similarity_check) - We check **similarity percentage** using [plagiarism software](https://contentconcepts.in/blog/online-plagiarism-checker-how-does-plagiarism-detection-software-tool-work/) (INR 350 per paper. Free if you select [plagiarism editing service](https://contentconcepts.in/services/plagiarism_check/plagiarism_editing))
 
-**Step 2**: **[Plagiarism Correction/Plagiarism Editing](https://contentconcepts.in/services/plagiarism_check/plagiarism_editing)** - Based on the similarity report, we recommend the level of editing required (Usually this involves heavy editing or rewriting to reduce similarity. If you opt for this.
+**Step 2**: [Plagiarism Correction/Plagiarism Editing](https://contentconcepts.in/services/plagiarism_check/plagiarism_editing) - Based on the similarity report, we recommend the level of editing required (Usually this involves heavy editing or rewriting to reduce similarity. If you opt for this.
 
 <p></p>
 
