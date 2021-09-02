@@ -1,5 +1,5 @@
 ---
-title: Why people choose us? <span>Special?</span>
+title: " <span>Why people choose our manuscript editing service?</span>"
 description: We are PhDs. We understand the hard work behind every manuscript.
   We offer top-quality editing & proofreading services at affordable rates.
 badge: ../assets/quality_badge.svg
@@ -16,7 +16,7 @@ specialities:
     themeColor: rgba(155, 89, 182, 0.7)
   - id: 3
     title: Affordable
-    description: Our editing fee is the most affordable in this industry for the
-      service by native English and PhD editors.
+    description: Our manuscript editing fee is the most affordable in this industry
+      for the service by native English and PhD editors.
     themeColor: rgba(26, 188, 156, 0.7)
 ---
