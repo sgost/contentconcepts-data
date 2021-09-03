@@ -42,9 +42,44 @@ sitemapList:
         title: Book Editing
         link: /services/academic_editing/book_editing
       - id: 8
-        title: Resume Editing
+        title: Proofreading Service
         link: /services/academic_editing/resume_editing
-  - id: 2
+  - id: 3
+    title: Publication Support
+    link: /services/publication_support
+    sitemap:
+      - id: 1
+        title: Journal Selection
+        link: /services/publication_support/journal_selection
+      - id: 2
+        title: Journal Submission
+        link: /services/publication_support/journal_submission
+      - id: 3
+        title: Pre-submission Review
+        link: /services/publication_support/presubmission_review
+      - id: 4
+        title: Manuscript Re-submission
+        link: /services/publication_support/manuscript_resubmission
+      - id: 5
+        title: Illustration & Artwork
+        link: /services/publication_support/illustration_artwork
+      - id: 6
+        title: Manuscript Rewriting
+        link: /services/publication_support/manuscript_rewriting
+      - id: 7
+        title: Manuscript Formatting
+        link: /services/publication_support/manuscript_formatting
+  - id: 4
+    title: Plagiarism Check
+    link: /services/plagiarism_correction
+    sitemap:
+      - id: 1
+        title: Manuscript Similarity Check
+        link: /services/plagiarism_check/similarity_check
+      - id: 2
+        title: Plagiarism Editing
+        link: /services/plagiarism_check/plagiarism_editing
+  - id: 5
     title: Business Editing
     link: /services/business_editing
     sitemap:
@@ -72,39 +107,4 @@ sitemapList:
       - id: 8
         title: English Editing & Proofreading
         link: /services/business_editing/english_editing_india
-  - id: 3
-    title: Plagiarism Check
-    link: /services/plagiarism_correction
-    sitemap:
-      - id: 1
-        title: Manuscript Similarity Check
-        link: /services/plagiarism_check/similarity_check
-      - id: 2
-        title: Plagiarism Editing
-        link: /services/plagiarism_check/plagiarism_editing
-  - id: 4
-    title: Publication Support
-    link: /services/publication_support
-    sitemap:
-      - id: 1
-        title: Journal Selection
-        link: /services/publication_support/journal_selection
-      - id: 2
-        title: Journal Submission
-        link: /services/publication_support/journal_submission
-      - id: 3
-        title: Pre-submission Review
-        link: /services/publication_support/presubmission_review
-      - id: 4
-        title: Manuscript Re-submission
-        link: /services/publication_support/manuscript_resubmission
-      - id: 5
-        title: Illustration & Artwork
-        link: /services/publication_support/illustration_artwork
-      - id: 6
-        title: Manuscript Rewriting
-        link: /services/publication_support/manuscript_rewriting
-      - id: 7
-        title: Manuscript Formatting
-        link: /services/publication_support/manuscript_formatting
 ---
