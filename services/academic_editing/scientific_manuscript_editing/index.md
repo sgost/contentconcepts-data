@@ -175,12 +175,13 @@ faq:
 key: scientific_manuscript_editing
 parentType: academic
 seo:
-  title: Research proposal editing services in India. Proposal proofreading services
-  description: Proposal editing and proofreading services in India at affordable
-    prices. Proposal formatting available.
+  title: ContentConcepts - Scientific manuscript editing service by Phd and native
+    English
+  description: Scientific manuscript editing and proofreading service at
+    affordable prices. By native English and PhD editors
   keywords:
-    - Proposal editing service
-    - proposal proofreading service
+    - scientific manuscript editing service
+    - manuscript proofreading service
     - proposal english editing
     - proposal editing
     - proposal proofreading
