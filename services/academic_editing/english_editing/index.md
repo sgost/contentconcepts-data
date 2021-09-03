@@ -1,19 +1,19 @@
 ---
-title: English Editing
+title: English Language Editing Service
 highlight: If English is your second language, choose this
 message: Not happy with edit? <span>100% refund without any condition</span>
 features:
   - id: 1
-    title: English Editing - Manuscript
+    title: English Language Editing - Manuscript
     link: /services/academic_editing/manuscript_editing
   - id: 2
-    title: English Editing - Thesis and Dissertation
+    title: English Language Editing - Thesis and Dissertation
     link: /services/academic_editing/thesis_editing
   - id: 3
     title: Academic English Editing
     link: /services/academic_editing/
   - id: 4
-    title: English Editing - Book Manuscript
+    title: English Language Editing - Book Manuscript
     link: /services/academic_editing/book_editing
   - id: 5
     title: Essay Editing in English
@@ -27,7 +27,7 @@ priceCard:
   tagContent: Edited by native-English editors
   content: 2-3 days delivery time
 editingLevels:
-  title: English Editing at 3 levels
+  title: English Language Editing at 3 levels
   subHeading: Because each author is unique
   levelTypes:
     - id: 1
@@ -106,7 +106,7 @@ editingSample:
         substantive editing features
       image: ./substantive_editing.png
 editingHighlights:
-  title: Why people use our English Editing services?
+  title: Why people use our English Language Editing service?
   highlights:
     - id: 1
       title: Affordable Prices
@@ -132,7 +132,7 @@ editingHighlights:
         which has passed the best level of security testing in the industry.
       image: ./transaction.svg
 serviceProcess:
-  title: English Editing process
+  title: English Language Editing process
   steps:
     - id: 1
       order: "01"
@@ -157,7 +157,7 @@ serviceProcess:
         back to the customer.
       themeColor: "#FFABAB"
 faq:
-  title: English Editing - FAQ
+  title: English Language Editing - FAQ
   questions:
     - id: 1
       question: What is English Editing? What changes can I expect on my document?
