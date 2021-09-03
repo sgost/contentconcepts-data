@@ -154,18 +154,21 @@ faq:
   title: Frequently Asked Questions
   questions:
     - id: 1
-      question: What are the different English language styles you use while editing?
-      answer: We can edit as per two English language styles – American English and
-        British English. You can choose your preferred language style in the
-        online submission form.
+      question: What is the difference between editing and proofeading?
+      answer: Choose editing service when your document needs substantive correction
+        for grammar, correct words, sentence structure and paragraph
+        structure.  Choose proofreading only only if you are sure your
+        manuscript has the proper structure and clarity and you want basic
+        grammar check to remove misspellings, typographical errors, and
+        punctuation errors.
     - id: 2
       question: Is my information secure with you?
-      answer: We can edit as per two English language styles – American English and
-        British English.
+      answer: "Yes, our website is secure in handling documents as well as for
+        payment. Our editors and proofreaders have signed NDA. "
 key: resume_editing
 parentType: academic
 seo:
-  title: "ContentConcepts - The best and cheap proofreading service "
+  title: ContentConcepts - The best and cheap proofreading service online
   description: Manuscript proofreading service by PhD and native English proofreaders
   keywords:
     - Proofreading services
