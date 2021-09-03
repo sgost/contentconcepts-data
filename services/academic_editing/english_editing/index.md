@@ -188,11 +188,12 @@ faq:
 key: english_editing
 parentType: academic
 seo:
-  title: English Editing and Proofreading Services in India
-  description: English Ediitng and proofreading services in India. Truly
-    affordable and top-quality services for manuscript authors and publishers.
+  title: ContentConcepts - English language editing and proofreading service in India
+  description: English language manuscript editing and proofreading services in
+    India. Truly affordable and top-quality services for manuscript authors and
+    publishers.
   keywords:
-    - english editing
+    - english language editing
     - editing english
     - editing manuscripts
     - editing service
