@@ -42,7 +42,7 @@ sitemapList:
         title: Book Editing
         link: /services/academic_editing/book_editing
       - id: 8
-        title: Resume Editing
+        title: Proofreading Service
         link: /services/academic_editing/resume_editing
   - id: 3
     title: Publication Support
