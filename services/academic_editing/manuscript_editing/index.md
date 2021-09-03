@@ -191,7 +191,8 @@ faq:
 key: manuscript_editing
 parentType: academic
 seo:
-  title: Manuscript editing services in India for research papers
+  title: ContentConcepts - Manuscript editing services in India for research
+    papers, thesis
   description: "Manuscript editing and proofreading services in India with free
     sample editing. Truly affordable and one of the cheaper English editing
     services in India. "
