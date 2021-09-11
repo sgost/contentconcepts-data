@@ -7,6 +7,7 @@ features:
     title: Top-notch editing work at truly affordable price
   - id: 2
     title: Phd Editors with certified English language editing skills
+    link: https://contentconcepts.in/about/
   - id: 3
     title: Native-English editors
   - id: 4
@@ -69,7 +70,7 @@ editingSample:
   title: Manuscript Editing Sample
   samples:
     - id: 1
-      title: Manuscript Copy Editing
+      title: Manuscript Proofreading
       description: Grammatically correct sentences, appropriate use of words and
         terminologies
       image: ./Copy_editing_sample.png
