@@ -2,7 +2,7 @@
 author_image: cc-logo-new.png
 author: ContentConcepts
 bio: Manuscript Editing Services
-title: Discount for academic institutions
+title: Discount offer on manuscript editing fee for  academic institutions
 date: 2021-09-14T18:30:00.000Z
 previewImage: screenshot-2021-09-15-at-4.46.37-pm.png
 excerpt: Get 20% discount if you send papers from your academic departments
