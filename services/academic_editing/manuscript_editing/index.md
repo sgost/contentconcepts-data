@@ -7,6 +7,7 @@ features:
     title: Top-notch editing work at truly affordable price
   - id: 2
     title: Phd Editors with certified English language editing skills
+    link: https://contentconcepts.in/about/
   - id: 3
     title: Native-English editors
   - id: 4
@@ -69,7 +70,7 @@ editingSample:
   title: Manuscript Editing Sample
   samples:
     - id: 1
-      title: Manuscript Copy Editing
+      title: Manuscript Proofreading
       description: Grammatically correct sentences, appropriate use of words and
         terminologies
       image: ./Copy_editing_sample.png
@@ -209,6 +210,17 @@ seo:
     - english language editing service india
     - manuscript editing services, cheap english editing services
 ---
-Manuscript editing need not be so expensive. We provide top-quality work at really affordable price. You can check out the [manuscript editing rates](https://contentconcepts.in/pricing/) on our Pricing page. Our editing fee is based on word count. 
+### 3 reasons why we are one of the top manuscript editing service providers.
+
+<br>
+
+<li>Our work is top-notch, on par with the international standard. [Check manuscript editing sample](https://contentconcepts.in/pricing/)
+<li>We offer the best price for manuscript editing. Our rates are low but our quality is high. Check our \\[manuscript editing price](https://contentconcepts.in/pricing/)
+<li>Native English editors and PhD editors with subject knowledge work on your manuscripts. So we get repeat customers. 
+</li>
+
+<br>
+
+Manuscript editing need not be so expensive. We provide top-quality work at really affordable price. You can check out the [manuscript editing rates](https://contentconcepts.in/pricing/) on our Pricing page. Our editing fee is based on word count. </br>
 
 Our editing team has [manuscript editors](https://contentconcepts.in/about/), thesis editors, native English editors, copy editors, proofreaders and [plagiarism editors](https://contentconcepts.in/services/plagiarism_check/plagiarism_editing). Starting from simple copy editing to advanced editing, you can choose the level of editing that suits your budget or what your manuscript requires. If you need, help check [How to select editing level for my research paper](https://contentconcepts.in/blog/manuscript-editing-services-for-research-papers-proofreading-copy-editing-substantive-editing-which-editing-level-should-i-select/)
