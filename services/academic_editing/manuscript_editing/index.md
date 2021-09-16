@@ -10,10 +10,12 @@ features:
     link: https://contentconcepts.in/about/
   - id: 3
     title: Native-English editors
+    link: https://contentconcepts.in/about/
   - id: 4
     title: 1500 plus journal style and formats edited
   - id: 5
-    title: Plagiarism check available
+    title: Plagiarism check and plagiarism editing available
+    link: https://contentconcepts.in/services/plagiarism_correction
 priceCard:
   pricing:
     title: Starts from
@@ -224,6 +226,10 @@ seo:
 
 <br>
 
-Manuscript editing need not be so expensive. We provide top-quality work at really affordable price. Our editing fee is based on word count. You can check out the [manuscript editing rates](https://contentconcepts.in/pricing/) on our Pricing page. </br>
+Our editing team has [manuscript editors](https://contentconcepts.in/about/), thesis editors, native English editors, copy editors, proofreaders and [plagiarism editors](https://contentconcepts.in/services/plagiarism_check/plagiarism_editing). Starting from simple proofreading to substantive editing, you can choose the level of editing that suits your budget or what your manuscript requires. If you need, help check [How to select editing level for my research paper](https://contentconcepts.in/blog/manuscript-editing-services-for-research-papers-proofreading-copy-editing-substantive-editing-which-editing-level-should-i-select/)
 
-Our editing team has [manuscript editors](https://contentconcepts.in/about/), thesis editors, native English editors, copy editors, proofreaders and [plagiarism editors](https://contentconcepts.in/services/plagiarism_check/plagiarism_editing). Starting from simple copy editing to advanced editing, you can choose the level of editing that suits your budget or what your manuscript requires. If you need, help check [How to select editing level for my research paper](https://contentconcepts.in/blog/manuscript-editing-services-for-research-papers-proofreading-copy-editing-substantive-editing-which-editing-level-should-i-select/)
+<br>
+
+
+
+#### Highlights of our manuscript editing service:
