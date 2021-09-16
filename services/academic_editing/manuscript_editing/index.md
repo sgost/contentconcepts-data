@@ -214,8 +214,8 @@ seo:
 
 <br>
 
-<li>Our work is top-notch, on par with the international standard. Check \[manuscript editing sample](https://contentconcepts.in/services/academic_editing/manuscript_editing/#editingSample).
-<li>We offer the best price for manuscript editing. Our rates are low but our quality is high. Check our [manuscript editing pric](https://contentconcepts.in/pricing/)e 
+<li>Our work is top-notch, on par with the international standard. [Check manuscript editing sample](https://contentconcepts.in/pricing/)
+<li>We offer the best price for manuscript editing. Our rates are low but our quality is high. Check our \\[manuscript editing price](https://contentconcepts.in/pricing/)
 <li>Native English editors and PhD editors with subject knowledge work on your manuscripts. So we get repeat customers. 
 </li>
 
