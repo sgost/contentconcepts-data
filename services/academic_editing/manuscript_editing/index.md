@@ -4,18 +4,23 @@ highlight: "Our #1 selling service"
 message: Not happy with edit? <span>100% refund without any condition</span>
 features:
   - id: 1
-    title: Top-notch editing work at truly affordable price
+    title: Scientific Manuscript Editing
+    link: https://contentconcepts.in/services/academic_editing/scientific_manuscript_editing
   - id: 2
-    title: Phd Editors with certified English language editing skills
-    link: https://contentconcepts.in/about/
+    title: Thesis Editing
+    link: https://contentconcepts.in/services/academic_editing/thesis_editing
   - id: 3
-    title: Native-English editors
-    link: https://contentconcepts.in/about/
+    title: English Language Editing
+    link: https://contentconcepts.in/services/academic_editing/english_editing
   - id: 4
-    title: 1500 plus journal style and formats edited
+    title: Proofreading Service
+    link: https://contentconcepts.in/services/academic_editing/proofreading_service
   - id: 5
-    title: Plagiarism check and plagiarism editing available
+    title: Plagiarism Check & Correction
     link: https://contentconcepts.in/services/plagiarism_correction
+  - id: 6
+    title: Manuscript Formatting
+    link: https://contentconcepts.in/services/publication_support/manuscript_formatting
 priceCard:
   pricing:
     title: Starts from
@@ -216,13 +221,15 @@ seo:
 
 <br>
 
-**Reason 1** - Our work is top-notch, on par with the international standard. Check [manuscript editing sample](https://contentconcepts.in/services/academic_editing/manuscript_editing#editingSample)
+💡 **Reason 1** - Our work is top-notch, on par with the international standard. See [manuscript editing sample](https://contentconcepts.in/services/academic_editing/manuscript_editing#editingSample)
 
+💡 **Reason 2** -We offer the best price for manuscript editing. Our rates are low but our quality is high. See our [manuscript editing price]((https://contentconcepts.in/pricing/))
 
-**Reason 2** -We offer the best price for manuscript editing. Our rates are low but our quality is high. Check our [manuscript editing price]((https://contentconcepts.in/pricing/))
+💡 **Reason 3** -[Native English editors and PhD editors](https://contentconcepts.in/about/) with subject knowledge work on your manuscripts. So we get repeat customers. 
 
+<br>
 
-**Reason 3** -[Native English editors and PhD editors](https://contentconcepts.in/about/) with subject knowledge work on your manuscripts. So we get repeat customers. 
+📌 Check our [Manuscript Editing process](https://contentconcepts.in/services/academic_editing/manuscript_editing#editingProcess)
 
 <br>
 
@@ -230,6 +237,4 @@ Our editing team has [manuscript editors](https://contentconcepts.in/about/), th
 
 <br>
 
-
-
-#### Highlights of our manuscript editing service:
+Check our other related editing services:
