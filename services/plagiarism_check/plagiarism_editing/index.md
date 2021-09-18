@@ -105,8 +105,8 @@ faq:
 key: plagiarism_editing
 parentType: technical
 seo:
-  title: Plagiarism editing, Plagiarism rewriting, Plagiarism proofreading
-    services in India
+  title: 👀 ContentConcepts - Plagiarism editing, Plagiarism rewriting, Plagiarism
+    proofreading services in India
   description: We check for plagiarised content and edit or rewrite the manuscript
     based on similarity or plagiarism report.
   keywords:
