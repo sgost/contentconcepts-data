@@ -25,12 +25,12 @@ priceCard:
   pricing:
     title: Starts from*
     price:
-      inr: <span>INR 250</span> OR
+      inr: <span>INR 350</span> OR
       usd: <span>USD 10</span>
-  tagContent: Top Plagiarism Software
+  tagContent: Reduce Plagiarism Significantly
   content: " *Price changes based on Plagiarism software used and document size"
 editingSample:
-  title: Plagiarism Editing Sample
+  title: Plagiarism Editing sample
   samples:
     - id: 1
       title: Copy Editing
@@ -48,7 +48,7 @@ editingSample:
         learning improvement
       image: ./substantive_editing.png
 editingHighlights:
-  title: Why choose our Similarity Check Services?
+  title: Why choose our Plagiarism Check service?
   highlights:
     - id: 1
       title: Affordable Prices
@@ -74,7 +74,7 @@ editingHighlights:
         which has passed the best level of security testing in the industry.
       image: ./transaction.svg
 serviceProcess:
-  title: How Similarity Check works?
+  title: How Plagiarism Check works?
   steps:
     - id: 1
       order: "01"
@@ -98,10 +98,10 @@ serviceProcess:
         sends you a report
       themeColor: "#FFABAB"
 faq:
-  title: Manuscript Similairty Check - FAQ
+  title: Manuscript Plagiarism Check - FAQ
   questions:
     - id: 1
-      question: How do I get started with Similarity Checking service?
+      question: How do I get started with Plagiarism Checking service?
       answer: You can use the Get Quote form to send the manuscript or email us. Our
         team will get back to you with quote and other details
     - id: 2
@@ -122,7 +122,7 @@ faq:
         partial or full refund. Contact our project manager by sending an email
         to info@contentconcepts.in
     - id: 5
-      question: Is Similarity checking done free?
+      question: Is plagiarism check done free?
       answer: We offer free similarity checking for thesis and research papers if you
         choose plagiarism removal and plagiarism editing service. Otherwise
         plagiarism checker starts from INR 250 (USD 5)
