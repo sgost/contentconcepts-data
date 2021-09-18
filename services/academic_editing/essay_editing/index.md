@@ -4,19 +4,23 @@ highlight: Fast & Affordable
 message: Not happy with edit? <span>100% refund without any condition</span>
 features:
   - id: 1
-    title: Significantly improve your essay style by editing sentence structure,
-      word choice
+    title: English language editing
+    link: https://contentconcepts.in/services/academic_editing/english_editing
   - id: 2
-    title: Maintain consistency in tone and presentation
+    title: Proofreading service
+    link: https://contentconcepts.in/services/academic_editing/proofreading_service
   - id: 3
-    title: Eliminate superfluous words, redundancy
+    title: Manuscript editing service
+    link: https://contentconcepts.in/services/academic_editing/manuscript_editing
   - id: 4
-    title: Modify ambiguous statements, vague language
+    title: Book manuscript editing service
+    link: https://contentconcepts.in/services/academic_editing/book_editing
   - id: 5
-    title: Feedback from the editor along with comments on issues in the document
-  - title: Two versions of your essay - one shows the changes made and the other a
-      clean version
+    title: Plagiarism editing
+    link: https://contentconcepts.in/services/plagiarism_check/plagiarism_editing
+  - title: Thesis editing service
     id: 6
+    link: https://contentconcepts.in/services/academic_editing/thesis_editing
 priceCard:
   pricing:
     title: Starts from
@@ -185,3 +189,21 @@ Whether you are writing a college admission essay or assignment essay or a term 
 Admission essays may need more than proofreading to make your content crisp and convincing to the jury. 
 
 Here is what our Essay Editors do:
+
+<br>
+
+• Significantly improve your essay style by editing sentence structure, word choice
+
+• Maintain consistency in tone and presentation
+
+• Eliminate superfluous words, redundancy
+
+• Modify ambiguous statements, vague language
+
+• Feedback from the editor along with comments on issues in the document
+
+• Two versions of your essay - one shows the changes made and the other a clean version
+
+<br>
+
+### Our related services
