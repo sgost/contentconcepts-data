@@ -1,18 +1,26 @@
 ---
-title: Manuscript Similarity Check
-highlight: Reduce plagiarism
+title: "Plagiarism Checker "
+highlight: Free with Plagiarism Editing service
 message: Get free plagiarism report <span>by selecting Plagiarism Editing service</span>
 features:
   - id: 1
-    title: Top-rated plagiarism software for checking
+    title: Plagiarism Editing
+    link: https://contentconcepts.in/services/plagiarism_check/plagiarism_editing
   - id: 2
-    title: Detailed report on manuscript similarity
+    title: Manuscript Editing
+    link: https://contentconcepts.in/services/academic_editing/manuscript_editing
   - id: 3
-    title: Plagiarism Editor assistance for clarifications
+    title: Thesis Editing
+    link: https://contentconcepts.in/services/academic_editing/thesis_editing
   - id: 4
-    title: Fast & affordable
+    title: English Language Editing
+    link: https://contentconcepts.in/services/academic_editing/english_editing
   - id: 5
-    title: Plagiarism Editing available to reduce similarity
+    title: Manuscript Rewriting
+    link: https://contentconcepts.in/services/publication_support/manuscript_rewriting
+  - title: Proofreading Service
+    id: 6
+    link: https://contentconcepts.in/services/academic_editing/proofreading_service
 priceCard:
   pricing:
     title: Starts from*
@@ -144,8 +152,26 @@ seo:
     - Plagiarism detection
     - Plagiarism remover
 ---
-<span style="color:red">***WE DO NOT SUPPORT OR ENCOURAGE INTENTIONAL PLAGIARISM***</span>.
+<span style="color:red">📣 ***WE DO NOT SUPPORT OR ENCOURAGE INTENTIONAL PLAGIARISM***</span>.
 
-Worried your manuscript or research paper will be rejected for high similarity index and plagiarism? Check your manuscript similarity percentage using our industry-leading software and remove similar or plagiarised content using our [plagiarism correction service ](https://contentconcepts.in/services/plagiarism_correction)which can help you reduce the similarity of your manuscript or other academic work.
+<br>
 
-See the section below on <h3>How Similarity Checking service works</h3>
+ 🤔 Worried your manuscript or research paper will be rejected for plagiarism or high similarity score. We provide professional plagiarism check  using industry-leading plagiarism checker tools such as Turnitin and Plagiarism Checker X.  Our [manuscript editors](https://contentconcepts.in/about/#team), help you in [manuscript rewriting](https://contentconcepts.in/services/publication_support/manuscript_rewriting), [manuscript paraphrasing](https://contentconcepts.in/services/publication_support/manuscript_rewriting) and [manuscript editing](https://contentconcepts.in/services/academic_editing/manuscript_editing) to reduce the plagiarism.
+
+<br>
+
+We use PAID online plagiarism checker software, which gives us accurate results. When you select [Plagiarism Editing service](https://contentconcepts.in/services/plagiarism_check/plagiarism_editing), plagiarism check is offered free. You get plagiarism report before and after plagiarism check. 
+
+<br>
+
+
+
+You can also ask for only plagiarism check as an add-on service, when you select [manuscript editing](https://contentconcepts.in/services/academic_editing/manuscript_editing) or [English language editing](https://contentconcepts.in/services/academic_editing/english_editing). You will receive plagiarism report along with edited manuscript. 
+
+<br>
+
+Check our 👉 [Plagiarism Check ordering process](https://contentconcepts.in/services/plagiarism_check/similarity_check#editingProcess) 
+
+<br>
+
+<h3>Other Services Related to Plagiarism Check</h3>
