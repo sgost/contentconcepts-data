@@ -18,6 +18,9 @@ features:
   - id: 5
     title: Essay Editing in English
     link: /services/academic_editing/essay_editing
+  - title: Proofreading service
+    id: 6
+    link: https://contentconcepts.in/services/academic_editing/proofreading_service
 priceCard:
   pricing:
     title: Starts from
