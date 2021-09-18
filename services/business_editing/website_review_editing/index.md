@@ -1,5 +1,5 @@
 ---
-title: Website Copy Editing
+title: Website Review Editing
 highlight: Content that clicks
 message: Make content work for you<span>Clear, concise, and compelling</span>
 features:
@@ -168,7 +168,7 @@ faq:
       question: Is my information secure with you?
       answer: We can edit as per two English language styles – American English and
         British English.
-key: website_copy_editing
+key: website_review_editing
 parentType: business
 seo:
   title: Website copy editing, website proofreading services in India
