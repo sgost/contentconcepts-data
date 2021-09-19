@@ -194,10 +194,11 @@ faq:
 key: english_editing
 parentType: academic
 seo:
-  title: ContentConcepts - English language editing and proofreading service in India
-  description: English language manuscript editing and proofreading services in
-    India. Truly affordable and top-quality services for manuscript authors and
-    publishers.
+  title: "👀 ContentConcepts - English language editing and proofreading service
+    in India "
+  description: 🔥 English language manuscript editing and proofreading services in
+    India. 💲 Truly affordable and top-quality services for manuscript authors
+    and publishers.
   keywords:
     - english language editing
     - editing english
@@ -229,5 +230,11 @@ seo:
 Our English editing service is top-notch yet affordable. For non-native speakers of English, writing a research manuscript or paper is a difficult task. Your strength and focus is on research but your communication language may need to be edited for it to be effective. 
 
 Our [English manuscript editors](https://contentconcepts.in/about/) specialise in editing manuscripts written by authors whose first language is not English. Get the right word, right sentence structure and convey your research findings effectively.
+
+<br>
+
+Starting from simple proofreading to substantive editing, you can choose the level of editing that suits your budget or what your manuscript requires. If you need, help check [How to select the editing level for my ](https://contentconcepts.in/blog/manuscript-editing-services-for-research-papers-proofreading-copy-editing-substantive-editing-which-editing-level-should-i-select/)document
+
+<br>
 
 **Here is a list of our English Editing services:**
