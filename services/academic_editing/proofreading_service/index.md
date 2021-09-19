@@ -153,9 +153,9 @@ serviceProcess:
       themeColor: "#98E5E0"
     - id: 4
       order: "04"
-      title: Edit & Return
-      description: CC assigns the right editor who edits and sends the edited document
-        back to the customer.
+      title: Proofread & Return
+      description: CC assigns the right proofreader who edits and sends the edited
+        document back to the customer.
       themeColor: "#FFABAB"
 faq:
   title: Frequently Asked Questions
@@ -175,7 +175,7 @@ faq:
 key: resume_editing
 parentType: academic
 seo:
-  title: ContentConcepts - The best and cheap proofreading service online
+  title: 👀 ContentConcepts - The best and cheap proofreading service online
   description: Manuscript proofreading service by PhD and native English proofreaders
   keywords:
     - Proofreading services
@@ -183,7 +183,7 @@ seo:
     - proofreading price
     - proofreading onlineproofreading
 ---
-### 3 reasons why we are one of the top proofreading service in India.
+### 👀 3 reasons why we are one of the top proofreading service in India.
 
 <br>
 
@@ -211,4 +211,4 @@ Select proofreading service only if you are sure your manuscript has the proper 
 
 <br>
 
-### Other services related to Proofreading
+### Other services related to Proofreading 👀
