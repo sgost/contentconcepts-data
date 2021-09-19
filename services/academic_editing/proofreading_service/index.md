@@ -1,19 +1,26 @@
 ---
 title: Proofreading Service
-highlight: Ensures clean, consistency copy
+highlight: The most affordable, high-quality service online
 message: Not happy with proofreading? <span>100% refund without any condition</span>
 features:
   - id: 1
-    title: Cheap & best proofreading service
-    link: https://contentconcepts.in/pricing/
+    title: Manuscript Editing
+    link: https://contentconcepts.in/services/academic_editing/manuscript_editing
   - id: 2
-    title: Proofreading certificate
+    title: Thesis Editing
+    link: https://contentconcepts.in/services/academic_editing/thesis_editing
   - id: 3
-    title: Eagle-eye proofreaders
+    title: English Language Editing
+    link: https://contentconcepts.in/services/academic_editing/english_editing
   - id: 4
-    title: Quick turnaround
+    title: Scientific Manuscript Editing
+    link: https://contentconcepts.in/services/academic_editing/scientific_manuscript_editing
   - id: 5
-    title: Free follow-up after journal review
+    title: Plagiarism Checker
+    link: https://contentconcepts.in/services/plagiarism_correction
+  - title: Manuscript Rewriting
+    id: 6
+    link: https://contentconcepts.in/services/publication_support/manuscript_rewriting
 priceCard:
   pricing:
     title: Starts from
@@ -146,9 +153,9 @@ serviceProcess:
       themeColor: "#98E5E0"
     - id: 4
       order: "04"
-      title: Edit & Return
-      description: CC assigns the right editor who edits and sends the edited document
-        back to the customer.
+      title: Proofread & Return
+      description: CC assigns the right proofreader who edits and sends the edited
+        document back to the customer.
       themeColor: "#FFABAB"
 faq:
   title: Frequently Asked Questions
@@ -168,7 +175,7 @@ faq:
 key: resume_editing
 parentType: academic
 seo:
-  title: ContentConcepts - The best and cheap proofreading service online
+  title: 👀 ContentConcepts - The best and cheap proofreading service online
   description: Manuscript proofreading service by PhD and native English proofreaders
   keywords:
     - Proofreading services
@@ -176,12 +183,32 @@ seo:
     - proofreading price
     - proofreading onlineproofreading
 ---
-Our English proofreading service ensures your manuscript is free of typos and grammar mistakes and checks for inconsistencies is the usage of terms and phrases in your manuscript.
+### 👀 3 reasons why we are one of the top proofreading service in India.
 
 <br>
 
-### When should you select proofreading? 
+💡 **Reason 1** - Our proofreading service is top-notch, on par with the international standard. Check our proofreading sample
+
+💡 **Reason 2** -We offer the best price for proofreading service. Our rates are low but our quality is high. See our []((https://contentconcepts.in/pricing/))proofreading rates
+
+💡 **Reason 3** -[Native English editors and PhD editors](https://contentconcepts.in/about/) with subject knowledge work on your manuscripts. So we get repeat customers. 
 
 <br>
 
-Select proofreading service only if you are sure your manuscript has the proper structure and clarity and you want  basic grammar check to remove misspellings, typographical errors, and punctuation errors.
+📌 Check our [Proofreading process](https://contentconcepts.in/services/academic_editing/proofreading_service#editingProcess)
+
+<br>
+
+Our proofreading team has proofreaders, [manuscript editors](https://contentconcepts.in/about/), thesis editors, native English editors, copy editors and [plagiarism editors](https://contentconcepts.in/services/plagiarism_check/plagiarism_editing). Starting from simple proofreading to substantive editing, you can choose the level of editing that suits your budget or what your manuscript requires. If you need, help check [How to select editing level for my research paper](https://contentconcepts.in/blog/manuscript-editing-services-for-research-papers-proofreading-copy-editing-substantive-editing-which-editing-level-should-i-select/)
+
+<br>
+
+### When should you select proofreading?
+
+<br>
+
+Select proofreading service only if you are sure your manuscript has the proper structure and clarity and you want  only basic grammar check to remove misspellings, typographical errors, and punctuation errors.
+
+<br>
+
+### Other services related to Proofreading 👀
