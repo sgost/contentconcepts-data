@@ -188,8 +188,8 @@ faq:
 key: thesis_editing
 parentType: academic
 seo:
-  title: PhD Thesis editing & proofreading services in India, by PhD thesis editors
-  description: We provide the best thesis editing service in India at truly
+  title: 📚 Thesis editing & proofreading service in India, by PhD thesis editors
+  description: 👀 We provide the best thesis editing service in India at truly
     affordable rates. Our thesis editing fee starts from INR 1.
   keywords:
     - Thesis editing services in India
