@@ -4,16 +4,23 @@ highlight: The most affordable, high-quality service online
 message: Not happy with proofreading? <span>100% refund without any condition</span>
 features:
   - id: 1
-    title: Cheap & best proofreading service
-    link: https://contentconcepts.in/pricing/
+    title: Manuscript Editing
+    link: https://contentconcepts.in/services/academic_editing/manuscript_editing
   - id: 2
-    title: Proofreading certificate
+    title: Thesis Editing
+    link: https://contentconcepts.in/services/academic_editing/thesis_editing
   - id: 3
-    title: Eagle-eye proofreaders
+    title: English Language Editing
+    link: https://contentconcepts.in/services/academic_editing/english_editing
   - id: 4
-    title: Quick turnaround
+    title: Scientific Manuscript Editing
+    link: https://contentconcepts.in/services/academic_editing/scientific_manuscript_editing
   - id: 5
-    title: Free follow-up after journal review
+    title: Plagiarism Checker
+    link: https://contentconcepts.in/services/plagiarism_correction
+  - title: Manuscript Rewriting
+    id: 6
+    link: https://contentconcepts.in/services/publication_support/manuscript_rewriting
 priceCard:
   pricing:
     title: Starts from
@@ -188,11 +195,11 @@ seo:
 
 <br>
 
-📌 Check our [Proofreading process](https://contentconcepts.in/services/academic_editing/manuscript_editing#editingProcess)
+📌 Check our [Proofreading process](https://contentconcepts.in/services/academic_editing/proofreading_service#editingProcess)
 
 <br>
 
-Our editing team has [manuscript editors](https://contentconcepts.in/about/), thesis editors, native English editors, copy editors, proofreaders and [plagiarism editors](https://contentconcepts.in/services/plagiarism_check/plagiarism_editing). Starting from simple proofreading to substantive editing, you can choose the level of editing that suits your budget or what your manuscript requires. If you need, help check [How to select editing level for my research paper](https://contentconcepts.in/blog/manuscript-editing-services-for-research-papers-proofreading-copy-editing-substantive-editing-which-editing-level-should-i-select/)
+Our proofreading team has proofreaders, [manuscript editors](https://contentconcepts.in/about/), thesis editors, native English editors, copy editors and [plagiarism editors](https://contentconcepts.in/services/plagiarism_check/plagiarism_editing). Starting from simple proofreading to substantive editing, you can choose the level of editing that suits your budget or what your manuscript requires. If you need, help check [How to select editing level for my research paper](https://contentconcepts.in/blog/manuscript-editing-services-for-research-papers-proofreading-copy-editing-substantive-editing-which-editing-level-should-i-select/)
 
 <br>
 
@@ -200,4 +207,8 @@ Our editing team has [manuscript editors](https://contentconcepts.in/about/), th
 
 <br>
 
-Select proofreading service only if you are sure your manuscript has the proper structure and clarity and you want  basic grammar check to remove misspellings, typographical errors, and punctuation errors.
+Select proofreading service only if you are sure your manuscript has the proper structure and clarity and you want  only basic grammar check to remove misspellings, typographical errors, and punctuation errors.
+
+<br>
+
+### Other services related to Proofreading
