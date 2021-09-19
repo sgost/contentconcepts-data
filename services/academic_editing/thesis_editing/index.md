@@ -1,32 +1,40 @@
 ---
 title: Thesis Editing
-highlight: Affordable & Quality Service
-message: Not happy with edit? <span>100% refund without any condition</span>
+highlight: Affordable rate & top-notch service
+message: Not happy with thesis editing? <span>100% refund without any condition</span>
 features:
   - id: 1
-    title: "Phd Editors with certified English language editing skills "
+    title: Thesis Formating
+    link: https://contentconcepts.in/services/publication_support/manuscript_formatting
   - id: 2
-    title: Subject matter experts in Science, Medicine, Humanities and Technology
+    title: Plagiarism Checker
+    link: https://contentconcepts.in/services/plagiarism_correction
   - id: 3
-    title: Native-English editors
+    title: Scientific Manuscript Editing
+    link: https://contentconcepts.in/services/academic_editing/scientific_manuscript_editing
   - id: 4
-    title: IIM, IIT, and other Ivy-league universities as customers
+    title: English Language Editing
+    link: https://contentconcepts.in/services/academic_editing/english_editing
   - id: 5
-    title: APA, Chicago and MLA style check & formatting
+    title: Proofreading Service
+    link: https://contentconcepts.in/services/academic_editing/proofreading_service
+  - title: "Manuscript Editing "
+    id: 6
+    link: https://contentconcepts.in/services/academic_editing/manuscript_editing
 priceCard:
   pricing:
     title: Starts from
     price:
       inr: <span>INR 1.50</span>/word
       usd: <span>$0.020</span>/word
-  tagContent: APA, Chicago | IIT, IIM
-  content: PhD Editors, Formatting Editors
+  tagContent: Formatting, Plagiarism check, Proofreading
+  content: APA, Chicago, Turabian | IIT, IIM
 editingLevels:
   title: Thesis Editing levels
   subHeading: Choose the right editing level
   levelTypes:
     - id: 1
-      title: Copy Editing
+      title: Proofreading
       themeColor: "#FFA351"
     - id: 2
       title: Substantive Editing
@@ -180,9 +188,9 @@ faq:
 key: thesis_editing
 parentType: academic
 seo:
-  title: PhD Thesis editing & proofreading services in India, by PhD thesis editors
-  description: We provide the best thesis editing service in India at truly
-    affordable rates. Our thesis editing fee starts from INR 1.
+  title: 📚 Thesis editing & proofreading service in India, by PhD thesis editors
+  description: 👀 We provide the best thesis editing service in India at truly
+    affordable rates. 💲💲Our thesis editing fee starts from INR 1.
   keywords:
     - Thesis editing services in India
     - Thesis proofreading services in India
@@ -193,4 +201,34 @@ seo:
     - dissertation editing service
     - dissertation proofreading services
 ---
-Our PhD thesis editing and dissertation editing services is one of the most trusted and affordable in India. Our [Thesis Editors](https://contentconcepts.in/about/) are well aware of the expectations from universities in India as well as out of India. We comply to most familiar style guides such as APA, Chicago, MLA, etc. Here is a snapshot of our very affordable thesis editing and proofreading services:
+### 3 reasons why we are one of the top Thesis Editing service providers.
+
+<br>
+
+💡 **Reason 1** - Our thesis editing work is top-notch, on par with the international standard. See [](https://contentconcepts.in/services/academic_editing/manuscript_editing#editingSample)[thesis editing sample](https://contentconcepts.in/services/academic_editing/thesis_editing#editingSample)
+
+💡 **Reason 2** -We offer the best price for thesis editing. Our rates are low but our quality is high. Check our [thesis editing price]((https://contentconcepts.in/pricing/)). Thesis editing price is based on the level of editing you choose - Proofreading, substantive editing. If you need, help check [How to select editing level for my thesis](https://contentconcepts.in/blog/manuscript-editing-services-for-research-papers-proofreading-copy-editing-substantive-editing-which-editing-level-should-i-select/)
+
+💡 **Reason 3** -[Native English editors and PhD editors](https://contentconcepts.in/about/) with subject knowledge edit your thesis. So we get repeat customers. 
+
+<br>
+
+Our PhD thesis editing and dissertation editing services is one of the most trusted and affordable in India. Our [Thesis Editors](https://contentconcepts.in/about/) are well aware of the expectations from universities on style and formatting. 
+
+<br>
+
+📌 Check our [Thesis Editing process](https://contentconcepts.in/services/academic_editing/thesis_editing#editingProcess)
+
+<br>
+
+### [Thesis Formatting](https://contentconcepts.in/services/publication_support/manuscript_formatting)
+
+Our thesis editing includes [thesis formatting](https://contentconcepts.in/services/publication_support/manuscript_formatting) also. [](https://contentconcepts.in/services/publication_support/manuscript_formatting)We can format thesis adhering to most familiar style guides such as APA, Chicago, MLA, Turabian etc. 
+
+<br>
+
+Our editing team has [manuscript editors](https://contentconcepts.in/about/), thesis editors, native English editors, copy editors, proofreaders and [plagiarism editors](https://contentconcepts.in/services/plagiarism_check/plagiarism_editing). Starting from simple proofreading to substantive editing, you can choose the level of editing that suits your budget or what your manuscript requires. 
+
+<br>
+
+### Other services related to Thesis Editing
