@@ -223,7 +223,7 @@ seo:
 
 💡 **Reason 1** - Our work is top-notch, on par with the international standard. See [manuscript editing sample](https://contentconcepts.in/services/academic_editing/manuscript_editing#editingSample)
 
-💡 **Reason 2** -We offer the best price for manuscript editing. Our rates are low but our quality is high. See our [manuscript editing price]((https://contentconcepts.in/pricing/))
+💡 **Reason 2** -We offer the best price for manuscript editing. Our rates are low but our quality is high. See our [manuscript editing price](https://contentconcepts.in/pricing/)
 
 💡 **Reason 3** -[Native English editors and PhD editors](https://contentconcepts.in/about/) with subject knowledge work on your manuscripts. So we get repeat customers. 
 
