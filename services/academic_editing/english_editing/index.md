@@ -1,6 +1,6 @@
 ---
 title: English Language Editing Service
-highlight: If English is your second language, choose this
+highlight: Best price, native English edtitor
 message: Not happy with edit? <span>100% refund without any condition</span>
 features:
   - id: 1
@@ -21,6 +21,9 @@ features:
   - title: Proofreading service
     id: 6
     link: https://contentconcepts.in/services/academic_editing/proofreading_service
+  - title: Plagiarism Check
+    id: 7
+    link: https://contentconcepts.in/services/plagiarism_correction
 priceCard:
   pricing:
     title: Starts from
@@ -34,7 +37,7 @@ editingLevels:
   subHeading: Because each author is unique
   levelTypes:
     - id: 1
-      title: Copy Editing
+      title: Proofreading
       themeColor: "#FFA351"
     - id: 2
       title: Substantive Editing
@@ -191,10 +194,11 @@ faq:
 key: english_editing
 parentType: academic
 seo:
-  title: ContentConcepts - English language editing and proofreading service in India
-  description: English language manuscript editing and proofreading services in
-    India. Truly affordable and top-quality services for manuscript authors and
-    publishers.
+  title: "👀 ContentConcepts - English language editing and proofreading service
+    in India "
+  description: 🔥 English language manuscript editing and proofreading services in
+    India. 💲 Truly affordable and top-quality services for manuscript authors
+    and publishers.
   keywords:
     - english language editing
     - editing english
@@ -207,8 +211,30 @@ seo:
     - manuscript editing services free online english language editing service
     - english language editing service india
 ---
-Our English editing service is top-notch yet affordable for researchers. For non-native speakers of English, writing a research manuscript or paper is a difficult task. Your strength and focus is on research but your communication language may need to be edited for it to be effective. 
+### 3 reasons why we are one of the top English language editing services.
+
+<br>
+
+💡 **Reason 1** - Our work is top-notch, on par with the international standard. See [English editing sample](https://contentconcepts.in/services/academic_editing/english_editing#editingSample)
+
+💡 **Reason 2** -We offer the best price for English editing. Our rates are low but our quality is high. Check our [English editing price](https://contentconcepts.in/pricing/)
+
+💡 **Reason 3** -[Native English editors and PhD editors](https://contentconcepts.in/about/) with subject knowledge work on your manuscripts. So we get repeat customers. 
+
+<br>
+
+📌 Check our [English Editing process](https://contentconcepts.in/services/academic_editing/english_editing/#editingProcess)
+
+<br>
+
+Our English editing service is top-notch yet affordable. For non-native speakers of English, writing a research manuscript or paper is a difficult task. Your strength and focus is on research but your communication language may need to be edited for it to be effective. 
 
 Our [English manuscript editors](https://contentconcepts.in/about/) specialise in editing manuscripts written by authors whose first language is not English. Get the right word, right sentence structure and convey your research findings effectively.
 
-Here is a list of our English Editing services:
+<br>
+
+Starting from simple proofreading to substantive editing, you can choose the level of editing that suits your budget or what your manuscript requires. If you need, help check [How to select the editing level for my ](https://contentconcepts.in/blog/manuscript-editing-services-for-research-papers-proofreading-copy-editing-substantive-editing-which-editing-level-should-i-select/)document
+
+<br>
+
+**Here is a list of our English Editing services:**
