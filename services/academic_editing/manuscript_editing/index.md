@@ -217,7 +217,7 @@ seo:
     - english language editing service india
     - manuscript editing services, cheap english editing services
 ---
-### 3 reasons why we are one of the top manuscript editing service providers.
+### 3 reasons why we are one of the top manuscript editing services.
 
 <br>
 
