@@ -4,29 +4,37 @@ highlight: Affordable rate & top-notch service
 message: Not happy with thesis editing? <span>100% refund without any condition</span>
 features:
   - id: 1
-    title: "Phd Editors with certified English language editing skills "
+    title: Thesis Formating
+    link: https://contentconcepts.in/services/publication_support/manuscript_formatting
   - id: 2
-    title: Subject matter experts in Science, Medicine, Humanities and Technology
+    title: Plagiarism Checker
+    link: https://contentconcepts.in/services/plagiarism_correction
   - id: 3
-    title: Native-English editors
+    title: Scientific Manuscript Editing
+    link: https://contentconcepts.in/services/academic_editing/scientific_manuscript_editing
   - id: 4
-    title: IIM, IIT, and other Ivy-league universities as customers
+    title: English Language Editing
+    link: https://contentconcepts.in/services/academic_editing/english_editing
   - id: 5
-    title: APA, Chicago and MLA style check & formatting
+    title: Proofreading Service
+    link: https://contentconcepts.in/services/academic_editing/proofreading_service
+  - title: "Manuscript Editing "
+    id: 6
+    link: https://contentconcepts.in/services/academic_editing/manuscript_editing
 priceCard:
   pricing:
     title: Starts from
     price:
       inr: <span>INR 1.50</span>/word
       usd: <span>$0.020</span>/word
-  tagContent: APA, Chicago | IIT, IIM
-  content: PhD Editors, Formatting Editors
+  tagContent: Formatting, Plagiarism check, Proofreading
+  content: APA, Chicago, Turabian | IIT, IIM
 editingLevels:
   title: Thesis Editing levels
   subHeading: Choose the right editing level
   levelTypes:
     - id: 1
-      title: Copy Editing
+      title: Proofreading
       themeColor: "#FFA351"
     - id: 2
       title: Substantive Editing
