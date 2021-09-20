@@ -1,5 +1,5 @@
 ---
-title: Trusted by 500+ Clients
+title: Trusted by top universities, publishers, IIM
 description: We provide English editing, manuscript editing & proofreading,
   manuscript formatting, plagiarism check, and publication support to authors,
   students, publishers, universities, startups and corporate. Here is a list of
