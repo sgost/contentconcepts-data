@@ -70,4 +70,13 @@ teamMembers:
       She makes detailed observations in the manuscripts to help her clients
       successfully publish their work.
     themeColor: "#FFC6CD"
+  - id: 7
+    name: Heather Evans
+    role: Manuscript Editor - Humanities
+    description: Heather as a masters in English from University of Michigan. She
+      edits documents in a range of disciplines, the most common of which being
+      education and health care, and she enjoys advising adult authors on how to
+      produce their finest work.
+    image: ../assets/heather_manuscript_editor.png
+    themeColor: "#FFC6CD"
 ---
