@@ -1,6 +1,6 @@
 ---
 title: Payment Options
-description: If you are outside India, please use this link to pay via PayPal
+description: Outside India - If you are paying form outside India, please use
 description1: To pay, scan the QR Code
 description2: Payment Details
 description3: ●  UPI ID
