@@ -1,8 +1,7 @@
 ---
 title: Manuscript editing and proofreading service by ContentConcepts 👀
-description: English Ediitng and proofreading services in India. Truly
-  💲💲  affordable and top-quality services for manuscript authors and
-  publishers.
+description: English Ediitng and proofreading services. Truly 💲💲  affordable
+  and top-quality services for manuscript authors and publishers.
 keywords:
   - english editing
   - editing english
