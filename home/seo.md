@@ -1,6 +1,5 @@
 ---
-title: 👀 ContentConcepts - Manuscript Editing Services in India. Affordable &
-  one of the best
+title: Manuscript editing and proofreading service by ContentConcepts 👀
 description: English Ediitng and proofreading services in India. Truly
   💲💲  affordable and top-quality services for manuscript authors and
   publishers.
