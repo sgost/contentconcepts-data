@@ -1,6 +1,6 @@
 ---
-title: Plagiarism Correction
-highlight: Powered by Plagiarism Checker + Manuscript Editor
+title: Plagiarism Removal
+highlight: Similarity report + rephrasing, rewriting and editing
 message: Reduce manuscript similarity to less than 15%<span>Best plagiarism
   checker and similarity removal service</span>
 features:
@@ -11,7 +11,7 @@ features:
     title: Plagiarism assessment
     link: /services/plagiarism_check/plagiarism_editing
   - id: 2
-    title: Plagiarism correction
+    title: Plagiarism Removal
     link: /services/plagiarism_check
 priceCard:
   pricing:
@@ -22,7 +22,7 @@ priceCard:
   tagContent: Reduce similarity to <15%
   content: Get Free Plagiarism Report
 editingLevels:
-  title: Plagiarism Check and Correction Services
+  title: Plagiarism Check and Removal Services
   subHeading: Get similarity report and edited manuscript
   levelTypes:
     - id: 1
@@ -90,7 +90,7 @@ editingSample:
         learning improvement
       image: ./substantive_editing.png
 editingHighlights:
-  title: Highlights of our Plagiarism Correction services
+  title: Highlights of our Plagiarism Removal services
   highlights:
     - id: 1
       title: Affordable Prices
@@ -115,7 +115,7 @@ editingHighlights:
         which has passed the best level of security testing in the industry.
       image: ./transaction.svg
 serviceProcess:
-  title: How Plagiarism Correction Services work?
+  title: How Plagiarism Removal Services work?
   steps:
     - id: 1
       order: "01"
@@ -139,7 +139,7 @@ serviceProcess:
         back to the customer.
       themeColor: "#FFABAB"
 faq:
-  title: Plagiarism Correction Service - FAQ
+  title: Plagiarism Removal Service - FAQ
   questions:
     - id: 1
       question: Why do you edit plagiarised manuscript and research papers?
@@ -180,7 +180,7 @@ seo:
     truly affordable prices. We help reduce similarity in manuscript
   keywords:
     - Plagiarism checker
-    - Plagiarism correction
+    - Plagiarism removal
     - Plagiarism checking
     - Plagiarism detection
     - Plagiarism remover
@@ -189,24 +189,24 @@ seo:
 
 <br>
 
-### What is offered in Plagiarism Correction Service?
+### What is offered in Plagiarism Removal service?
 
 <br>
 
 **Step 1**: [Similarity Check](https://contentconcepts.in/services/plagiarism_check/similarity_check) - We check **similarity percentage** using [plagiarism software](https://contentconcepts.in/blog/online-plagiarism-checker-how-does-plagiarism-detection-software-tool-work/) (INR 350 per paper. Free if you select [plagiarism editing service](https://contentconcepts.in/services/plagiarism_check/plagiarism_editing))
 
-**Step 2**: [Plagiarism Correction/Plagiarism Editing](https://contentconcepts.in/services/plagiarism_check/plagiarism_editing) - Based on the similarity report, we recommend the level of editing required (Usually this involves heavy editing or rewriting to reduce similarity. If you opt for this.
+**Step 2**: [Plagiarism Removal / Plagiarism Editing](https://contentconcepts.in/services/plagiarism_check/plagiarism_editing) - Based on the similarity report, we recommend the level of editing required (Usually this involves heavy editing or rewriting to reduce similarity. If you opt for this.
 
 <br>
 
-### What is our definition of academic plagiarism?
+### What is  academic plagiarism?
 
 Modern-day [academic plagiarism](https://contentconcepts.in/blog/manuscript-plagiarism-%E2%80%93-quick-guide-to-fix-it-and-reduce-similarity-index/) involves mostly self-plagiarism - a lot of unintentional similarity that the authors have as part of sections such as Materials & Methods or References or definition of principles or laws that remain constant and are universal. 
 
 <br>
 
-Our plagiarism correction service help you find the similarity percentage using industry-leading plagiarism checker and gives you plagiarism report. Based on the similarity report, our plagiarism editor advises what level of manuscript editing for removing plagiarism is required. 
+Our plagiarism removal service help you find the similarity percentage using industry-leading plagiarism checker and gives you plagiarism report. Based on the similarity report, our plagiarism editor advises what level of manuscript editing for removing plagiarism is required. 
 
 <br>
 
- Our plagiarism editors reduce the similarity faster with the help of the plagiarism report by rephrasing sentences to reduce the similarity. Our Plagiarism Correction services involve:
+ Our plagiarism editors reduce the similarity faster with the help of the plagiarism report by rephrasing sentences to reduce the similarity. Our Plagiarism Removal services involve:
