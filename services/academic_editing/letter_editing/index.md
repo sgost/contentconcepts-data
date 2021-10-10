@@ -178,20 +178,5 @@ seo:
 ---
 # What is dissertation editing?
 
-Our dissertation editing service is a three-step process where dissertation editors and proofreaders work on your dissertation to do a comprehensive editing and proofreading followed by a quality check by senior dissertation editors. 
+Our dissertation editing service is a three-step process where dissertation editors and proofreaders work on your dissertation to do a comprehensive editing and proofreading followed by a quality check by senior dissertation editors.
 
-Our dissertation editing service covers the following:
-
-
-
-
-
-| Comprehensive thesis editing     | Sentence structure, English word choice, clarity, tone, voice, and redundant words. American/British English, capitalization, hyphenation, headings, numbering style, abbreviations, |
-| -------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Consistency & Style              | Writing style suitable for the publisher, consistency in punctuation, numbering, data consistency in Figures and Tables                                                              |
-| Technical Content Accuracy       | Correct usage of technical terms Appropriate unit and measurements Accuracy in nomenclature                                                                                          |
-| Content logical flow & Structure | Check logical flow of sentences and paragraphs Rearrange sections where necessary Check relevancy of section vs content                                                              |
-| Presentation of content          | Whether headings and titles relate to content Each section has right amount of content Reduce redundancy                                                                             |
-| Enhance content                  | Clear writing, remove ambiguity Eliminate superfluous words Remove gaps in writing                                                                                                   |
-| Formatting                       | Manuscript formatting according to journals APA, MLA, Chicago, Turabian formatting                                                                                                   |
-| Proofreading                     |                                                                                                                                                                                      |
