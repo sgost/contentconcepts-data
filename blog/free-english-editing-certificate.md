@@ -4,7 +4,7 @@ author: ContentConcepts
 bio: English Editing Services
 title: Free English Editing Certificate
 date: 2021-10-07T18:30:00.000Z
-previewImage: editing-certificate.png
+previewImage: editing-certificate-sample-2.png
 excerpt: Get free English editing certificate to submit to your journal and get
   ahead in publishing.
 tags:
@@ -20,15 +20,11 @@ seo:
 ---
 When you submit your manuscript for proofreading or editing, you get a free English editing certificate. 
 
-![](editing-certificate.png)
-
-
+![](editing-certificate-sample-2.png)
 
 If you are from non-English speaking country, usually most of the journals require the authors, to submit English language editing certificate.
 
 We at ContentConcepts provide editing certificate that is accepted by all major publishers and journals. We have been in this field for 15 years and most of the journals are familiar with our name and quality.
-
-
 
 ### What details are included in the editing certificate?
 
