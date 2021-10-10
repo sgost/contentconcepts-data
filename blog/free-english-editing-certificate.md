@@ -18,13 +18,13 @@ seo:
     - certificate
     - editing-certificate
 ---
-When you submit your manuscript for proofreading or editing, you get a free English editing certificate. 
+When you submit your manuscript for[ proofreading or editing](https://contentconcepts.in/services/academic_editing), you get a free English editing certificate. 
 
 ![](editing-certificate-sample-2.png)
 
-If you are from non-English speaking country, usually most of the journals require the authors, to submit English language editing certificate.
+If you are from non-English speaking country, usually most of the journals require the authors, to submit [English language editing](https://contentconcepts.in/services/academic_editing/english_editing) certificate.
 
-We at ContentConcepts provide editing certificate that is accepted by all major publishers and journals. We have been in this field for 15 years and most of the journals are familiar with our name and quality.
+We at ContentConcepts provide editing certificate that is accepted by all major publishers and journals. We have been in this field for [15 years](https://contentconcepts.in/about/) and most of the journals are familiar with our name and quality.
 
 ### What details are included in the editing certificate?
 
