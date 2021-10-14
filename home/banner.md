@@ -11,8 +11,8 @@ services:
     title: Manuscript Editing
     link: academic_editing/manuscript_editing
   - id: 2
-    title: "English Editing "
-    link: "academic_editing/english_editing "
+    title: Editing Certificate
+    link: https://contentconcepts.in/blog/free-english-editing-certificate/
   - id: 3
     title: Plagiarism Check
     link: plagiarism_correction
