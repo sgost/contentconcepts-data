@@ -14,7 +14,7 @@ services:
       dissertation editing, and plagiarism check. If you do not have a lot of
       time and want to finish theis quickly, talk to us.
     image: ../assets/editing.svg
-    link: /services/publication_support
+    link: services/academic_editing/thesis_editing
   - id: 3
     title: Plagiarism Check
     description: Get a detailed plagiarism report, indicating what percentage
