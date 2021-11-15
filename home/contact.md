@@ -4,9 +4,12 @@ call: +91-70100-24345
 email: info@contentconcepts.in
 categories:
   - id: 1
-    title: Manuscript Editing - Standard
+    title: Editing & Proofreading
     value: editing
   - id: 2
-    title: Plagiarism Removal
+    title: Plagiarism Removal & Correction
     value: plagiarismcheck
+  - id: 3
+    title: Others
+    value: others
 ---
