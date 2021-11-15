@@ -9,11 +9,11 @@ typedWords:
 services:
   - id: 1
     title: Manuscript Editing
-    link: academic_editing/manuscript_editing
+    link: /services/academic_editing/manuscript_editing
   - id: 2
     title: Editing Certificate
-    link: https://contentconcepts.in/blog/free-english-editing-certificate/
+    link: /blog/free-english-editing-certificate
   - id: 3
     title: Plagiarism Check
-    link: plagiarism_correction
+    link: /services/plagiarism_correction
 ---
