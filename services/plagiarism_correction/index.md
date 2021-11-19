@@ -189,7 +189,7 @@ seo:
 
 <br>
 
-### What is offered in Plagiarism Removal service?
+### What is the process for Plagiarism Removal service?
 
 <br>
 
