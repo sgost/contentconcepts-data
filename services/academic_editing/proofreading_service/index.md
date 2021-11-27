@@ -94,10 +94,10 @@ editingSample:
   title: Proofreading Sample
   samples:
     - id: 1
-      title: Copy Editing
+      title: Proofreading
       description: Line by line editing for language, readability and technical
         learning improvement
-      image: ./substantive_editing.png
+      image: proofreading_sample_free.png
     - id: 2
       title: Substantive Editing
       description: Line by line editing for language, readibility nad technical
