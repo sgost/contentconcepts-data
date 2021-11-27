@@ -11,14 +11,16 @@ tags:
   - editing-certificate
   - free-english-editing-certificate
 seo:
-  title: English Editing Certificate for Manuscript and Research Paper and Journals
+  title: "Free English Editing Certificate "
   description: Free English editing certificate for manuscript journals with validation code
   keywords:
     - english-editing
     - certificate
     - editing-certificate
 ---
-When you submit your manuscript for[ proofreading or editing](https://contentconcepts.in/services/academic_editing), you get a free English editing certificate. 
+[ContentConcepts](https://contentconcepts.in/) provides free English Editing Certificate
+
+When you submit your manuscript to us for[ manuscript editing](https://contentconcepts.in/services/academic_editing), or [English editing](https://contentconcepts.in/services/academic_editing/english_editing) you can get a free English editing certificate. 
 
 ![](editing-certificate-sample-2.png)
 
@@ -35,3 +37,7 @@ The editing certificate will have the following details
 * Declaration of English language editing and guarantee by  Chief Editor
 * Date of editing
 * QR code for validating the certificate
+
+
+
+Submit your document [here](https://contentconcepts.in/pricing/) to get the editing certificate.
