@@ -97,7 +97,7 @@ editingSample:
       title: Proofreading
       description: Line by line editing for language, readability and technical
         learning improvement
-      image: proofreading_sample_free.png
+      image: screenshot-2021-11-27-at-11.14.54-am.png
     - id: 2
       title: Substantive Editing
       description: Line by line editing for language, readibility nad technical
