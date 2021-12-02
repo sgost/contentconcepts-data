@@ -2,8 +2,7 @@
 author_image: cc-logo-new.png
 author: ContentConcepts
 bio: Manuscript Editing Services
-title: Manuscript Editing Service -- Proofreading or substantive editing; which
-  editing level should I select?
+title: Proofreading vs Editing - Which is right for me?
 date: 2020-10-20T18:30:00.000Z
 previewImage: editing-levels.png
 excerpt: When it comes to editing or proofreading research papers or
@@ -18,7 +17,7 @@ tags:
   - copy editing
   - substantive editing
 seo:
-  title: Manuscript editing service - 👀 Proofreading vs substantive editing
+  title: " Proofreading vs editing"
   description: Different levels of manuscript editing services offered by online
     services and details of the editing levels
   keywords:
@@ -30,6 +29,10 @@ seo:
 When sending [manuscript or research paper for editing](https://contentconcepts.in/services/academic_editing/manuscript_editing), authors are often confused with [different editing levels](https://contentconcepts.in/services/academic_editing) and terms used by the editing service providers. In India, many manuscript authors when sending request for quotes, enquire about the different levels of [editing samples](https://contentconcepts.in/services/academic_editing/manuscript_editing) offered by manuscript editing services.
 
 So, as an author which editing level should I select? Read on to find out more….
+
+
+
+![Proofreading vs editing](screenshot-2021-12-02-at-10.22.54-am.png "Proofreading vs editing")
 
 # **[Proofreading Service](https://contentconcepts.in/services/academic_editing/proofreading_service)**
 
