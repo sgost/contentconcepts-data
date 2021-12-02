@@ -16,7 +16,4 @@ services:
   - id: 3
     title: Plagiarism Check
     link: plagiarism_correction
-  - id: -4
-    title: What should I select?
-    link: https://contentconcepts.in/pricing/#pricing
 ---
