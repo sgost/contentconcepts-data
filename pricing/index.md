@@ -42,7 +42,7 @@ types:
           usd: ₹ <span>2.50</span>/word
         themeColor: "linear-gradient(116.47deg, #03CA8B -5.73%, #02C688 -5.72%, #05E29C
           103.5%)"
-  - id: 2
+  - id: -1
     title: Publication Services
     pricing:
       - id: 1
