@@ -18,4 +18,14 @@ seo:
     - thesis
   description: Get Free Abstract for Research Paper and Thesis
 ---
+
+
+![Free Abstract](get-abstract.png "Free abstract creator")
+
+Get abstract in just two simple steps. 
+
+**Step 1.** Read the instructions below each textfield and type your inputs
+
+**Step 2.** Submit and get your abstract in your email. 
+
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdPURtSv7at4BJk7SqSAa8bZuxWhuAqWrF22lq-A1s0kX0Mbg/viewform?embedded=true" width="640" height="1320" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
