@@ -2,7 +2,7 @@
 title: features
 features:
   - id: 1
-    title: PhD Editors
+    title: Native-English & PhD Editors
     image: ../assets/editors.svg
   - id: 2
     title: " Price INR 1.3 per word"
