@@ -5,7 +5,7 @@ features:
     title: PhD Editors
     image: ../assets/editors.svg
   - id: 2
-    title: Affordable Price
+    title: " Price INR 1.3 per word"
     image: ../assets/affordable.svg
   - id: 3
     title: Editing Certificate
