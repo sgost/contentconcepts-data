@@ -122,18 +122,17 @@ serviceProcess:
     - id: 1
       order: "01"
       title: Submit Manuscript
-      description: Customer submits manuscript via our Request for quote page.
+      description: Customer submits manuscript via our  UPLOAD page.
       themeColor: "#98ECA6"
     - id: 2
       order: "02"
-      title: Recieve Quote
-      description: After receiving the manuscript, ContentConcepts sends price quote.
+      title: Instant Quote
+      description: View quote instantly after entering wordcount or document upload
       themeColor: "#F5DA7D"
     - id: 3
       order: "03"
-      title: Confirm Order
-      description: After payment is made by the customer, ContentConcepts sends
-        confirmation of payment.
+      title: Pay & Confirm
+      description: "Pay online and get confirmation via email or email us "
       themeColor: "#98E5E0"
     - id: 4
       order: "04"
@@ -217,15 +216,15 @@ seo:
     - english language editing service india
     - manuscript editing services, cheap english editing services
 ---
-### 3 reasons why we are one of the top manuscript editing services.
+### 3 reasons why we are one of the top manuscript editing services 💯.
 
 <br>
 
-💯 **Reason 1** - Our work is top-notch, on par with the international standard. See [manuscript editing sample](https://contentconcepts.in/services/academic_editing/manuscript_editing#editingSample)
+💚 **Reason 1** - Our work is top-notch, on par with the international standard. See [manuscript editing sample](https://contentconcepts.in/services/academic_editing/manuscript_editing#editingSample)
 
-💯 **Reason 2** -We offer the best price (INR 1.60 / word) for manuscript editing. Our rates are low but our quality is high. See our [manuscript editing price](https://contentconcepts.in/pricing/)
+💚 **Reason 2** -We offer the best price (INR 1.60 / word) for manuscript editing. Our rates are low but our quality is high. See our [manuscript editing price](https://contentconcepts.in/pricing/)
 
-💯 **Reason 3** -[Native English editors and PhD editors](https://contentconcepts.in/about/) with subject knowledge work on your manuscripts. So we get repeat customers. 
+ 💚**Reason 3** -[Native English editors and PhD editors](https://contentconcepts.in/about/) with subject knowledge work on your manuscripts. So we get repeat customers. 
 
 <br>
 
