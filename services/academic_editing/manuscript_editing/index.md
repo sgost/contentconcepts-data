@@ -1,6 +1,6 @@
 ---
 title: Manuscript Editing
-highlight: "Our #1 selling service"
+highlight: " Our #1 selling service @ INR 1.60 per word"
 message: Not happy with edit? <span>100% refund without any condition</span>
 features:
   - id: 1
@@ -25,9 +25,9 @@ priceCard:
   pricing:
     title: Starts from
     price:
-      inr: <span>INR 1.50</span>   OR
-      usd: <span>USD 0.020</span>/word
-  tagContent: No express fee, quick turnaround
+      inr: <span>INR 1.60</span>   OR
+      usd: <span>USD 0.021</span>/word
+  tagContent: No express fee, 2-3 days
   content: Free Editing Certificate
 editingLevels:
   title: Manuscript Editing Levels
@@ -221,11 +221,11 @@ seo:
 
 <br>
 
-💡 **Reason 1** - Our work is top-notch, on par with the international standard. See [manuscript editing sample](https://contentconcepts.in/services/academic_editing/manuscript_editing#editingSample)
+💯 **Reason 1** - Our work is top-notch, on par with the international standard. See [manuscript editing sample](https://contentconcepts.in/services/academic_editing/manuscript_editing#editingSample)
 
-💡 **Reason 2** -We offer the best price for manuscript editing. Our rates are low but our quality is high. See our [manuscript editing price](https://contentconcepts.in/pricing/)
+💯 **Reason 2** -We offer the best price (INR 1.60 / word) for manuscript editing. Our rates are low but our quality is high. See our [manuscript editing price](https://contentconcepts.in/pricing/)
 
-💡 **Reason 3** -[Native English editors and PhD editors](https://contentconcepts.in/about/) with subject knowledge work on your manuscripts. So we get repeat customers. 
+💯 **Reason 3** -[Native English editors and PhD editors](https://contentconcepts.in/about/) with subject knowledge work on your manuscripts. So we get repeat customers. 
 
 <br>
 
