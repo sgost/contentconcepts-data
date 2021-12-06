@@ -1,6 +1,6 @@
 ---
 title: Pricing
-heading: Top quality, truly affordable services.
+heading: Top quality, truly affordable services @ INR 1.3 per word
 subHeading: " Our manuscript editing & proofreading charge is one of the best
   and affordable for authors and students. Why pay dollar$$ when you can pay in
   INR? We do not charge express fee. Our payment gateway is secured and handled
@@ -13,12 +13,12 @@ types:
         title: Proofreading
         editingServices:
           - Grammatically correct sentences
-          - Correct spelling and punctuation
+          - Correct spelling & punctuation
           - Appropriate usage of terminology
-          - Certificate
+          - 1-2 days
         price:
-          inr: "$ <span>0.022</span>/word "
-          usd: INR <span>1.50</span>/word
+          inr: "$ <span>0.018</span>/word "
+          usd: INR <span>1.30</span>/word
         themeColor: "linear-gradient(116.8deg, #FF912F -9.97%, #FFAD64 105%)"
       - id: 2
         title: Substantive Editing
@@ -27,9 +27,10 @@ types:
           - Ensure clarity & proper structure and flow
           - Grammar & spell check
           - Certificate
+          - 2-3 days
         price:
-          inr: "$ <span>0.025</span>/word "
-          usd: INR <span>1.75</span>/word
+          inr: "$ <span>0.021</span>/word "
+          usd: INR <span>1.60</span>/word
         themeColor: "linear-gradient(119.96deg, #B361FF -2.59%, #C98EFF 104.08%)"
       - id: 3
         title: Plagiarism Editing
