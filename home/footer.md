@@ -17,33 +17,15 @@ sitemapList:
         title: Sitemap
         link: /sitemap/
   - id: 2
-    title: Academic Editing
-    link: /services/academic_editing
+    title: Plagiarism Check
+    link: /services/plagiarism_correction
     sitemap:
       - id: 1
-        title: Manuscript Editing
-        link: /services/academic_editing/manuscript_editing
+        title: Manuscript Similarity Check
+        link: /services/plagiarism_check/similarity_check
       - id: 2
-        title: Thesis Editing
-        link: /services/academic_editing/thesis_editing
-      - id: 3
-        title: Scientific Manuscript Editing
-        link: /services/academic_editing/scientific_manuscript_editing
-      - id: 4
-        title: Essay Editing
-        link: /services/academic_editing/essay_editing
-      - id: 5
-        title: Letter Editing
-        link: /services/academic_editing/letter_editing
-      - id: 6
-        title: English Editing
-        link: /services/academic_editing/english_editing
-      - id: 7
-        title: Book Editing
-        link: /services/academic_editing/book_editing
-      - id: 8
-        title: Proofreading Service
-        link: /services/academic_editing/proofreading_service
+        title: Plagiarism Editing
+        link: /services/plagiarism_check/plagiarism_editing
   - id: 3
     title: Publication Support
     link: /services/publication_support
@@ -70,16 +52,6 @@ sitemapList:
         title: Manuscript Formatting
         link: /services/publication_support/manuscript_formatting
   - id: 4
-    title: Plagiarism Check
-    link: /services/plagiarism_correction
-    sitemap:
-      - id: 1
-        title: Manuscript Similarity Check
-        link: /services/plagiarism_check/similarity_check
-      - id: 2
-        title: Plagiarism Editing
-        link: /services/plagiarism_check/plagiarism_editing
-  - id: 5
     title: Business Editing
     link: /services/business_editing
     sitemap:
@@ -107,4 +79,32 @@ sitemapList:
       - id: 8
         title: English Editing & Proofreading
         link: /services/business_editing/english_editing_india
+  - id: 5
+    title: Academic Editing
+    link: /services/academic_editing
+    sitemap:
+      - id: 1
+        title: Manuscript Editing
+        link: /services/academic_editing/manuscript_editing
+      - id: 2
+        title: Thesis Editing
+        link: /services/academic_editing/thesis_editing
+      - id: 3
+        title: Scientific Manuscript Editing
+        link: /services/academic_editing/scientific_manuscript_editing
+      - id: 4
+        title: Essay Editing
+        link: /services/academic_editing/essay_editing
+      - id: 5
+        title: Letter Editing
+        link: /services/academic_editing/letter_editing
+      - id: 6
+        title: English Editing
+        link: /services/academic_editing/english_editing
+      - id: 7
+        title: Book Editing
+        link: /services/academic_editing/book_editing
+      - id: 8
+        title: Proofreading Service
+        link: /services/academic_editing/proofreading_service
 ---
