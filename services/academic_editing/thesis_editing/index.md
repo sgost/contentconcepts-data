@@ -1,6 +1,6 @@
 ---
 title: Thesis Editing
-highlight: Affordable rate & top-notch service
+highlight: International Quality @ USD 2 cents /word
 message: Not happy with thesis editing? <span>100% refund without any condition</span>
 features:
   - id: 1
