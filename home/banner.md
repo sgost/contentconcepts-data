@@ -1,19 +1,19 @@
 ---
-title: Affordable Editing & Proofreading Services for
+title: International Editing & Proofreading Services for
 typedWords:
-  - Manuscript @ INR 1.3
-  - Thesis @ INR 1.3
-  - Paper @ INR 1.3
-  - Students @ INR 1.3
-  - Dissertation @ INR 1.3
+  - Manuscript @ INR 1.3 ($0.018)
+  - Thesis @ INR 1.3 ($0.018)/word
+  - Paper @ INR 1.3($0.018)
+  - Students @ INR 1.3($0.018)
+  - Dissertation @ INR 1.3($0.018)
 services:
   - id: 1
     title: Manuscript Editing
     link: services/academic_editing/manuscript_editing
   - id: 2
-    title: Certificate
+    title: Free Certificate
     link: blog/free-english-editing-certificate/
   - id: 3
-    title: Plagiarism Check
+    title: Plagiarism Correction
     link: services/plagiarism_correction
 ---
