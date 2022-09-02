@@ -5,7 +5,7 @@ features:
     title: Native-English & PhD Editors
     image: ../assets/editors.svg
   - id: 2
-    title: " INR 1.3 (USD 2 cents)/word"
+    title: ₹1.3 ($0.020)/word
     image: ../assets/affordable.svg
   - id: 3
     title: Editing Certificate
