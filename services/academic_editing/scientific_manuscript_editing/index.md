@@ -1,25 +1,32 @@
 ---
 title: Scientific Manuscript Editing
-highlight: by PhD and Native English Editors
-message: Not happy with edit? <span>100% refund without any condition</span>
+highlight: by PhD & Native English Editors
+message: Not happy with edit? <span>100% refund without any condition. Yes we
+  boast our top-notch service</span>
 features:
   - id: 1
-    title: Premium editing service at affordable price
+    title: International editing service at affordable price
+    link: https://contentconcepts.in/pricing/
   - id: 2
-    title: No express fee, quick turnaround
+    title: Free manuscript editing sample
+    link: https://contentconcepts.in/blog/free-editing-proofreading-on-first-200-words/
   - id: 3
-    title: "Plagiarism checker available "
+    title: "Plagiarism correction service available "
+    link: https://contentconcepts.in/services/plagiarism_correction
+  - title: Free English editing certificate
+    id: 4
+    link: https://contentconcepts.in/blog/free-english-editing-certificate/
 priceCard:
   pricing:
     title: Starts from
     price:
-      inr: <span>INR 1.50</span>/word
+      inr: <span>INR 1.30</span>/word
       usd: <span>$0.025</span>/word
-  tagContent: Clear, Concise and Complete
-  content: Create winning proposals
+  tagContent: Get FREE Editing Certificate
+  content: GET FREE EDITING SAMPLE
 editingLevels:
-  title: Editing levels
-  subHeading: Because each proposal is unique
+  title: Scientific Manuscript Editing Services
+  subHeading: Proofreading or English Editing? You can choose
   levelTypes:
     - id: 1
       title: Copy Editing
@@ -79,7 +86,7 @@ editingLevels:
       substantive: no
       developmental: yes
 editingSample:
-  title: Scientific Editing Sample
+  title: Scientific Manuscript Editing Sample
   samples:
     - id: 1
       title: Copy Editing
@@ -97,7 +104,7 @@ editingSample:
         learning improvement
       image: ./substantive_editing.png
 editingHighlights:
-  title: Highlights of our Scientific Manuscript Editing service
+  title: Scientific Manuscript Editing service - Highlights
   highlights:
     - id: 1
       title: Affordable Prices
@@ -106,10 +113,8 @@ editingHighlights:
         editors.
       image: ./affordable.svg
     - id: 2
-      title: Superior Support
-      description: You can talk to your proposal editor until you are satisfied with
-        our editing service, get your queries answered via email or chat and
-        send your proposal after review from for further check.
+      title: Free Sample
+      description: Get free editing certificate and editing sample
       image: ./support.svg
     - id: 3
       title: Confidentiality
@@ -117,7 +122,7 @@ editingHighlights:
         NDA if necessary.
       image: ./confidential.svg
     - id: 4
-      title: Secure transaction
+      title: Editing Certificate
       description: Your documents as wells as payment is handled by our secure website
         which has passed the best level of security testing in the industry.
       image: ./transaction.svg
@@ -192,6 +197,8 @@ seo:
 ---
 Scientific Manuscript editing need not be so expensive. We provide top-quality scientific manuscript editing service at really affordable rates. Our editors are PhD and have more than 100 years of cumulative experience in editing scientific manuscripts. 
 
-You can check out the [scientific manuscript editing rates](https://contentconcepts.in/pricing/) on our Pricing page. Our editing fee is based on word count. 
+You can check out the [scientific manuscript editing rates](https://contentconcepts.in/pricing/) on our Pricing page. Our [manuscript editing charge](https://contentconcepts.in/pricing/#pricing) is based on word count. 
 
 Our editing team has [scientific ](https://contentconcepts.in/about/)[manuscript ](https://contentconcepts.in/about/)[editors](https://contentconcepts.in/about/), PhD editors and native English editors.
+
+Looking for  [scientific manuscript proofreading services](https://contentconcepts.in/services/academic_editing/proofreading_service) ? We cover that too.
