@@ -13,7 +13,7 @@ features:
     title: English Language Editing
     link: https://contentconcepts.in/services/academic_editing/english_editing
   - id: 4
-    title: Proofreading Service
+    title: Manuscript Proofreading Service
     link: https://contentconcepts.in/services/academic_editing/proofreading_service
   - id: 5
     title: Plagiarism Check & Correction
@@ -27,11 +27,11 @@ priceCard:
     price:
       inr: <span>INR 1.60</span>   OR
       usd: <span>USD 0.021</span>/word
-  tagContent: No express fee, 2-3 days
+  tagContent: Ask for FREE SAMPLE EDIT
   content: Free Editing Certificate
 editingLevels:
-  title: Manuscript Editing Levels
-  subHeading: Choose the right editing level
+  title: Manuscript Editing Services
+  subHeading: Proofreading or Editing? Choose what you want.
   levelTypes:
     - id: 1
       title: Proofreading
@@ -92,30 +92,27 @@ editingSample:
         substantive editing features
       image: ./substantive_editing.png
 editingHighlights:
-  title: Why people choose our Manuscript Editing service?
+  title: Manuscript Editing services - Why trust us?
   highlights:
     - id: 1
       title: Affordable Prices
-      description: Our manuscript editing fee is one of the best in the industry for
-        the level of quality work we offer from our trusted PhD and native
-        English editors.
+      description: Best editing prices for international quality work by PhD &
+        native-English editors. Starts at INR 1.3 ($0.020)
       image: ./affordable.svg
     - id: 2
-      title: Superior Support
-      description: You can talk to your manuscript editor until you are satisfied with
-        our editing service, get your queries answered via email or chat and
-        send your manuscript after review from journal editor for further check.
-      image: ./support.svg
+      title: Free Editing
+      description: Ask for free manuscript editing for thesis, book, research papers
+      image: transaction.svg
     - id: 3
       title: Confidentiality
       description: We ensure your documents are handled with utmost care. We can sign
         NDA if necessary.
       image: ./confidential.svg
     - id: 4
-      title: Secure transaction
-      description: Your documents as wells as payment is handled by our secure website
-        which has passed the best level of security testing in the industry.
-      image: ./transaction.svg
+      title: Editing Certificate
+      description: You will get free editing certificate after your manuscript editing
+        is complete
+      image: editing_certificate.svg
 serviceProcess:
   title: How Manuscript Editing works?
   steps:
@@ -198,11 +195,10 @@ faq:
 key: manuscript_editing
 parentType: academic
 seo:
-  title: ContentConcepts - Manuscript editing services in India for research
-    papers, thesis
-  description: "Manuscript editing and proofreading services in India with free
-    sample editing. Truly affordable and one of the cheaper English editing
-    services in India. "
+  title: ContentConcepts - Manuscript editing services for research papers, thesis
+  description: International quality manuscript editing services at affordable
+    editing charges by PhD & native English editors. No rush fee, free samples,
+    editing certificate
   keywords:
     - english editing
     - editing english
