@@ -1,5 +1,5 @@
 ---
-title: Dissertation Editing
+title: Medical Editing & Proofreading Service
 highlight: Best service for the best prices online
 message: Not happy with edit? <span>100% refund without any condition</span>
 features:
@@ -17,13 +17,13 @@ priceCard:
   pricing:
     title: Starts from
     price:
-      inr: <span>INR 2.00</span>/word
+      inr: <span>INR 1.30</span>/word
       usd: <span>$0.05</span>/word
-  tagContent: Clear, Concise & Compelling
-  content: Content that clicks
+  tagContent: ASK FOR FREE SAMPLE EDIT
+  content: No rush fee, Sunday available
 editingLevels:
-  title: Levels of Letter Editing
-  subHeading: Because each author is unique
+  title: Medical Editing Services
+  subHeading: Proofreading or Editing - Choose the right service
   levelTypes:
     - id: 1
       title: Copy Editing
@@ -83,7 +83,7 @@ editingLevels:
       substantive: no
       developmental: yes
 editingSample:
-  title: Letter Editing Sample
+  title: Medical Manuscript Sample
   samples:
     - id: 1
       title: Copy Editing
@@ -101,32 +101,28 @@ editingSample:
         learning improvement
       image: ./substantive_editing.png
 editingHighlights:
-  title: Highlights of our Letter Editing service
+  title: Medical Manuscript Editing Services - Why choose us?
   highlights:
     - id: 1
-      title: Affordable Prices
-      description: Our Letter Editing fee is one of the best in the industry for the
-        level of quality work we offer from our trusted PhD and native English
-        editors.
+      title: Best Price
+      description: Our medical editing charges are the best online for international
+        quality jobs
       image: ./affordable.svg
     - id: 2
-      title: Superior Support
-      description: You can talk to your Letter Editor until you are satisfied with our
-        editing service, get your queries answered via email or chat and send
-        your letter after review for further check.
-      image: ./support.svg
+      title: Free Editing
+      description: Ask for free meidcal editing sample before you use our services
+      image: transaction.svg
     - id: 3
       title: Confidentiality
       description: We ensure your documents are handled with utmost care. We can sign
         NDA if necessary.
       image: ./confidential.svg
     - id: 4
-      title: Secure transaction
-      description: Your documents as wells as payment is handled by our secure website
-        which has passed the best level of security testing in the industry.
-      image: ./transaction.svg
+      title: Editing Certificate
+      description: You get free editing certificate after your work is complete
+      image: editing_certificate.svg
 serviceProcess:
-  title: How it works?
+  title: Medical Manuscript Editing Process
   steps:
     - id: 1
       order: "01"
@@ -165,18 +161,32 @@ faq:
 key: letter_editing
 parentType: academic
 seo:
-  title: "CONTENTCONCEPTS: Cover Letter writing, editing and proofreading services
-    in India"
-  description: Letter writing and proofreading services in India at affordable
-    prices. Trusted for over 25 years/
+  title: Medical manuscript editing and proofreading services
+  description: PhD and MD editors edit and proofread your medical manuscripts at
+    the best online editing prices. Charges start from USD 0.018 per word
   keywords:
-    - cover letter
-    - Letter editing
-    - letter proofreading
-    - letter writing
-    - business letter writing
+    - medical manuscript editing
+    - medical proofreading
+    - medical proof reading
+    - medical editor
+    - medical editing charges
 ---
-# What is dissertation editing?
+### 3 reasons why we are one of the top medical manuscript editing services 💯.
 
-Our dissertation editing service is a three-step process where dissertation editors and proofreaders work on your dissertation to do a comprehensive editing and proofreading followed by a quality check by senior dissertation editors.
 
+
+💚 **Reason 1** - Our medical editors have MD degree and training in medical editing and proofreading. See [medical manuscript editing sample](https://contentconcepts.in/services/academic_editing/manuscript_editing#editingSample)
+
+💚 **Reason 2** -We offer the best price (INR 1.60 / word) for medical manuscript editing. Our medical editing rates are lowest but our quality is high. See our [medical manuscript editing price](https://contentconcepts.in/pricing/)
+
+💚**Reason 3** -[](https://contentconcepts.in/about/)No rush fee for express editing. Fast turnaround time at no extra charges 
+
+
+
+📌 Check our [Medical Manuscript Editing process](https://contentconcepts.in/services/academic_editing/manuscript_editing#editingProcess)
+
+
+
+Our medical editing team has [manuscript editors](https://contentconcepts.in/about/), thesis editors, native English editors, copy editors, proofreaders and [plagiarism editors](https://contentconcepts.in/services/plagiarism_check/plagiarism_editing). Starting from simple proofreading to substantive editing, you can choose the level of editing that suits your budget or what your manuscript requires. 
+
+If you need, help check [How to select editing level for my research paper](https://contentconcepts.in/blog/manuscript-editing-services-for-research-papers-proofreading-copy-editing-substantive-editing-which-editing-level-should-i-select/)
