@@ -83,7 +83,7 @@ editingLevels:
       substantive: no
       developmental: yes
 editingSample:
-  title: Medical Manuscript Sample
+  title: Medical Manuscript Editing Sample
   samples:
     - id: 1
       title: Copy Editing
