@@ -1,6 +1,6 @@
 ---
-title: Manuscript editing and proofreading service by PhD
-description: English editing and proofreading services. Best quality and price,
+title: Manuscript editing, proofreading services by PhD
+description: English editing and proofreading services. Free editing sample,
   starts INR 1.3 per word ($0.020)
 keywords:
   - english editing
