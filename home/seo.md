@@ -1,10 +1,10 @@
 ---
-title: Manuscript editing and proofreading service by ContentConcepts 👀
-description: English Ediitng and proofreading services. Truly 💲💲  affordable
-  and top-quality services for manuscript authors and publishers.
+title: Manuscript editing and proofreading service by PhD
+description: English editing and proofreading services. Best quality and price,
+  starts INR 1.3 per word ($0.020)
 keywords:
   - english editing
-  - editing english
+  - language editing
   - editing manuscripts
   - editing service
   - manuscript editor
