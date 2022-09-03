@@ -138,14 +138,15 @@ serviceProcess:
         back to the customer.
       themeColor: "#FFABAB"
 faq:
-  title: Manuscript Editing Service -FAQ
+  title: Manuscript Editing Services - Top 10 Questions
   questions:
     - id: 1
-      question: How do I get started with the manuscript or paper editing service?
+      question: How do I get started with the manuscript editing or paper editing
+        service?
       answer: You can use the Get Quote form to send the document or email us. Our
         team will get back to you with quote and other details
     - id: 2
-      question: Is my document submitted for editing secure with you?
+      question: Is my document submitted for manuscript editing secure with you?
       answer: Of course. Our site is built with superior & latest web technologies
         with security built in. We sign NDA with editors and confidentiality
         agreement with customers if required.
@@ -161,7 +162,7 @@ faq:
         page.When you send your manuscript to us, we can check and advise you on
         the level of editing required.
     - id: 5
-      question: Do you offer free sample editing for manuscripts and research papers?
+      question: Do you offer free editing sample for manuscripts and research papers?
       answer: "Yes, if your manuscript is longer than 20,000 words, or you send
         manuscript regularly, we do a free sample edit. "
     - id: 6
