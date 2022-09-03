@@ -104,18 +104,17 @@ editingSample:
         learning improvement
       image: ./substantive_editing.png
 editingHighlights:
-  title: Scientific Manuscript Editing service - Highlights
+  title: "Scientific Manuscript Editing service - Top 4 "
   highlights:
     - id: 1
       title: Affordable Prices
-      description: Our proposal editing fee is one of the best in the industry for the
-        level of quality work we offer from our trusted PhD and native English
-        editors.
+      description: Our scientific manuscript editing chargesa are one of the best for
+        the top-quality work.
       image: ./affordable.svg
     - id: 2
-      title: Free Sample
-      description: Get free editing certificate and editing sample
-      image: ./support.svg
+      title: Free Editing
+      description: Get free editing, proofreading sample for thesis and book.
+      image: editing_certificate.svg
     - id: 3
       title: Confidentiality
       description: We ensure your documents are handled with utmost care. We can sign
@@ -123,8 +122,7 @@ editingHighlights:
       image: ./confidential.svg
     - id: 4
       title: Editing Certificate
-      description: Your documents as wells as payment is handled by our secure website
-        which has passed the best level of security testing in the industry.
+      description: You will get free English Editing certificate after the job is complete.
       image: ./transaction.svg
 serviceProcess:
   title: How Scientific Manuscript Editing works?
@@ -180,10 +178,9 @@ faq:
 key: scientific_manuscript_editing
 parentType: academic
 seo:
-  title: ContentConcepts - Scientific manuscript editing service by Phd and native
-    English
-  description: Scientific manuscript editing and proofreading service at
-    affordable prices. By native English and PhD editors
+  title: Scientific manuscript editing services - Phd & Native English Editors
+  description: Our PhD editor editors trained in scientific English edit your
+    manuscript .Our editing charges start at INR 1.3 ($0.020).
   keywords:
     - scientific manuscript editing service
     - manuscript proofreading service
