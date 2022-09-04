@@ -1,5 +1,5 @@
 ---
-title: Manuscript Editors
+title: Manuscript Editors & Native English Editors
 teamMembers:
   - id: 1
     name: David Ross
