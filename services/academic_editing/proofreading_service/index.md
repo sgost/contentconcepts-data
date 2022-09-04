@@ -1,16 +1,16 @@
 ---
-title: Proofreading Service
-highlight: The most affordable, high-quality service online
+title: Proofreading Services
+highlight: Native English, Best price, no rush fee
 message: Not happy with proofreading? <span>100% refund without any condition</span>
 features:
   - id: 1
     title: Manuscript Editing
     link: https://contentconcepts.in/services/academic_editing/manuscript_editing
   - id: 2
-    title: Thesis Editing
+    title: Thesis Proofreading
     link: https://contentconcepts.in/services/academic_editing/thesis_editing
   - id: 3
-    title: English Language Editing
+    title: English Language Proofreading
     link: https://contentconcepts.in/services/academic_editing/english_editing
   - id: 4
     title: Scientific Manuscript Editing
@@ -25,13 +25,13 @@ priceCard:
   pricing:
     title: Starts from
     price:
-      inr: <span>INR 1.50</span>/word
+      inr: <span>INR 1.30</span>/word
       usd: <span>$0.020</span>/word
-  tagContent: Proofreading by qualified subject matter experts
-  content: Don't need major revisions before journal submission?
+  tagContent: ASK FOR FREE PROOFREADING SAMPLE
+  content: Get English editing certificate after the job.
 editingLevels:
   title: Different levels of editing
-  subHeading: Because each resume is unique
+  subHeading: Because each manuscript is unique
   levelTypes:
     - id: 1
       title: Proofreading
@@ -112,25 +112,22 @@ editingHighlights:
   title: Highlights of our Proofreading service
   highlights:
     - id: 1
-      title: Affordable Prices
-      description: Our resume editing fee is one of the best in the industry for the
-        level of quality work we offer from our trusted editors.
+      title: Best Price
+      description: Our proofreading charges are the best in India for the same
+        international quality
       image: ./affordable.svg
     - id: 2
-      title: Superior Support
-      description: You can talk to your resume editor until you are satisfied with our
-        editing service, get your queries answered via email or chat and send
-        your resume after review for further check.
-      image: ./support.svg
+      title: Free Proofreading
+      description: Ask for free proofreading sample for your thesis, book manuscript
+      image: transaction.svg
     - id: 3
       title: Confidentiality
-      description: We ensure your resumes are handled with utmost care. We can sign
+      description: We ensure your manuscript is handled with utmost care. We can sign
         NDA if necessary.
       image: ./confidential.svg
     - id: 4
-      title: Secure transaction
-      description: Your resume as wells as payment is handled by our secure website
-        which has passed the best level of security testing in the industry.
+      title: Editing Certificate
+      description: Get free English editing certificate with your job when completed
       image: ./transaction.svg
 serviceProcess:
   title: How Proofreading service works?
@@ -175,21 +172,23 @@ faq:
 key: resume_editing
 parentType: academic
 seo:
-  title: 👀 ContentConcepts - The best and cheap proofreading service online
-  description: Manuscript proofreading service by PhD and native English proofreaders
+  title: Proofreading services | Content Concepts | English Editing | Native
+    English Editors
+  description: Manuscript proof reading service by PhD and native English
+    proofreaders. Proof reading charges start at INR 1.3 (USD 0.020) per word
   keywords:
     - Proofreading services
-    - English proofreading
-    - proofreading price
+    - English proof reading
+    - proof reading price
     - proofreading onlineproofreading
 ---
 ### 👀 3 reasons why we are one of the top proofreading service in India.
 
 <br>
 
-💡 **Reason 1** - Our proofreading service is top-notch, on par with the international standard. Check our proofreading sample
+💡 **Reason 1** - Our proofreading service is top-notch, on par with the international standard. Check our [proofreading sample](https://contentconcepts.in/services/academic_editing/proofreading_service#editingSample)
 
-💡 **Reason 2** -We offer the best price for proofreading service. Our rates are low but our quality is high. See our []((https://contentconcepts.in/pricing/))proofreading rates
+💡 **Reason 2** -We offer the best price for proofreading service. Our rates are low but our quality is high. See our []((https://contentconcepts.in/pricing/))[proofreading rates](https://contentconcepts.in/pricing/#pricing)
 
 💡 **Reason 3** -[Native English editors and PhD editors](https://contentconcepts.in/about/) with subject knowledge work on your manuscripts. So we get repeat customers. 
 
