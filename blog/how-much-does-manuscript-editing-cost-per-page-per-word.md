@@ -42,12 +42,12 @@ Here is the price list of top editing services in India and their manuscript edi
 
 
 
-| C**ompany**                                                 | **Word count** | **Editing price (USD)** | **Editing Price (INR)** |
+| **Company**                                                 | **Word count** | **Editing price (USD)** | **Editing Price (INR)** |
 | ----------------------------------------------------------- | -------------- | ----------------------- | ----------------------- |
 | [tandfeditingservices.com](http://tandfeditingservices.com) | 1000           | 124                     | 9884                    |
-| ENAGO                                                       | 1000           | 98                      | 7811                    |
+| Enago.com                                                   | 1000           | 98                      | 7811                    |
 | Americanmanuscripteditors.com                               | 1000           | 69                      | 5500                    |
-| EDITAGE.com                                                 | 1000           | 35                      | 2789                    |
+| Editage.com                                                 | 1000           | 35                      | 2789                    |
 | [Manuscriptedit.com](http://manuscriptedit.com/)            | 1000           | 37                      | 2949                    |
 | ContentConcepts.in                                          | 1000           | 21                      | 1674                    |
 | Scribendi.com                                               | 1000           | 34                      | 2710                    |
