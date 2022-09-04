@@ -1,5 +1,5 @@
 ---
-title: Website Review Editing
+title: Website Content Review & Rewriting
 highlight: Content that clicks
 message: Make content work for you<span>Clear, concise, and compelling</span>
 features:
@@ -181,11 +181,10 @@ seo:
     - web site proofreading
     - website English editing
 ---
-
 Website content is not just having correct grammar and impressive vocabulary. More than anything, it should work.
 
 Now that you are here, we assume you are not convinced with the content of your website or blogpost. You are not alone. We have reviewed and edited more than 10000 pages of website content for startups and SMEs and we know what works and how to make it work.
 
-Our website copy editors and content reviewers analyse the scope, target audience, geography and industry so that they understand it better to create engaging content that works for you.
+Our website [copy editors](https://contentconcepts.in/about/) and content reviewers analyse the scope, target audience, geography and industry so that they understand it better to create engaging content that works for you.
 
 Here is what our talented  Website Content Copy Editors do:
