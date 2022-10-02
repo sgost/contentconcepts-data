@@ -1,11 +1,11 @@
 ---
 title: International Editing & Proofreading Services for
 typedWords:
-  - Manuscript @ ₹1.3 ($0.018)/word
-  - Thesis @ ₹1.3 ($0.018)
-  - Authors @ ₹1.3($0.018)
-  - Essay @ ₹1.3($0.018)
-  - Websites @ ₹1.3($0.018)
+  - Manuscript @ ₹1.3/word
+  - Thesis @ ₹1.3/word
+  - Authors @ ₹1.3/word
+  - Essay @ ₹1.3/word
+  - Websites @ ₹1.3/word
 services:
   - id: 1
     title: Manuscript Editing
