@@ -1,6 +1,6 @@
 ---
 title: Thesis Editing
-highlight: International Quality @ USD 2 cents /word
+highlight: International quality @ INR 1.6/word
 message: Not happy with thesis editing? <span>100% refund without any condition</span>
 features:
   - id: 1
@@ -25,10 +25,10 @@ priceCard:
   pricing:
     title: Starts from
     price:
-      inr: <span>INR 1.50</span>/word
+      inr: <span>INR 1.30</span>/word
       usd: <span>$0.020</span>/word
-  tagContent: Formatting, Plagiarism check, Proofreading
-  content: APA, Chicago, Turabian | IIT, IIM
+  tagContent: APA, Chicago, MLA, Turabian styles
+  content: Formatting, Plagiarism check, Proofreading
 editingLevels:
   title: Thesis Editing levels
   subHeading: Choose the right editing level
@@ -188,18 +188,15 @@ faq:
 key: thesis_editing
 parentType: academic
 seo:
-  title: 📚 Thesis editing & proofreading service in India, by PhD thesis editors
-  description: 👀 We provide the best thesis editing service in India at truly
-    affordable rates. 💲💲Our thesis editing fee starts from INR 1.
+  title: Thesis editing and proofreading services
+  description: Thesis and dissertation editing and proofreading services by Phd &
+    Native English editors at affordable rates
   keywords:
-    - Thesis editing services in India
-    - Thesis proofreading services in India
-    - dissertation editing services
-    - dissertation proofreading services
-    - Thesis editing service
-    - Thesis proofreading service
-    - dissertation editing service
-    - dissertation proofreading services
+    - thesis editing
+    - thesis proofreading
+    - thesis formatting
+    - thesis editor
+    - thesis check
 ---
 ### 3 reasons why we are one of the top Thesis Editing service providers.
 
