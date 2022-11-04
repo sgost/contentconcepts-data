@@ -24,8 +24,6 @@ seo:
 
 ![cover letter for journal submission](cover-letter-clip-art.jpeg "tips for writing cover letter")
 
-
-
 Compelling cover letters introduce your article and present a valuable chance to persuade journal editors to consider publishing it.
 
 ## **Identify the requirements for your target journal.**
@@ -36,15 +34,23 @@ Before you start, check the author instructions for your intended journal to see
 
 Every cover letter should include the following components in addition to any information and declarations that your target publication may require:
 
-An introduction that includes the manuscript's title and the journal you are submitting it to.
 
-1. Why your work is significant and pertinent to the journal's or field's readers.
-2. The question your research seeks to answer.
-3. Your key experimental findings and general conclusions.
-4. The most significant findings you can make from your investigation.
-5. A declaration that the paper has not been published and that it is not being considered for publication in any other journal
-6. A declaration that all authors approved the work before being submitted to the journal.
-7. Anything else the editor could need to be convinced to send your paper for review.
+
+1)An introduction that includes the manuscript's title and the journal you are submitting it to.
+
+2)Why your work is significant and pertinent to the journal's or field's readers. . 
+
+3)The question your research seeks to answer
+
+4)Your key experimental findings and general conclusions. The most significant findings you can make from your investigation.
+
+5)A declaration that the paper has not been published and that it is not being considered for publication in any other journal.
+
+6)A declaration that all authors approved the work before being submitted to the journal. 
+
+7)Anything else the editor could need to be convinced to send your paper for review.
+
+
 
 ## Develop the cover letter based on the outline
 
