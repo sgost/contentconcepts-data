@@ -40,12 +40,4 @@ Apart from the above-mentioned reasons the following will determine the editing 
 
 Here is the price list of top editing services in India and their manuscript editing charges
 
-| **Company**                   | **Word count** | **Editing price (USD)** | **Editing Price (INR)** |
-| ----------------------------- | -------------- | ----------------------- | ----------------------- |
-| tandfeditingservices.com      |  1000          | 124                     | 9884                    |
-| Enago.com                     |  1000          | 98                      | 7811                    |
-| Americanmanuscripteditors.com |  1000          | 69                      | 5500                    |
-| Editage.com                   |  1000          | 35                      | 2789                    |
-| Manuscriptedit.com            |  1000          | 37                      | 2949                    |
-| ContentConcepts.in            |  1000          | 21                      | 1674                    |
-| Scribendi.com                 |  1000          | 34                      | 2710                    |
+![Manuscript editing prices list comparison](comparison-table-list-diagram-brainstorm.png "How much does manuscript editing cost")
