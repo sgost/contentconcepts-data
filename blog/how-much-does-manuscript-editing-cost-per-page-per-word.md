@@ -40,4 +40,4 @@ Apart from the above-mentioned reasons the following will determine the editing 
 
 Here is the price list of top editing services in India and their manuscript editing charges
 
-![Manuscript editing prices list comparison](comparison-table-list-diagram-brainstorm.png "How much does manuscript editing cost")
+![Manuscript editing prices list comparison](comparison-editing-price.jpg "How much does manuscript editing cost")
