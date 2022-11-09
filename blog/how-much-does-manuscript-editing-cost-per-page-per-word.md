@@ -24,9 +24,7 @@ seo:
 ---
 [Manuscript editing charges](https://contentconcepts.in/blog/how-much-does-manuscript-editing-cost-per-page-per-word/) vary across countries and editing service providers. Manuscript editing price is based on the location of the editing service provider, experience of the manuscript editor as well as the level of editing required.
 
-![](screen-shot-2022-09-04-at-3.41.22-pm.png)
-
-How is the manuscript editing fee determined?
+**How is the manuscript editing fee determined?**
 
 Apart from the above-mentioned reasons the following will determine the editing price of your manuscript.
 
@@ -40,4 +38,4 @@ Apart from the above-mentioned reasons the following will determine the editing 
 
 Here is the price list of top editing services in India and their manuscript editing charges
 
-![Manuscript editing prices list comparison](comparison-table-list-diagram-brainstorm.png "How much does manuscript editing cost")
+![Manuscript editing prices list comparison](comparison-editing-price.jpg "How much does manuscript editing cost")
