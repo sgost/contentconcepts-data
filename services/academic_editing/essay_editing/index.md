@@ -1,7 +1,7 @@
 ---
 title: Essay Editing
-highlight: Fast & Affordable
-message: Not happy with edit? <span>100% refund without any condition</span>
+highlight: Native English & Ivy League Writers
+message: College Essay Experts  <span>Make the first impression the best</span>
 features:
   - id: 1
     title: English language editing
@@ -26,7 +26,7 @@ priceCard:
     title: Starts from
     price:
       inr: <span>INR 1.60</span>/word
-      usd: <span>$0.05</span>/word
+      usd: <span>$0.020</span>/word
   tagContent: Clear, Concise & Convincing
   content: Essay that clicks
 editingLevels:
@@ -184,7 +184,7 @@ seo:
     - admission essay editing
     - admission essay proofreading
 ---
-Engaging, convincing and clean - these are things that makes your essay work. Whether you are writing a [college admission essay](https://contentconcepts.in/services/academic_editing/essay_editing) or assignment essay or a term paper you need to make sure it is free of grammar errors. A poorly written essay may cost you the admission or grade. We can help you. We have team of experienced [essay editors](https://contentconcepts.in/about/) who can chase grammar errors and kill it like seasoned hunters. 
+Engaging, convincing and clean - these are things that make your essay work. Whether you are writing a [college admission essay](https://contentconcepts.in/services/academic_editing/essay_editing) or assignment essay or a term paper we ensure a high impact copy. We have team of experienced [essay editors](https://contentconcepts.in/about/) who can chase grammar errors and kill it like seasoned hunters. 
 
 [Admission essays](https://contentconcepts.in/services/academic_editing/essay_editing) may need more than proofreading to make your content crisp and convincing to the jury. 
 
@@ -192,11 +192,11 @@ Here is what our Essay Editors do:
 
 <br>
 
-• Significantly improve your essay style by editing sentence structure, word choice
+• Significantly **improve your essay style** by editing sentence structure, word choice
 
-• Maintain consistency in tone and presentation
+• Maintain consistency in **tone** and presentation
 
-• Eliminate superfluous words, redundancy
+• **Eliminate** superfluous words, redundancy
 
 • Modify ambiguous statements, vague language
 
