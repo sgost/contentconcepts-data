@@ -5,7 +5,7 @@ typedWords:
   - Thesis @ $0.020/word
   - Authors @ $0.020/word
   - Essay @ $0.020/word
-  - Websites @ $0.020/word
+  - Website @ $0.020/word
 services:
   - id: 1
     title: Manuscript Editing
