@@ -1,5 +1,5 @@
 ---
-title: Manuscript Editing Services. Truly Affordable
+title: Manuscript Editing Services. Truly Affordable. From $0.020
 ---
 Looking for top-quality yet affordable [manuscript editing services](https://contentconcepts.in/services/academic_editing/manuscript_editing)? You have reached the right place. ContentConcepts has been providing academic editing services for more than 25 years. 
 
@@ -7,11 +7,11 @@ Looking for top-quality yet affordable [manuscript editing services](https://con
 
 <br>
 
-💡 **Reason 1** - Our standard in [English editing](https://contentconcepts.in/services/academic_editing/english_editing) is set very high - we have zero tolerance for quality issues. Check our [English editing sample](https://contentconcepts.in/services/academic_editing/english_editing#editingSample)
+1. [Native English editors and PhD editors](https://contentconcepts.in/about/) with subject knowledge work on your manuscripts. So we get repeat customers. 
+2. Our standard in [English editing](https://contentconcepts.in/services/academic_editing/english_editing) is set very high - we have zero tolerance for quality issues. Check our [English editing sample](https://contentconcepts.in/services/academic_editing/english_editing#editingSample)
+3. We offer the best price for our English editing and [proofreading services.](https://contentconcepts.in/services/academic_editing/proofreading_service) Our rates are low but our quality is high. We have one of the best [English editing price](https://contentconcepts.in/pricing/)
 
-💡 **Reason 2** -We offer the best price for our English editing and [proofreading services.](https://contentconcepts.in/services/academic_editing/proofreading_service) Our rates are low but our quality is high. We have one of the best [English editing price](https://contentconcepts.in/pricing/)
 
-💡 **Reason 3** -[Native English editors and PhD editors](https://contentconcepts.in/about/) with subject knowledge work on your manuscripts. So we get repeat customers. 
 
 <br>
 
