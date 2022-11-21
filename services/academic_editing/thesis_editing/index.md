@@ -1,6 +1,6 @@
 ---
-title: Thesis Editing
-highlight: International Quality @ USD 2 cents /word
+title: Thesis Editing Service
+highlight: GET 10% DISCOUNT FOR FIRST JOB
 message: Not happy with thesis editing? <span>100% refund without any condition</span>
 features:
   - id: 1
@@ -25,12 +25,12 @@ priceCard:
   pricing:
     title: Starts from
     price:
-      inr: <span>INR 1.50</span>/word
+      inr: <span>INR 1.30</span>/word
       usd: <span>$0.020</span>/word
-  tagContent: Formatting, Plagiarism check, Proofreading
-  content: APA, Chicago, Turabian | IIT, IIM
+  tagContent: APA, Chicago, MLA, Turabian styles
+  content: Formatting, Plagiarism check, Proofreading
 editingLevels:
-  title: Thesis Editing levels
+  title: Editing vs proofreading
   subHeading: Choose the right editing level
   levelTypes:
     - id: 1
@@ -188,28 +188,25 @@ faq:
 key: thesis_editing
 parentType: academic
 seo:
-  title: 📚 Thesis editing & proofreading service in India, by PhD thesis editors
-  description: 👀 We provide the best thesis editing service in India at truly
-    affordable rates. 💲💲Our thesis editing fee starts from INR 1.
+  title: Phd thesis editing service, dissertation editing
+  description: Thesis and dissertation editing and proofreading services by Phd &
+    Native English editors at affordable rates
   keywords:
-    - Thesis editing services in India
-    - Thesis proofreading services in India
-    - dissertation editing services
-    - dissertation proofreading services
-    - Thesis editing service
-    - Thesis proofreading service
-    - dissertation editing service
-    - dissertation proofreading services
+    - thesis editing
+    - thesis proofreading
+    - thesis formatting
+    - thesis editor
+    - thesis check
 ---
-### 3 reasons why we are one of the top Thesis Editing service providers.
+### Why we are one of the top Thesis Editing service providers
 
 <br>
 
-💡 **Reason 1** - Our thesis editing work is top-notch, on par with the international standard. See [](https://contentconcepts.in/services/academic_editing/manuscript_editing#editingSample)[thesis editing sample](https://contentconcepts.in/services/academic_editing/thesis_editing#editingSample)
+💡Our thesis editing work is top-notch, on par with the international standard. See [](https://contentconcepts.in/services/academic_editing/manuscript_editing#editingSample)[thesis editing sample](https://contentconcepts.in/services/academic_editing/thesis_editing#editingSample)
 
-💡 **Reason 2** -We offer the best price for thesis editing. Our rates are low but our quality is high. Check our [thesis editing price]((https://contentconcepts.in/pricing/)). Thesis editing price is based on the level of editing you choose - Proofreading, substantive editing. If you need, help check [How to select editing level for my thesis](https://contentconcepts.in/blog/manuscript-editing-services-for-research-papers-proofreading-copy-editing-substantive-editing-which-editing-level-should-i-select/)
+💡 We offer the best price for thesis editing. Our rates are low but our quality is high. Check our [thesis editing price]((https://contentconcepts.in/pricing/)). Thesis editing price is based on the level of editing you choose - Proofreading, substantive editing. If you need, help check [How to select editing level for my thesis](https://contentconcepts.in/blog/manuscript-editing-services-for-research-papers-proofreading-copy-editing-substantive-editing-which-editing-level-should-i-select/)
 
-💡 **Reason 3** -[Native English editors and PhD editors](https://contentconcepts.in/about/) with subject knowledge edit your thesis. So we get repeat customers. 
+💡 [Native English editors and PhD editors](https://contentconcepts.in/about/) with subject knowledge edit your thesis. So we get repeat customers. 
 
 <br>
 
