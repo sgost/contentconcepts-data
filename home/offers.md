@@ -1,7 +1,7 @@
 ---
 title: Offers
-offer: FREE SAMPLE PROOFREADING & EDITING
+offer: Native-English Editors, 15% of on first job
 offerLink:
-  title: Best manuscript editing service rates at cost price
-  link: /pricing/
+  title: "Compare the manuscript editing charges per page and per word "
+  link: blog/how-much-does-manuscript-editing-cost-per-page-per-word/
 ---
