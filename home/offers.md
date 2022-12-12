@@ -1,7 +1,7 @@
 ---
 title: Offers
-offer: Native-English Editors, 15% of on first job
+offer: GET 15% of on first job
 offerLink:
-  title: "Compare the manuscript editing charges per page and per word "
+  title: Compare online manuscript editing charges
   link: blog/how-much-does-manuscript-editing-cost-per-page-per-word/
 ---
