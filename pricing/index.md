@@ -16,6 +16,7 @@ types:
           - Correct spelling & punctuation
           - Appropriate usage of terminology
           - 1-2 days
+          - No Certificate
         price:
           inr: "$ <span>0.018</span>/word "
           usd: INR <span>1.30</span>/word
