@@ -184,25 +184,49 @@ seo:
     - admission essay editing
     - admission essay proofreading
 ---
-Engaging, convincing and clean - these are things that make your essay work. Whether you are writing a [college admission essay](https://contentconcepts.in/services/academic_editing/essay_editing) or assignment essay or a term paper we ensure a high impact copy. We have team of experienced [essay editors](https://contentconcepts.in/about/) who can chase grammar errors and kill it like seasoned hunters. 
+Are you staring at a blank page and feeling like your brain has gone on a vacation without you? Is your essay due in a few hours and you're still unsure of how to begin? Fear not, my friend, because we've got you covered!
 
-[Admission essays](https://contentconcepts.in/services/academic_editing/essay_editing) may need more than proofreading to make your content crisp and convincing to the jury. 
+![Essay_editing_experts](essay_editing_services.png "Essay editor")
+
+We're [ContentConcepts](https://contentconcepts.com/about/), the [essay editing service](https://contentconcepts.com/services/academic_editing/essay_editing) that will take your jumbled mess and turn it into a polished masterpiece that would make Shakespeare proud. Okay, maybe not Shakespeare, but you get the idea!
+
+We'll fix all the [grammatical errors](https://contentconcepts.com/services/academic_editing/english_editing), the awkward sentences, and the downright confusing paragraphs. We'll make it flow like a gentle stream on a summer day.
+
+And don't worry, we won't judge your writing skills. We've all been there, trust us. We'll just fix it up so that it looks like a work of art.
+
+So, what are you waiting for? Don't let a messy essay get you down. Let us work our magic and turn it into something that would make your English teacher cry tears of joy. 
+
+## So what exactly our essay editors do?
 
 Here is what our Essay Editors do:
 
 <br>
 
-• Significantly **improve your essay style** by editing sentence structure, word choice
+### Sentence Structure: The Good, the Bad, and the Ugly
 
-• Maintain consistency in **tone** and presentation
+Editors can help you improve your sentence structure and word choice, making your essay flow like a pro.
 
-• **Eliminate** superfluous words, redundancy
+### Consistency is Key (and Not Just in Your Instagram Aesthetic)
 
-• Modify ambiguous statements, vague language
+Maintaining consistency in tone and presentation is crucial for a professional-looking essay. But fear not, your editor will make sure that your essay is on brand and on point.
 
-• Feedback from the editor along with comments on issues in the document
+### Goodbye, Redundancy. Hello, Conciseness
 
-• Two versions of your essay - one shows the changes made and the other a clean version
+Let's face it, we all have a tendency to be a bit long-winded. But with the help of an editor, you can eliminate superfluous words and redundancy. Your essay will be concise, powerful, and straight to the point.
+
+### Clarity is King (or Queen, Depending on Your Preference)
+
+Ambiguous statements and vague language have no place in your college admission essay. But don't worry, your editor will modify any statements that may be unclear or confusing, ensuring that your essay is crystal clear.
+
+## Feedback, Feedback, Feedback
+
+One of the biggest benefits of using an essay editing service is the feedback you'll receive from your editor. They'll provide comments on issues in the document, giving you valuable insight into how you can improve your writing skills.
+
+## Show, Don't Tell (With Two Versions of Your Essay)
+
+Two versions of your essay (one showing the changes made and one clean version) will show you exactly how much you've improved.
+
+So what are you waiting for? Get your college essay edited today and impress those admission officers like a boss!
 
 <br>
 
