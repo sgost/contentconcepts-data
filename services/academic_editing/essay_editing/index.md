@@ -184,9 +184,11 @@ seo:
     - admission essay editing
     - admission essay proofreading
 ---
-Are you staring at a blank page and feeling like your brain has gone on a vacation without you? Is your essay due in a few hours and you're still unsure of how to begin? Fear not, my friend, because we've got you covered!
+Are you staring at a blank page and feeling like your brain has gone on a vacation without you? Is your essay due in a few hours and you're still unsure of how to begin? Fear not, my friend, because our [essay editors](https://contentconcepts.com/about/) have got you covered!
 
 ![Essay_editing_experts](essay_editing_services.png "Essay editor")
+
+<br>
 
 We're [ContentConcepts](https://contentconcepts.com/about/), the [essay editing service](https://contentconcepts.com/services/academic_editing/essay_editing) that will take your jumbled mess and turn it into a polished masterpiece that would make Shakespeare proud. Okay, maybe not Shakespeare, but you get the idea!
 
@@ -198,13 +200,11 @@ So, what are you waiting for? Don't let a messy essay get you down. Let us work 
 
 ## So what exactly our essay editors do?
 
-Here is what our Essay Editors do:
-
 <br>
 
 ### Sentence Structure: The Good, the Bad, and the Ugly
 
-Editors can help you improve your sentence structure and word choice, making your essay flow like a pro.
+Our [Essay Editors](https://contentconcepts.com/about/) can help you improve your sentence structure and word choice, making your essay flow like a pro.
 
 ### Consistency is Key (and Not Just in Your Instagram Aesthetic)
 
@@ -218,11 +218,11 @@ Let's face it, we all have a tendency to be a bit long-winded. But with the help
 
 Ambiguous statements and vague language have no place in your college admission essay. But don't worry, your editor will modify any statements that may be unclear or confusing, ensuring that your essay is crystal clear.
 
-## Feedback, Feedback, Feedback
+### Feedback, Feedback, Feedback
 
 One of the biggest benefits of using an essay editing service is the feedback you'll receive from your editor. They'll provide comments on issues in the document, giving you valuable insight into how you can improve your writing skills.
 
-## Show, Don't Tell (With Two Versions of Your Essay)
+### Show, Don't Tell (With Two Versions of Your Essay)
 
 Two versions of your essay (one showing the changes made and one clean version) will show you exactly how much you've improved.
 
