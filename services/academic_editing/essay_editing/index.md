@@ -184,7 +184,7 @@ seo:
     - admission essay editing
     - admission essay proofreading
 ---
-Are you staring at a blank page and feeling like your brain has gone on a vacation without you? Is your essay due in a few hours and you're still unsure of how to begin? Fear not, my friend, because we've got you covered!
+Are you staring at a blank page and feeling like your brain has gone on a vacation without you? Is your essay due in a few hours and you're still unsure of how to begin? Fear not, my friend, because our [essay editors](https://contentconcepts.com/about/) have got you covered!
 
 ![Essay_editing_experts](essay_editing_services.png "Essay editor")
 
