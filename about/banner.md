@@ -3,7 +3,7 @@ title: Manuscript Editing Services. Rated 4.8 on Google Reviews
 ---
 Are you tired of sending your manuscripts to editors who don't know the difference between "there" and "their"? Look no further! ContentConcepts has been perfecting academic editing for over 25 years, and consistently rated the [best online proofreading and editing services](https://contentconcepts.com/blog/contentconcepts-top-rated-academic-editing-and-proofreading-services/) by Google Reviews.
 
-
+\>﻿
 
 ### Trusted by 99% repeat customers and rated 4.8 on Google, we are one of the[ best online manuscript editing services](https://contentconcepts.com/blog/contentconcepts-top-rated-academic-editing-and-proofreading-services/)
 
@@ -15,7 +15,7 @@ And the best part? We won't break the bank. We offer some of the lowest prices f
 
 So why settle for less? Choose ContentConcepts for all your manuscript editing needs. We promise to make your words sing (or at least stop them from sounding like nails on a chalkboard).
 
-<﻿br>
+\>﻿
 
 ![](/4.8-google-review.jpg)
 
@@ -38,8 +38,6 @@ Our [English manuscript editors](https://contentconcepts.in/about/) specialise i
 Starting from simple proofreading to substantive editing, you can choose the level of editing that suits your budget or what your manuscript requires. If you need, help check [How to select the editing level for my ](https://contentconcepts.in/blog/manuscript-editing-services-for-research-papers-proofreading-copy-editing-substantive-editing-which-editing-level-should-i-select/)document
 
 ### **Our top editing services**
-
-
 
 * [Manuscript Editing](https://contentconcepts.in/services/academic_editing/manuscript_editing)
 * [Thesis Editing](https://contentconcepts.in/services/academic_editing/thesis_editing)
