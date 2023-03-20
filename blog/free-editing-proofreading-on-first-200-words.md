@@ -1,17 +1,17 @@
 ---
 author_image: cc-logo-new.png
 author: ContentConcepts
-bio: English Editing and Proofreading Services
-title: Free editing & proofreading on first 200 words
+bio: Manuscript Editing and Proofreading Services
+title: Manuscript editing service - Free
 date: 2021-12-15T18:30:00.000Z
 previewImage: free.jpeg
-excerpt: Get free sample edit on 200 words of your document
+excerpt: Get manuscript editing for free or proofreading for free when you first
+  submit the document. Limited to 500 words.
 tags:
-  - freeediting
-  - freeproofreading
-  - free
-  - editing
-  - proofreading
+  - manuscript editing service free
+  - proofreading service free
+  - free editing
+  - free proofreading
 seo:
   title: Free sample editing and proofreading
   description: Get free sample edit on 200 words of your manuscript and thesis
