@@ -172,8 +172,8 @@ faq:
 key: resume_editing
 parentType: academic
 seo:
-  title: Proofreading services | Content Concepts | English Editing | Native
-    English Editors
+  title: Proofreading services India, US and UK. Native English editors for
+    research papers
   description: Manuscript proof reading service by PhD and native English
     proofreaders. Proof reading charges start at INR 1.3 (USD 0.020) per word
   keywords:
