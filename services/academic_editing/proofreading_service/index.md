@@ -204,9 +204,7 @@ We offer a range of [proofreading services](https://contentconcepts.com/services
 
 At [ContentConcepts](https://contentconcepts.com/), we are committed to providing our clients with the highest level of service. Our team of native English proofreaders are experts in their field and will ensure that your document is polished to perfection. We offer affordable [proofreading service rates](https://contentconcepts.com/blog/how-much-does-manuscript-editing-cost-per-page-per-word/) and quick turnaround times to meet your needs. We are also unique in that we offer a [free editing certificate](https://contentconcepts.com/blog/free-english-editing-certificate/) with our proofreading services, ensuring that you can submit your document with confidence.
 
-## Rated Best and Trusted by Customers - Rated 4.8
-
-
+## Rated Best and Trusted P**roofreading Service** by Customers
 
 ![Best proofreading service](4.8-google-review.jpg "Best proofreading service")
 
