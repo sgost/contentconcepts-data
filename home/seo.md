@@ -1,7 +1,8 @@
 ---
-title: Manuscript editing, proofreading services by native English Editors
-description: English editing and proofreading services. Free editing sample,
-  starts INR 1.3 per word ($0.020)
+title: Manuscript editing services, proofreading services, Manuscript editing
+  services free
+description: Manuscript editing and proofreading services for research paper.
+  Free editing for first, starts INR 1.3 per word ($0.020)
 keywords:
   - english editing
   - language editing
