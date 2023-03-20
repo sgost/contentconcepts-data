@@ -222,7 +222,7 @@ Proofreading is the process of checking a written document for errors in spellin
 
 Our proofreaders have several years of experience in proofreading your subject, are certified by international boards and are bound by our confidentiality agreements to protect customer data.
 
-**3.What is the price or cost per page per word?** 
+**3.What is the proofreading price or cost per page per word?** 
 
 Our proofreading service rates vary depending on the level of service required. Please visit our **[pricing page](https://contentconcepts.in/pricing/#pricing)** for more information.
 
