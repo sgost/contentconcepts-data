@@ -13,8 +13,10 @@ tags:
   - free editing
   - free proofreading
 seo:
-  title: Free sample editing and proofreading
-  description: Get free sample edit on 200 words of your manuscript and thesis
+  title: Manuscript editing service - Free
+  description: Get manuscript editing service for free and proofreading service
+    for free before you try our full service. Trusted online editing service,
+    rated 4.8 by Google Reviews.
   keywords:
     - freeediting
     - freeproofreading
