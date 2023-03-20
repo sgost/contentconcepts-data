@@ -244,6 +244,4 @@ Yes, we offer a [free editing certificate](https://contentconcepts.com/blog/free
 
 We offer [proofreading service for free](https://contentconcepts.com/blog/free-editing-proofreading-on-first-200-words/) and [manuscript editing service for free ](https://contentconcepts.com/blog/free-editing-proofreading-on-first-200-words/)for first-time customers for limited word count. Write to us if you want free proofreading.
 
-
-
 ### C﻿heck our other related editing services
