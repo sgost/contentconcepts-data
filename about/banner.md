@@ -15,7 +15,9 @@ And the best part? We won't break the bank. We offer some of the lowest prices f
 
 So why settle for less? Choose ContentConcepts for all your manuscript editing needs. We promise to make your words sing (or at least stop them from sounding like nails on a chalkboard).
 
-\>﻿
+
+
+\    
 
 ![](/4.8-google-review.jpg)
 
