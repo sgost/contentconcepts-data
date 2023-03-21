@@ -25,8 +25,8 @@ priceCard:
   pricing:
     title: Starts from
     price:
-      inr: <span>INR 1.30</span>/word
-      usd: <span>$0.020</span>/word
+      inr: <span>$0.020</span>/word
+      usd: <span>₹1.30</span>/word
   tagContent: ASK FOR FREE PROOFREADING SAMPLE
   content: Get English editing certificate after the job.
 editingLevels:
