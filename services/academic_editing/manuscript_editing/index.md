@@ -1,6 +1,6 @@
 ---
 title: Manuscript Editing
-highlight: " Our #1 selling service @ INR 1.60 per word"
+highlight: " Our #1 selling service @ $0.021 per word"
 message: Not happy with edit? <span>100% refund without any condition</span>
 features:
   - id: 1
@@ -25,8 +25,8 @@ priceCard:
   pricing:
     title: Starts from
     price:
-      inr: <span>INR 1.60</span>   OR
-      usd: <span>USD 0.021</span>/word
+      inr: <span>$0.021</span>   OR
+      usd: <span>₹1.60</span>/word
   tagContent: Ask for FREE SAMPLE EDIT
   content: Free Editing Certificate
 editingLevels:
