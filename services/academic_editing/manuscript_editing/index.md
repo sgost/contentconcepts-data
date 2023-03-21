@@ -196,7 +196,7 @@ faq:
 key: manuscript_editing
 parentType: academic
 seo:
-  title: ContentConcepts - Manuscript editing services for research papers, thesis
+  title: Manuscript editing service, Research paper editing service
   description: International quality manuscript editing services at affordable
     editing charges by PhD & native English editors. No rush fee, free samples,
     editing certificate
