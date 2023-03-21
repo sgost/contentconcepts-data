@@ -25,8 +25,8 @@ priceCard:
   pricing:
     title: Starts from
     price:
-      inr: <span>INR 1.60</span>/word
-      usd: <span>$0.020</span>/word
+      inr: <span>$0.020</span>/word
+      usd: <span>₹1.60</span>/word
   tagContent: Clear, Concise & Convincing
   content: Essay that clicks
 editingLevels:
