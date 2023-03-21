@@ -1,5 +1,5 @@
 ---
-title: Proofreading Services
+title: Proofreading Service
 highlight: Native English, Best price, no rush fee
 message: Not happy with proofreading? <span>100% refund without any condition</span>
 features:
@@ -172,8 +172,8 @@ faq:
 key: resume_editing
 parentType: academic
 seo:
-  title: Proofreading services India, US and UK. Native English editors for
-    research papers
+  title: Proofreading services India, US and UK. Best proofreading service price,
+    starts $0.018
   description: Manuscript proof reading service by PhD and native English
     proofreaders. Proof reading charges start at INR 1.3 (USD 0.020) per word
   keywords:
