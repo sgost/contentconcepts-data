@@ -1,5 +1,5 @@
 ---
-title: International Proofreading & Editing Services for
+title: International Proofreading & Editing Service for
 typedWords:
   - Manuscript @ $0.02/word
   - Thesis @ $0.02/word
