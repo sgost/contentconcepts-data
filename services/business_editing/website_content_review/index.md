@@ -1,5 +1,5 @@
 ---
-title: Website Content Review & Rewriting
+title: Website Content Review
 highlight: Content that clicks
 message: Make content work for you<span>Clear, concise, and compelling</span>
 features:
