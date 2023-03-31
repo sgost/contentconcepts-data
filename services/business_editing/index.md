@@ -1,5 +1,5 @@
 ---
-title: Business Document Editin
+title: Business Document Editing
 highlight: Take our word
 message: Not happy with edit? <span>100% refund without any condition</span>
 features:
