@@ -1,5 +1,7 @@
 ---
 title: Thesis Editing Service
+navTitle: Thesis Editing Service
+position: 2
 highlight: GET 10% DISCOUNT FOR FIRST JOB
 message: Not happy with thesis editing? <span>100% refund without any condition</span>
 features:
@@ -83,7 +85,8 @@ editingSample:
       image: ./thesis_editing_sample_free.png
     - id: 2
       title: Substantive Editing
-      description: Line by line editing for language, readibility. Overall structure
+      description:
+        Line by line editing for language, readibility. Overall structure
         of the paper, tone and section transition.
       image: ./Manuscript_editing_sample_free.png
     - id: 3
@@ -96,24 +99,28 @@ editingHighlights:
   highlights:
     - id: 1
       title: Affordable Prices
-      description: Our thesis editing fee is one of the best in the industry for the
+      description:
+        Our thesis editing fee is one of the best in the industry for the
         level of quality work we offer from our trusted PhD and native English
         editors.
       image: ./affordable.svg
     - id: 2
       title: Superior Support
-      description: You can talk to your thesis editor until you are satisfied with our
+      description:
+        You can talk to your thesis editor until you are satisfied with our
         editing service, get your queries answered via email or chat and send
         your manuscript after review from your thesis guide for further check.
       image: ./support.svg
     - id: 3
       title: Confidentiality
-      description: We ensure your thesis is handled with utmost care. We can sign NDA
+      description:
+        We ensure your thesis is handled with utmost care. We can sign NDA
         if necessary.
       image: ./confidential.svg
     - id: 4
       title: Secure transaction
-      description: Your documents as wells as payment is handled by our secure website
+      description:
+        Your documents as wells as payment is handled by our secure website
         which has passed the best level of security testing in the industry.
       image: ./transaction.svg
 serviceProcess:
@@ -138,7 +145,8 @@ serviceProcess:
     - id: 4
       order: "04"
       title: Edit & Return
-      description: CC assigns the right editor who edits and sends the edited document
+      description:
+        CC assigns the right editor who edits and sends the edited document
         back to the customer.
       themeColor: "#FFABAB"
 faq:
@@ -151,45 +159,54 @@ faq:
         secure services without any glitches so far
     - id: 2
       question: How do I get started with the Thesis Editing service?
-      answer: Our editing process is explained clearly in the How Thesis Editing Works
+      answer:
+        Our editing process is explained clearly in the How Thesis Editing Works
         section. Or just send us an email to info@contentconcepts.in
     - id: 3
-      question: "Which editing level is right for my thesis? You have got three levels
+      question:
+        "Which editing level is right for my thesis? You have got three levels
         of editing, how do I choose? "
-      answer: We offer three levels of thesis editing - Proofreading & Copy Editing,
+      answer:
+        We offer three levels of thesis editing - Proofreading & Copy Editing,
         Substantive Editing and Plagiarism Editing. The editing levels are
         explained on the Thesis Editing service page and Pricing page. When you
         send your thesis manuscript to us, we can check and advise the level of
         editing required.
     - id: 4
       question: Can I get a free sample editing for my thesis manuscript?
-      answer: Yes, if your thesis manuscript is longer than 20,000 words, you will get
+      answer:
+        Yes, if your thesis manuscript is longer than 20,000 words, you will get
         free sample edit of approximately 300 words. This free sample edit of
         your thesis gives you an idea of the thesis editor’s editing style and a
         chance to ask questions and give feedback.
     - id: 5
       question: What is the thesis editing fee? How do you charge or thesis editing?
-      answer: Our thesis editing fee is based on total the word count of your thesis
+      answer:
+        Our thesis editing fee is based on total the word count of your thesis
         manuscript and the required level of editing. Please check our Thesis
         Editing service page and Pricing page for more detail
     - id: 6
-      question: Do you check for plagiarism in thesis? Is thesis plagiarism checker
+      question:
+        Do you check for plagiarism in thesis? Is thesis plagiarism checker
         service available?
-      answer: Yes, we check for thesis plagiarism using industry-leading software and
+      answer:
+        Yes, we check for thesis plagiarism using industry-leading software and
         send you plagiarism report with similarity percentage and details.
         Thesis plagiarism checking and correction service is is available as an
         add-on service. When you send your manuscript, ask for plagiarism
         checking and correction service.
     - id: 7
       question: How do I make payment for Thesis Editing service? Is your website safe?
-      answer: Our payment is handled by banks and PayPal, so there is no reason to
+      answer:
+        Our payment is handled by banks and PayPal, so there is no reason to
         worry about your payment details. You can make payment via bank, Google
         Pay, UPI, or PayPal
 key: thesis_editing
 parentType: academic
 seo:
   title: Phd thesis editing service, dissertation editing
-  description: Thesis and dissertation editing and proofreading services by Phd &
+  description:
+    Thesis and dissertation editing and proofreading services by Phd &
     Native English editors at affordable rates
   keywords:
     - thesis editing
@@ -198,6 +215,7 @@ seo:
     - thesis editor
     - thesis check
 ---
+
 Hello there. We understand the pain of writing a thesis! It's like trying to climb a mountain with a backpack full of rocks, isn't it? We know how hard you've worked on your masterpiece and we want to make sure it shines like a diamond. That's why we pay attention to every little detail, from grammar and spelling to formatting and style. And don't worry, your work is safe with us. We take confidentiality seriously, like a spy in a James Bond movie.
 
 ![Thesis editing](thesis_editing_sample_free.png "thesis editing sample")
@@ -272,7 +290,7 @@ Thesis editing is a crucial step in the process of producing a high-quality acad
 
 Proofreading involves reviewing a document for errors in grammar, spelling, and punctuation, while editing involves reviewing a document for overall clarity, coherence, and organization.
 
-Related - [Proofreading vs substantive editing](https://contentconcepts.com/blog/manuscript-editing-services-for-research-papers-proofreading-copy-editing-substantive-editing-which-editing-level-should-i-select/) 
+Related - [Proofreading vs substantive editing](https://contentconcepts.com/blog/manuscript-editing-services-for-research-papers-proofreading-copy-editing-substantive-editing-which-editing-level-should-i-select/)
 
 ### How much does thesis editing cost?
 

@@ -1,5 +1,7 @@
 ---
 title: English Language Editing Service
+navTitle: English Language Editing Service
+position: 6
 highlight: Best price, native English edtitor
 message: Not happy with edit? <span>100% refund without any condition</span>
 features:
@@ -103,7 +105,8 @@ editingSample:
       image: ./substantive_editing.png
     - id: 2
       title: Substantive Editing
-      description: Line by line editing for language, readibility. Overall structure
+      description:
+        Line by line editing for language, readibility. Overall structure
         of the paper, tone and section transition.
       image: ./substantive_editing.png
     - id: 3
@@ -116,25 +119,29 @@ editingHighlights:
   highlights:
     - id: 1
       title: Affordable Prices
-      description: Our ESL manuscript editing fee is one of the best in the industry
+      description:
+        Our ESL manuscript editing fee is one of the best in the industry
         for the level of quality work we offer from our trusted PhD and native
         English editors.
       image: ./affordable.svg
     - id: 2
       title: Superior Support
-      description: You can talk to your ESL manuscript editor until you are satisfied
+      description:
+        You can talk to your ESL manuscript editor until you are satisfied
         with our editing service, get your queries answered via email or chat
         and send your manuscript after review from journal editor for further
         check.
       image: ./support.svg
     - id: 3
       title: Confidentiality
-      description: We ensure your documents are handled with utmost care. We can sign
+      description:
+        We ensure your documents are handled with utmost care. We can sign
         NDA if necessary.
       image: ./confidential.svg
     - id: 4
       title: Secure transaction
-      description: Your documents as wells as payment is handled by our secure website
+      description:
+        Your documents as wells as payment is handled by our secure website
         which has passed the best level of security testing in the industry.
       image: ./transaction.svg
 serviceProcess:
@@ -159,7 +166,8 @@ serviceProcess:
     - id: 4
       order: "04"
       title: Edit & Return
-      description: CC assigns the right editor who edits and sends the edited document
+      description:
+        CC assigns the right editor who edits and sends the edited document
         back to the customer.
       themeColor: "#FFABAB"
 faq:
@@ -167,24 +175,29 @@ faq:
   questions:
     - id: 1
       question: What is English Editing? What changes can I expect on my document?
-      answer: We offer three levels of English editing - Proofreading & Copy Editing,
+      answer:
+        We offer three levels of English editing - Proofreading & Copy Editing,
         Substantive Editing and Plagiarism Editing. All are explained on our
         English Editing page and Pricing page.When you send your manuscript to
         us, we can check and advise you on the level of editing required.
     - id: 2
       question: Is my document submitted for English editing secure with you?
-      answer: Absolutely. Our site is built with superior & latest technologies and is
+      answer:
+        Absolutely. Our site is built with superior & latest technologies and is
         most secure. Moreover, we have been in this field for over 15 years
         offering secure services without any glitches so far
     - id: 3
       question: Can I get a free English editing sample?
-      answer: Yes, if your English manuscript is longer than 20,000 words, you will
+      answer:
+        Yes, if your English manuscript is longer than 20,000 words, you will
         get free sample edit of approximately 500 words. If you are a publisher
         or journal editor, we can offer discounted prices and free sample edit.
     - id: 4
-      question: How do I make payment for English Editing service? Is your website
+      question:
+        How do I make payment for English Editing service? Is your website
         secure?
-      answer: Our payment is handled by banks and PayPal, so there is no reason to
+      answer:
+        Our payment is handled by banks and PayPal, so there is no reason to
         worry about your payment details. You can make payment via bank, Google
         Pay, UPI, or PayPal
     - id: 5
@@ -196,7 +209,8 @@ parentType: academic
 seo:
   title: "👀 ContentConcepts - English language editing and proofreading service
     in India "
-  description: 🔥 English language manuscript editing and proofreading services in
+  description:
+    🔥 English language manuscript editing and proofreading services in
     India. 💲 Truly affordable and top-quality services for manuscript authors
     and publishers.
   keywords:
@@ -211,6 +225,7 @@ seo:
     - manuscript editing services free online english language editing service
     - english language editing service india
 ---
+
 ### 3 reasons why we are one of the top English language editing services.
 
 <br>
@@ -219,7 +234,7 @@ seo:
 
 💡 **Reason 2** -We offer the best price for English editing. Our rates are low but our quality is high. Check our [English editing price](https://contentconcepts.in/pricing/)
 
-💡 **Reason 3** -[Native English editors and PhD editors](https://contentconcepts.in/about/) with subject knowledge work on your manuscripts. So we get repeat customers. 
+💡 **Reason 3** -[Native English editors and PhD editors](https://contentconcepts.in/about/) with subject knowledge work on your manuscripts. So we get repeat customers.
 
 <br>
 
@@ -227,7 +242,7 @@ seo:
 
 <br>
 
-Our English editing service is top-notch yet affordable. For non-native speakers of English, writing a research manuscript or paper is a difficult task. Your strength and focus is on research but your communication language may need to be edited for it to be effective. 
+Our English editing service is top-notch yet affordable. For non-native speakers of English, writing a research manuscript or paper is a difficult task. Your strength and focus is on research but your communication language may need to be edited for it to be effective.
 
 Our [English manuscript editors](https://contentconcepts.in/about/) specialise in editing manuscripts written by authors whose first language is not English. Get the right word, right sentence structure and convey your research findings effectively.
 

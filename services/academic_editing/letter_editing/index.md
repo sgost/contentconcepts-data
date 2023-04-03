@@ -1,5 +1,7 @@
 ---
 title: Medical Editing & Proofreading Service
+navTitle: Medical Editing & Proofreading Service
+position: 5
 highlight: Best service for the best prices online
 message: Not happy with edit? <span>100% refund without any condition</span>
 features:
@@ -105,7 +107,8 @@ editingHighlights:
   highlights:
     - id: 1
       title: Best Price
-      description: Our medical editing charges are the best online for international
+      description:
+        Our medical editing charges are the best online for international
         quality jobs
       image: ./affordable.svg
     - id: 2
@@ -114,7 +117,8 @@ editingHighlights:
       image: transaction.svg
     - id: 3
       title: Confidentiality
-      description: We ensure your documents are handled with utmost care. We can sign
+      description:
+        We ensure your documents are handled with utmost care. We can sign
         NDA if necessary.
       image: ./confidential.svg
     - id: 4
@@ -143,7 +147,8 @@ serviceProcess:
     - id: 4
       order: "04"
       title: Edit & Return
-      description: CC assigns the right editor who edits and sends the edited document
+      description:
+        CC assigns the right editor who edits and sends the edited document
         back to the customer.
       themeColor: "#FFABAB"
 faq:
@@ -151,12 +156,14 @@ faq:
   questions:
     - id: 1
       question: What are the different English language styles you use while editing?
-      answer: We can edit as per two English language styles – American English and
+      answer:
+        We can edit as per two English language styles – American English and
         British English. You can choose your preferred language style in the
         online submission form.
     - id: 2
       question: Is my information secure with you?
-      answer: We can edit as per two English language styles – American English and
+      answer:
+        We can edit as per two English language styles – American English and
         British English.
 key: letter_editing
 parentType: academic
@@ -171,22 +178,17 @@ seo:
     - medical editor
     - medical editing charges
 ---
+
 ### 3 reasons why we are one of the top medical manuscript editing services 💯.
-
-
 
 💚 **Reason 1** - Our medical editors have MD degree and training in medical editing and proofreading. See [medical manuscript editing sample](https://contentconcepts.in/services/academic_editing/manuscript_editing#editingSample)
 
 💚 **Reason 2** -We offer the best price (INR 1.60 / word) for medical manuscript editing. Our medical editing rates are lowest but our quality is high. See our [medical manuscript editing price](https://contentconcepts.in/pricing/)
 
-💚**Reason 3** -[](https://contentconcepts.in/about/)No rush fee for express editing. Fast turnaround time at no extra charges 
-
-
+💚**Reason 3** -[](https://contentconcepts.in/about/)No rush fee for express editing. Fast turnaround time at no extra charges
 
 📌 Check our [Medical Manuscript Editing process](https://contentconcepts.in/services/academic_editing/manuscript_editing#editingProcess)
 
-
-
-Our medical editing team has [manuscript editors](https://contentconcepts.in/about/), thesis editors, native English editors, copy editors, proofreaders and [plagiarism editors](https://contentconcepts.in/services/plagiarism_check/plagiarism_editing). Starting from simple proofreading to substantive editing, you can choose the level of editing that suits your budget or what your manuscript requires. 
+Our medical editing team has [manuscript editors](https://contentconcepts.in/about/), thesis editors, native English editors, copy editors, proofreaders and [plagiarism editors](https://contentconcepts.in/services/plagiarism_check/plagiarism_editing). Starting from simple proofreading to substantive editing, you can choose the level of editing that suits your budget or what your manuscript requires.
 
 If you need, help check [How to select editing level for my research paper](https://contentconcepts.in/blog/manuscript-editing-services-for-research-papers-proofreading-copy-editing-substantive-editing-which-editing-level-should-i-select/)

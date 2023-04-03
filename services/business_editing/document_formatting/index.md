@@ -1,5 +1,7 @@
 ---
 title: Document Formatting
+navTitle: Document Formatting
+position: 4
 highlight: Look does matter
 message: Not happy with edit? <span>100% refund without any condition</span>
 features:
@@ -35,7 +37,8 @@ editingSample:
       image: annual_report_sample.png
     - id: 2
       title: BOOKS & GUIDES
-      description: Book formatting with illustrations and reader-friendly formats
+      description:
+        Book formatting with illustrations and reader-friendly formats
         designed for digital & print media
       image: book_formatting_sample.png
     - id: 3
@@ -48,23 +51,27 @@ editingHighlights:
   highlights:
     - id: 1
       title: Affordable Prices
-      description: Our Document Formatting fee is one of the best in the industry for
+      description:
+        Our Document Formatting fee is one of the best in the industry for
         the level of quality work we offer from our trusted document editors.
       image: ./affordable.svg
     - id: 2
       title: Superior Support
-      description: You can talk to your document editor until you are satisfied with
+      description:
+        You can talk to your document editor until you are satisfied with
         our formatting service, get your queries answered via email or chat and
         send your document after review from for further check.
       image: ./support.svg
     - id: 3
       title: Confidentiality
-      description: We ensure your documents are handled with utmost care. We can sign
+      description:
+        We ensure your documents are handled with utmost care. We can sign
         NDA if necessary.
       image: ./confidential.svg
     - id: 4
       title: Secure transaction
-      description: Your documents as wells as payment is handled by our secure website
+      description:
+        Your documents as wells as payment is handled by our secure website
         which has passed the best level of security testing in the industry.
       image: ./transaction.svg
 serviceProcess:
@@ -89,7 +96,8 @@ serviceProcess:
     - id: 4
       order: "04"
       title: Edit & Return
-      description: CC assigns the right editor who edits and sends the edited document
+      description:
+        CC assigns the right editor who edits and sends the edited document
         back to the customer.
       themeColor: "#FFABAB"
 faq:
@@ -97,12 +105,14 @@ faq:
   questions:
     - id: 1
       question: What are the different English language styles you use while editing?
-      answer: We can edit as per two English language styles – American English and
+      answer:
+        We can edit as per two English language styles – American English and
         British English. You can choose your preferred language style in the
         online submission form.
     - id: 2
       question: Is my information secure with you?
-      answer: We can edit as per two English language styles – American English and
+      answer:
+        We can edit as per two English language styles – American English and
         British English.
 key: document_formatting
 parentType: business

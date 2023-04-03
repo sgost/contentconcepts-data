@@ -1,5 +1,7 @@
 ---
 title: Essay Editing
+navTitle: Essay Editing
+position: 4
 highlight: Native English & Ivy League Writers
 message: College Essay Experts  <span>Make the first impression the best</span>
 features:
@@ -100,7 +102,8 @@ editingSample:
       image: ./essay_editing_sample_free.png
     - id: 2
       title: Substantive Editing
-      description: Line by line editing for language, readibility. Overall structure
+      description:
+        Line by line editing for language, readibility. Overall structure
         of the paper, tone and section transition.
       image: ./essay_editing_sample.png
     - id: 3
@@ -113,24 +116,28 @@ editingHighlights:
   highlights:
     - id: 1
       title: Affordable Prices
-      description: Our essay editing fee is one of the best in the industry for the
+      description:
+        Our essay editing fee is one of the best in the industry for the
         level of quality work we offer from our trusted PhD and native English
         editors.
       image: ./affordable.svg
     - id: 2
       title: Superior Support
-      description: You can talk to your Essay Editor until you are satisfied with our
+      description:
+        You can talk to your Essay Editor until you are satisfied with our
         editing service, get your queries answered via email or chat and send
         your essay after review from for further check.
       image: ./support.svg
     - id: 3
       title: Confidentiality
-      description: We ensure your documents are handled with utmost care. We can sign
+      description:
+        We ensure your documents are handled with utmost care. We can sign
         NDA if necessary.
       image: ./confidential.svg
     - id: 4
       title: Secure transaction
-      description: Your documents as wells as payment is handled by our secure website
+      description:
+        Your documents as wells as payment is handled by our secure website
         which has passed the best level of security testing in the industry.
       image: ./transaction.svg
 serviceProcess:
@@ -155,7 +162,8 @@ serviceProcess:
     - id: 4
       order: "04"
       title: Edit & Return
-      description: CC assigns the right editor who edits and sends the edited document
+      description:
+        CC assigns the right editor who edits and sends the edited document
         back to the customer.
       themeColor: "#FFABAB"
 faq:
@@ -163,12 +171,14 @@ faq:
   questions:
     - id: 1
       question: What are the different English language styles you use while editing?
-      answer: We can edit as per two English language styles – American English and
+      answer:
+        We can edit as per two English language styles – American English and
         British English. You can choose your preferred language style in the
         online submission form.
     - id: 2
       question: Is my information secure with you?
-      answer: We can edit as per two English language styles – American English and
+      answer:
+        We can edit as per two English language styles – American English and
         British English.
 key: essay_editing
 parentType: academic
@@ -184,6 +194,7 @@ seo:
     - admission essay editing
     - admission essay proofreading
 ---
+
 Are you staring at a blank page and feeling like your brain has gone on a vacation without you? Is your essay due in a few hours and you're still unsure of how to begin? Fear not, my friend, because our [essay editors](https://contentconcepts.com/about/) have got you covered!
 
 ![Essay_editing_experts](essay_editing_services.png "Essay editor")
@@ -196,7 +207,7 @@ We'll fix all the [grammatical errors](https://contentconcepts.com/services/acad
 
 And don't worry, we won't judge your writing skills. We've all been there, trust us. We'll just fix it up so that it looks like a work of art.
 
-So, what are you waiting for? Don't let a messy essay get you down. Let us work our magic and turn it into something that would make your English teacher cry tears of joy. 
+So, what are you waiting for? Don't let a messy essay get you down. Let us work our magic and turn it into something that would make your English teacher cry tears of joy.
 
 ## So what exactly our essay editors do?
 
