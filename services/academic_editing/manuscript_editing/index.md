@@ -1,5 +1,7 @@
 ---
 title: Manuscript Editing
+navTitle: Manuscript Editing
+position: 1
 highlight: " Our #1 selling service @ $0.021 per word"
 message: Not happy with edit? <span>100% refund without any condition</span>
 features:
@@ -83,7 +85,8 @@ editingSample:
       image: ./Copy_editing_sample.png
     - id: 2
       title: Manuscript Substantive Editing
-      description: Line by line editing for language, readibility. Overall structure
+      description:
+        Line by line editing for language, readibility. Overall structure
         of the paper, tone and section transition.
       image: ./Manuscript_editing_sample_free.png
     - id: 3
@@ -105,12 +108,14 @@ editingHighlights:
       image: transaction.svg
     - id: 3
       title: Confidentiality
-      description: We ensure your documents are handled with utmost care. We can sign
+      description:
+        We ensure your documents are handled with utmost care. We can sign
         NDA if necessary.
       image: ./confidential.svg
     - id: 4
       title: Editing Certificate
-      description: You will get free editing certificate after your manuscript editing
+      description:
+        You will get free editing certificate after your manuscript editing
         is complete
       image: editing_certificate.svg
 serviceProcess:
@@ -134,20 +139,24 @@ serviceProcess:
     - id: 4
       order: "04"
       title: Edit & Return
-      description: CC assigns the right editor who edits and sends the edited document
+      description:
+        CC assigns the right editor who edits and sends the edited document
         back to the customer.
       themeColor: "#FFABAB"
 faq:
   title: Manuscript Editing Services - Top 10 Questions
   questions:
     - id: 1
-      question: How do I get started with the manuscript editing or paper editing
+      question:
+        How do I get started with the manuscript editing or paper editing
         service?
-      answer: You can use the Get Quote form to send the document or email us. Our
+      answer:
+        You can use the Get Quote form to send the document or email us. Our
         team will get back to you with quote and other details
     - id: 2
       question: Is my document submitted for manuscript editing secure with you?
-      answer: Of course. Our site is built with superior & latest web technologies
+      answer:
+        Of course. Our site is built with superior & latest web technologies
         with security built in. We sign NDA with editors and confidentiality
         agreement with customers if required.
     - id: 3
@@ -167,13 +176,16 @@ faq:
         manuscript regularly, we do a free sample edit. "
     - id: 6
       question: Do you provide editing certificate?
-      answer: Yes, we send editing certificate to the author after completing the
+      answer:
+        Yes, we send editing certificate to the author after completing the
         editing process. The editing certificate will have details such as
         title, author names and QR code for verification
     - id: 7
-      question: Do you offer free editing if the journal reviewer sends comments on
+      question:
+        Do you offer free editing if the journal reviewer sends comments on
         the manuscript?
-      answer: "Yes, for the manuscripts edited by us, we offer free follow-up editing
+      answer:
+        "Yes, for the manuscripts edited by us, we offer free follow-up editing
         after revisions or the journal reviewer sends comments.  "
     - id: 8
       question: What type of documents do you accept for manuscript editing?
@@ -181,12 +193,14 @@ faq:
         converting to Word)
     - id: 9
       question: Do you offer formatting service for manuscripts?
-      answer: Yes, we format manuscripts and other documents based on style guides
+      answer:
+        Yes, we format manuscripts and other documents based on style guides
         such as  Chicago Manual, APA, Australia Style Manual or your
         university/college style
     - id: 10
       question: How do I make payment? Is your website safe for making online payment?
-      answer: Our payment is handled by banks and PayPal, so we would say it's 100%
+      answer:
+        Our payment is handled by banks and PayPal, so we would say it's 100%
         safe. We do not keep any payment details and is directly done by bank's
         payment gateway.
     - id: 11
@@ -213,6 +227,7 @@ seo:
     - english language editing service india
     - manuscript editing services, cheap english editing services
 ---
+
 Whether you're writing your research paper or marketing document or your next best-selling novel, a [manuscript editor](https://contentconcepts.com/about/) is your secret weapon to success. We'll dive into the world of editing - from [proofreading](https://contentconcepts.com/services/academic_editing/proofreading_service) to line editing, and everything in between. And let's not forget the burning question: [how much will manuscript editing cost?](https://contentconcepts.com/blog/how-much-does-manuscript-editing-cost-per-page-per-word/) Don't worry, we've got you covered - without breaking the bank. So sit back, relax, and let's edit this masterpiece together!
 
 ![manuscript editing example](manuscript_editing_sample.jpeg "Words to avoid in research writing")
@@ -237,17 +252,17 @@ Manuscript editing is the secret sauce that transforms mediocre writing into a m
 
 ### Types of editing
 
-There are four main types of editing - proofreading, [copy editing](https://contentconcepts.in/services/business_editing/website_copy_editing), substantive editing, and developmental editing. 
+There are four main types of editing - proofreading, [copy editing](https://contentconcepts.in/services/business_editing/website_copy_editing), substantive editing, and developmental editing.
 
-* **[Proofreading](https://contentconcepts.in/services/academic_editing/proofreading_service)** involves checking for grammatical, punctuation and spelling errors.
+- **[Proofreading](https://contentconcepts.in/services/academic_editing/proofreading_service)** involves checking for grammatical, punctuation and spelling errors.
 
-  **Copy editing** improves the overall language and flow of the text. 
+  **Copy editing** improves the overall language and flow of the text.
 
-  **Substantive editing** focuses on the structure and content of the text. 
+  **Substantive editing** focuses on the structure and content of the text.
 
   **Developmental editing** makes changes to the story, characters, and themes of a manuscript.
 
-  R﻿ead more detail on the level of editing done for each type of editing. 
+  R﻿ead more detail on the level of editing done for each type of editing.
 
 ### Steps in editing a manuscript
 

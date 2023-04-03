@@ -1,5 +1,7 @@
 ---
 title: Scientific Manuscript Editing
+navTitle: Scientific Manuscript Editing
+position: 3
 highlight: by PhD & Native English Editors
 message: Not happy with edit? <span>100% refund without any condition. Yes we
   boast our top-notch service</span>
@@ -108,7 +110,8 @@ editingHighlights:
   highlights:
     - id: 1
       title: Affordable Prices
-      description: Our scientific manuscript editing chargesa are one of the best for
+      description:
+        Our scientific manuscript editing chargesa are one of the best for
         the top-quality work.
       image: ./affordable.svg
     - id: 2
@@ -117,7 +120,8 @@ editingHighlights:
       image: editing_certificate.svg
     - id: 3
       title: Confidentiality
-      description: We ensure your documents are handled with utmost care. We can sign
+      description:
+        We ensure your documents are handled with utmost care. We can sign
         NDA if necessary.
       image: ./confidential.svg
     - id: 4
@@ -146,7 +150,8 @@ serviceProcess:
     - id: 4
       order: "04"
       title: Edit & Return
-      description: CC assigns the right editor who edits and sends the edited document
+      description:
+        CC assigns the right editor who edits and sends the edited document
         back to the customer.
       themeColor: "#FFABAB"
 faq:
@@ -154,25 +159,30 @@ faq:
   questions:
     - id: 1
       question: How do I get started with the scientific manuscript editing service?
-      answer: You can use the Get Quote form to send the document or email us. Our
+      answer:
+        You can use the Get Quote form to send the document or email us. Our
         team will get back to you with quote and other details
     - id: 2
       question: Is my scientific manuscript submitted for editing secure with you?
-      answer: Of course. Our site is built with superior & latest web technologies
+      answer:
+        Of course. Our site is built with superior & latest web technologies
         with security built in. We sign NDA with editors and confidentiality
         agreement with customers if required.
     - id: 3
       question: What does a scientific manuscript editor do?
-      answer: Apart from editing the manuscript for grammar, clarity, completeness,
+      answer:
+        Apart from editing the manuscript for grammar, clarity, completeness,
         the manuscript editor corrects scientific terminologies, flow of
         paragraphs, scientific style and measurement units
     - id: 4
       question: Do you offer free sample editing for scientific manuscript?
-      answer: Yes, if your scientific manuscript is longer than 20,000 words, or you
+      answer:
+        Yes, if your scientific manuscript is longer than 20,000 words, or you
         send manuscript regularly, we do a free sample edit.
     - id: 5
       question: How do I make payment? Is your website safe for making online payment?
-      answer: Our payment is handled by banks and PayPal, so we would say it's 100%
+      answer:
+        Our payment is handled by banks and PayPal, so we would say it's 100%
         safe. We do not keep any payment details and is directly done by bank's
         payment gateway.
 key: scientific_manuscript_editing
@@ -192,10 +202,11 @@ seo:
     - proposal checking
     - proposal formatting
 ---
-Scientific Manuscript editing need not be so expensive. We provide top-quality scientific manuscript editing service at really affordable rates. Our editors are PhD and have more than 100 years of cumulative experience in editing scientific manuscripts. 
 
-You can check out the [scientific manuscript editing rates](https://contentconcepts.in/pricing/) on our Pricing page. Our [manuscript editing charge](https://contentconcepts.in/pricing/#pricing) is based on word count. 
+Scientific Manuscript editing need not be so expensive. We provide top-quality scientific manuscript editing service at really affordable rates. Our editors are PhD and have more than 100 years of cumulative experience in editing scientific manuscripts.
+
+You can check out the [scientific manuscript editing rates](https://contentconcepts.in/pricing/) on our Pricing page. Our [manuscript editing charge](https://contentconcepts.in/pricing/#pricing) is based on word count.
 
 Our editing team has [scientific ](https://contentconcepts.in/about/)[manuscript ](https://contentconcepts.in/about/)[editors](https://contentconcepts.in/about/), PhD editors and native English editors.
 
-Looking for  [scientific manuscript proofreading services](https://contentconcepts.in/services/academic_editing/proofreading_service) ? We cover that too.
+Looking for [scientific manuscript proofreading services](https://contentconcepts.in/services/academic_editing/proofreading_service) ? We cover that too.

@@ -1,5 +1,7 @@
 ---
 title: Academic Editing Service
+navTitle: Academic Editing Service
+position: 9
 highlight: Truly Affordable
 message: Not happy with edit? <span>100% refund without any condition</span>
 features:
@@ -106,7 +108,8 @@ editingSample:
       image: ./Copy_editing_sample.png
     - id: 2
       title: Substantive Editing
-      description: Line by line editing for language, readibility. Overall structure
+      description:
+        Line by line editing for language, readibility. Overall structure
         of the paper, tone and section transition
       image: ./Manuscript_editing_sample_free.png
     - id: 3
@@ -119,24 +122,28 @@ editingHighlights:
   highlights:
     - id: 1
       title: Affordable Prices
-      description: Our manuscript editing fee is one of the best in the industry for
+      description:
+        Our manuscript editing fee is one of the best in the industry for
         the level of quality work we offer from our trusted PhD and native
         English editors.
       image: ./affordable.svg
     - id: 2
       title: Superior Support
-      description: You can talk to your manuscript editor until you are satisfied with
+      description:
+        You can talk to your manuscript editor until you are satisfied with
         our editing service, get your queries answered via email or chat and
         send your manuscript after review from journal editor for further check.
       image: ./support.svg
     - id: 3
       title: Confidentiality
-      description: We ensure your documents are handled with utmost care. We can sign
+      description:
+        We ensure your documents are handled with utmost care. We can sign
         NDA if necessary.
       image: ./confidential.svg
     - id: 4
       title: Secure transaction
-      description: Your documents as wells as payment is handled by our secure website
+      description:
+        Your documents as wells as payment is handled by our secure website
         which has passed the best level of security testing in the industry.
       image: ./transaction.svg
 serviceProcess:
@@ -161,7 +168,8 @@ serviceProcess:
     - id: 4
       order: "04"
       title: Edit & Return
-      description: CC assigns the right editor who edits and sends the edited document
+      description:
+        CC assigns the right editor who edits and sends the edited document
         back to the customer.
       themeColor: "#FFABAB"
 faq:
@@ -169,12 +177,14 @@ faq:
   questions:
     - id: 1
       question: What type of manuscripts do you edit in academic editing service?
-      answer: We edit all types of academic documents across all subject areas. We
+      answer:
+        We edit all types of academic documents across all subject areas. We
         have editors for all subjects across the US, UK and India for better
         availability
     - id: 2
       question: Is my manuscript and research paper secure with you?
-      answer: Absolutely. Our site is built with superior & latest technologies and is
+      answer:
+        Absolutely. Our site is built with superior & latest technologies and is
         most secure. Moreover, we have been in this field for over 15 years
         offering secure services without any glitches so far
     - id: 3
@@ -188,13 +198,15 @@ faq:
         can check and advise you on the level of editing required.
     - id: 5
       question: Can I get a free sample editing for my academic manuscript?
-      answer: Yes, if your academic manuscript is longer than 20,000 words, you will
+      answer:
+        Yes, if your academic manuscript is longer than 20,000 words, you will
         get free sample edit of approximately 500 words. This sample edit gives
         you an idea of the academic editor’s editing style and a chance to ask
         questions and give feedback.
     - id: 6
       question: What is the editing fee for academic manuscripts?
-      answer: Our academic manuscript editing price is based on total the word count
+      answer:
+        Our academic manuscript editing price is based on total the word count
         of your academic manuscript and the required level of editing. Please
         check our academic editing Pricing page for more details.
 key: academic_editing
@@ -202,7 +214,8 @@ parentType: technical
 seo:
   title: Scientific manuscript editing service in India.  Why pay in dollar when
     you can pay in rupee?
-  description: Scientific manuscript editing and proofreading services in India at
+  description:
+    Scientific manuscript editing and proofreading services in India at
     affordable prices.
   keywords:
     - English editing service
