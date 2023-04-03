@@ -1,7 +1,7 @@
 ---
 title: Business Proposal Editing
 navTitle: Business Proposal
-position: 1
+navIndex: "0"
 highlight: Polish it
 message: Not happy with edit? <span>100% refund without any condition</span>
 features:
@@ -165,8 +165,9 @@ faq:
       question: Is my information secure with you?
       answer: We can edit as per two English language styles – American English and
         British English.
-key: business_proposal
 parentType: business
+position: 1
+key: business_proposal
 seo:
   title: Proposal editing and proofreading services in India.
   description: Proposal editing and proofreading services in India at affordable
