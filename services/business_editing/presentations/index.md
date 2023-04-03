@@ -1,5 +1,7 @@
 ---
 title: Presentation PPT Editing
+navTitle: Presentation PPT Editing
+position: 7
 highlight: Best Selling Service on our site
 message: Not happy with edit? <span>100% refund without any condition</span>
 features:
@@ -105,24 +107,28 @@ editingHighlights:
   highlights:
     - id: 1
       title: Affordable Prices
-      description: Our manuscript editing fee is one of the best in the industry for
+      description:
+        Our manuscript editing fee is one of the best in the industry for
         the level of quality work we offer from our trusted PhD and native
         English editors.
       image: ./affordable.svg
     - id: 2
       title: Superior Support
-      description: You can talk to your manuscript editor until you are satisfied with
+      description:
+        You can talk to your manuscript editor until you are satisfied with
         our editing service, get your queries answered via email or chat and
         send your manuscript after review from journal editor for further check.
       image: ./support.svg
     - id: 3
       title: Confidentiality
-      description: We ensure your documents are handled with utmost care. We can sign
+      description:
+        We ensure your documents are handled with utmost care. We can sign
         NDA if necessary.
       image: ./confidential.svg
     - id: 4
       title: Secure transaction
-      description: Your documents as wells as payment is handled by our secure website
+      description:
+        Your documents as wells as payment is handled by our secure website
         which has passed the best level of security testing in the industry.
       image: ./transaction.svg
 serviceProcess:
@@ -147,7 +153,8 @@ serviceProcess:
     - id: 4
       order: "04"
       title: Edit & Return
-      description: CC assigns the right editor who edits and sends the edited document
+      description:
+        CC assigns the right editor who edits and sends the edited document
         back to the customer.
       themeColor: "#FFABAB"
 faq:
@@ -155,12 +162,14 @@ faq:
   questions:
     - id: 1
       question: What are the different English language styles you use while editing?
-      answer: We can edit as per two English language styles – American English and
+      answer:
+        We can edit as per two English language styles – American English and
         British English. You can choose your preferred language style in the
         online submission form.
     - id: 2
       question: Is my information secure with you?
-      answer: We can edit as per two English language styles – American English and
+      answer:
+        We can edit as per two English language styles – American English and
         British English.
 key: presentations
 parentType: business
@@ -175,4 +184,5 @@ seo:
     - corporate document editing
     - corporate document proofreading
 ---
+
 Presentations are usually dominated by visuals and hence have lesser space for content. So the content on PPT has to be crisp and yet powerful complementing the visuals. Our PPT editors are adept in marketing communications and make your presentation engaging and informative. When you send your presentation content to our editors, here is what they will do:
