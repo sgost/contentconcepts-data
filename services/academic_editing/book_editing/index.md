@@ -1,7 +1,7 @@
 ---
 title: Book Editing
 navTitle: Book Editing
-navIndex: "7"
+navIndex: 7
 highlight: For Authors & Publishers
 message: Not happy with edit? <span>100% refund without any condition</span>
 features:
@@ -94,7 +94,8 @@ editingSample:
       image: ./book_editing_sample_free.png
     - id: 2
       title: Substantive Editing
-      description: Line by line editing for language, readibility. Overall structure
+      description:
+        Line by line editing for language, readibility. Overall structure
         of the paper, tone and section transition.
       image: ./book_editing_sample2_free.png
     - id: 3
@@ -107,24 +108,28 @@ editingHighlights:
   highlights:
     - id: 1
       title: Affordable Prices
-      description: Our book manuscript editing fee is one of the best in the industry
+      description:
+        Our book manuscript editing fee is one of the best in the industry
         for the level of quality work we offer from our trusted PhD and native
         English editors.
       image: ./affordable.svg
     - id: 2
       title: Superior Support
-      description: You can talk to your book manuscript editor until you are satisfied
+      description:
+        You can talk to your book manuscript editor until you are satisfied
         with our editing service, get your queries answered via email or chat
         and send your manuscript after review for further check.
       image: ./support.svg
     - id: 3
       title: Confidentiality
-      description: We ensure your documents are handled with utmost care. We can sign
+      description:
+        We ensure your documents are handled with utmost care. We can sign
         NDA if necessary.
       image: ./confidential.svg
     - id: 4
       title: Secure transaction
-      description: Your documents as wells as payment is handled by our secure website
+      description:
+        Your documents as wells as payment is handled by our secure website
         which has passed the best level of security testing in the industry.
       image: ./transaction.svg
 serviceProcess:
@@ -149,7 +154,8 @@ serviceProcess:
     - id: 4
       order: "04"
       title: Edit & Return
-      description: CC assigns the right editor who edits and sends the edited document
+      description:
+        CC assigns the right editor who edits and sends the edited document
         back to the customer.
       themeColor: "#FFABAB"
 faq:
@@ -157,11 +163,13 @@ faq:
   questions:
     - id: 1
       question: How do I get started with book manuscript editing service?
-      answer: You can use the Get Quote form to send the document or email us. Our
+      answer:
+        You can use the Get Quote form to send the document or email us. Our
         team will get back to you with quote and other details
     - id: 2
       question: Do you provide free sample editing for my manuscript?
-      answer: " Yes, if your book manuscript is longer than 20,000 words, you will get
+      answer:
+        " Yes, if your book manuscript is longer than 20,000 words, you will get
         free sample edit of approximately 300 words. This sample edit gives you
         an idea of the book manuscript editor’s and English editor’s editing
         style "
@@ -173,13 +181,15 @@ faq:
         can check and advise you on the level of editing required.
     - id: 4
       question: Is my book manuscript secure with you?
-      answer: Absolutely. Our site is built with superior & latest technologies and is
+      answer:
+        Absolutely. Our site is built with superior & latest technologies and is
         most secure. Moreover, we have been in this field for over 15 years
         offering secure services without any glitches so far
     - id: 5
       question: How do I make payment for book editing? Is your website safe for
         making online payment?
-      answer: Our payment is handled by banks and PayPal, so we would say it's 100%
+      answer:
+        Our payment is handled by banks and PayPal, so we would say it's 100%
         safe. We do not keep any payment details and is directly done by bank's
         payment gateway.
 key: book_editing
