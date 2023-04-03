@@ -1,7 +1,7 @@
 ---
 title: "Manuscript Rewriting"
 navTitle: Manuscript Rewriting
-navPosition:6
+navPosition: 6
 highlight: "Get it Write"
 message: "Convert your ideas to writing <span>Research papers, thesis, dissertation</span>"
 priceCard:

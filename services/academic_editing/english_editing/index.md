@@ -1,7 +1,7 @@
 ---
 title: English Language Editing Service
 navTitle: English Editing
-navPosition:6
+navPosition: 6
 highlight: Best price, native-English editor
 message: Not happy with edit? <span>100% refund without any condition</span>
 features:

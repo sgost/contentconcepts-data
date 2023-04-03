@@ -1,7 +1,7 @@
 ---
 title: "Pre-submission Review"
 navTitle: Pre-submission Review
-navPosition:3
+navPosition: 3
 highlight: "Publish with Confidence"
 message: "Not happy with edit? <span>100% refund without any condition</span>"
 priceCard:

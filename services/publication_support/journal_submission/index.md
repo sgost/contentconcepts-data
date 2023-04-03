@@ -1,7 +1,7 @@
 ---
 title: Journal Submission
 navTitle: Journal Submission
-navPosition:2
+navPosition: 2
 highlight: Free up time, focus on research
 message: Not happy with edit? <span>100% refund without any condition</span>
 features:

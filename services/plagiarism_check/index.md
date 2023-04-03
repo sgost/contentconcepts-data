@@ -1,7 +1,7 @@
 ---
 title: "Plagiarism Check"
 navTitle: Plagiarism Check
-navPosition:3
+navPosition: 3
 highlight: "Powered by Technology + Human"
 message: "Significant reduction in similarity<span>Talk to us for more details</span>"
 priceCard:

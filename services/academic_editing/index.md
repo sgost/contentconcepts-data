@@ -1,7 +1,7 @@
 ---
 title: Academic Editing Service
 navTitle: Academic Editing Service
-navPosition:9
+navPosition: 9
 highlight: Truly Affordable
 message: Not happy with edit? <span>100% refund without any condition</span>
 features:

@@ -1,7 +1,7 @@
 ---
 title: Plagiarism Editing
 navTitle: Plagiarism Editing
-navPosition:1
+navPosition: 1
 highlight: Reduce similarity & risk
 message: Not happy with edit? <span>100% refund without any condition</span>
 features:
