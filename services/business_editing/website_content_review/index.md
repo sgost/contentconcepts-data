@@ -1,7 +1,7 @@
 ---
 title: Website Content Review
 navTitle: Website Content Review
-navPosition: 8
+navIndex: 8
 highlight: Content that clicks
 message: Make content work for you<span>Clear, concise, and compelling</span>
 features:

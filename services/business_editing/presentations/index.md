@@ -1,7 +1,7 @@
 ---
 title: Presentation PPT Editing
 navTitle: Presentation PPT Editing
-navPosition: 7
+navIndex: 7
 highlight: Best Selling Service on our site
 message: Not happy with edit? <span>100% refund without any condition</span>
 features:

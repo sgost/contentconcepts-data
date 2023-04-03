@@ -1,7 +1,7 @@
 ---
 title: "Plagiarism Checker "
 navTitle: Plagiarism Checker
-navPosition: "1"
+navIndex: "1"
 highlight: Free with Plagiarism Editing service
 message: Get free plagiarism report <span>by selecting Plagiarism Editing service</span>
 features:
