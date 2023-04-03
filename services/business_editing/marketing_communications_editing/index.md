@@ -1,7 +1,7 @@
 ---
 title: "Marketing Communications"
 navTitle: "Marketing Communications"
-navPosition: 2
+navIndex: 2
 highlight: "Are you content?"
 message: "Not happy with edit? <span>100% refund without any condition</span>"
 priceCard:

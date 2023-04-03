@@ -1,7 +1,7 @@
 ---
 title: Business Proposal Editing
 navTitle: Business Proposal Editing
-navPosition: 1
+navIndex: 1
 highlight: Polish it
 message: Not happy with edit? <span>100% refund without any condition</span>
 features:

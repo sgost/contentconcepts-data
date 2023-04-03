@@ -1,7 +1,7 @@
 ---
 title: "Journal Selection"
 navTitle: Journal Selection
-navPosition: 1
+navIndex: 1
 highlight: "Get it right"
 message: "Not happy with edit? <span>100% refund without any condition</span>"
 priceCard:

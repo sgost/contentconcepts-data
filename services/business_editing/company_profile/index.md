@@ -1,7 +1,7 @@
 ---
 title: "Company Profile"
 navTitle: "Company Profile"
-navPosition: 3
+navIndex: 3
 highlight: "That really works"
 message: "Not happy with edit? <span>100% refund without any condition</span>"
 priceCard:

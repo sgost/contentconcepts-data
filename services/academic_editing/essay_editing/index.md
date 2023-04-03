@@ -1,7 +1,7 @@
 ---
 title: Essay Editing
 navTitle: Essay Editing
-navPosition: 4
+navIndex: 4
 highlight: Native English & Ivy League Writers
 message: College Essay Experts  <span>Make the first impression the best</span>
 features:

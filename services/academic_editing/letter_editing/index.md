@@ -1,7 +1,7 @@
 ---
 title: Medical Editing & Proofreading Service
 navTitle: Letter Editing
-navPosition: 5
+navIndex: 5
 highlight: Best service for the best prices online
 message: Not happy with edit? <span>100% refund without any condition</span>
 features:

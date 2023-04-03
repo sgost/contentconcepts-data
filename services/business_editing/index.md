@@ -1,7 +1,7 @@
 ---
 title: Business Document Editing
 navTitle: Business Document Editing
-navPosition: 6
+navIndex: 6
 highlight: Take our word
 message: Not happy with edit? <span>100% refund without any condition</span>
 features:

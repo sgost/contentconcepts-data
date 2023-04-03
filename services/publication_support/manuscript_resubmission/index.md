@@ -1,7 +1,7 @@
 ---
 title: "Manuscript Re-submission"
 navTitle: Manuscript Re-submission
-navPosition: 4
+navIndex: 4
 highlight: "Rejected Manuscript Handling"
 message: "Not happy with edit? <span>100% refund without any condition</span>"
 priceCard:
