@@ -1,7 +1,7 @@
 ---
 title: "Blog Editing"
 navTitle: Blog Editing
-position: 5
+navPosition:5
 highlight: "Make content work for you"
 message: "Not happy with edit? <span>100% refund without any condition</span>"
 priceCard:

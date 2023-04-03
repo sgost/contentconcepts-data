@@ -1,7 +1,7 @@
 ---
 title: Plagiarism Removal
 navTitle: Plagiarism Removal
-position: 8
+navPosition:8
 highlight: Similarity report + rephrasing, rewriting and editing
 message: Reduce manuscript similarity to less than 15%<span>Best plagiarism
   checker and similarity removal service</span>
