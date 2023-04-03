@@ -31,9 +31,12 @@ pricing:
     price:
       inr: ₹ <span>1.50</span>/word
       usd: $ <span>0.03</span>/word
-    themeColor: "linear-gradient(116.47deg, #03CA8B -5.73%, #02C688 -5.72%, #05E29C
+    themeColor:
+      "linear-gradient(116.47deg, #03CA8B -5.73%, #02C688 -5.72%, #05E29C
       103.5%)"
 title: Publication Services
+navTitle: Publication Services
+navIndex: 3
 highlight: For the time-constrained
 message: Not happy with edit? <span>100% refund without any condition</span>
 features:
@@ -68,24 +71,28 @@ editingHighlights:
   highlights:
     - id: 1
       title: Affordable Prices
-      description: Our manuscript editing fee is one of the best in the industry for
+      description:
+        Our manuscript editing fee is one of the best in the industry for
         the level of quality work we offer from our trusted PhD and native
         English editors.
       image: ./affordable.svg
     - id: 2
       title: Superior Support
-      description: You can talk to your manuscript editor until you are satisfied with
+      description:
+        You can talk to your manuscript editor until you are satisfied with
         our editing service, get your queries answered via email or chat and
         send your manuscript after review from journal editor for further check.
       image: ./support.svg
     - id: 3
       title: Confidentiality
-      description: We ensure your documents are handled with utmost care. We can sign
+      description:
+        We ensure your documents are handled with utmost care. We can sign
         NDA if necessary.
       image: ./confidential.svg
     - id: 4
       title: Secure transaction
-      description: Your documents as wells as payment is handled by our secure website
+      description:
+        Your documents as wells as payment is handled by our secure website
         which has passed the best level of security testing in the industry.
       image: ./transaction.svg
 serviceProcess:
@@ -110,7 +117,8 @@ serviceProcess:
     - id: 4
       order: "04"
       title: Edit & Return
-      description: CC assigns the right editor who edits and sends the edited document
+      description:
+        CC assigns the right editor who edits and sends the edited document
         back to the customer.
       themeColor: "#FFABAB"
 faq:
@@ -118,12 +126,14 @@ faq:
   questions:
     - id: 1
       question: What are the different English language styles you use while editing?
-      answer: We can edit as per two English language styles – American English and
+      answer:
+        We can edit as per two English language styles – American English and
         British English. You can choose your preferred language style in the
         online submission form.
     - id: 2
       question: Is my information secure with you?
-      answer: We can edit as per two English language styles – American English and
+      answer:
+        We can edit as per two English language styles – American English and
         British English.
 key: publication_support
 seo:
