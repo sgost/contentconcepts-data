@@ -1,7 +1,7 @@
 ---
 title: Book Editing
 navTitle: Book Editing
-position: 7
+navPosition:7
 highlight: For Authors & Publishers
 message: Not happy with edit? <span>100% refund without any condition</span>
 features:

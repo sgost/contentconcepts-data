@@ -1,7 +1,7 @@
 ---
 title: Manuscript Editing
 navTitle: Manuscript Editing
-position: 1
+navPosition:1
 highlight: " Our #1 selling service @ $0.021 per word"
 message: Not happy with edit? <span>100% refund without any condition</span>
 features:

@@ -1,7 +1,7 @@
 ---
 title: Proofreading Service
 navTitle: Proofreading Service
-position: 8
+navPosition:8
 highlight: Native English, Best price, no rush fee
 message: Not happy with proofreading? <span>100% refund without any condition</span>
 features:

@@ -1,7 +1,7 @@
 ---
 title: Scientific Manuscript Editing
 navTitle: Scientific Manuscript Editing
-position: 3
+navPosition:3
 highlight: by PhD & Native English Editors
 message: Not happy with edit? <span>100% refund without any condition. Yes we
   boast our top-notch service</span>

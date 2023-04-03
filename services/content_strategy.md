@@ -1,7 +1,7 @@
 ---
 title: "Content Strategy"
 navTitle: Content Strategy
-position: 7
+navPosition:7
 highlight: "Best Selling Service on our site"
 message: "Not happy with edit? <span>100% refund without any condition</span>"
 priceCard:

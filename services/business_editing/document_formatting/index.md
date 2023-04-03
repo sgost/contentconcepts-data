@@ -1,7 +1,7 @@
 ---
 title: Document Formatting
 navTitle: Document Formatting
-position: 4
+navPosition:4
 highlight: Look does matter
 message: Not happy with edit? <span>100% refund without any condition</span>
 features:

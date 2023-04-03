@@ -1,7 +1,7 @@
 ---
 title: Thesis Editing Service
 navTitle: Thesis Editing
-position: 2
+navPosition:2
 highlight: GET 10% DISCOUNT FOR FIRST JOB
 message: Not happy with thesis editing? <span>100% refund without any condition</span>
 features:

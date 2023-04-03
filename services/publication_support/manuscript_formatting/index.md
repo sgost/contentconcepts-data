@@ -1,7 +1,7 @@
 ---
 title: "Manuscript Formatting"
 navTitle: Manuscript Formatting
-position: 7
+navPosition:7
 highlight: "Fast & Affordable"
 message: "For research papers, thesis<span>All major formatting styles - APA, Chicago, MLA</span>"
 priceCard:
