@@ -1,7 +1,7 @@
 ---
 title: "Illustration & Artwork"
 navTitle: Illustration & Artwork
-navPosition:5
+navPosition: 5
 highlight: "Because looks matter"
 message: "Not happy with illustration? <span>100% refund without any condition</span>"
 priceCard:
