@@ -1,7 +1,7 @@
 ---
 title: "Plagiarism Checker "
 navTitle: Plagiarism Checker
-position: 2
+position: "1"
 highlight: Free with Plagiarism Editing service
 message: Get free plagiarism report <span>by selecting Plagiarism Editing service</span>
 features:
@@ -46,8 +46,7 @@ editingSample:
       image: ./substantive_editing.png
     - id: 3
       title: Developmental Editing
-      description:
-        Line by line editing for language, readability and   technical
+      description: Line by line editing for language, readability and   technical
         learning improvement
       image: ./substantive_editing.png
 editingHighlights:
@@ -55,29 +54,25 @@ editingHighlights:
   highlights:
     - id: 1
       title: Affordable Prices
-      description:
-        Our Similarity Check fee is one of the best in the industry for the
+      description: Our Similarity Check fee is one of the best in the industry for the
         level of quality work we offer from our trusted PhD and native English
         editors.
       image: ./affordable.svg
     - id: 2
       title: Superior Support
-      description:
-        You can talk to us until you are satisfied with our Manuscript
+      description: You can talk to us until you are satisfied with our Manuscript
         Similarity Check service, get your queries answered via email or chat
         and send your manuscript after review from journal editor for further
         check.
       image: ./support.svg
     - id: 3
       title: Confidentiality
-      description:
-        We ensure your documents are handled with utmost care. We can sign
+      description: We ensure your documents are handled with utmost care. We can sign
         NDA if necessary.
       image: ./confidential.svg
     - id: 4
       title: Secure transaction
-      description:
-        Your documents as wells as payment is handled by our secure website
+      description: Your documents as wells as payment is handled by our secure website
         which has passed the best level of security testing in the industry.
       image: ./transaction.svg
 serviceProcess:
@@ -101,8 +96,7 @@ serviceProcess:
     - id: 4
       order: "04"
       title: Edit & Return
-      description:
-        CC checks your manuscript using plagiarism checker software and
+      description: CC checks your manuscript using plagiarism checker software and
         sends you a report
       themeColor: "#FFABAB"
 faq:
@@ -110,8 +104,7 @@ faq:
   questions:
     - id: 1
       question: How do I get started with Plagiarism Checking service?
-      answer:
-        You can use the Get Quote form to send the manuscript or email us. Our
+      answer: You can use the Get Quote form to send the manuscript or email us. Our
         team will get back to you with quote and other details
     - id: 2
       question: Is my information secure with you?
@@ -125,28 +118,24 @@ faq:
         bank, Google Pay, UPI, or PayPal
     - id: 4
       question: Do you offer a refund if I am not satisfied with the work?
-      answer:
-        If you are unsatisfied with the service that you have received and can
+      answer: If you are unsatisfied with the service that you have received and can
         produce justification that the editing quality was substandard (e.g.,
         language and punctuation errors, very low editing), we may issue a
         partial or full refund. Contact our project manager by sending an email
         to info@contentconcepts.in
     - id: 5
       question: Is plagiarism check done free?
-      answer:
-        We offer free similarity checking for thesis and research papers if you
+      answer: We offer free similarity checking for thesis and research papers if you
         choose plagiarism removal and plagiarism editing service. Otherwise
         plagiarism checker starts from INR 250 (USD 5)
     - id: 6
       question: Do you provide similarity report after plagiarism correction is done?
-      answer:
-        Yes, if you select Plagiarism Correction or Plagiarism Editing service,
+      answer: Yes, if you select Plagiarism Correction or Plagiarism Editing service,
         we run another round of similarity check after correcting the manuscript
         to ensure the manuscript is free of plagiarised content
     - id: 7
       question: How does your plagiarism checker/plagiarism removal service work?
-      answer:
-        We first check the manuscript for similarity using industry-leading
+      answer: We first check the manuscript for similarity using industry-leading
         plagiarism checker software and send you similarity report. You can then
         decide whether you want to select plagiarism removal service.
 key: similarity_check
