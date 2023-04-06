@@ -4,6 +4,36 @@ navTitle: Manuscript Rewriting
 navIndex: 6
 highlight: "Get it Write"
 message: "Convert your ideas to writing <span>Research papers, thesis, dissertation</span>"
+quoteTitle: Professional English Editing for any Research Paper
+editingCard:
+  - image: ./service_card.png
+    title: Lorem ipsum dolor sit amet consectetur. Odio malesuada eu fames dictum.
+    buttonLink: www.google.com
+    points:
+      - Lorem ipsum dolor sit amet consectetur. Odio malesuada eu fames dictum. Lorem ipsum dolor sit amet consectetur. Odio malesuada eu fames dictum.
+      - Lorem ipsum dolor sit amet consectetur. Odio malesuada eu fames dictum. Lorem ipsum dolor sit amet consectetur. Odio malesuada eu fames dictum.
+      - Lorem ipsum dolor sit amet consectetur. Odio malesuada eu fames dictum. Lorem ipsum dolor sit amet consectetur. Odio malesuada eu fames dictum.
+    editingCardLinks:
+      - title: Lorem ipsum dolor sit amet consectetur. Odio malesuada eu fames dictum.
+        description: Lorem ipsum dolor sit amet consectetur. Odio malesuada eu fames dictum.
+        links:
+          - title: Lorem ipsum dolor sit consectetur
+            titleLinkDescription: Lorem ipsum dolor sit amet consectetur. Sit a mattis
+            titleLink: www.google.com
+editorSecTitle: Manuscript Editors & Native English Editors
+editorSecCards:
+  - image: ./userAvatar.png
+    name: Victor Rice
+    designation: Customer Engagement Manager CADD Centre
+    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc pretium scelerisque neque amet consectetur adipiscing elit. Nunc pretium scelerisque neque amet
+  - image: ./userAvatar.png
+    name: Victor Rice
+    designation: Customer Engagement Manager CADD Centre
+    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc pretium scelerisque neque amet consectetur adipiscing elit. Nunc pretium scelerisque neque amet
+  - image: ./userAvatar.png
+    name: Victor Rice
+    designation: Customer Engagement Manager CADD Centre
+    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc pretium scelerisque neque amet consectetur adipiscing elit. Nunc pretium scelerisque neque amet
 priceCard:
   {
     pricing:
