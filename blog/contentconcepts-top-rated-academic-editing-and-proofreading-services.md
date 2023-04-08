@@ -2,7 +2,8 @@
 author_image: cc-logo-new.png
 author: ContentConcepts
 bio: Affordable manuscript editing and proofreading services
-title: "ContentConcepts: Top-Rated Academic Editing and Proofreading Services"
+title: "ContentConcepts: Top-Rated Manuscript Editing Service and Proofreading
+  Service in India"
 date: 2023-02-16T18:30:00.000Z
 previewImage: top_rated.png
 excerpt: ContentConcepts, one of the top-rated providers of such services on
@@ -18,7 +19,7 @@ seo:
 ---
 In today's academic and professional sectors, high-quality [manuscript editing](https://contentconcepts.in/services/academic_editing/manuscript_editing) and proofreading services are in high demand. [ContentConcepts](https://contentconcepts.in/), one of the top-rated providers of such services on Google, has emerged as the go-to manuscript editing services in India for individuals and organizations seeking exceptional editing and proofreading services in India and abroad.
 
-![Google reviews top rated](top_rated.png "Best manuscript editing service")
+![Best manuscript editing service in India](top_rated.png "Best manuscript editing service in India")
 
 ### Native English Editors Ensure Exceptional Quality
 
