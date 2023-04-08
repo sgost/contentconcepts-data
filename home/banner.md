@@ -11,9 +11,9 @@ services:
     title: Manuscript Editing
     link: services/academic_editing/manuscript_editing
   - id: 2
-    title: Free Certificate
+    title: Editing Certificate
     link: blog/free-english-editing-certificate/
   - id: 3
-    title: Plagiarism Correction
-    link: services/plagiarism_correction
+    title: Free Editing
+    link: blog/free-editing-proofreading-on-first-200-words/
 ---
