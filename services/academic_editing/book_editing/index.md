@@ -61,14 +61,7 @@ features:
     title: Rewriting sentences to make content clear, concise and effective
   - id: 5
     title: Suggesting, illustrations and artwork
-priceCard:
-  pricing:
-    title: Starts from
-    price:
-      inr: <span>INR 1.50</span>/word
-      usd: <span>$0.03</span>/word
-  tagContent: Clear, Concise, Engaging style
-  content: Suggestions for artwork & infographics
+cardImage: ./blog_image.png
 editingLevels:
   toggle: show
   title: Book Editing levels
