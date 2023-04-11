@@ -4,31 +4,7 @@ navTitle: Essay Editing
 navIndex: 4
 highlight: Native English & Ivy League Writers
 message: College Essay Experts  <span>Make the first impression the best</span>
-connectToolsTitle: Connect your tools, connect your teams
-connectToolsDec: Slack channels are the place for work, Bring your tools to your team, save time and avoid context-switching.
-connectTools:
-  - title: Unified and secure
-    description: Lorem ipsum dolor sit amet consectetur. Pellentesque cursus habitant vel nullam cras pellentesque amet. Vulputate sagittis cras fusce fermentum. Mauris lorem sapien scelerisque nunc quis suspendisse. Senectus venenatis neque tellus duis erat amet id praesent. Consequat integer consectetur urna cras egestas elit mi neque pellentesque.
-    image: ./connect_img1.svg
-  - title: Unified and secure
-    description: Lorem ipsum dolor sit amet consectetur. Pellentesque cursus habitant vel nullam cras pellentesque amet. Vulputate sagittis cras fusce fermentum. Mauris lorem sapien scelerisque nunc quis suspendisse. Senectus venenatis neque tellus duis erat amet id praesent. Consequat integer consectetur urna cras egestas elit mi neque pellentesque.
-    image: ./connect_img2.svg
-  - title: Unified and secure
-    description: Lorem ipsum dolor sit amet consectetur. Pellentesque cursus habitant vel nullam cras pellentesque amet. Vulputate sagittis cras fusce fermentum. Mauris lorem sapien scelerisque nunc quis suspendisse. Senectus venenatis neque tellus duis erat amet id praesent. Consequat integer consectetur urna cras egestas elit mi neque pellentesque.
-    image: ./connect_img3.svg
 quoteTitle: Professional English Editing for any Research Paper
-connectToolsTitle: Connect your tools, connect your teams
-connectToolsDec: Slack channels are the place for work, Bring your tools to your team, save time and avoid context-switching.
-connectTools:
-  - title: Unified and secure
-    description: Lorem ipsum dolor sit amet consectetur. Pellentesque cursus habitant vel nullam cras pellentesque amet. Vulputate sagittis cras fusce fermentum. Mauris lorem sapien scelerisque nunc quis suspendisse. Senectus venenatis neque tellus duis erat amet id praesent. Consequat integer consectetur urna cras egestas elit mi neque pellentesque.
-    image: ./connect_img1.svg
-  - title: Unified and secure
-    description: Lorem ipsum dolor sit amet consectetur. Pellentesque cursus habitant vel nullam cras pellentesque amet. Vulputate sagittis cras fusce fermentum. Mauris lorem sapien scelerisque nunc quis suspendisse. Senectus venenatis neque tellus duis erat amet id praesent. Consequat integer consectetur urna cras egestas elit mi neque pellentesque.
-    image: ./connect_img2.svg
-  - title: Unified and secure
-    description: Lorem ipsum dolor sit amet consectetur. Pellentesque cursus habitant vel nullam cras pellentesque amet. Vulputate sagittis cras fusce fermentum. Mauris lorem sapien scelerisque nunc quis suspendisse. Senectus venenatis neque tellus duis erat amet id praesent. Consequat integer consectetur urna cras egestas elit mi neque pellentesque.
-    image: ./connect_img3.svg
 editingCard:
   - image: ./service_card.png
     title: Lorem ipsum dolor sit amet consectetur. Odio malesuada eu fames dictum.
