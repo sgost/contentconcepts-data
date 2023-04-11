@@ -37,6 +37,7 @@ editingCard:
             titleLinkDescription: Lorem ipsum dolor sit amet consectetur. Sit a mattis
             titleLink: www.google.com
 editorSecTitle: Manuscript Editors & Native English Editors
+nativeEditorSecToggle: show
 editorSecCards:
   - image: ./userAvatar.png
     name: Victor Rice
