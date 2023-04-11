@@ -208,6 +208,7 @@ serviceProcess:
         back to the customer.
       themeColor: "#FFABAB"
 faq:
+  toggle: show
   title: Book Manuscript Editing - FAQ
   questions:
     - id: 1
