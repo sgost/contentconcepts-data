@@ -4,6 +4,60 @@ navTitle: Essay Editing
 navIndex: 4
 highlight: Native English & Ivy League Writers
 message: College Essay Experts  <span>Make the first impression the best</span>
+connectToolsTitle: Connect your tools, connect your teams
+connectToolsDec: Slack channels are the place for work, Bring your tools to your team, save time and avoid context-switching.
+connectTools:
+  - title: Unified and secure
+    description: Lorem ipsum dolor sit amet consectetur. Pellentesque cursus habitant vel nullam cras pellentesque amet. Vulputate sagittis cras fusce fermentum. Mauris lorem sapien scelerisque nunc quis suspendisse. Senectus venenatis neque tellus duis erat amet id praesent. Consequat integer consectetur urna cras egestas elit mi neque pellentesque.
+    image: ./connect_img1.svg
+  - title: Unified and secure
+    description: Lorem ipsum dolor sit amet consectetur. Pellentesque cursus habitant vel nullam cras pellentesque amet. Vulputate sagittis cras fusce fermentum. Mauris lorem sapien scelerisque nunc quis suspendisse. Senectus venenatis neque tellus duis erat amet id praesent. Consequat integer consectetur urna cras egestas elit mi neque pellentesque.
+    image: ./connect_img2.svg
+  - title: Unified and secure
+    description: Lorem ipsum dolor sit amet consectetur. Pellentesque cursus habitant vel nullam cras pellentesque amet. Vulputate sagittis cras fusce fermentum. Mauris lorem sapien scelerisque nunc quis suspendisse. Senectus venenatis neque tellus duis erat amet id praesent. Consequat integer consectetur urna cras egestas elit mi neque pellentesque.
+    image: ./connect_img3.svg
+quoteTitle: Professional English Editing for any Research Paper
+connectToolsTitle: Connect your tools, connect your teams
+connectToolsDec: Slack channels are the place for work, Bring your tools to your team, save time and avoid context-switching.
+connectTools:
+  - title: Unified and secure
+    description: Lorem ipsum dolor sit amet consectetur. Pellentesque cursus habitant vel nullam cras pellentesque amet. Vulputate sagittis cras fusce fermentum. Mauris lorem sapien scelerisque nunc quis suspendisse. Senectus venenatis neque tellus duis erat amet id praesent. Consequat integer consectetur urna cras egestas elit mi neque pellentesque.
+    image: ./connect_img1.svg
+  - title: Unified and secure
+    description: Lorem ipsum dolor sit amet consectetur. Pellentesque cursus habitant vel nullam cras pellentesque amet. Vulputate sagittis cras fusce fermentum. Mauris lorem sapien scelerisque nunc quis suspendisse. Senectus venenatis neque tellus duis erat amet id praesent. Consequat integer consectetur urna cras egestas elit mi neque pellentesque.
+    image: ./connect_img2.svg
+  - title: Unified and secure
+    description: Lorem ipsum dolor sit amet consectetur. Pellentesque cursus habitant vel nullam cras pellentesque amet. Vulputate sagittis cras fusce fermentum. Mauris lorem sapien scelerisque nunc quis suspendisse. Senectus venenatis neque tellus duis erat amet id praesent. Consequat integer consectetur urna cras egestas elit mi neque pellentesque.
+    image: ./connect_img3.svg
+editingCard:
+  - image: ./service_card.png
+    title: Lorem ipsum dolor sit amet consectetur. Odio malesuada eu fames dictum.
+    buttonLink: www.google.com
+    points:
+      - Lorem ipsum dolor sit amet consectetur. Odio malesuada eu fames dictum. Lorem ipsum dolor sit amet consectetur. Odio malesuada eu fames dictum.
+      - Lorem ipsum dolor sit amet consectetur. Odio malesuada eu fames dictum. Lorem ipsum dolor sit amet consectetur. Odio malesuada eu fames dictum.
+      - Lorem ipsum dolor sit amet consectetur. Odio malesuada eu fames dictum. Lorem ipsum dolor sit amet consectetur. Odio malesuada eu fames dictum.
+    editingCardLinks:
+      - title: Lorem ipsum dolor sit amet consectetur. Odio malesuada eu fames dictum.
+        description: Lorem ipsum dolor sit amet consectetur. Odio malesuada eu fames dictum.
+        links:
+          - title: Lorem ipsum dolor sit consectetur
+            titleLinkDescription: Lorem ipsum dolor sit amet consectetur. Sit a mattis
+            titleLink: www.google.com
+editorSecTitle: Manuscript Editors & Native English Editors
+editorSecCards:
+  - image: ./userAvatar.png
+    name: Victor Rice
+    designation: Customer Engagement Manager CADD Centre
+    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc pretium scelerisque neque amet consectetur adipiscing elit. Nunc pretium scelerisque neque amet
+  - image: ./userAvatar.png
+    name: Victor Rice
+    designation: Customer Engagement Manager CADD Centre
+    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc pretium scelerisque neque amet consectetur adipiscing elit. Nunc pretium scelerisque neque amet
+  - image: ./userAvatar.png
+    name: Victor Rice
+    designation: Customer Engagement Manager CADD Centre
+    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc pretium scelerisque neque amet consectetur adipiscing elit. Nunc pretium scelerisque neque amet
 features:
   - id: 1
     title: English language editing
