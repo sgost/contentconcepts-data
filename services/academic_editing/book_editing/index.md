@@ -6,6 +6,7 @@ highlight: For Authors & Publishers
 message: Not happy with edit? <span>100% refund without any condition</span>
 connectToolsTitle: Connect your tools, connect your teams
 connectToolsDec: Slack channels are the place for work, Bring your tools to your team, save time and avoid context-switching.
+connectToolsToggle: show
 connectTools:
   - title: Unified and secure
     description: Lorem ipsum dolor sit amet consectetur. Pellentesque cursus habitant vel nullam cras pellentesque amet. Vulputate sagittis cras fusce fermentum. Mauris lorem sapien scelerisque nunc quis suspendisse. Senectus venenatis neque tellus duis erat amet id praesent. Consequat integer consectetur urna cras egestas elit mi neque pellentesque.
@@ -17,6 +18,8 @@ connectTools:
     description: Lorem ipsum dolor sit amet consectetur. Pellentesque cursus habitant vel nullam cras pellentesque amet. Vulputate sagittis cras fusce fermentum. Mauris lorem sapien scelerisque nunc quis suspendisse. Senectus venenatis neque tellus duis erat amet id praesent. Consequat integer consectetur urna cras egestas elit mi neque pellentesque.
     image: ./connect_img3.svg
 quoteTitle: Professional English Editing for any Research Paper
+quoteLink: https//www.google.com
+quoteToggle: show
 editingCard:
   - image: ./service_card.png
     title: Lorem ipsum dolor sit amet consectetur. Odio malesuada eu fames dictum.
