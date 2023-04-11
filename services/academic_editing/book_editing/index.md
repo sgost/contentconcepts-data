@@ -24,7 +24,7 @@ editingCard:
   - image: ./service_card.png
     title: Lorem ipsum dolor sit amet consectetur. Odio malesuada eu fames dictum.
     buttonLink: www.google.com
-    backGround: "#1C55BE"
+    backgroundColor: "#1C55BE"
     points:
       - Lorem ipsum dolor sit amet consectetur. Odio malesuada eu fames dictum. Lorem ipsum dolor sit amet consectetur. Odio malesuada eu fames dictum.
       - Lorem ipsum dolor sit amet consectetur. Odio malesuada eu fames dictum. Lorem ipsum dolor sit amet consectetur. Odio malesuada eu fames dictum.
