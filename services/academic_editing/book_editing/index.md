@@ -70,6 +70,7 @@ priceCard:
   tagContent: Clear, Concise, Engaging style
   content: Suggestions for artwork & infographics
 editingLevels:
+  toggle: show
   title: Book Editing levels
   subHeading: Because each author is unique
   levelTypes:
@@ -131,6 +132,7 @@ editingLevels:
       substantive: no
       developmental: yes
 editingSample:
+  toggle: show
   title: Book Editing Sample
   samples:
     - id: 1
@@ -150,6 +152,7 @@ editingSample:
         substantive editing features
       image: ./substantive_editing.png
 editingHighlights:
+  toggle: show
   title: Why people use our Book Editing service?
   highlights:
     - id: 1
