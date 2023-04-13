@@ -27,8 +27,11 @@ editingCard:
     backgroundColor: "#1C55BE"
     bulletpoints:
       - title: Lorem ipsum dolor sit amet consectetur. Odio malesuada eu fames dictum. Lorem ipsum dolor sit amet consectetur. Odio malesuada eu fames dictum
+        link: www.google.com
       - title: Lorem ipsum dolor sit amet consectetur. Odio malesuada eu fames dictum. Lorem ipsum dolor sit amet consectetur. Odio malesuada eu fames dictum
+        link: www.google.com
       - title: Lorem ipsum dolor sit amet consectetur. Odio malesuada eu fames dictum. Lorem ipsum dolor sit amet consectetur. Odio malesuada eu fames dictum
+        link: www.google.com
     editingCardLinks:
       - title: Lorem ipsum dolor sit amet consectetur. Odio malesuada eu fames dictum.
         description: Lorem ipsum dolor sit amet consectetur. Odio malesuada eu fames dictum.

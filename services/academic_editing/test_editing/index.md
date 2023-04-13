@@ -21,8 +21,11 @@ editingCard:
     backgroundColor: pink
     bulletpoints:
       - title: Lorem ipsum dolor sit amet consectetur. Odio malesuada eu fames dictum. Lorem ipsum dolor sit amet consectetur. Odio malesuada eu fames dictum
+        link: www.google.com
       - title: Lorem ipsum dolor sit amet consectetur. Odio malesuada eu fames dictum. Lorem ipsum dolor sit amet consectetur. Odio malesuada eu fames dictum
+        link: www.google.com
       - title: Lorem ipsum dolor sit amet consectetur. Odio malesuada eu fames dictum. Lorem ipsum dolor sit amet consectetur. Odio malesuada eu fames dictum
+        link: www.google.com
     buttonLink: Test Title
     editingCardLinks:
       - title: Test Title
