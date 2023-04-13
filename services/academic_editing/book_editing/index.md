@@ -26,9 +26,9 @@ editingCard:
     buttonLink: www.google.com
     backgroundColor: "#1C55BE"
     points:
-      - Lorem ipsum dolor sit amet consectetur. Odio malesuada eu fames dictum. Lorem ipsum dolor sit amet consectetur. Odio malesuada eu fames dictum.
-      - Lorem ipsum dolor sit amet consectetur. Odio malesuada eu fames dictum. Lorem ipsum dolor sit amet consectetur. Odio malesuada eu fames dictum.
-      - Lorem ipsum dolor sit amet consectetur. Odio malesuada eu fames dictum. Lorem ipsum dolor sit amet consectetur. Odio malesuada eu fames dictum.
+      - bulletpoints: Lorem ipsum dolor sit amet consectetur. Odio malesuada eu fames dictum. Lorem ipsum dolor sit amet consectetur. Odio malesuada eu fames dictum
+      - bulletpoints: Lorem ipsum dolor sit amet consectetur. Odio malesuada eu fames dictum. Lorem ipsum dolor sit amet consectetur. Odio malesuada eu fames dictum
+      - bulletpoints: Lorem ipsum dolor sit amet consectetur. Odio malesuada eu fames dictum. Lorem ipsum dolor sit amet consectetur. Odio malesuada eu fames dictum
     editingCardLinks:
       - title: Lorem ipsum dolor sit amet consectetur. Odio malesuada eu fames dictum.
         description: Lorem ipsum dolor sit amet consectetur. Odio malesuada eu fames dictum.
