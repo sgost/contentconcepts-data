@@ -19,8 +19,10 @@ editingCard:
   - title: Test Title
     image: preview.jpg
     backgroundColor: pink
-    points:
-      - Test Title
+    bulletpoints:
+      - title: Lorem ipsum dolor sit amet consectetur. Odio malesuada eu fames dictum. Lorem ipsum dolor sit amet consectetur. Odio malesuada eu fames dictum
+      - title: Lorem ipsum dolor sit amet consectetur. Odio malesuada eu fames dictum. Lorem ipsum dolor sit amet consectetur. Odio malesuada eu fames dictum
+      - title: Lorem ipsum dolor sit amet consectetur. Odio malesuada eu fames dictum. Lorem ipsum dolor sit amet consectetur. Odio malesuada eu fames dictum
     buttonLink: Test Title
     editingCardLinks:
       - title: Test Title
@@ -101,4 +103,5 @@ seo:
   keywords:
     - Test Title
 ---
+
 Test Title
