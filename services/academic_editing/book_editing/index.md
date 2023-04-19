@@ -17,9 +17,18 @@ connectTools:
   - title: Unified and secure
     description: Lorem ipsum dolor sit amet consectetur. Pellentesque cursus habitant vel nullam cras pellentesque amet. Vulputate sagittis cras fusce fermentum. Mauris lorem sapien scelerisque nunc quis suspendisse. Senectus venenatis neque tellus duis erat amet id praesent. Consequat integer consectetur urna cras egestas elit mi neque pellentesque.
     image: ./connect_img3.svg
-quoteTitle: Professional English Editing for any Research Paper
-quoteLink: https//www.google.com
-quoteToggle: show
+flashBannerTop:
+  quoteTitle: Professional English Editing for any Research Paper
+  quoteLink: https//www.google.com
+  quoteToggle: show
+flashBannerCenter:
+  quoteTitle: Professional English Editing for any Research Paper
+  quoteLink: https//www.google.com
+  quoteToggle: show
+flashBannerBottom:
+  quoteTitle: Professional English Editing for any Research Paper
+  quoteLink: https//www.google.com
+  quoteToggle: show
 editingCard:
   - image: ./service_card.png
     title: Lorem ipsum dolor sit amet consectetur. Odio malesuada eu fames dictum.
