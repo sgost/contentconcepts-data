@@ -35,7 +35,7 @@ editingCard:
     buttonLink: www.google.com
     backgroundColor: "#1C55BE"
     bulletpoints:
-      - title: Lorem ipsum dolor sit amet consectetur. Odio malesuada eu fames dictum. Lorem ipsum dolor sit amet consectetur. Odio malesuada eu fames dictum
+      - title: Lorem ipsum dolor sit amet <a href="https://app.netlify.com/sites/test-contentconcepts/overview" target="_blank">consectetur</a>. Odio malesuada eu fames dictum. Lorem ipsum dolor sit amet consectetur. Odio malesuada eu fames dictum
         link: www.google.com
       - title: Lorem ipsum dolor sit amet consectetur. Odio malesuada eu fames dictum. Lorem ipsum dolor sit amet consectetur. Odio malesuada eu fames dictum
         link: www.google.com
