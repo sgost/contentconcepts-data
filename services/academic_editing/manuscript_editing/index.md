@@ -31,18 +31,28 @@ connectToolsDec: Our experienced editors will meticulously review your work to
 connectToolsToggle: show
 connectTools:
   - title: Two-editor process
-    description: Container Tools description
+    description: Our manuscript editing service employs a two-editor system to
+      ensure that your document is reviewed thoroughly from different
+      perspectives, resulting in a polished final product.
     image: confidential.svg
   - title: Editing Certificate
-    description: Free editing certificate
+    description: We provide a free editing certificate with each order, guaranteeing
+      that your document has been edited to the highest professional standards.
     image: editing_certificate.svg
   - title: Personal Care
-    description: We are small and can afford to take care of your manuscript with
-      personal attention to every work we do
+    description: At our manuscript editing service, we treat each document with the
+      utmost care and attention, tailoring our editing to meet your specific
+      needs and preferences. With us, you can trust that your manuscript will
+      receive the personalized care it deserves.
     image: affordable.svg
 quoteTitle: Top rated, yet affordable manuscript editing services
 quoteLink: https://contentconcepts.com/services/academic_editing/manuscript_editing/
 quoteToggle: show
+editingCard:
+  - title: Editing Links card Title
+    backgroundColor: blue
+    buttonLink: www.google.com
+    image: editing-proofreading-graphic.png
 serviceProcess:
   title: How Manuscript Editing works?
   steps:
@@ -239,8 +249,6 @@ seo:
 ---
 Whether you're writing your research paper or marketing document or your next best-selling novel, a [manuscript editor](https://contentconcepts.com/about/) is your secret weapon to success. We'll dive into the world of editing - from [proofreading](https://contentconcepts.com/services/academic_editing/proofreading_service) to line editing, and everything in between. And let's not forget the burning question: [how much will manuscript editing cost?](https://contentconcepts.com/blog/how-much-does-manuscript-editing-cost-per-page-per-word/) Don't worry, we've got you covered - without breaking the bank. So sit back, relax, and let's edit this masterpiece together!
 
-![manuscript editing example]( "Words to avoid in research writing")
-
 Manuscript editing is like conducting a science experiment on your writing. We'll mix in the perfect balance of clarity, conciseness, and academic jargon to create a winning formula. With our trusted and affordable manuscript editing service, we'll help you reach your research goals faster. We'll tackle those grammar and punctuation errors, fine-tune the language and style, and make sure your work is top-notch. With our affordable and trusted manuscript editing service, your research paper will shine brighter than a diamond.
 
 ### What in the world does a manuscript editor actually do?
@@ -248,8 +256,6 @@ Manuscript editing is like conducting a science experiment on your writing. We'l
 First things first, we start manuscript editing by diving deep into the nitty-gritty of your written work, analyzing every word and sentence with a fine-tooth comb. We're like the grammar police, on the lookout for pesky spelling mistakes, grammar errors, and syntax slip-ups.
 
 Next, we'll work our magic to polish up the language, smoothing out any awkward phrasing or clunky sentences. We'll sprinkle in some extra pizzazz to make your work sing, enhancing the overall readability and flow.
-
-![Best manuscript editing service]( "How to select manuscript editing service")
 
 But we don't stop there, oh no. We also take a big-picture approach, ensuring that your work is clear, concise, and consistent throughout. We'll make sure your ideas are presented in a logical and organized way, making it easier for your readers to follow along.
 
