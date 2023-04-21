@@ -3,7 +3,7 @@ title: Book Editing
 navTitle: Book Editing
 navIndex: 7
 highlight: For Authors & Publishers
-buttonContainer:
+btnTxt:
   quote: Get Quote
   sample: Check Sample
   editing: Editing Process
