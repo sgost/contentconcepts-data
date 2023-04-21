@@ -3,6 +3,10 @@ title: Book Editing
 navTitle: Book Editing
 navIndex: 7
 highlight: For Authors & Publishers
+buttonContainer:
+  quote: Get Quote
+  sample: Check Sample
+  editing: Editing Process
 message: Not happy with edit? <span>100% refund without any condition</span>
 connectToolsTitle: Connect your tools, connect your teams
 connectToolsDec: Slack channels are the place for work, Bring your tools to your team, save time and avoid context-switching.
