@@ -46,10 +46,11 @@ editingCard:
     backgroundColor: purple
     buttonLink: https://contentconcepts.com/blog
     editingCardLinks:
-      - title: asdsdasdsd
-        description: Links Container Decription
-      - title: Links Container Title
-        description: Links Container Decription
+      - title: Medical Manuscript Proofreading
+        description: Experience precision in medical editing with our expert PhD
+          editors. Our team ensures the highest quality medical editing service
+          for all your writing needs. Imagine holding a flawlessly polished
+          medical manuscript, conveying your message with clarity and precision
     image: service_card.png
     bulletpoints:
       - title: Simple tips for manuscript writing
@@ -86,6 +87,7 @@ serviceProcess:
 flashBannerCenter:
   quoteLink: https://contentconcepts.com/pricing/
   quoteTitle: Polish your manuscript to perfection!
+  quoteToggle: show
 editingHighlights:
   title: Medical Manuscript Editing Services - Why choose us?
   highlights:
