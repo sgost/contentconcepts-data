@@ -1,6 +1,6 @@
 ---
 title: Medical Editing Service
-highlight: Best service for the best prices online
+highlight: PhD and MD Editors, Native English
 btnTxt:
   sample: Medical Editing Sample
 features:
