@@ -1,6 +1,8 @@
 ---
 title: Medical Editing Service
 highlight: Best service for the best prices online
+btnTxt:
+  sample: Medical Editing Sample
 features:
   - id: 1
     title: Reduce the clutter and get to the point
@@ -16,13 +18,47 @@ message: Not happy with edit? <span>100% refund without any condition</span>
 cardImage: medical_editing_service.jpeg
 navTitle: Medical Editing
 navIndex: 5
-connectToolsTitle: "Q: How does the medical editing process work?"
-connectToolsDec: asdasdsa
+connectToolsTitle: Your research, our precision
+connectToolsDec: Our medical editors ensure your medical manuscript convey your
+  message with utmost clarity and precision
 connectToolsToggle: show
+connectTools:
+  - title: Double Check
+    description: We use a two-editor system to thoroughly review your thesis from
+      multiple perspectives, resulting in a polished  manuscript.
+    image: transaction.svg
+  - title: Editing Certificate
+    description: We provide a free editing certificate with our medical editing
+      service, ensuring that your document has been edited to the highest
+      professional standards
+    image: editing_certificate.svg
+  - title: Personal Attention
+    description: We provide personalized manuscript editing services tailored to
+      your specific needs and preferences. Trust us to give your manuscript the
+      care it deserves
+    image: affordable.svg
 flashBannerTop:
   quoteTitle: Sharpen your writing with our precision editing service
   quoteLink: https://contentconcepts.com/pricing/
   quoteToggle: show
+editingCard:
+  - title: Tips for Writing Better Medical Manuscript
+    backgroundColor: purple
+    buttonLink: https://contentconcepts.com/blog
+    editingCardLinks:
+      - title: Medical Manuscript Proofreading
+        description: Experience precision in medical editing with our expert PhD
+          editors. Our team ensures the highest quality medical editing service
+          for all your writing needs. Imagine holding a flawlessly polished
+          medical manuscript, conveying your message with clarity and precision
+    image: service_card.png
+    bulletpoints:
+      - title: Simple tips for manuscript writing
+        link: https://contentconcepts.com/blog/simple-and-practical-writing-tips-for-research-paper-manuscript-authors/
+      - title: What does journal editor look for in a manuscript?
+        link: https://contentconcepts.com/blog/what-does-the-editor-of-a-scientific-journal-expect-from-a-manuscript/
+      - title: Making your manuscript writing easier
+        link: https://contentconcepts.com/blog/what-makes-manuscript-writing-hard-and-how-to-make-it-easier/
 serviceProcess:
   title: Medical Manuscript Editing Process
   steps:
@@ -51,6 +87,7 @@ serviceProcess:
 flashBannerCenter:
   quoteLink: https://contentconcepts.com/pricing/
   quoteTitle: Polish your manuscript to perfection!
+  quoteToggle: show
 editingHighlights:
   title: Medical Manuscript Editing Services - Why choose us?
   highlights:
@@ -74,7 +111,32 @@ editingHighlights:
       image: editing_certificate.svg
   toggle: show
 editorSecTitle: Our Medical Editors
-nativeEditorSecToggle: Our Medical Editors
+nativeEditorSecToggle: show
+editorSecCards:
+  - name: Dr Carole J
+    designation: Medical Editor
+    description: Carole is a meticulous medical editor with standout professional
+      and research experience in the United States, and Europe. She has
+      conducted research at prestigious academic institutions in North America,
+      including Harvard Medical School, Columbia University and the University
+      of North Carolina.
+    image: carole_medical_editor.jpeg
+  - name: Dr Monika M
+    designation: Medical & ESL Editor
+    description: "Phd in Pharmacology and has over 20 years of experience as a
+      scientist at a leading pharmaceuticals lab in India, where she gained
+      extensive writing and editing experience. She specializes in ESL writing
+      and editing and has helped researchers communicate effectively by teaching
+      them ESL writing techniques. "
+    image: monika_medical_manuscript_editor.jpeg
+  - name: Dr Ashraf
+    designation: Medical & Statistics Editor
+    description: "Dr Ashraf has a doctoral degree in Biostatistics and 16 years of
+      academic experience. He has 45+ research publications to his credit and is
+      a certified editor by Board of Lifesciences. Ashraf has edited thousands
+      of pages of research papers and thesis with meticulous attention to
+      detail. "
+    image: ashraf_bio_editor.jpeg
 flashBannerBottom:
   quoteTitle: Polish your manuscript to perfection!
   quoteLink: https://contentconcepts.com/pricing/
@@ -97,9 +159,10 @@ editingSample:
       description: Line by line editing for language, readibility nad technical
         learning improvement
       image: ./substantive_editing.png
+  toggle: show
 editingLevels:
   title: Medical Editing Services
-  subHeading: Proofreading or Editing - Choose the right service
+  subHeading: Medical Editing Levels
   levelTypes:
     - id: 1
       title: Copy Editing
@@ -158,6 +221,7 @@ editingLevels:
       copy: no
       substantive: no
       developmental: yes
+  toggle: show
 faq:
   title: Frequently Asked Questions
   questions:
@@ -181,7 +245,7 @@ priceCard:
   tagContent: ASK FOR FREE SAMPLE EDIT
   content: No rush fee, Sunday available
 seo:
-  title: Medical manuscript editing and proofreading services
+  title: Medical editing services, medical proofreading services
   description: PhD and MD editors edit and proofread your medical manuscripts at
     the best online editing prices. Charges start from USD 0.018 per word
   keywords:
@@ -199,22 +263,22 @@ Our team of [medical editors](https://contentconcepts.com/about/) has doctors an
 
 But that's not all – when you choose our Medical Editing Service, you'll enjoy a range of benefits that set us apart from the competition. Here are just a few:
 
-* **Certificate** - Our free editing certificate for journals ensures that research papers meet high standards of quality, increasing the likelihood of acceptance by journals.
+* **Certificate** - Our [free editing certificate](https://contentconcepts.com/blog/free-english-editing-certificate) for journals ensures that research papers meet high standards of quality, increasing the likelihood of acceptance by journals.
 * **Expertise**: Our medical editors are doctors and PhDs who have many years of experience in the medical research field, and are up-to-date on the latest industry trends and standards. We know what it takes to get your manuscript accepted by top journals and publishers.
-* **Quality**: We pride ourselves on delivering high-quality editing and proofreading services that meet the highest standards of excellence. We'll work with you to ensure that your manuscript is the best it can be.
+* **Quality**: We pride ourselves on delivering high-quality editing and [proofreading services ](https://contentconcepts.com/services/academic_editing/proofreading_service/)that meet the highest standards of excellence. We'll work with you to ensure that your manuscript is the best it can be.
 * **Timeliness**: We understand the importance of meeting deadlines. That's why we offer fast turnaround times without compromising on quality.
-* **Cost-effective**: We offer competitive pricing for our medical editing service, and we're confident that you'll find our rates to be fair and reasonable.
+* **Cost-effective**: We offer competitive [pricing for our medical editing service](https://contentconcepts.com/pricing/#pricing), and we're confident that you'll find our rates to be fair and reasonable.
 * **Confidentiality:** We take your privacy seriously, and we'll never share your work or personal information with anyone without your express permission.
 
 ## Medical Editing Services
 
-### Q: What is medical editing, and why is it necessary? 
+### Q: What is medical editing, and why is it necessary?
 
 A: Medical editing is the process of reviewing and revising a manuscript written for medical research or publication. Medical editing is necessary to ensure that the manuscript is well-written, grammatically correct, and free from errors. A well-edited manuscript has a higher chance of being accepted for publication and can communicate the author's research findings more effectively.
 
-### Q: How does the medical editing process work?
+### Q: What is the process of medical editing?
 
- A: The medical editing process typically involves a professional editor reviewing the manuscript for errors, inconsistencies, and clarity. The editor will provide feedback on how to improve the manuscript's structure, organization, and writing style. The author can then revise the manuscript based on the editor's suggestions, and the editor will review the revised manuscript to ensure that it meets the necessary standards.
+ A: The medical editing process typically involves a professional editor reviewing the manuscript for errors, inconsistencies, and clarity. The editor will provide feedback on how to improve the manuscript's structure, organization, and writing style. The author can then revise the manuscript based on the editor's suggestions, and the editor will review the revised manuscript to ensure that it meets the necessary standards. Know more details about the [medical manuscript editing process](https://contentconcepts.com/blog/manuscript-editing-101/)
 
 ### Q: Who can benefit from medical editing services?
 
@@ -230,7 +294,7 @@ A: Medical editing is the process of reviewing and revising a manuscript written
 
 ### Q: How much does medical editing cost?
 
- A: The cost of medical editing varies depending on the length of the manuscript, the level of editing required, and the deadline. Most medical editing services provide a quote based on these factors, with rates ranging from a few hundred dollars to several thousand dollars.
+ A: The cost of medical editing varies depending on the length of the manuscript, the level of editing required, and the deadline. Most medical editing services provide a quote based on these factors, with rates ranging from a few hundred dollars to several thousand dollars. We can assure you our [medical editing price](https://contentconcepts.com/pricing/#pricing) is one of the best. Check the cost of medical editing [here](https://contentconcepts.com/pricing/#pricing). 
 
 ### Q: Will my manuscript be kept confidential?
 
@@ -238,7 +302,7 @@ A: Medical editing is the process of reviewing and revising a manuscript written
 
 ### Q: How do I submit my manuscript for editing?
 
- A: Most medical editing services have an online submission portal where you can upload your manuscript and provide any necessary information. Some services may require you to send your manuscript via email or other means. Check with the service you're interested in using for their specific submission guidelines.
+ A: To submit your manuscript for editing, click on the [Get Quote](https://contentconcepts.com/pricing/) button on the top of this website. Enter the wordcount of your manuscript, select the [level of manuscript editing](https://contentconcepts.com/blog/manuscript-editing-services-for-research-papers-proofreading-copy-editing-substantive-editing-which-editing-level-should-i-select/) you need, see the editing price, then proceed to submit your manuscript. .
 
 ### Q: Medical editing vs medical proofreading - what should I choose?
 
