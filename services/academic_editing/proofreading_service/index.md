@@ -1,9 +1,6 @@
 ---
 title: Proofreading Service
-navTitle: Proofreading Service
-navIndex: 8
 highlight: Native English, Best price, no rush fee
-message: Not happy with proofreading? <span>100% refund without any condition</span>
 features:
   - id: 1
     title: Manuscript Editing
@@ -23,14 +20,118 @@ features:
   - title: Manuscript Rewriting
     id: 6
     link: https://contentconcepts.in/services/publication_support/manuscript_rewriting
-priceCard:
-  pricing:
-    title: Starts from
-    price:
-      inr: <span>$0.020</span>/word
-      usd: <span>₹1.30</span>/word
-  tagContent: ASK FOR FREE PROOFREADING SAMPLE
-  content: Get English editing certificate after the job.
+message: Not happy with proofreading? <span>100% refund without any condition</span>
+cardImage: proofreading_services.png
+navTitle: Proofreading Service
+navIndex: 8
+connectToolsTitle: Reasons to go with our proofreading service
+connectToolsDec: Affordable, trusted and the best proofreading service you can get online
+connectToolsToggle: show
+connectTools:
+  - title: Native English Editors
+    description: Does your journal insist on native English editor? We have got you
+      covered. Our editors work on British English and US English
+    image: support.svg
+  - title: Editing Certificate
+    description: We provide a free editing certificate with each order, guaranteeing
+      that your document has been proofread to the highest professional
+      standards.
+    image: editing_certificate.svg
+flashBannerTop:
+  quoteTitle: Proofread and polish your document to perfection!
+  quoteToggle: show
+  quoteLink: https://contentconcepts.com/pricing/
+editingCard:
+  - title: Tips for Better Writing
+    backgroundColor: blue
+    buttonLink: https://contentconcepts.com/blog/simple-and-practical-writing-tips-for-research-paper-manuscript-authors/
+    image: proofreading_services.png
+    bulletpoints:
+      - title: Simple and practical writing tips for research paper manuscript authors
+        link: https://contentconcepts.com/blog/simple-and-practical-writing-tips-for-research-paper-manuscript-authors/
+    editingCardLinks:
+      - title: Sub link
+        description: Sublin
+serviceProcess:
+  title: How Proofreading service works?
+  steps:
+    - id: 1
+      order: "01"
+      title: Submit Manuscript
+      description: Customer submits manuscript via our Request for quote page.
+      themeColor: "#98ECA6"
+    - id: 2
+      order: "02"
+      title: Receive Quote
+      description: After receiving the manuscript, ContentConcepts sends price quote.
+      themeColor: "#F5DA7D"
+    - id: 3
+      order: "03"
+      title: Confirm Order
+      description: After payment is made by the customer, ContentConcepts sends
+        confirmation of payment.
+      themeColor: "#98E5E0"
+    - id: 4
+      order: "04"
+      title: Proofread & Return
+      description: CC assigns the right proofreader who edits and sends the edited
+        document back to the customer.
+      themeColor: "#FFABAB"
+flashBannerCenter:
+  quoteTitle: Get the most affordable proofreading service
+  quoteLink: https://contentconcepts.com/pricing/
+  quoteToggle: show
+editingHighlights:
+  title: Highlights of our Proofreading service
+  highlights:
+    - id: 1
+      title: Best Price
+      description: Our proofreading charges are the best in India for the same
+        international quality
+      image: ./affordable.svg
+    - id: 2
+      title: Free Proofreading
+      description: Ask for free proofreading sample for your thesis, book manuscript
+      image: transaction.svg
+    - id: 3
+      title: Confidentiality
+      description: We ensure your manuscript is handled with utmost care. We can sign
+        NDA if necessary.
+      image: ./confidential.svg
+    - id: 4
+      title: Editing Certificate
+      description: Get free English editing certificate with your job when completed
+      image: ./transaction.svg
+editorSecTitle: Our Proofreaders
+nativeEditorSecToggle: show
+editorSecCards:
+  - name: Editor Name
+    designation: Editor Designation
+    description: Editor Description
+    image: userAvatar.png
+flashBannerBottom:
+  quoteTitle: Polish your document to perfection
+  quoteLink: https://contentconcepts.com/pricing/
+  quoteToggle: show
+editingSample:
+  title: Proofreading Sample
+  samples:
+    - id: 1
+      title: Proofreading
+      description: Line by line editing for language, readability and technical
+        learning improvement
+      image: screenshot-2021-11-27-at-11.14.54-am.png
+    - id: 2
+      title: Substantive Editing
+      description: Line by line editing for language, readibility nad technical
+        learning improvement
+      image: ./substantive_editing.png
+    - id: 3
+      title: Developmental Editing
+      description: Line by line editing for language, readibility nad technical
+        learning improvement
+      image: ./substantive_editing.png
+  toggle: show
 editingLevels:
   title: Different levels of editing
   subHeading: Because each manuscript is unique
@@ -92,79 +193,12 @@ editingLevels:
       copy: no
       substantive: no
       developmental: yes
-editingSample:
-  title: Proofreading Sample
-  samples:
-    - id: 1
-      title: Proofreading
-      description: Line by line editing for language, readability and technical
-        learning improvement
-      image: screenshot-2021-11-27-at-11.14.54-am.png
-    - id: 2
-      title: Substantive Editing
-      description: Line by line editing for language, readibility nad technical
-        learning improvement
-      image: ./substantive_editing.png
-    - id: 3
-      title: Developmental Editing
-      description: Line by line editing for language, readibility nad technical
-        learning improvement
-      image: ./substantive_editing.png
-editingHighlights:
-  title: Highlights of our Proofreading service
-  highlights:
-    - id: 1
-      title: Best Price
-      description: Our proofreading charges are the best in India for the same
-        international quality
-      image: ./affordable.svg
-    - id: 2
-      title: Free Proofreading
-      description: Ask for free proofreading sample for your thesis, book manuscript
-      image: transaction.svg
-    - id: 3
-      title: Confidentiality
-      description:
-        We ensure your manuscript is handled with utmost care. We can sign
-        NDA if necessary.
-      image: ./confidential.svg
-    - id: 4
-      title: Editing Certificate
-      description: Get free English editing certificate with your job when completed
-      image: ./transaction.svg
-serviceProcess:
-  title: How Proofreading service works?
-  steps:
-    - id: 1
-      order: "01"
-      title: Submit Manuscript
-      description: Customer submits manuscript via our Request for quote page.
-      themeColor: "#98ECA6"
-    - id: 2
-      order: "02"
-      title: Receive Quote
-      description: After receiving the manuscript, ContentConcepts sends price quote.
-      themeColor: "#F5DA7D"
-    - id: 3
-      order: "03"
-      title: Confirm Order
-      description: After payment is made by the customer, ContentConcepts sends
-        confirmation of payment.
-      themeColor: "#98E5E0"
-    - id: 4
-      order: "04"
-      title: Proofread & Return
-      description:
-        CC assigns the right proofreader who edits and sends the edited
-        document back to the customer.
-      themeColor: "#FFABAB"
 faq:
   title: Frequently Asked Questions
   questions:
     - id: 1
       question: What is the difference between editing and proofeading?
-      answer:
-        Choose editing service when your document needs substantive correction
+      answer: Choose editing service when your document needs substantive correction
         for grammar, correct words, sentence structure and paragraph
         structure.  Choose proofreading only only if you are sure your
         manuscript has the proper structure and clarity and you want basic
@@ -176,9 +210,16 @@ faq:
         payment. Our editors and proofreaders have signed NDA. "
 key: resume_editing
 parentType: academic
+priceCard:
+  pricing:
+    title: Starts from
+    price:
+      inr: <span>$0.020</span>/word
+      usd: <span>₹1.30</span>/word
+  tagContent: ASK FOR FREE PROOFREADING SAMPLE
+  content: Get English editing certificate after the job.
 seo:
-  title:
-    Proofreading services India, US and UK. Best proofreading service price,
+  title: Proofreading services India, US and UK. Best proofreading service price,
     starts $0.018
   description: Manuscript proof reading service by PhD and native English
     proofreaders. Proof reading charges start at INR 1.3 (USD 0.020) per word
