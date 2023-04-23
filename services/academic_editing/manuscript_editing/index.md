@@ -45,9 +45,10 @@ connectTools:
       needs and preferences. With us, you can trust that your manuscript will
       receive the personalized care it deserves.
     image: affordable.svg
-quoteTitle: Top rated, yet affordable manuscript editing services
-quoteLink: https://contentconcepts.com/services/academic_editing/manuscript_editing/
-quoteToggle: show
+flashBannerTop:
+  quoteTitle: Turn your manuscript from mediocre to masterpiece
+  quoteLink: https://contentconcepts.com/pricing/
+  quoteToggle: show
 editingCard:
   - title: Editing Links card Title
     backgroundColor: blue
@@ -77,6 +78,10 @@ serviceProcess:
       description: CC assigns the right editor who edits and sends the edited document
         back to the customer.
       themeColor: "#FFABAB"
+flashBannerCenter:
+  quoteLink: https://contentconcepts.com/pricing/
+  quoteTitle: Polish your paper to perfection
+  quoteToggle: show
 editingHighlights:
   title: Manuscript Editing services - Why trust us?
   highlights:
@@ -101,6 +106,10 @@ editingHighlights:
       image: editing_certificate.svg
 editorSecTitle: Manuscript Editors & Native English Editors
 nativeEditorSecToggle: show
+flashBannerBottom:
+  quoteLink: https://contentconcepts.com/pricing/
+  quoteTitle: From 'meh' to 'marvelous manuscript
+  quoteToggle: show
 editingSample:
   title: Manuscript Editing Sample
   samples:
@@ -163,6 +172,10 @@ editingLevels:
       copy: no
       substantive: no
       developmental: yes
+key: manuscript_editing
+parentType: academic
+quoteToggle: show
+quoteLink: https://contentconcepts.com/services/academic_editing/manuscript_editing/
 faq:
   title: Manuscript Editing Services - Top 10 Questions
   questions:
@@ -219,8 +232,6 @@ faq:
       question: Do you offer refund if I am not satisfied with your work?
       answer: Yes, we provide 100% refund if you have valid reasons and if the
         document is edited badly.
-key: manuscript_editing
-parentType: academic
 priceCard:
   pricing:
     title: Starts from
@@ -229,6 +240,7 @@ priceCard:
       usd: <span>₹1.60</span>/word
   tagContent: Ask for FREE SAMPLE EDIT
   content: Free Editing Certificate
+quoteTitle: Top rated, yet affordable manuscript editing services
 seo:
   title: Manuscript editing service, Research paper editing service
   description: International quality manuscript editing services at affordable
@@ -247,9 +259,15 @@ seo:
     - english language editing service india
     - manuscript editing services, cheap english editing services
 ---
+Are you tired of feeling like you're in a constant battle with journal reviewers to accept your manuscript? Do you wish there was a magical editing fairy who could swoop in and turn your writing into a masterpiece? Well, guess what? We may not have wings or wands, but we do have something even better: our professional manuscript editing service.
+
+Don't let your research paper languish in mediocrity any longer. Let us help you turn it into a work of art that even Da Vinci would envy (okay, maybe that's a stretch, but you get the idea). Try our manuscript editing service today and unleash your inner writing genius!
+
+
+
 Whether you're writing your research paper or marketing document or your next best-selling novel, a [manuscript editor](https://contentconcepts.com/about/) is your secret weapon to success. We'll dive into the world of editing - from [proofreading](https://contentconcepts.com/services/academic_editing/proofreading_service) to line editing, and everything in between. And let's not forget the burning question: [how much will manuscript editing cost?](https://contentconcepts.com/blog/how-much-does-manuscript-editing-cost-per-page-per-word/) Don't worry, we've got you covered - without breaking the bank. So sit back, relax, and let's edit this masterpiece together!
 
-Manuscript editing is like conducting a science experiment on your writing. We'll mix in the perfect balance of clarity, conciseness, and academic jargon to create a winning formula. With our trusted and affordable manuscript editing service, we'll help you reach your research goals faster. We'll tackle those grammar and punctuation errors, fine-tune the language and style, and make sure your work is top-notch. With our affordable and trusted manuscript editing service, your research paper will shine brighter than a diamond.
+<span style="color: green;">Manuscript editing is like conducting a science experiment on your writing. We'll mix in the perfect balance of clarity, conciseness, and academic jargon to create a winning formula. With our affordable and trusted manuscript editing service, your research paper will shine brighter than a diamond.</span>
 
 ### What in the world does a manuscript editor actually do?
 
