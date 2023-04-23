@@ -4,7 +4,7 @@ author: ContentConcepts
 bio: English editing and proofreading services
 title: What is manuscript editing - In 2 minutes
 date: 2023-04-18T18:30:00.000Z
-previewImage: editing-proofreading-graphic.png
+previewImage: manuscript-editing.jpg
 excerpt: Manuscript editing is like conducting a science experiment on your
   writing. We'll mix in the perfect balance of clarity, conciseness, and
   academic jargon to create a winning formula. With our trusted and affordable
