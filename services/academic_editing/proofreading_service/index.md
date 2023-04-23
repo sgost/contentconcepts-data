@@ -21,7 +21,7 @@ features:
     id: 6
     link: https://contentconcepts.in/services/publication_support/manuscript_rewriting
 message: Not happy with proofreading? <span>100% refund without any condition</span>
-cardImage: proofreading_services.png
+cardImage: proofreading_services.jpeg
 navTitle: Proofreading Service
 navIndex: 8
 connectToolsTitle: Reasons to go with our proofreading service
@@ -49,6 +49,8 @@ editingCard:
     bulletpoints:
       - title: Simple and practical writing tips for research paper manuscript authors
         link: https://contentconcepts.com/blog/simple-and-practical-writing-tips-for-research-paper-manuscript-authors/
+      - title: How to write better title for manuscripts
+        link: https://contentconcepts.com/blog/how-to-write-titles-for-research-papes-and-manuscripts/
     editingCardLinks:
       - title: Sub link
         description: Sublin
@@ -219,8 +221,8 @@ priceCard:
   tagContent: ASK FOR FREE PROOFREADING SAMPLE
   content: Get English editing certificate after the job.
 seo:
-  title: Proofreading services India, US and UK. Best proofreading service price,
-    starts $0.018
+  title: Proofreading services, best price, top rated online 4.8/5, Price starts
+    $0.018 per word
   description: Manuscript proof reading service by PhD and native English
     proofreaders. Proof reading charges start at INR 1.3 (USD 0.020) per word
   keywords:
