@@ -67,6 +67,10 @@ editorSecCards:
     name: Victor Rice
     designation: Customer Engagement Manager CADD Centre
     description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc pretium scelerisque neque amet consectetur adipiscing elit. Nunc pretium scelerisque neque amet
+serviceLink:
+  - id: 1
+    title: link title
+    link: test link
 features:
   - id: 1
     title: Analyzing your manuscript as a whole
