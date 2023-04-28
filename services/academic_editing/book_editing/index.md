@@ -68,9 +68,8 @@ editorSecCards:
     designation: Customer Engagement Manager CADD Centre
     description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc pretium scelerisque neque amet consectetur adipiscing elit. Nunc pretium scelerisque neque amet
 serviceLink:
-  - id: 1
-    title: link title
-    link: test link
+  - title: Lorem ipsum dolor sit  consectetur
+    link: Lorem ipsum dolor sit amet <a href="" target=_blank>consectetur</a>. Sit a mattis
 features:
   - id: 1
     title: Analyzing your manuscript as a whole
