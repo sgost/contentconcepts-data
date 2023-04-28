@@ -58,7 +58,7 @@ editorSecCards:
   - image: ./userAvatar.png
     name: Victor Rice
     designation: Customer Engagement Manager CADD Centre
-    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc pretium scelerisque neque amet consectetur adipiscing elit. Nunc pretium scelerisque neque amet
+    description: Lorem ipsum dolor sit amet, <a href="" target="_blank">consectetur</a> adipiscing elit. Nunc pretium scelerisque neque amet consectetur adipiscing elit. Nunc pretium scelerisque neque amet
   - image: ./userAvatar.png
     name: Victor Rice
     designation: Customer Engagement Manager CADD Centre
