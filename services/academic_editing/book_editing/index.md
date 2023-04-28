@@ -67,9 +67,11 @@ editorSecCards:
     name: Victor Rice
     designation: Customer Engagement Manager CADD Centre
     description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc pretium scelerisque neque amet consectetur adipiscing elit. Nunc pretium scelerisque neque amet
-serviceLink:
-  - title: Lorem ipsum dolor sit  consectetur
-    link: Lorem ipsum dolor sit amet <a href="" target=_blank>consectetur</a>. Sit a mattis
+serviceHeader:
+  decription: Lorem ipsum dolor sit  consectetur
+  serviceLink:
+    - title: Lorem ipsum dolor sit  consectetur
+      link: Lorem ipsum dolor sit amet <a href="" target=_blank>consectetur</a>. Sit a mattis
 features:
   - id: 1
     title: Analyzing your manuscript as a whole
