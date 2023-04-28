@@ -224,7 +224,7 @@ faq:
     - id: 1
       question: How do I get started with book manuscript editing service?
       answer:
-        You can use the Get Quote form to send the document or email us. Our
+        You can use the Get Quote form to send the <a href="test" target="_blank">document</a> or email us. Our
         team will get back to you with quote and other details
     - id: 2
       question: Do you provide free sample editing for my manuscript?
