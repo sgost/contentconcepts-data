@@ -175,6 +175,9 @@ editingCard:
       - title: What does manuscript editor do?
         link: https://contentconcepts.com/blog/manuscript-editing-101/
         buttonLink: https://contentconcepts.com/blog
+      - title: Levels of editing
+        link: https://contentconcepts.com/blog/manuscript-editing-101/
+        buttonLink: https://contentconcepts.com/blog
 features:
   - id: 1
     title: Scientific Manuscript Editing
