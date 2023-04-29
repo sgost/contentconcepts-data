@@ -27,6 +27,29 @@ btnTxt:
   editing: Editing Certificate
 editorSecTitle: Manuscript Editors & Native English Editors
 nativeEditorSecToggle: show
+editorSecCards:
+  - name: Ross Taylor
+    designation: Native English & Manuscript Editor
+    description: David is a skilled native English editor with a background in
+      linguistics and engineering. He specializes in science, medical, and
+      technology manuscripts and has a certification in teaching English as a
+      foreign language.
+    image: manuscript-editor.jpeg
+  - name: Alan Wichelman
+    designation: "Senior Editor - Business, Management & Management "
+    description: Meet Alan, our native English editor who ensures all corporate
+      documents and correspondence are flawlessly written. As a licensed
+      attorney in the United States, he also teaches non-American lawyers
+      reader-friendly, plain English drafting skills
+    image: editor6_male.jpeg
+  - name: Dr Carole J
+    designation: Senior Editor - Life Sciences & Medicine
+    description: Carole is a meticulous medical editor with standout professional
+      and research experience in the United States, and Europe. She has
+      conducted research at prestigious academic institutions in North America,
+      including Harvard Medical School, Columbia University and the University
+      of North Carolina.
+    image: carole_medical_editor.jpeg
 flashBannerTop:
   quoteTitle: Turn your manuscript from mediocre to masterpiece
   quoteLink: https://contentconcepts.com/pricing/
@@ -194,7 +217,6 @@ editingSample:
       description: Technical review of manuscript by editor + Copy editing,
         substantive editing features
       image: ./substantive_editing.png
-key: manuscript_editing
 parentType: academic
 quoteToggle: show
 quoteLink: https://contentconcepts.com/services/academic_editing/manuscript_editing/
@@ -263,6 +285,7 @@ priceCard:
   tagContent: Ask for FREE SAMPLE EDIT
   content: Free Editing Certificate
 quoteTitle: Top rated, yet affordable manuscript editing services
+key: manuscript_editing
 seo:
   title: Manuscript editing service, Research paper editing service
   description: International quality manuscript editing services at affordable
