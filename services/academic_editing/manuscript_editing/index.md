@@ -16,8 +16,8 @@ serviceHeader:
         manuscript editing</a>
     - title: ""
       link: <a
-        href="https://contentconcepts.com/blog/contentconcepts-top-rated-academic-editing-and-proofreading-services/">Top-rated,
-        best online editing service</a>
+        href="https://contentconcepts.com/blog/contentconcepts-top-rated-academic-editing-and-proofreading-services/">Top-rated
+        editing service on Google - 4.9</a>
     - title: ""
       link: <a
         href="https://contentconcepts.com/blog/free-english-editing-certificate/">Free
@@ -156,8 +156,7 @@ connectToolsToggle: show
 connectTools:
   - title: Two-editor process
     description: Our manuscript editing service employs a two-editor system to
-      ensure that your document is reviewed thoroughly from different
-      perspectives, resulting in a polished final product.
+      ensure that your document is reviewed thoroughly.
     image: confidential.svg
   - title: Editing Certificate
     description: We provide a free editing certificate with each order, guaranteeing
@@ -165,9 +164,7 @@ connectTools:
     image: editing_certificate.svg
   - title: Personal Care
     description: At our manuscript editing service, we treat each document with the
-      utmost care and attention, tailoring our editing to meet your specific
-      needs and preferences. With us, you can trust that your manuscript will
-      receive the personalized care it deserves.
+      utmost care and attention, tailoring to meet your specific needs.
     image: affordable.svg
 editingCard:
   - title: Editing Links card Title
