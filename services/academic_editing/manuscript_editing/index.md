@@ -167,10 +167,14 @@ connectTools:
       utmost care and attention, tailoring to meet your specific needs.
     image: affordable.svg
 editingCard:
-  - title: Editing Links card Title
-    backgroundColor: blue
+  - title: Manuscript Editing 101
+    backgroundColor: Brown
     buttonLink: www.google.com
-    image: editing-proofreading-graphic.png
+    image: proofreading_101.png
+    bulletpoints:
+      - title: What does manuscript editor do?
+        link: https://contentconcepts.com/blog/manuscript-editing-101/
+        buttonLink: https://contentconcepts.com/blog
 features:
   - id: 1
     title: Scientific Manuscript Editing
