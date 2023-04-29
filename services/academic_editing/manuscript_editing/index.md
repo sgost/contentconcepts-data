@@ -10,15 +10,21 @@ serviceHeader:
     manuscript editing service, your research paper will shine brighter than a
     diamond. And here are few more reasons to choose us:"
   serviceLink:
-    - title: Affordable Manuscript Editing
-      link: Manuscript editing is like conducting a science experiment on your
-        writing. We'll mix in the perfect balance of clarity, conciseness, and
-        academic jargon to create a winning formula. With our <a
-        href="https://www.example.com/affordable-manuscript-editing-service">affordable</a>
-        and <a
-        href="https://www.example.com/trusted-manuscript-editing-service">trusted
-        manuscript editing service</a>, your research paper will shine brighter
-        than a diamond.
+    - title: ""
+      link: <a
+        href="https://contentconcepts.com/blog/how-much-does-manuscript-editing-cost-per-page-per-word/">Affordable
+        manuscript editing</a>
+    - title: ""
+      link: <a
+        href="https://contentconcepts.com/blog/contentconcepts-top-rated-academic-editing-and-proofreading-services/">Top-rated,
+        best online editing service</a>
+    - title: ""
+      link: <a
+        href="https://contentconcepts.com/blog/free-english-editing-certificate/">Free
+        editing Certificate</a>
+btnTxt:
+  sample: Editing Sample
+  editing: Editing Certificate
 editorSecTitle: Manuscript Editors & Native English Editors
 nativeEditorSecToggle: show
 flashBannerTop:
