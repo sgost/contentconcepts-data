@@ -312,8 +312,6 @@ Are you tired of feeling like you're in a constant battle with journal reviewers
 
 Don't let your research paper languish in mediocrity any longer. Let us help you turn it into a work of art that even Da Vinci would envy (okay, maybe that's a stretch, but you get the idea). Try our manuscript editing service today and unleash your inner writing genius!
 
-
-
 Whether you're writing your research paper or marketing document or your next best-selling novel, a [manuscript editor](https://contentconcepts.com/about/) is your secret weapon to success. We'll dive into the world of editing - from [proofreading](https://contentconcepts.com/services/academic_editing/proofreading_service) to line editing, and everything in between. And let's not forget the burning question: [how much will manuscript editing cost?](https://contentconcepts.com/blog/how-much-does-manuscript-editing-cost-per-page-per-word/) Don't worry, we've got you covered - without breaking the bank. So sit back, relax, and let's edit this masterpiece together!
 
 <span style="color: green;">Manuscript editing is like conducting a science experiment on your writing. We'll mix in the perfect balance of clarity, conciseness, and academic jargon to create a winning formula. With our affordable and trusted manuscript editing service, your research paper will shine brighter than a diamond.</span>
@@ -338,13 +336,13 @@ There are four main types of editing - proofreading, [copy editing](https://cont
 
 * **[Proofreading](https://contentconcepts.in/services/academic_editing/proofreading_service)** involves checking for grammatical, punctuation and spelling errors.
 
-  **Copy editing** improves the overall language and flow of the text.
+*   **Copy editing** improves the overall language and flow of the text.
 
-  **Substantive editing** focuses on the structure and content of the text.
+*   **Substantive editing** focuses on the structure and content of the text.
 
-  **Developmental editing** makes changes to the story, characters, and themes of a manuscript.
+*   **Developmental editing** makes changes to the story, characters, and themes of a manuscript.
 
-  R﻿ead more detail on the level of editing done for each type of editing.
+R﻿ead more detail on the level of editing done for each type of editing.
 
 ### Steps in editing a manuscript
 
