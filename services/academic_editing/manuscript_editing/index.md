@@ -168,7 +168,7 @@ connectTools:
     image: affordable.svg
 editingCard:
   - title: Manuscript Editing 101
-    backgroundColor: Brown
+    backgroundColor: "#872657"
     buttonLink: www.google.com
     image: proofreading_101.png
     bulletpoints:
