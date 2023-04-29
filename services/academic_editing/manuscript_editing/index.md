@@ -1,59 +1,30 @@
 ---
-title: Manuscript Editing
-highlight: " Our #1 selling service @ $0.021 per word"
-features:
-  - id: 1
-    title: Scientific Manuscript Editing
-    link: https://contentconcepts.in/services/academic_editing/scientific_manuscript_editing
-  - id: 2
-    title: Thesis Editing
-    link: https://contentconcepts.in/services/academic_editing/thesis_editing
-  - id: 3
-    title: English Language Editing
-    link: https://contentconcepts.in/services/academic_editing/english_editing
-  - id: 4
-    title: Manuscript Proofreading Service
-    link: https://contentconcepts.in/services/academic_editing/proofreading_service
-  - id: 5
-    title: Plagiarism Check & Correction
-    link: https://contentconcepts.in/services/plagiarism_correction
-  - id: 6
-    title: Manuscript Formatting
-    link: https://contentconcepts.in/services/publication_support/manuscript_formatting
-message: Not happy with edit? <span>100% refund without any condition</span>
-cardImage: manuscript_editing_service.png
 navTitle: Manuscript Editing
 navIndex: 1
-connectToolsTitle: Why We're the Write Choice
-connectToolsDec: Our experienced editors will meticulously review your work to
-  ensure that your research is presented in the clearest, most concise manner
-  possible.
-connectToolsToggle: show
-connectTools:
-  - title: Two-editor process
-    description: Our manuscript editing service employs a two-editor system to
-      ensure that your document is reviewed thoroughly from different
-      perspectives, resulting in a polished final product.
-    image: confidential.svg
-  - title: Editing Certificate
-    description: We provide a free editing certificate with each order, guaranteeing
-      that your document has been edited to the highest professional standards.
-    image: editing_certificate.svg
-  - title: Personal Care
-    description: At our manuscript editing service, we treat each document with the
-      utmost care and attention, tailoring our editing to meet your specific
-      needs and preferences. With us, you can trust that your manuscript will
-      receive the personalized care it deserves.
-    image: affordable.svg
+title: Manuscript Editing
+highlight: " Our #1 selling service @ $0.021 per word"
+serviceHeader:
+  decription: "Manuscript editing is like conducting a science experiment on your
+    writing. We'll mix in the perfect balance of clarity, conciseness, and
+    academic jargon to create a winning formula. With our affordable and trusted
+    manuscript editing service, your research paper will shine brighter than a
+    diamond. And here are few more reasons to choose us:"
+  serviceLink:
+    - title: Affordable Manuscript Editing
+      link: Manuscript editing is like conducting a science experiment on your
+        writing. We'll mix in the perfect balance of clarity, conciseness, and
+        academic jargon to create a winning formula. With our <a
+        href="https://www.example.com/affordable-manuscript-editing-service">affordable</a>
+        and <a
+        href="https://www.example.com/trusted-manuscript-editing-service">trusted
+        manuscript editing service</a>, your research paper will shine brighter
+        than a diamond.
+editorSecTitle: Manuscript Editors & Native English Editors
+nativeEditorSecToggle: show
 flashBannerTop:
   quoteTitle: Turn your manuscript from mediocre to masterpiece
   quoteLink: https://contentconcepts.com/pricing/
   quoteToggle: show
-editingCard:
-  - title: Editing Links card Title
-    backgroundColor: blue
-    buttonLink: www.google.com
-    image: editing-proofreading-graphic.png
 serviceProcess:
   title: How Manuscript Editing works?
   steps:
@@ -78,10 +49,6 @@ serviceProcess:
       description: CC assigns the right editor who edits and sends the edited document
         back to the customer.
       themeColor: "#FFABAB"
-flashBannerCenter:
-  quoteLink: https://contentconcepts.com/pricing/
-  quoteTitle: Polish your paper to perfection
-  quoteToggle: show
 editingHighlights:
   title: Manuscript Editing services - Why trust us?
   highlights:
@@ -104,30 +71,10 @@ editingHighlights:
       description: You will get free editing certificate after your manuscript editing
         is complete
       image: editing_certificate.svg
-editorSecTitle: Manuscript Editors & Native English Editors
-nativeEditorSecToggle: show
-flashBannerBottom:
+flashBannerCenter:
   quoteLink: https://contentconcepts.com/pricing/
-  quoteTitle: From 'meh' to 'marvelous manuscript
+  quoteTitle: Polish your paper to perfection
   quoteToggle: show
-editingSample:
-  title: Manuscript Editing Sample
-  samples:
-    - id: 1
-      title: Manuscript Proofreading
-      description: Grammatically correct sentences, appropriate use of words and
-        terminologies
-      image: ./Copy_editing_sample.png
-    - id: 2
-      title: Manuscript Substantive Editing
-      description: Line by line editing for language, readibility. Overall structure
-        of the paper, tone and section transition.
-      image: ./Manuscript_editing_sample_free.png
-    - id: 3
-      title: Manuscript Developmental Editing
-      description: Technical review of manuscript by editor + Copy editing,
-        substantive editing features
-      image: ./substantive_editing.png
 editingLevels:
   title: Manuscript Editing Services
   subHeading: Proofreading or Editing? Choose what you want.
@@ -172,6 +119,75 @@ editingLevels:
       copy: no
       substantive: no
       developmental: yes
+connectToolsTitle: Why We're the Write Choice
+connectToolsDec: Our experienced editors will meticulously review your work to
+  ensure that your research is presented in the clearest, most concise manner
+  possible.
+connectToolsToggle: show
+connectTools:
+  - title: Two-editor process
+    description: Our manuscript editing service employs a two-editor system to
+      ensure that your document is reviewed thoroughly from different
+      perspectives, resulting in a polished final product.
+    image: confidential.svg
+  - title: Editing Certificate
+    description: We provide a free editing certificate with each order, guaranteeing
+      that your document has been edited to the highest professional standards.
+    image: editing_certificate.svg
+  - title: Personal Care
+    description: At our manuscript editing service, we treat each document with the
+      utmost care and attention, tailoring our editing to meet your specific
+      needs and preferences. With us, you can trust that your manuscript will
+      receive the personalized care it deserves.
+    image: affordable.svg
+editingCard:
+  - title: Editing Links card Title
+    backgroundColor: blue
+    buttonLink: www.google.com
+    image: editing-proofreading-graphic.png
+features:
+  - id: 1
+    title: Scientific Manuscript Editing
+    link: https://contentconcepts.in/services/academic_editing/scientific_manuscript_editing
+  - id: 2
+    title: Thesis Editing
+    link: https://contentconcepts.in/services/academic_editing/thesis_editing
+  - id: 3
+    title: English Language Editing
+    link: https://contentconcepts.in/services/academic_editing/english_editing
+  - id: 4
+    title: Manuscript Proofreading Service
+    link: https://contentconcepts.in/services/academic_editing/proofreading_service
+  - id: 5
+    title: Plagiarism Check & Correction
+    link: https://contentconcepts.in/services/plagiarism_correction
+  - id: 6
+    title: Manuscript Formatting
+    link: https://contentconcepts.in/services/publication_support/manuscript_formatting
+message: Not happy with edit? <span>100% refund without any condition</span>
+cardImage: manuscript_editing_service.png
+flashBannerBottom:
+  quoteLink: https://contentconcepts.com/pricing/
+  quoteTitle: From 'meh' to 'marvelous manuscript
+  quoteToggle: show
+editingSample:
+  title: Manuscript Editing Sample
+  samples:
+    - id: 1
+      title: Manuscript Proofreading
+      description: Grammatically correct sentences, appropriate use of words and
+        terminologies
+      image: ./Copy_editing_sample.png
+    - id: 2
+      title: Manuscript Substantive Editing
+      description: Line by line editing for language, readibility. Overall structure
+        of the paper, tone and section transition.
+      image: ./Manuscript_editing_sample_free.png
+    - id: 3
+      title: Manuscript Developmental Editing
+      description: Technical review of manuscript by editor + Copy editing,
+        substantive editing features
+      image: ./substantive_editing.png
 key: manuscript_editing
 parentType: academic
 quoteToggle: show
