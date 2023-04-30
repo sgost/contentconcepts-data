@@ -28,21 +28,12 @@ serviceHeader:
 editorSecTitle: Our Scientific Manuscript Editors
 nativeEditorSecToggle: show
 editorSecCards:
-  - name: Dr Monika M
-    designation: Scientific Editor - Biochemistry & Pharmacology
-    description: "Phd in Pharmacology and has over 20 years of experience as a
-      scientist at a leading pharmaceuticals lab in India, where she gained
-      extensive writing and editing experience. She specializes in ESL writing
-      and editing and has helped researchers communicate effectively by teaching
-      them ESL writing techniques. "
-    image: medical-editor-manuscript.jpeg
   - name: Dr Katharine Hughes
     designation: Scientific Editor - Life Science Biosciences, Bio-Engineering
-    description: With 25+ years of experience, Dr Katharine is an expert in editing
+    description: "With 25+ years of experience, Dr Katharine is an expert in editing
       academic papers, theses, and dissertations. She has edited 20,000+ pages,
       specializing in ESL documents and a broad range of fields, including
-      medical sciences, IT, and bioinformatics. By improving content structure
-      and language, she has helped numerous authors achieve publication success.
+      medical sciences, IT, and bioinformatics. "
     image: scientific-editor.jpeg
   - name: Dr Ashraf
     designation: Scientific & Statistics Editor
@@ -52,6 +43,12 @@ editorSecCards:
       of pages of research papers and thesis with meticulous attention to
       detail.
     image: ashraf_bio_editor.jpeg
+  - name: Dr Monika M
+    designation: Scientific Editor - Biochemistry & Pharmacology
+    description: Phd in Pharmacology and has over 20 years of experience as a
+      scientist at a leading pharmaceuticals lab.She specializes in ESL writing
+      and editing.
+    image: medical-editor-manuscript.jpeg
 flashBannerTop:
   quoteTitle: Scientifically Sound, Grammatically Perfect Manuscript
   quoteToggle: show
