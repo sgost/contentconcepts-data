@@ -1,59 +1,58 @@
 ---
-title: Proofreading Service
-highlight: Native English, Best price, no rush fee
-features:
-  - id: 1
-    title: Manuscript Editing
-    link: https://contentconcepts.in/services/academic_editing/manuscript_editing
-  - id: 2
-    title: Thesis Proofreading
-    link: https://contentconcepts.in/services/academic_editing/thesis_editing
-  - id: 3
-    title: English Language Proofreading
-    link: https://contentconcepts.in/services/academic_editing/english_editing
-  - id: 4
-    title: Scientific Manuscript Editing
-    link: https://contentconcepts.in/services/academic_editing/scientific_manuscript_editing
-  - id: 5
-    title: Plagiarism Checker
-    link: https://contentconcepts.in/services/plagiarism_correction
-  - title: Manuscript Rewriting
-    id: 6
-    link: https://contentconcepts.in/services/publication_support/manuscript_rewriting
-message: Not happy with proofreading? <span>100% refund without any condition</span>
-cardImage: proofreading_services.jpeg
 navTitle: Proofreading Service
 navIndex: 8
-connectToolsTitle: Reasons to go with our proofreading service
-connectToolsDec: Affordable, trusted and the best proofreading service you can get online
-connectToolsToggle: show
-connectTools:
-  - title: Native English Editors
-    description: Does your journal insist on native English editor? We have got you
-      covered. Our editors work on British English and US English
-    image: support.svg
-  - title: Editing Certificate
-    description: We provide a free editing certificate with each order, guaranteeing
-      that your document has been proofread to the highest professional
-      standards.
-    image: editing_certificate.svg
+title: Proofreading Services
+highlight: Native English, Best price, no rush fee
+serviceHeader:
+  decription: "Proofreading is like having a second set of eyes on your work -
+    except this time, they're sober. Without it, your writing can look like it
+    was done by a sleep-deprived monkey banging on a keyboard. So, let's avoid
+    embarrassing mistakes like “let’s eat grandma” instead of “let’s eat,
+    grandma.” With our affordable and trusted proofreading service, your
+    documents will shine brighter than a diamond. And here are few more reasons
+    to choose us:"
+  serviceLink:
+    - title: ""
+      link: <a
+        href="https://contentconcepts.com/blog/how-much-does-manuscript-editing-cost-per-page-per-word/">Affordable
+        proofreading services</a>
+    - title: ""
+      link: <a
+        href="https://contentconcepts.com/blog/contentconcepts-top-rated-academic-editing-and-proofreading-services/">Top-rated
+        proofreading service on Google - 4.9</a>
+    - title: ""
+      link: <a
+        href="https://contentconcepts.com/blog/free-english-editing-certificate/">Free
+        editing Certificate</a>
+editorSecTitle: Our Native English Proofreaders
+nativeEditorSecToggle: show
+editorSecCards:
+  - name: Ross Taylor
+    designation: Native English & Manuscript Proofreader
+    description: David is a skilled native English editor with a background in
+      linguistics and engineering. He specializes in science, medical, and
+      technology manuscripts and has a certification in teaching English as a
+      foreign language.
+    image: manuscript-editor.jpeg
+  - name: Alan Wichelman
+    designation: "Senior Editor - Business, Management & Management "
+    description: Meet Alan, our native English editor who ensures all corporate
+      documents and correspondence are flawlessly written. As a licensed
+      attorney in the United States, he also teaches non-American lawyers
+      reader-friendly, plain English drafting skills
+    image: manucript-editor-native.jpeg
+  - name: Dr Carole J
+    designation: Medical Editor & Proofreader
+    description: Carole is a meticulous medical editor with standout professional
+      and research experience in the United States, and Europe. She has
+      conducted research at prestigious academic institutions in North America,
+      including Harvard Medical School, Columbia University and the University
+      of North Carolina.
+    image: carole_medical_editor.jpeg
 flashBannerTop:
   quoteTitle: Proofread and polish your document to perfection!
   quoteToggle: show
   quoteLink: https://contentconcepts.com/pricing/
-editingCard:
-  - title: Tips for Better Writing
-    backgroundColor: blue
-    buttonLink: https://contentconcepts.com/blog/simple-and-practical-writing-tips-for-research-paper-manuscript-authors/
-    image: proofreading_services.png
-    bulletpoints:
-      - title: Simple and practical writing tips for research paper manuscript authors
-        link: https://contentconcepts.com/blog/simple-and-practical-writing-tips-for-research-paper-manuscript-authors/
-      - title: How to write better title for manuscripts
-        link: https://contentconcepts.com/blog/how-to-write-titles-for-research-papes-and-manuscripts/
-    editingCardLinks:
-      - title: Sub link
-        description: Sublin
 serviceProcess:
   title: How Proofreading service works?
   steps:
@@ -79,10 +78,6 @@ serviceProcess:
       description: CC assigns the right proofreader who edits and sends the edited
         document back to the customer.
       themeColor: "#FFABAB"
-flashBannerCenter:
-  quoteTitle: Get the most affordable proofreading service
-  quoteLink: https://contentconcepts.com/pricing/
-  quoteToggle: show
 editingHighlights:
   title: Highlights of our Proofreading service
   highlights:
@@ -104,36 +99,10 @@ editingHighlights:
       title: Editing Certificate
       description: Get free English editing certificate with your job when completed
       image: ./transaction.svg
-editorSecTitle: Our Proofreaders
-nativeEditorSecToggle: show
-editorSecCards:
-  - name: Editor Name
-    designation: Editor Designation
-    description: Editor Description
-    image: userAvatar.png
-flashBannerBottom:
-  quoteTitle: Polish your document to perfection
+flashBannerCenter:
+  quoteTitle: Get the most affordable proofreading service
   quoteLink: https://contentconcepts.com/pricing/
   quoteToggle: show
-editingSample:
-  title: Proofreading Sample
-  samples:
-    - id: 1
-      title: Proofreading
-      description: Line by line editing for language, readability and technical
-        learning improvement
-      image: screenshot-2021-11-27-at-11.14.54-am.png
-    - id: 2
-      title: Substantive Editing
-      description: Line by line editing for language, readibility nad technical
-        learning improvement
-      image: ./substantive_editing.png
-    - id: 3
-      title: Developmental Editing
-      description: Line by line editing for language, readibility nad technical
-        learning improvement
-      image: ./substantive_editing.png
-  toggle: show
 editingLevels:
   title: Different levels of editing
   subHeading: Because each manuscript is unique
@@ -195,6 +164,78 @@ editingLevels:
       copy: no
       substantive: no
       developmental: yes
+connectToolsTitle: Reasons to go with our proofreading service
+connectToolsDec: Affordable, trusted and the best proofreading service you can get online
+connectToolsToggle: show
+connectTools:
+  - title: Native English Editors
+    description: Does your journal insist on native English editor? We have got you
+      covered. Our editors work on British English and US English
+    image: support.svg
+  - title: Editing Certificate
+    description: We provide a free editing certificate with each order, guaranteeing
+      that your document has been proofread to the highest professional
+      standards.
+    image: editing_certificate.svg
+editingCard:
+  - title: Tips for Better Writing
+    backgroundColor: "#872657"
+    buttonLink: https://contentconcepts.com/blog/simple-and-practical-writing-tips-for-research-paper-manuscript-authors/
+    image: proofreading_services.png
+    bulletpoints:
+      - title: Simple and practical writing tips for research paper manuscript authors
+        link: https://contentconcepts.com/blog/simple-and-practical-writing-tips-for-research-paper-manuscript-authors/
+        buttonLink: https://contentconcepts.com/blog
+      - title: How to write better title for manuscripts
+        link: https://contentconcepts.com/blog/how-to-write-titles-for-research-papes-and-manuscripts/
+        buttonLink: https://contentconcepts.com/blog
+    editingCardLinks:
+      - title: Sub link
+        description: Sublin
+features:
+  - id: 1
+    title: Manuscript Editing
+    link: https://contentconcepts.in/services/academic_editing/manuscript_editing
+  - id: 2
+    title: Thesis Proofreading
+    link: https://contentconcepts.in/services/academic_editing/thesis_editing
+  - id: 3
+    title: English Language Proofreading
+    link: https://contentconcepts.in/services/academic_editing/english_editing
+  - id: 4
+    title: Scientific Manuscript Editing
+    link: https://contentconcepts.in/services/academic_editing/scientific_manuscript_editing
+  - id: 5
+    title: Plagiarism Checker
+    link: https://contentconcepts.in/services/plagiarism_correction
+  - title: Manuscript Rewriting
+    id: 6
+    link: https://contentconcepts.in/services/publication_support/manuscript_rewriting
+message: Not happy with proofreading? <span>100% refund without any condition</span>
+cardImage: proofreading_services.jpeg
+flashBannerBottom:
+  quoteTitle: Polish your document to perfection
+  quoteLink: https://contentconcepts.com/pricing/
+  quoteToggle: show
+editingSample:
+  title: Proofreading Sample
+  samples:
+    - id: 1
+      title: Proofreading
+      description: Line by line editing for language, readability and technical
+        learning improvement
+      image: screenshot-2021-11-27-at-11.14.54-am.png
+    - id: 2
+      title: Substantive Editing
+      description: Line by line editing for language, readibility nad technical
+        learning improvement
+      image: ./substantive_editing.png
+    - id: 3
+      title: Developmental Editing
+      description: Line by line editing for language, readibility nad technical
+        learning improvement
+      image: ./substantive_editing.png
+  toggle: show
 faq:
   title: Frequently Asked Questions
   questions:
@@ -231,24 +272,21 @@ seo:
     - proof reading price
     - proofreading onlineproofreading
 ---
-
-[Proofreading](https://contentconcepts.com/blog/proofreading-services-in-india-why-they-are-the-best-choice/) is like having a second set of eyes on your work - except this time, they're sober. Without it, your writing can look like it was done by a sleep-deprived monkey banging on a keyboard. So, let's avoid embarrassing mistakes like “let’s eat grandma” instead of “let’s eat, grandma.”
-
 At **[Content Concepts](https://contentconcepts.in/about/)**, we understand that well-written content is the key to success in any field. Our team of experienced and native English proofreaders is committed to ensuring that your document is error-free and polished to perfection. We offer quick turnaround times and [affordable proofreading](https://contentconcepts.com/pricing/#pricing) costs to meet your needs.
 
 ## **Our Proofreading Services**
 
 We offer a range of [proofreading services](https://contentconcepts.com/services/academic_editing/proofreading_service) to suit your needs. Our **[proofreading service](https://contentconcepts.in/services/academic_editing/proofreading_service)** is perfect for academic documents, while our **[English editing service](https://contentconcepts.in/services/business_editing/english_editing_india)** is ideal for businesses looking to improve their written communication. Our services include:
 
-- Manuscript proofreading
-- Thesis proofreading
-- Website proofreading
-- Document proofreading
-- Technical proofreading
-- Business proofreading
-- scientific proofreading
-- Legal proofreading
-- Medical proofreading
+* Manuscript proofreading
+* Thesis proofreading
+* Website proofreading
+* Document proofreading
+* Technical proofreading
+* Business proofreading
+* scientific proofreading
+* Legal proofreading
+* Medical proofreading
 
 ## **Why Choose ContentConcepts**
 
