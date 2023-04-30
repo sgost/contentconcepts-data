@@ -1,41 +1,40 @@
 ---
-title: Thesis Editing Service
-highlight: GET 10% DISCOUNT FOR FIRST JOB
-features:
-  - id: 1
-    title: Thesis Formating
-    link: https://contentconcepts.in/services/publication_support/manuscript_formatting
-  - id: 2
-    title: Plagiarism Checker
-    link: https://contentconcepts.in/services/plagiarism_correction
-  - id: 3
-    title: Scientific Manuscript Editing
-    link: https://contentconcepts.in/services/academic_editing/scientific_manuscript_editing
-  - id: 4
-    title: English Language Editing
-    link: https://contentconcepts.in/services/academic_editing/english_editing
-  - id: 5
-    title: Proofreading Service
-    link: https://contentconcepts.in/services/academic_editing/proofreading_service
-  - title: "Manuscript Editing "
-    id: 6
-    link: https://contentconcepts.in/services/academic_editing/manuscript_editing
-message: Not happy with thesis editing? <span>100% refund without any condition</span>
-cardImage: phd_thesis_editing.png
 navTitle: Thesis Editing
 navIndex: 2
-connectToolsTitle: Polish your thesis to perfection!
-connectToolsDec: '"Clear, concise research presentation—guaranteed by our expert editors."'
-connectToolsToggle: show
-connectTools:
-  - title: Double Check
-    description: We use a two-editor system to thoroughly review your thesis from
-      multiple perspectives, resulting in a polished thesis..
-    image: transaction.svg
-  - title: Personalized
-    description: Get personalized thesis editing tailored to your specific needs
-      with our expert team. Trust us to give your thesis the care it deserves.
-    image: affordable.svg
+title: Thesis Editing Service
+highlight: GET 10% DISCOUNT FOR FIRST JOB
+serviceHeader:
+  decription: We know how hard you've worked on your thesis and we want to make
+    sure it shines like a diamond. That's why our thesis editing service pays
+    attention to every little detail, from grammar and spelling to formatting
+    and style. And don't worry, your work is safe with us. We take
+    confidentiality seriously, like a spy in a James Bond movie.
+editorSecTitle: Our Thesis Editors
+nativeEditorSecToggle: show
+editorSecCards:
+  - name: Dr Athira, Ph.D
+    designation: Thesis Editor - Biological Sciences
+    description: Dr Athira has a doctoral degree in Biotechnology, with 16 years of
+      academic experience and 45+ research publications to her credit. She is a
+      certified editor by Board of Lifesciences. Dr Athira is a meticulous
+      editor who has edited thousands of pages of research papers and thesis.
+      She makes detailed observations in the manuscripts to help her clients
+      successfully publish their work.
+    image: thesis-editor.jpeg
+  - name: Dr Nalini Kannan, Ph.D
+    designation: Thesis Editor - Science
+    description: Dr Nalini gained extensive writing and editing experience from her
+      20-year career as a scientist at a leading biotechnology lab in India. She
+      has written and edited many types of academic documents, from research
+      proposals to regulatory documents. She has conducted and supervised
+      clinical research trials for reputed pharmaceuticals companies
+    image: thesis_editor_3.png
+  - name: Editor Name
+    designation: Thesis Editor - Business & Management
+    description: Alan is a native English thesis editor with expertise in flawless
+      research writing and editing skills. Alan has edited more than 100 theses
+      and familiar with APA, Chicago Manual and other formatting requirements.
+    image: manucript-editor-native.jpeg
 flashBannerTop:
   quoteTitle: Refine your thesis with our expert editing services
   quoteLink: https://contentconcepts.com/services/academic_editing/thesis_editing/
@@ -65,10 +64,6 @@ serviceProcess:
       description: CC assigns the right editor who edits and sends the edited document
         back to the customer.
       themeColor: "#FFABAB"
-flashBannerCenter:
-  quoteTitle: POLISH YOUR THESIS TO PERFECTION
-  quoteLink: https://contentconcepts.com/pricing/
-  quoteToggle: show
 editingHighlights:
   title: Highlights of our Thesis Editing service
   highlights:
@@ -95,58 +90,10 @@ editingHighlights:
         which has passed the best level of security testing in the industry.
       image: ./transaction.svg
   toggle: show
-editorSecTitle: Our Thesis Editors
-nativeEditorSecToggle: show
-editorSecCards:
-  - name: Alan Wichelman
-    designation: Thesis Editor - Business & Management
-    description: Alan is our native English editor and his responsibilities include
-      proofreading, editing and rewriting a wide range of corporate documents
-      and correspondence. Additionally, as an attorney licensed in the United
-      States, he taught non-American lawyers reader-friendly, plain English
-      drafting skills. Allan holds a bachelor's degree from the University of
-      Minnesota and a master's degree from the University of Illinois.
-    image: thesis_editor1.png
-  - name: Dr Athira, Ph.D
-    designation: Thesis Editor - Biological Sciences
-    description: Dr Athira has a doctoral degree in Biotechnology, with 16 years of
-      academic experience and 45+ research publications to her credit. She is a
-      certified editor by Board of Lifesciences. Dr Athira is a meticulous
-      editor who has edited thousands of pages of research papers and thesis.
-      She makes detailed observations in the manuscripts to help her clients
-      successfully publish their work.
-    image: thesis_editor_2.png
-  - name: Dr Nalini Krishna, Ph.D
-    designation: Thesis Editor - Science
-    description: Dr Nalini gained extensive writing and editing experience from her
-      20-year career as a scientist at a leading biotechnology lab in India. She
-      has written and edited many types of academic documents, from research
-      proposals to regulatory documents. She has conducted and supervised
-      clinical research trials for reputed pharmaceuticals companies
-    image: thesis_editor_3.png
-flashBannerBottom:
-  quoteTitle: Turn your manuscript in to masterpiece!
+flashBannerCenter:
+  quoteTitle: POLISH YOUR THESIS TO PERFECTION
   quoteLink: https://contentconcepts.com/pricing/
   quoteToggle: show
-editingSample:
-  title: Thesis Editing sample
-  samples:
-    - id: 1
-      title: Copy Editing
-      description: Grammatically correct sentences, appropriate use of words and
-        terminologies in thesis
-      image: ./thesis_editing_sample_free.png
-    - id: 2
-      title: Substantive Editing
-      description: Line by line editing for language, readibility. Overall structure
-        of the paper, tone and section transition.
-      image: ./Manuscript_editing_sample_free.png
-    - id: 3
-      title: Developmental Editing
-      description: Line by line editing for language, readability and technical
-        learning improvement
-      image: ./substantive_editing.png
-  toggle: show
 editingLevels:
   title: Editing vs proofreading
   subHeading: Choose the right editing level
@@ -191,6 +138,62 @@ editingLevels:
       copy: no
       substantive: no
       developmental: yes
+  toggle: show
+connectToolsTitle: Polish your thesis to perfection!
+connectToolsDec: '"Clear, concise research presentation—guaranteed by our expert editors."'
+connectToolsToggle: show
+connectTools:
+  - title: Double Check
+    description: We use a two-editor system to thoroughly review your thesis from
+      multiple perspectives, resulting in a polished thesis..
+    image: transaction.svg
+  - title: Personalized
+    description: Get personalized thesis editing tailored to your specific needs
+      with our expert team. Trust us to give your thesis the care it deserves.
+    image: affordable.svg
+features:
+  - id: 1
+    title: Thesis Formating
+    link: https://contentconcepts.in/services/publication_support/manuscript_formatting
+  - id: 2
+    title: Plagiarism Checker
+    link: https://contentconcepts.in/services/plagiarism_correction
+  - id: 3
+    title: Scientific Manuscript Editing
+    link: https://contentconcepts.in/services/academic_editing/scientific_manuscript_editing
+  - id: 4
+    title: English Language Editing
+    link: https://contentconcepts.in/services/academic_editing/english_editing
+  - id: 5
+    title: Proofreading Service
+    link: https://contentconcepts.in/services/academic_editing/proofreading_service
+  - title: "Manuscript Editing "
+    id: 6
+    link: https://contentconcepts.in/services/academic_editing/manuscript_editing
+message: Not happy with thesis editing? <span>100% refund without any condition</span>
+cardImage: phd_thesis_editing.png
+flashBannerBottom:
+  quoteTitle: Turn your manuscript in to masterpiece!
+  quoteLink: https://contentconcepts.com/pricing/
+  quoteToggle: show
+editingSample:
+  title: Thesis Editing sample
+  samples:
+    - id: 1
+      title: Copy Editing
+      description: Grammatically correct sentences, appropriate use of words and
+        terminologies in thesis
+      image: ./thesis_editing_sample_free.png
+    - id: 2
+      title: Substantive Editing
+      description: Line by line editing for language, readibility. Overall structure
+        of the paper, tone and section transition.
+      image: ./Manuscript_editing_sample_free.png
+    - id: 3
+      title: Developmental Editing
+      description: Line by line editing for language, readability and technical
+        learning improvement
+      image: ./substantive_editing.png
   toggle: show
 faq:
   title: Thesis Editing Service - FAQ
