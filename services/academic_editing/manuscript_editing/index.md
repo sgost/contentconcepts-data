@@ -36,7 +36,7 @@ editorSecCards:
       foreign language.
     image: manuscript-editor.jpeg
   - name: Alan Wichelman
-    designation: "Senior Editor - Business, Management & Management "
+    designation: "Senior Editor - Business, Management & Marketing "
     description: Meet Alan, our native English editor who ensures all corporate
       documents and correspondence are flawlessly written. As a licensed
       attorney in the United States, he also teaches non-American lawyers
