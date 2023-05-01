@@ -269,20 +269,13 @@ seo:
     - admission essay editing
     - admission essay proofreading
 ---
-
 Are you staring at a blank page and feeling like your brain has gone on a vacation without you? Is your essay due in a few hours and you're still unsure of how to begin? Fear not, my friend, because our [essay editors](https://contentconcepts.com/about/) have got you covered!
 
-![Essay_editing_experts](essay_editing_services.png "Essay editor")
+<br>We're [ContentConcepts](https://contentconcepts.com/about/), the [essay editing service](https://contentconcepts.com/services/academic_editing/essay_editing) that will take your jumbled mess and turn it into a polished masterpiece that would make Shakespeare proud. Okay, maybe not Shakespeare, but you get the idea!
 
-<br>
+<br>We'll fix all the [grammatical errors](https://contentconcepts.com/services/academic_editing/english_editing), the awkward sentences, and the downright confusing paragraphs. We'll make it flow like a gentle stream on a summer day.
 
-We're [ContentConcepts](https://contentconcepts.com/about/), the [essay editing service](https://contentconcepts.com/services/academic_editing/essay_editing) that will take your jumbled mess and turn it into a polished masterpiece that would make Shakespeare proud. Okay, maybe not Shakespeare, but you get the idea!
-
-We'll fix all the [grammatical errors](https://contentconcepts.com/services/academic_editing/english_editing), the awkward sentences, and the downright confusing paragraphs. We'll make it flow like a gentle stream on a summer day.
-
-And don't worry, we won't judge your writing skills. We've all been there, trust us. We'll just fix it up so that it looks like a work of art.
-
-So, what are you waiting for? Don't let a messy essay get you down. Let us work our magic and turn it into something that would make your English teacher cry tears of joy.
+<br>And don't worry, we won't judge your writing skills. We've all been there, trust us. We'll just fix it up so that it looks like a work of art. So, what are you waiting for? Don't let a messy essay get you down. Let us work our magic and turn it into something that would make your English teacher cry tears of joy.
 
 ## So what exactly our essay editors do?
 
