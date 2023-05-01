@@ -82,27 +82,27 @@ serviceProcess:
 editingHighlights:
   title: Why people use our English Language Editing service?
   highlights:
+    - id: 4
+      title: Editing Certificate
+      description: We provide English Editing certificate accepted by all leading
+        journals and publications
+      image: ./transaction.svg
+    - id: 2
+      title: Free Editing
+      description: Before you use our service, you can ask for free sample editing by
+        the subject editor
+      image: transaction.svg
     - id: 1
       title: Affordable Prices
       description: Our ESL manuscript editing fee is one of the best in the industry
         for the level of quality work we offer from our trusted PhD and native
         English editors.
       image: ./affordable.svg
-    - id: 2
-      title: Free Editing
-      description: Before you use our service, you can ask for free sample editing by
-        the subject editor
-      image: transaction.svg
     - id: 3
       title: Confidentiality
       description: We ensure your documents are handled with utmost care. We can sign
         NDA if necessary.
       image: ./confidential.svg
-    - id: 4
-      title: Editing Certificate
-      description: We provide English Editing certificate accepted by all leading
-        journals and publications
-      image: ./transaction.svg
   toggle: show
 flashBannerCenter:
   quoteLink: https://contentconcepts.com/pricing/#pricing
