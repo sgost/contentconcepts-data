@@ -53,7 +53,7 @@ editorSecCards:
       of North Carolina.
     image: carole_medical_editor.jpeg
 flashBannerTop:
-  quoteTitle: From mediocre to masterpiece manuscript
+  quoteTitle: From mediocre manuscript to masterpiece!
   quoteToggle: show
   quoteLink: https://contentconcepts.com/pricing/#pricing
 serviceProcess:
@@ -62,7 +62,7 @@ serviceProcess:
     - id: 1
       order: "01"
       title: Submit Manuscript
-      description: Customer submits manuscript via our Request for quote page.
+      description: Submit manuscript via our Request for quote page.
       themeColor: "#98ECA6"
     - id: 2
       order: "02"
@@ -72,14 +72,12 @@ serviceProcess:
     - id: 3
       order: "03"
       title: Confirm Order
-      description: After payment is made by the customer, ContentConcepts sends
-        confirmation of payment.
+      description: After you make the payment we will  send confirmation of the payment.
       themeColor: "#98E5E0"
     - id: 4
       order: "04"
       title: Edit & Return
-      description: CC assigns the right editor who edits and sends the edited document
-        back to the customer.
+      description: After payment, the subject editor sends the edited document to you.
       themeColor: "#FFABAB"
 editingHighlights:
   title: Why people use our English Language Editing service?
