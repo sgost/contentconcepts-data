@@ -58,7 +58,7 @@ editorSecCards:
   - image: ./userAvatar.png
     name: Victor Rice
     designation: Customer Engagement Manager CADD Centre
-    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc pretium scelerisque neque amet consectetur adipiscing elit. Nunc pretium scelerisque neque amet
+    description: Lorem ipsum dolor sit amet, <a href="" target="_blank">consectetur</a> adipiscing elit. Nunc pretium scelerisque neque amet consectetur adipiscing elit. Nunc pretium scelerisque neque amet
   - image: ./userAvatar.png
     name: Victor Rice
     designation: Customer Engagement Manager CADD Centre
@@ -67,6 +67,11 @@ editorSecCards:
     name: Victor Rice
     designation: Customer Engagement Manager CADD Centre
     description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc pretium scelerisque neque amet consectetur adipiscing elit. Nunc pretium scelerisque neque amet
+serviceHeader:
+  decription: Lorem ipsum dolor sit  consectetur
+  serviceLink:
+    - title: Lorem ipsum dolor sit  consectetur
+      link: Lorem ipsum dolor sit amet <a href="" target=_blank>consectetur</a>. Sit a mattis
 features:
   - id: 1
     title: Analyzing your manuscript as a whole
@@ -224,7 +229,7 @@ faq:
     - id: 1
       question: How do I get started with book manuscript editing service?
       answer:
-        You can use the Get Quote form to send the document or email us. Our
+        You can use the Get Quote form to send the <a href="test" target="_blank">document</a> or email us. Our
         team will get back to you with quote and other details
     - id: 2
       question: Do you provide free sample editing for my manuscript?

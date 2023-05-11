@@ -1,66 +1,101 @@
 ---
-title: Essay Editing
 navTitle: Essay Editing
 navIndex: 4
+title: Essay Editing
 highlight: Native English & Ivy League Writers
-message: College Essay Experts  <span>Make the first impression the best</span>
-quoteTitle: Professional English Editing for any Research Paper
-editingCard:
-  - image: ./service_card.png
-    title: Lorem ipsum dolor sit amet consectetur. Odio malesuada eu fames dictum.
-    buttonLink: www.google.com
-    points:
-      - Lorem ipsum dolor sit amet consectetur. Odio malesuada eu fames dictum. Lorem ipsum dolor sit amet consectetur. Odio malesuada eu fames dictum.
-      - Lorem ipsum dolor sit amet consectetur. Odio malesuada eu fames dictum. Lorem ipsum dolor sit amet consectetur. Odio malesuada eu fames dictum.
-      - Lorem ipsum dolor sit amet consectetur. Odio malesuada eu fames dictum. Lorem ipsum dolor sit amet consectetur. Odio malesuada eu fames dictum.
-    editingCardLinks:
-      - title: Lorem ipsum dolor sit amet consectetur. Odio malesuada eu fames dictum.
-        description: Lorem ipsum dolor sit amet consectetur. Odio malesuada eu fames dictum.
-        links:
-          - title: Lorem ipsum dolor sit consectetur
-            titleLinkDescription: Lorem ipsum dolor sit amet consectetur. Sit a mattis
-            titleLink: www.google.com
-editorSecTitle: Manuscript Editors & Native English Editors
+serviceHeader:
+  decription: "We're ContentConcepts, the essay editing service that will take
+    your jumbled mess and turn it into a polished masterpiece that would make
+    Shakespeare proud. Okay, maybe not Shakespeare, but you get the idea! Our
+    essay editors work with their magic  to:"
+  serviceLink:
+    - title: ""
+      link: Enhance clarity and coherence
+    - title: ""
+      link: Strengthen arguments and ideas
+    - title: ""
+      link: Refine language and tone
+    - title: ""
+      link: " Eliminate errors and inconsistencies"
+btnTxt:
+  quote: Get Instant Quote
+  sample: Essay Edit Sample
+editorSecTitle: Our Essay Editors
+nativeEditorSecToggle: show
 editorSecCards:
-  - image: ./userAvatar.png
-    name: Victor Rice
-    designation: Customer Engagement Manager CADD Centre
-    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc pretium scelerisque neque amet consectetur adipiscing elit. Nunc pretium scelerisque neque amet
-  - image: ./userAvatar.png
-    name: Victor Rice
-    designation: Customer Engagement Manager CADD Centre
-    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc pretium scelerisque neque amet consectetur adipiscing elit. Nunc pretium scelerisque neque amet
-  - image: ./userAvatar.png
-    name: Victor Rice
-    designation: Customer Engagement Manager CADD Centre
-    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc pretium scelerisque neque amet consectetur adipiscing elit. Nunc pretium scelerisque neque amet
-features:
-  - id: 1
-    title: English language editing
-    link: https://contentconcepts.in/services/academic_editing/english_editing
-  - id: 2
-    title: Proofreading services
-    link: https://contentconcepts.in/services/academic_editing/proofreading_service
-  - id: 3
-    title: Manuscript editing service
-    link: https://contentconcepts.in/services/academic_editing/manuscript_editing
-  - id: 4
-    title: Book manuscript editing service
-    link: https://contentconcepts.in/services/academic_editing/book_editing
-  - id: 5
-    title: Plagiarism editing
-    link: https://contentconcepts.in/services/plagiarism_check/plagiarism_editing
-  - title: Thesis editing service
-    id: 6
-    link: https://contentconcepts.in/services/academic_editing/thesis_editing
-priceCard:
-  pricing:
-    title: Starts from
-    price:
-      inr: <span>$0.020</span>/word
-      usd: <span>₹1.60</span>/word
-  tagContent: Clear, Concise & Convincing
-  content: Essay that clicks
+  - image: manuscript-editor.jpeg
+    name: Ross Taylor
+    designation: Essay Editor & Native English Editor
+    description: Meet Ross, our expert English essay editor with a passion for
+      helping students and professionals elevate their writing to the next
+      level. He has a keen eye for detail and a natural talent for enhancing the
+      flow, coherence, and clarity of essays..
+  - name: Alan Wichelman
+    designation: Native English Editor
+    description: "Alan is a  passionate and dedicated essay expert with years of
+      experience in the industry. With a strong background in essay editing and
+      a keen eye for detail, Alan is committed to elevating your writing to the
+      next level. "
+    image: manucript-editor-native.jpeg
+flashBannerTop:
+  quoteTitle: Elevate your writing game.
+  quoteToggle: show
+  quoteLink: https://contentconcepts.com/pricing/
+serviceProcess:
+  title: Essay Editing Process
+  steps:
+    - id: 1
+      order: "01"
+      title: Submit Manuscript
+      description: Customer submits manuscript via our Request for quote page.
+      themeColor: "#98ECA6"
+    - id: 2
+      order: "02"
+      title: Receive Quote
+      description: After receiving the manuscript, ContentConcepts sends price quote.
+      themeColor: "#F5DA7D"
+    - id: 3
+      order: "03"
+      title: Confirm Order
+      description: After payment is made by the customer, ContentConcepts sends
+        confirmation of payment.
+      themeColor: "#98E5E0"
+    - id: 4
+      order: "04"
+      title: Edit & Return
+      description: CC assigns the right editor who edits and sends the edited document
+        back to the customer.
+      themeColor: "#FFABAB"
+editingHighlights:
+  title: Why Choose Our Essay Editing service
+  highlights:
+    - id: 1
+      title: Affordable Prices
+      description: Our essay editing fee is one of the best in the industry for the
+        level of quality work we offer from our trusted PhD and native English
+        editors.
+      image: ./affordable.svg
+    - id: 2
+      title: Superior Support
+      description: You can talk to your Essay Editor until you are satisfied with our
+        editing service, get your queries answered via email or chat and send
+        your essay after review from for further check.
+      image: ./support.svg
+    - id: 3
+      title: Confidentiality
+      description: We ensure your documents are handled with utmost care. We can sign
+        NDA if necessary.
+      image: ./confidential.svg
+    - id: 4
+      title: Secure transaction
+      description: Your documents as wells as payment is handled by our secure website
+        which has passed the best level of security testing in the industry.
+      image: ./transaction.svg
+  toggle: show
+flashBannerCenter:
+  quoteTitle: Your words, our magic.
+  quoteLink: https://contentconcepts.com/pricing/
+  quoteToggle: show
 editingLevels:
   title: Essay Editing Levels
   subHeading: Because each author is unique
@@ -122,6 +157,46 @@ editingLevels:
       copy: no
       substantive: no
       developmental: yes
+connectToolsTitle: Unlock your essay's potential
+connectToolsDec: "The essay editing service that will take your jumbled mess and
+  turn it into a polished masterpiece "
+connectToolsToggle: no
+editingCard:
+  - image: ./service_card.png
+    title: Let our essay editors work their magic to
+    buttonLink: www.google.com
+    points:
+      - Lorem ipsum dolor sit amet consectetur. Odio malesuada eu fames dictum.
+        Lorem ipsum dolor sit amet consectetur. Odio malesuada eu fames dictum.
+      - Lorem ipsum dolor sit amet consectetur. Odio malesuada eu fames dictum.
+        Lorem ipsum dolor sit amet consectetur. Odio malesuada eu fames dictum.
+      - Lorem ipsum dolor sit amet consectetur. Odio malesuada eu fames dictum.
+        Lorem ipsum dolor sit amet consectetur. Odio malesuada eu fames dictum.
+    editingCardLinks:
+      - title: Lorem ipsum dolor sit amet consectetur. Odio malesuada eu fames dictum.
+        description: Lorem ipsum dolor sit amet consectetur. Odio malesuada eu fames dictum.
+        links:
+          - title: Lorem ipsum dolor sit consectetur
+            titleLinkDescription: Lorem ipsum dolor sit amet consectetur. Sit a mattis
+            titleLink: www.google.com
+    backgroundColor: "#872657"
+    bulletpoints:
+      - title: Enhance clarity and coherence
+        link: https://contentconcepts.com/services/academic_editing/essay_editing/
+        buttonLink: https://contentconcepts.com/services/academic_editing/essay_editing/
+      - title: Strengthen arguments and ideas
+        link: https://contentconcepts.com/services/academic_editing/essay_editing/
+        buttonLink: https://contentconcepts.com/services/academic_editing/essay_editing/
+      - title: Refine language and tone
+        link: https://contentconcepts.com/services/academic_editing/essay_editing/
+        buttonLink: https://contentconcepts.com/services/academic_editing/essay_editing/
+message: Choose Our College Essay Experts. <span>Make the first impression the
+  best.</span>
+cardImage: essay_success2-transformed.jpeg
+flashBannerBottom:
+  quoteTitle: Unlock your essay's potential.
+  quoteLink: https://contentconcepts.com/pricing/
+  quoteToggle: show
 editingSample:
   title: Essay Editing Sample
   samples:
@@ -132,8 +207,7 @@ editingSample:
       image: ./essay_editing_sample_free.png
     - id: 2
       title: Substantive Editing
-      description:
-        Line by line editing for language, readibility. Overall structure
+      description: Line by line editing for language, readibility. Overall structure
         of the paper, tone and section transition.
       image: ./essay_editing_sample.png
     - id: 3
@@ -141,77 +215,48 @@ editingSample:
       description: Technical review of manuscript by editor + Copy editing,
         substantive editing features
       image: ./essay_editing_sample_free.png
-editingHighlights:
-  title: Highlights of our Essay Editing service
-  highlights:
-    - id: 1
-      title: Affordable Prices
-      description:
-        Our essay editing fee is one of the best in the industry for the
-        level of quality work we offer from our trusted PhD and native English
-        editors.
-      image: ./affordable.svg
-    - id: 2
-      title: Superior Support
-      description:
-        You can talk to your Essay Editor until you are satisfied with our
-        editing service, get your queries answered via email or chat and send
-        your essay after review from for further check.
-      image: ./support.svg
-    - id: 3
-      title: Confidentiality
-      description:
-        We ensure your documents are handled with utmost care. We can sign
-        NDA if necessary.
-      image: ./confidential.svg
-    - id: 4
-      title: Secure transaction
-      description:
-        Your documents as wells as payment is handled by our secure website
-        which has passed the best level of security testing in the industry.
-      image: ./transaction.svg
-serviceProcess:
-  title: Essay Editing Process
-  steps:
-    - id: 1
-      order: "01"
-      title: Submit Manuscript
-      description: Customer submits manuscript via our Request for quote page.
-      themeColor: "#98ECA6"
-    - id: 2
-      order: "02"
-      title: Receive Quote
-      description: After receiving the manuscript, ContentConcepts sends price quote.
-      themeColor: "#F5DA7D"
-    - id: 3
-      order: "03"
-      title: Confirm Order
-      description: After payment is made by the customer, ContentConcepts sends
-        confirmation of payment.
-      themeColor: "#98E5E0"
-    - id: 4
-      order: "04"
-      title: Edit & Return
-      description:
-        CC assigns the right editor who edits and sends the edited document
-        back to the customer.
-      themeColor: "#FFABAB"
 faq:
   title: Frequently Asked Questions
   questions:
     - id: 1
       question: What are the different English language styles you use while editing?
-      answer:
-        We can edit as per two English language styles – American English and
+      answer: We can edit as per two English language styles – American English and
         British English. You can choose your preferred language style in the
         online submission form.
     - id: 2
       question: Is my information secure with you?
-      answer:
-        We can edit as per two English language styles – American English and
+      answer: We can edit as per two English language styles – American English and
         British English.
-key: essay_editing
 parentType: academic
+priceCard:
+  pricing:
+    title: Starts from
+    price:
+      inr: <span>$0.020</span>/word
+      usd: <span>₹1.60</span>/word
+  tagContent: Clear, Concise & Convincing
+  content: Essay that clicks
+quoteTitle: Professional English Editing for any Research Paper
+features:
+  - id: 1
+    title: English language editing
+    link: https://contentconcepts.in/services/academic_editing/english_editing
+  - id: 2
+    title: Proofreading services
+    link: https://contentconcepts.in/services/academic_editing/proofreading_service
+  - id: 3
+    title: Manuscript editing service
+    link: https://contentconcepts.in/services/academic_editing/manuscript_editing
+  - id: 4
+    title: Book manuscript editing service
+    link: https://contentconcepts.in/services/academic_editing/book_editing
+  - id: 5
+    title: Plagiarism editing
+    link: https://contentconcepts.in/services/plagiarism_check/plagiarism_editing
+  - title: Thesis editing service
+    id: 6
+    link: https://contentconcepts.in/services/academic_editing/thesis_editing
+key: essay_editing
 seo:
   title: Admission essay editing services in India. Essay editor, Essay editing sample
   description: Essay editing and proofreading services, Essay editor in India at
@@ -224,20 +269,13 @@ seo:
     - admission essay editing
     - admission essay proofreading
 ---
-
 Are you staring at a blank page and feeling like your brain has gone on a vacation without you? Is your essay due in a few hours and you're still unsure of how to begin? Fear not, my friend, because our [essay editors](https://contentconcepts.com/about/) have got you covered!
 
-![Essay_editing_experts](essay_editing_services.png "Essay editor")
+<br>We're [ContentConcepts](https://contentconcepts.com/about/), the [essay editing service](https://contentconcepts.com/services/academic_editing/essay_editing) that will take your jumbled mess and turn it into a polished masterpiece that would make Shakespeare proud. Okay, maybe not Shakespeare, but you get the idea!
 
-<br>
+<br>We'll fix all the [grammatical errors](https://contentconcepts.com/services/academic_editing/english_editing), the awkward sentences, and the downright confusing paragraphs. We'll make it flow like a gentle stream on a summer day.
 
-We're [ContentConcepts](https://contentconcepts.com/about/), the [essay editing service](https://contentconcepts.com/services/academic_editing/essay_editing) that will take your jumbled mess and turn it into a polished masterpiece that would make Shakespeare proud. Okay, maybe not Shakespeare, but you get the idea!
-
-We'll fix all the [grammatical errors](https://contentconcepts.com/services/academic_editing/english_editing), the awkward sentences, and the downright confusing paragraphs. We'll make it flow like a gentle stream on a summer day.
-
-And don't worry, we won't judge your writing skills. We've all been there, trust us. We'll just fix it up so that it looks like a work of art.
-
-So, what are you waiting for? Don't let a messy essay get you down. Let us work our magic and turn it into something that would make your English teacher cry tears of joy.
+<br>And don't worry, we won't judge your writing skills. We've all been there, trust us. We'll just fix it up so that it looks like a work of art. So, what are you waiting for? Don't let a messy essay get you down. Let us work our magic and turn it into something that would make your English teacher cry tears of joy.
 
 ## So what exactly our essay editors do?
 
