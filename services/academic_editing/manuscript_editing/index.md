@@ -1,58 +1,59 @@
 ---
-title: Manuscript Editing
-highlight: " Our #1 selling service @ $0.021 per word"
-features:
-  - id: 1
-    title: Scientific Manuscript Editing
-    link: https://contentconcepts.in/services/academic_editing/scientific_manuscript_editing
-  - id: 2
-    title: Thesis Editing
-    link: https://contentconcepts.in/services/academic_editing/thesis_editing
-  - id: 3
-    title: English Language Editing
-    link: https://contentconcepts.in/services/academic_editing/english_editing
-  - id: 4
-    title: Manuscript Proofreading Service
-    link: https://contentconcepts.in/services/academic_editing/proofreading_service
-  - id: 5
-    title: Plagiarism Check & Correction
-    link: https://contentconcepts.in/services/plagiarism_correction
-  - id: 6
-    title: Manuscript Formatting
-    link: https://contentconcepts.in/services/publication_support/manuscript_formatting
-message: Not happy with edit? <span>100% refund without any condition</span>
-cardImage: manuscript_editing_service.png
 navTitle: Manuscript Editing
 navIndex: 1
-connectToolsTitle: Why We're the Write Choice
-connectToolsDec: Our experienced editors will meticulously review your work to
-  ensure that your research is presented in the clearest, most concise manner
-  possible.
-connectToolsToggle: show
-connectTools:
-  - title: Two-editor process
-    description: Our manuscript editing service employs a two-editor system to
-      ensure that your document is reviewed thoroughly from different
-      perspectives, resulting in a polished final product.
-    image: confidential.svg
-  - title: Editing Certificate
-    description: We provide a free editing certificate with each order, guaranteeing
-      that your document has been edited to the highest professional standards.
-    image: editing_certificate.svg
-  - title: Personal Care
-    description: At our manuscript editing service, we treat each document with the
-      utmost care and attention, tailoring our editing to meet your specific
-      needs and preferences. With us, you can trust that your manuscript will
-      receive the personalized care it deserves.
-    image: affordable.svg
-quoteTitle: Top rated, yet affordable manuscript editing services
-quoteLink: https://contentconcepts.com/services/academic_editing/manuscript_editing/
-quoteToggle: show
-editingCard:
-  - title: Editing Links card Title
-    backgroundColor: blue
-    buttonLink: www.google.com
-    image: editing-proofreading-graphic.png
+title: Manuscript Editing
+highlight: " Our #1 selling service @ $0.021 per word"
+serviceHeader:
+  decription: "Manuscript editing is like conducting a science experiment on your
+    writing. We'll mix in the perfect balance of clarity, conciseness, and
+    academic jargon to create a winning formula. With our affordable and trusted
+    manuscript editing service, your research paper will shine brighter than a
+    diamond. And here are few more reasons to choose us:"
+  serviceLink:
+    - title: ""
+      link: <a
+        href="https://contentconcepts.com/blog/how-much-does-manuscript-editing-cost-per-page-per-word/">Affordable
+        manuscript editing</a>
+    - title: ""
+      link: <a
+        href="https://contentconcepts.com/blog/contentconcepts-top-rated-academic-editing-and-proofreading-services/">Top-rated
+        editing service on Google - 4.9</a>
+    - title: ""
+      link: <a
+        href="https://contentconcepts.com/blog/free-english-editing-certificate/">Free
+        editing Certificate</a>
+btnTxt:
+  sample: Editing Sample
+  editing: Editing Certificate
+editorSecTitle: Manuscript Editors & Native English Editors
+nativeEditorSecToggle: show
+editorSecCards:
+  - name: Ross Taylor
+    designation: Native English & Manuscript Editor
+    description: David is a skilled native English editor with a background in
+      linguistics and engineering. He specializes in science, medical, and
+      technology manuscripts and has a certification in teaching English as a
+      foreign language.
+    image: manuscript-editor.jpeg
+  - name: Alan Wichelman
+    designation: "Senior Editor - Business, Management & Marketing "
+    description: Meet Alan, our native English editor who ensures all corporate
+      documents and correspondence are flawlessly written. As a licensed
+      attorney in the United States, he also teaches non-American lawyers
+      reader-friendly, plain English drafting skills
+    image: editor6_male.jpeg
+  - name: Dr Carole J
+    designation: Senior Editor - Life Sciences & Medicine
+    description: Carole is a meticulous medical editor with standout professional
+      and research experience in the United States, and Europe. She has
+      conducted research at prestigious academic institutions in North America,
+      including Harvard Medical School, Columbia University and the University
+      of North Carolina.
+    image: carole_medical_editor.jpeg
+flashBannerTop:
+  quoteTitle: Turn your manuscript from mediocre to masterpiece
+  quoteLink: https://contentconcepts.com/pricing/
+  quoteToggle: show
 serviceProcess:
   title: How Manuscript Editing works?
   steps:
@@ -99,26 +100,10 @@ editingHighlights:
       description: You will get free editing certificate after your manuscript editing
         is complete
       image: editing_certificate.svg
-editorSecTitle: Manuscript Editors & Native English Editors
-nativeEditorSecToggle: show
-editingSample:
-  title: Manuscript Editing Sample
-  samples:
-    - id: 1
-      title: Manuscript Proofreading
-      description: Grammatically correct sentences, appropriate use of words and
-        terminologies
-      image: ./Copy_editing_sample.png
-    - id: 2
-      title: Manuscript Substantive Editing
-      description: Line by line editing for language, readibility. Overall structure
-        of the paper, tone and section transition.
-      image: ./Manuscript_editing_sample_free.png
-    - id: 3
-      title: Manuscript Developmental Editing
-      description: Technical review of manuscript by editor + Copy editing,
-        substantive editing features
-      image: ./substantive_editing.png
+flashBannerCenter:
+  quoteLink: https://contentconcepts.com/pricing/
+  quoteTitle: Polish your paper to perfection
+  quoteToggle: show
 editingLevels:
   title: Manuscript Editing Services
   subHeading: Proofreading or Editing? Choose what you want.
@@ -163,6 +148,82 @@ editingLevels:
       copy: no
       substantive: no
       developmental: yes
+connectToolsTitle: Why We're the Write Choice
+connectToolsDec: Our experienced editors will meticulously review your work to
+  ensure that your research is presented in the clearest, most concise manner
+  possible.
+connectToolsToggle: show
+connectTools:
+  - title: Two-editor process
+    description: Our manuscript editing service employs a two-editor system to
+      ensure that your document is reviewed thoroughly.
+    image: confidential.svg
+  - title: Editing Certificate
+    description: We provide a free editing certificate with each order, guaranteeing
+      that your document has been edited to the highest professional standards.
+    image: editing_certificate.svg
+  - title: Personal Care
+    description: At our manuscript editing service, we treat each document with the
+      utmost care and attention, tailoring to meet your specific needs.
+    image: affordable.svg
+editingCard:
+  - title: Manuscript Editing 101
+    backgroundColor: "#872657"
+    buttonLink: www.google.com
+    image: proofreading_101.png
+    bulletpoints:
+      - title: What does manuscript editor do?
+        link: https://contentconcepts.com/blog/manuscript-editing-101/
+        buttonLink: https://contentconcepts.com/blog
+      - title: Levels of editing
+        link: https://contentconcepts.com/blog/manuscript-editing-101/
+        buttonLink: https://contentconcepts.com/blog
+features:
+  - id: 1
+    title: Scientific Manuscript Editing
+    link: https://contentconcepts.in/services/academic_editing/scientific_manuscript_editing
+  - id: 2
+    title: Thesis Editing
+    link: https://contentconcepts.in/services/academic_editing/thesis_editing
+  - id: 3
+    title: English Language Editing
+    link: https://contentconcepts.in/services/academic_editing/english_editing
+  - id: 4
+    title: Manuscript Proofreading Service
+    link: https://contentconcepts.in/services/academic_editing/proofreading_service
+  - id: 5
+    title: Plagiarism Check & Correction
+    link: https://contentconcepts.in/services/plagiarism_correction
+  - id: 6
+    title: Manuscript Formatting
+    link: https://contentconcepts.in/services/publication_support/manuscript_formatting
+message: Not happy with edit? <span>100% refund without any condition</span>
+cardImage: manuscript_editing_service.png
+flashBannerBottom:
+  quoteLink: https://contentconcepts.com/pricing/
+  quoteTitle: From 'meh' to 'marvelous manuscript
+  quoteToggle: show
+editingSample:
+  title: Manuscript Editing Sample
+  samples:
+    - id: 1
+      title: Manuscript Proofreading
+      description: Grammatically correct sentences, appropriate use of words and
+        terminologies
+      image: ./Copy_editing_sample.png
+    - id: 2
+      title: Manuscript Substantive Editing
+      description: Line by line editing for language, readibility. Overall structure
+        of the paper, tone and section transition.
+      image: ./Manuscript_editing_sample_free.png
+    - id: 3
+      title: Manuscript Developmental Editing
+      description: Technical review of manuscript by editor + Copy editing,
+        substantive editing features
+      image: ./substantive_editing.png
+parentType: academic
+quoteToggle: show
+quoteLink: https://contentconcepts.com/services/academic_editing/manuscript_editing/
 faq:
   title: Manuscript Editing Services - Top 10 Questions
   questions:
@@ -219,8 +280,6 @@ faq:
       question: Do you offer refund if I am not satisfied with your work?
       answer: Yes, we provide 100% refund if you have valid reasons and if the
         document is edited badly.
-key: manuscript_editing
-parentType: academic
 priceCard:
   pricing:
     title: Starts from
@@ -229,6 +288,8 @@ priceCard:
       usd: <span>₹1.60</span>/word
   tagContent: Ask for FREE SAMPLE EDIT
   content: Free Editing Certificate
+quoteTitle: Top rated, yet affordable manuscript editing services
+key: manuscript_editing
 seo:
   title: Manuscript editing service, Research paper editing service
   description: International quality manuscript editing services at affordable
@@ -247,9 +308,13 @@ seo:
     - english language editing service india
     - manuscript editing services, cheap english editing services
 ---
+Are you tired of feeling like you're in a constant battle with journal reviewers to accept your manuscript? Do you wish there was a magical editing fairy who could swoop in and turn your writing into a masterpiece? Well, guess what? We may not have wings or wands, but we do have something even better: our professional manuscript editing service.
+
+Don't let your research paper languish in mediocrity any longer. Let us help you turn it into a work of art that even Da Vinci would envy (okay, maybe that's a stretch, but you get the idea). Try our manuscript editing service today and unleash your inner writing genius!
+
 Whether you're writing your research paper or marketing document or your next best-selling novel, a [manuscript editor](https://contentconcepts.com/about/) is your secret weapon to success. We'll dive into the world of editing - from [proofreading](https://contentconcepts.com/services/academic_editing/proofreading_service) to line editing, and everything in between. And let's not forget the burning question: [how much will manuscript editing cost?](https://contentconcepts.com/blog/how-much-does-manuscript-editing-cost-per-page-per-word/) Don't worry, we've got you covered - without breaking the bank. So sit back, relax, and let's edit this masterpiece together!
 
-Manuscript editing is like conducting a science experiment on your writing. We'll mix in the perfect balance of clarity, conciseness, and academic jargon to create a winning formula. With our trusted and affordable manuscript editing service, we'll help you reach your research goals faster. We'll tackle those grammar and punctuation errors, fine-tune the language and style, and make sure your work is top-notch. With our affordable and trusted manuscript editing service, your research paper will shine brighter than a diamond.
+<span style="color: green;">Manuscript editing is like conducting a science experiment on your writing. We'll mix in the perfect balance of clarity, conciseness, and academic jargon to create a winning formula. With our affordable and trusted manuscript editing service, your research paper will shine brighter than a diamond.</span>
 
 ### What in the world does a manuscript editor actually do?
 
@@ -271,13 +336,13 @@ There are four main types of editing - proofreading, [copy editing](https://cont
 
 * **[Proofreading](https://contentconcepts.in/services/academic_editing/proofreading_service)** involves checking for grammatical, punctuation and spelling errors.
 
-  **Copy editing** improves the overall language and flow of the text.
+*   **Copy editing** improves the overall language and flow of the text.
 
-  **Substantive editing** focuses on the structure and content of the text.
+*   **Substantive editing** focuses on the structure and content of the text.
 
-  **Developmental editing** makes changes to the story, characters, and themes of a manuscript.
+*   **Developmental editing** makes changes to the story, characters, and themes of a manuscript.
 
-  R﻿ead more detail on the level of editing done for each type of editing.
+R﻿ead more detail on the level of editing done for each type of editing.
 
 ### Steps in editing a manuscript
 
