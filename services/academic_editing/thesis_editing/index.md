@@ -2,13 +2,26 @@
 navTitle: Thesis Editing
 navIndex: 2
 title: Thesis Editing Service
-highlight: GET 10% DISCOUNT FOR FIRST JOB
+highlight: Phd Editors & Native English Editors
 serviceHeader:
   decription: We know how hard you've worked on your thesis and we want to make
     sure it shines like a diamond. That's why our thesis editing service pays
     attention to every little detail, from grammar and spelling to formatting
     and style. And don't worry, your work is safe with us. We take
     confidentiality seriously, like a spy in a James Bond movie.
+  serviceLink:
+    - title: ""
+      link: <a
+        href="https://contentconcepts.com/blog/how-much-does-manuscript-editing-cost-per-page-per-word/">Affordable
+        thesis editing</a>
+    - title: ""
+      link: <a
+        href="https://contentconcepts.com/blog/contentconcepts-top-rated-academic-editing-and-proofreading-services/">Top-rated
+        thesis editing service on Google - 4.9</a>
+    - title: ""
+      link: <a
+        href="https://contentconcepts.com/blog/free-english-editing-certificate/">Free
+        English editing certificate</a>
 editorSecTitle: Our Thesis Editors
 nativeEditorSecToggle: show
 editorSecCards:
@@ -29,7 +42,7 @@ editorSecCards:
       proposals to regulatory documents. She has conducted and supervised
       clinical research trials for reputed pharmaceuticals companies
     image: thesis_editor_3.png
-  - name: Editor Name
+  - name: Alan Wichelman
     designation: Thesis Editor - Business & Management
     description: Alan is a native English thesis editor with expertise in flawless
       research writing and editing skills. Alan has edited more than 100 theses
@@ -151,26 +164,25 @@ connectTools:
     description: Get personalized thesis editing tailored to your specific needs
       with our expert team. Trust us to give your thesis the care it deserves.
     image: affordable.svg
-features:
-  - id: 1
-    title: Thesis Formating
-    link: https://contentconcepts.in/services/publication_support/manuscript_formatting
-  - id: 2
-    title: Plagiarism Checker
-    link: https://contentconcepts.in/services/plagiarism_correction
-  - id: 3
-    title: Scientific Manuscript Editing
-    link: https://contentconcepts.in/services/academic_editing/scientific_manuscript_editing
-  - id: 4
-    title: English Language Editing
-    link: https://contentconcepts.in/services/academic_editing/english_editing
-  - id: 5
-    title: Proofreading Service
-    link: https://contentconcepts.in/services/academic_editing/proofreading_service
-  - title: "Manuscript Editing "
-    id: 6
-    link: https://contentconcepts.in/services/academic_editing/manuscript_editing
-message: Not happy with thesis editing? <span>100% refund without any condition</span>
+editingCard:
+  - title: More than just thesis editing!
+    backgroundColor: "#872657"
+    image: essay_editing_service.webp
+    bulletpoints:
+      - title: Thesis formatting
+        link: www.test.com
+        buttonLink: www.google.com
+      - title: References & Citation check
+        link: www.test.com
+        buttonLink: www.google.com
+      - title: Structure & Clarity check
+        link: www.test.com
+        buttonLink: www.google.com
+message: '<span> <a
+  href="https://contentconcepts.com/blog/how-much-does-manuscript-editing-cost-per-page-per-word/">Manuscript
+  Editing Service</a></span> <span> <a
+  href="https://contentconcepts.com/services/academic_editing/proofreading_service/">Proofreading
+  Service</a></span> '
 cardImage: phd_thesis_editing.png
 flashBannerBottom:
   quoteTitle: Turn your manuscript in to masterpiece!
@@ -240,7 +252,6 @@ faq:
         worry about your payment details. You can make payment via bank, Google
         Pay, UPI, or PayPal
   toggle: show
-key: thesis_editing
 parentType: academic
 priceCard:
   pricing:
@@ -250,6 +261,26 @@ priceCard:
       usd: <span>$0.020</span>/word
   tagContent: APA, Chicago, MLA, Turabian styles
   content: Formatting, Plagiarism check, Proofreading
+features:
+  - id: 1
+    title: Thesis Formating
+    link: https://contentconcepts.in/services/publication_support/manuscript_formatting
+  - id: 2
+    title: Plagiarism Checker
+    link: https://contentconcepts.in/services/plagiarism_correction
+  - id: 3
+    title: Scientific Manuscript Editing
+    link: https://contentconcepts.in/services/academic_editing/scientific_manuscript_editing
+  - id: 4
+    title: English Language Editing
+    link: https://contentconcepts.in/services/academic_editing/english_editing
+  - id: 5
+    title: Proofreading Service
+    link: https://contentconcepts.in/services/academic_editing/proofreading_service
+  - title: "Manuscript Editing "
+    id: 6
+    link: https://contentconcepts.in/services/academic_editing/manuscript_editing
+key: thesis_editing
 seo:
   title: Phd thesis editing service, dissertation editing
   description: Thesis and dissertation editing and proofreading services by Phd &
@@ -263,7 +294,7 @@ seo:
 ---
 Hello there. We understand the pain of writing a thesis! It's like trying to climb a mountain with a backpack full of rocks, isn't it? We know how hard you've worked on your masterpiece and we want to make sure it shines like a diamond. That's why our thesis editing service pay attention to every little detail, from grammar and spelling to formatting and style. And don't worry, your work is safe with us. We take confidentiality seriously, like a spy in a James Bond movie.
 
-![Thesis editing]( "thesis editing sample")
+![Thesis editing](proofreading_services.png "thesis editing sample")
 
 Now, we know what you're thinking. "Thesis editing services are expensive!" Well, hold on to your wallet, because we offer [affordable prices](https://contentconcepts.com/pricing/#pricing) without sacrificing quality. We believe that you don't have to sell a kidney to get the help you need.
 
@@ -293,11 +324,11 @@ Proofreading is the process of reviewing a thesis for errors in grammar, punctua
 
 Thesis formatting involves ensuring that the thesis conforms to the guidelines of the relevant academic discipline in terms of style, formatting, and citation. This can involve tasks such as ensuring consistent use of font, spacing, and margins, as well as ensuring accurate citation of sources.
 
-## What Are Thesis Editors?
+## Who Are Your Thesis Editors?
 
 [Thesis editors](https://contentconcepts.com/about/) are professionals who specialize in reviewing and improving academic papers, including theses, dissertations, and research papers. They have expertise in the relevant academic disciplines and are skilled in reviewing and improving the language, structure, and formatting of academic papers.
 
-## What Are Professional Thesis Editing Services?
+## What Is Professional Thesis Editing Service?
 
 [Professional thesis editing services](https://contentconcepts.com/services/academic_editing/thesis_editing) are companies or individuals who offer thesis editing services for a fee. They typically have a team of experienced editors who specialize in different academic disciplines and offer a range of editing services, from proofreading to substantive editing.
 
@@ -324,10 +355,6 @@ During thesis editing, you can expect your editor to review your thesis carefull
 ## How to Use Thesis Editing to Improve Your Writing Skills
 
 Thesis editing can be a valuable opportunity to improve your writing skills by learning from the feedback and suggestions provided by your editor. By reviewing and incorporating the changes suggested by your editor, you can learn to write more clearly, concisely, and effectively, and develop a stronger understanding of the conventions of academic writing.
-
-## Conclusion
-
-Thesis editing is a crucial step in the process of producing a high-quality academic paper. By carefully reviewing and refining your thesis, you can ensure that it meets the highest standards of academic excellence, and demonstrates your expertise and professionalism as a scholar. Whether you choose to work with a professional thesis editor or review and edit your thesis yourself, taking the time to ensure that your thesis is well-written, well-structured, and error-free can have a significant impact on your academic success and career prospects.
 
 ## FAQ
 
