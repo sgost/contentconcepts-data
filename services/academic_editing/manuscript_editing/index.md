@@ -178,25 +178,6 @@ editingCard:
       - title: Levels of editing
         link: https://contentconcepts.com/blog/manuscript-editing-101/
         buttonLink: https://contentconcepts.com/blog
-features:
-  - id: 1
-    title: Scientific Manuscript Editing
-    link: https://contentconcepts.in/services/academic_editing/scientific_manuscript_editing
-  - id: 2
-    title: Thesis Editing
-    link: https://contentconcepts.in/services/academic_editing/thesis_editing
-  - id: 3
-    title: English Language Editing
-    link: https://contentconcepts.in/services/academic_editing/english_editing
-  - id: 4
-    title: Manuscript Proofreading Service
-    link: https://contentconcepts.in/services/academic_editing/proofreading_service
-  - id: 5
-    title: Plagiarism Check & Correction
-    link: https://contentconcepts.in/services/plagiarism_correction
-  - id: 6
-    title: Manuscript Formatting
-    link: https://contentconcepts.in/services/publication_support/manuscript_formatting
 message: Not happy with edit? <span>100% refund without any condition</span>
 cardImage: manuscript_editing_service.png
 flashBannerBottom:
@@ -221,6 +202,8 @@ editingSample:
       description: Technical review of manuscript by editor + Copy editing,
         substantive editing features
       image: ./substantive_editing.png
+  toggle: show
+key: manuscript_editing
 parentType: academic
 quoteToggle: show
 quoteLink: https://contentconcepts.com/services/academic_editing/manuscript_editing/
@@ -289,7 +272,25 @@ priceCard:
   tagContent: Ask for FREE SAMPLE EDIT
   content: Free Editing Certificate
 quoteTitle: Top rated, yet affordable manuscript editing services
-key: manuscript_editing
+features:
+  - id: 1
+    title: Scientific Manuscript Editing
+    link: https://contentconcepts.in/services/academic_editing/scientific_manuscript_editing
+  - id: 2
+    title: Thesis Editing
+    link: https://contentconcepts.in/services/academic_editing/thesis_editing
+  - id: 3
+    title: English Language Editing
+    link: https://contentconcepts.in/services/academic_editing/english_editing
+  - id: 4
+    title: Manuscript Proofreading Service
+    link: https://contentconcepts.in/services/academic_editing/proofreading_service
+  - id: 5
+    title: Plagiarism Check & Correction
+    link: https://contentconcepts.in/services/plagiarism_correction
+  - id: 6
+    title: Manuscript Formatting
+    link: https://contentconcepts.in/services/publication_support/manuscript_formatting
 seo:
   title: Manuscript editing service, Research paper editing service
   description: International quality manuscript editing services at affordable
