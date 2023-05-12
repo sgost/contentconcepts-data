@@ -29,7 +29,7 @@ editorSecCards:
       proposals to regulatory documents. She has conducted and supervised
       clinical research trials for reputed pharmaceuticals companies
     image: thesis_editor_3.png
-  - name: Editor Name
+  - name: Alan Wichelman
     designation: Thesis Editor - Business & Management
     description: Alan is a native English thesis editor with expertise in flawless
       research writing and editing skills. Alan has edited more than 100 theses
@@ -151,25 +151,6 @@ connectTools:
     description: Get personalized thesis editing tailored to your specific needs
       with our expert team. Trust us to give your thesis the care it deserves.
     image: affordable.svg
-features:
-  - id: 1
-    title: Thesis Formating
-    link: https://contentconcepts.in/services/publication_support/manuscript_formatting
-  - id: 2
-    title: Plagiarism Checker
-    link: https://contentconcepts.in/services/plagiarism_correction
-  - id: 3
-    title: Scientific Manuscript Editing
-    link: https://contentconcepts.in/services/academic_editing/scientific_manuscript_editing
-  - id: 4
-    title: English Language Editing
-    link: https://contentconcepts.in/services/academic_editing/english_editing
-  - id: 5
-    title: Proofreading Service
-    link: https://contentconcepts.in/services/academic_editing/proofreading_service
-  - title: "Manuscript Editing "
-    id: 6
-    link: https://contentconcepts.in/services/academic_editing/manuscript_editing
 message: Not happy with thesis editing? <span>100% refund without any condition</span>
 cardImage: phd_thesis_editing.png
 flashBannerBottom:
@@ -240,7 +221,6 @@ faq:
         worry about your payment details. You can make payment via bank, Google
         Pay, UPI, or PayPal
   toggle: show
-key: thesis_editing
 parentType: academic
 priceCard:
   pricing:
@@ -250,6 +230,26 @@ priceCard:
       usd: <span>$0.020</span>/word
   tagContent: APA, Chicago, MLA, Turabian styles
   content: Formatting, Plagiarism check, Proofreading
+features:
+  - id: 1
+    title: Thesis Formating
+    link: https://contentconcepts.in/services/publication_support/manuscript_formatting
+  - id: 2
+    title: Plagiarism Checker
+    link: https://contentconcepts.in/services/plagiarism_correction
+  - id: 3
+    title: Scientific Manuscript Editing
+    link: https://contentconcepts.in/services/academic_editing/scientific_manuscript_editing
+  - id: 4
+    title: English Language Editing
+    link: https://contentconcepts.in/services/academic_editing/english_editing
+  - id: 5
+    title: Proofreading Service
+    link: https://contentconcepts.in/services/academic_editing/proofreading_service
+  - title: "Manuscript Editing "
+    id: 6
+    link: https://contentconcepts.in/services/academic_editing/manuscript_editing
+key: thesis_editing
 seo:
   title: Phd thesis editing service, dissertation editing
   description: Thesis and dissertation editing and proofreading services by Phd &
