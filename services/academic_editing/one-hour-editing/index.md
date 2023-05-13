@@ -155,7 +155,7 @@ flashBannerBottom:
   quoteToggle: show
 editingSample:
   toggle: show
-  title: Editing Sample Container Title
+  title: Editing Samples
   samples:
     - title: Proofreading
       id: 1
@@ -170,8 +170,23 @@ faq:
   title: FAQ
   questions:
     - id: 1
-      question: FAQ Question
-      answer: FAQ Answer
+      question: Who edits my document?
+      answer: " Our team of manuscript editors consists of highly skilled
+        professionals who specialize in the art of refining manuscripts. With a
+        keen eye for detail, our native English editors provide an added layer
+        of expertise to ensure that your text is of the highest caliber."
+    - id: 2
+      question: Is my document secure with you?
+      answer: Definitely. Our site is built with superior technology and is most
+        secure. Moreover, we have been in this field for over 15 years offering
+        secure services without any glitches so far
+    - id: 3
+      question: Do you check for plagiarism?
+      answer: Our plagiarism checking service utilizes cutting-edge software to detect
+        any instances of plagiarism in your manuscript. If you opt for this
+        add-on service, we'll provide you with a detailed report that includes
+        the percentage of similarity and other relevant details. Just let us
+        know when you submit your manuscript, and we'll take care of the rest.
 key: one-hour-editing
 parentType: academic
 seo:
@@ -192,7 +207,7 @@ seo:
     - manuscript editing services
     - cheap english editing services
 ---
-## **1-Hour Editing and Proofreading Services - Fast, Affordable, and Reliable”**
+## **1-Hour Editing and Proofreading Services - Fast, Affordable, and Reliable**
 
 Are you in need of some quick proofreading and editing services? Got a deadline breathing down your neck? No worries, fam. [ContentConcepts.com](https://contentconcepts.com/) has got your back with our one-hour editing and proofreading services. We'll take your work from drab to fab in no time flat, and make sure you meet your deadline with time to spare.
 
