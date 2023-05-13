@@ -32,7 +32,7 @@ nativeEditorSecToggle: show
 editorSecCards:
   - name: Ross Taylor
     designation: Native English & Manuscript Editor
-    description: David is a skilled native English editor with a background in
+    description: Ross is a skilled native English editor with a background in
       linguistics and engineering. He specializes in science, medical, and
       technology manuscripts and has a certification in teaching English as a
       foreign language.
