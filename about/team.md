@@ -2,14 +2,14 @@
 title: Manuscript Editors & Native English Editors
 teamMembers:
   - id: 1
-    name: David Ross
+    name: Ross Taylor
     role: Native English Manuscript Editor
-    description: David is a native English editor, with an academic background
+    description: Ross is a native English editor, with an academic background
       in  linguistics and engineering. He has edited science, medical and
       technology manuscripts. He has a certification in teaching English as a
       foreign language. David has been working on a variety of assignments from
       authors in the Far East, Asia and Europe.
-    image: ../assets/english_document_editor.png
+    image: ../assets/manuscript-editor.jpeg
     themeColor: "#ACADED"
   - id: 2
     name: Alan Wichelman
@@ -20,7 +20,7 @@ teamMembers:
       States, he taught non-American lawyers reader-friendly, plain English
       drafting skills. Allan holds a bachelor's degree from the University of
       Minnesota and a master's degree from the University of Illinois.
-    image: ../assets/academic_editor.png
+    image: ../assets/manucript-editor-native.jpeg
     themeColor: "#ACADED"
   - id: 3
     name: Dr. Rajalakshmi, Ph.D
@@ -37,7 +37,7 @@ teamMembers:
     image: ../assets/scientific_editor.png
     themeColor: "#FFC6CD"
   - id: 4
-    name: Dr Nalini Krishna, Ph.D
+    name: Dr Nalini Kannan, Ph.D
     role: Scientific Editor - Manuscript, Thesis & Dissertation
     description: Dr Nalini gained extensive writing and editing experience from her
       20-year career as a scientist at a leading biotechnology lab in India. She
@@ -62,7 +62,7 @@ teamMembers:
   - id: 6
     name: Dr Athira, Ph.D
     role: ESL Editor, Scientific Manuscript Editor
-    image: ../assets/profile_female.png
+    image: ../assets/thesis-editor.jpeg
     description: Dr Athira has a doctoral degree in Biotechnology, with 16 years of
       academic experience and 45+ research publications to her credit. She is a
       certified editor by Board of Lifesciences. Dr Athira is a meticulous
