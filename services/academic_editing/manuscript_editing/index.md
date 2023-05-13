@@ -30,7 +30,7 @@ nativeEditorSecToggle: show
 editorSecCards:
   - name: Ross Taylor
     designation: Native English & Manuscript Editor
-    description: David is a skilled native English editor with a background in
+    description: Ross is a skilled native English editor with a background in
       linguistics and engineering. He specializes in science, medical, and
       technology manuscripts and has a certification in teaching English as a
       foreign language.
@@ -59,8 +59,8 @@ serviceProcess:
   steps:
     - id: 1
       order: "01"
-      title: Submit Manuscript
-      description: Customer submits manuscript via our  UPLOAD page.
+      title: Wordcount
+      description: Enter the wordcount of your document on our Pricing page
       themeColor: "#98ECA6"
     - id: 2
       order: "02"
@@ -148,6 +148,7 @@ editingLevels:
       copy: no
       substantive: no
       developmental: yes
+  toggle: show
 connectToolsTitle: Why We're the Write Choice
 connectToolsDec: Our experienced editors will meticulously review your work to
   ensure that your research is presented in the clearest, most concise manner
