@@ -166,7 +166,7 @@ editingSample:
       description: Get free substantive editing sample
       image: substantive_editing_sample.png
 faq:
-  toggle: no
+  toggle: ""
   title: FAQ
   questions:
     - id: 1
