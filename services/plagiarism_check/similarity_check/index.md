@@ -107,13 +107,20 @@ flashBannerCenter:
   quoteTitle: Reduce similarity, avoid rejection
   quoteLink: https://contentconcepts.com/pricing/
   quoteToggle: show
-connectToolsTitle: asdsad
-connectToolsDec: asdasdasd
-connectToolsToggle: no
+connectToolsTitle: Plagiarism Experts with subject knowldge
+connectToolsDec: Our experienced editors will meticulously review your work to
+  ensure that your research is presented in the clearest, most concise manner
+  possible.
+connectToolsToggle: show
 connectTools:
-  - title: Container Tools Title
-    description: Container Tools description
-    image: affordable.svg
+  - title: Two-editor process
+    description: Our manuscript editing service employs a two-editor system to
+      ensure that your document is reviewed thoroughly.
+    image: confidential.svg
+  - title: Editing Certificate
+    description: We provide a free editing certificate with each order, guaranteeing
+      that your document has been edited to the highest professional standards.
+    image: transaction.svg
 editingCard:
   - title: How does plagiarism check work?
     backgroundColor: "#872657"
