@@ -46,19 +46,18 @@ serviceProcess:
   steps:
     - id: 1
       order: "01"
-      title: Submit Manuscript
-      description: Customer submits manuscript via our Request for quote page.
+      title: Wordcount
+      description: Enter the wordcount of your document on our Pricing page
       themeColor: "#98ECA6"
     - id: 2
       order: "02"
-      title: Receive Quote
-      description: After receiving the manuscript, ContentConcepts sends price quote.
+      title: Instant Quote
+      description: View quote instantly after entering wordcount or document upload
       themeColor: "#F5DA7D"
     - id: 3
       order: "03"
-      title: Confirm Order
-      description: After payment is made by the customer, ContentConcepts sends
-        confirmation of payment.
+      title: Pay & Confirm
+      description: Pay online and get confirmation via email or email us
       themeColor: "#98E5E0"
     - id: 4
       order: "04"
@@ -157,6 +156,7 @@ editingLevels:
       copy: no
       substantive: no
       developmental: yes
+  toggle: show
 connectToolsTitle: Unlock your essay's potential
 connectToolsDec: "The essay editing service that will take your jumbled mess and
   turn it into a polished masterpiece "
@@ -204,17 +204,18 @@ editingSample:
       title: Copy Editing
       description: Grammatically correct sentences, appropriate use of words and
         terminologies
-      image: ./essay_editing_sample_free.png
+      image: screenshot-2023-05-15-at-8.15.41-pm.png
     - id: 2
       title: Substantive Editing
       description: Line by line editing for language, readibility. Overall structure
         of the paper, tone and section transition.
-      image: ./essay_editing_sample.png
+      image: screenshot-2023-05-15-at-8.16.09-pm.png
     - id: 3
       title: Developmental Editing
       description: Technical review of manuscript by editor + Copy editing,
         substantive editing features
-      image: ./essay_editing_sample_free.png
+      image: screenshot-2023-05-15-at-8.16.09-pm.png
+  toggle: show
 faq:
   title: Frequently Asked Questions
   questions:
