@@ -1,6 +1,6 @@
 ---
-title: Copywriting
-navTitle: Copywriting
+title: Content Writing
+navTitle: Content Writing
 navIndex: 10
 highlight: Truly Affordable
 message: Not happy with edit? <span>100% refund without any condition</span>
@@ -118,7 +118,7 @@ editingSample:
         substantive editing features
       image: ./substantive_editing.png
 editingHighlights:
-  title: Highlights of our Copywriting
+  title: Highlights of our Content Writing
   highlights:
     - id: 1
       title: Affordable Prices
@@ -147,7 +147,7 @@ editingHighlights:
         which has passed the best level of security testing in the industry.
       image: ./transaction.svg
 serviceProcess:
-  title: How Copywriting works?
+  title: How Content Writing works?
   steps:
     - id: 1
       order: "01"
@@ -173,10 +173,10 @@ serviceProcess:
         back to the customer.
       themeColor: "#FFABAB"
 faq:
-  title: Copywriting - FAQ
+  title: Content Writing - FAQ
   questions:
     - id: 1
-      question: What type of manuscripts do you edit in Copywriting?
+      question: What type of manuscripts do you edit in Content Writing?
       answer:
         We edit all types of academic documents across all subject areas. We
         have editors for all subjects across the US, UK and India for better
@@ -189,7 +189,7 @@ faq:
         offering secure services without any glitches so far
     - id: 3
       question: "What is the academic editing process? "
-      answer: Please refer to the section "How Copywriting works?"
+      answer: Please refer to the section "How Content Writing works?"
     - id: 4
       question: How do I know which level of editing is right for my manuscript?
       answer: We offer three levels of editing - Proofreading & Copy Editing,
@@ -232,4 +232,4 @@ seo:
 
 If you are looking for affordable yet top-quality academic manuscript editing services you have reached the right place. Our mission is to provide [manuscript editing](/services/content_writing/manuscript_editing) and proofreading services at affordable price.
 
-When you select us, you will get personalised support, and prompt responses at a quicker pace than others. Here is the list of our Copywritings
+When you select us, you will get personalised support, and prompt responses at a quicker pace than others. Here is the list of our Content Writings
