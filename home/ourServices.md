@@ -8,6 +8,7 @@ services:
       you get a well polished content for publication.
     image: ../assets/development.svg
     link: /services/academic_editing
+    btntext: Know More
   - id: 2
     title: Thesis Editing & Formatting
     description: We offer end-to-end support in PhD thesis editing, formatting,
@@ -15,6 +16,7 @@ services:
       time and want to finish theis quickly, talk to us.
     image: ../assets/editing.svg
     link: services/academic_editing/thesis_editing
+    btntext: Know More
   - id: 3
     title: Plagiarism Check
     description: Get a detailed plagiarism report, indicating what percentage
@@ -22,4 +24,5 @@ services:
       improve the paper and help you fix the writing.
     image: ../assets/consulting.svg
     link: /services/plagiarism_correction
+    btntext: Know More
 ---
