@@ -213,8 +213,12 @@ editingCard:
           Does the Editor of a Scientific Journal Expect from a Manuscript?</a>
         link: https://contentconcepts.com/blog/what-does-the-editor-of-a-scientific-journal-expect-from-a-manuscript/
         buttonLink: https://contentconcepts.com/blog/what-does-the-editor-of-a-scientific-journal-expect-from-a-manuscript/
-      - title: Making your manuscript writing easier
-        link: https://contentconcepts.com/blog/what-makes-manuscript-writing-hard-and-how-to-make-it-easier/
+      - title: <a
+          href="https://contentconcepts.com/blog/what-makes-manuscript-writing-hard-and-how-to-make-it-easier/">What
+          Makes Manuscript Writing Hard and How to Make It Easier</a>
+        link: <a
+          href="https://contentconcepts.com/blog/what-makes-manuscript-writing-hard-and-how-to-make-it-easier/">What
+          Makes Manuscript Writing Hard and How to Make It Easier</a>
         buttonLink: https://contentconcepts.com/blog/what-does-the-editor-of-a-scientific-journal-expect-from-a-manuscript/
 message: Not happy with edit? <span>100% refund without any condition</span>
 cardImage: medical_editing_service.jpeg
