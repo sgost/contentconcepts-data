@@ -1,115 +1,31 @@
 ---
-title: Medical Editing Service
-highlight: PhD and MD Editors, Native English
-btnTxt:
-  sample: Medical Editing Sample
-features:
-  - id: 1
-    title: Reduce the clutter and get to the point
-  - id: 2
-    title: Modify the tone and structure for better flow
-  - id: 3
-    title: Use the right words to convey the message
-  - id: 4
-    title: Highlight the best part of the content
-  - id: 5
-    title: Review and re-edit multiple times
-message: Not happy with edit? <span>100% refund without any condition</span>
-cardImage: medical_editing_service.jpeg
 navTitle: Medical Editing
 navIndex: 5
-connectToolsTitle: Your research, our precision
-connectToolsDec: Our medical editors ensure your medical manuscript convey your
-  message with utmost clarity and precision
-connectToolsToggle: show
-connectTools:
-  - title: Double Check
-    description: We use a two-editor system to thoroughly review your thesis from
-      multiple perspectives, resulting in a polished  manuscript.
-    image: transaction.svg
-  - title: Editing Certificate
-    description: We provide a free editing certificate with our medical editing
-      service, ensuring that your document has been edited to the highest
-      professional standards
-    image: editing_certificate.svg
-  - title: Personal Attention
-    description: We provide personalized manuscript editing services tailored to
-      your specific needs and preferences. Trust us to give your manuscript the
-      care it deserves
-    image: affordable.svg
-flashBannerTop:
-  quoteTitle: Sharpen your writing with our precision editing service
-  quoteLink: https://contentconcepts.com/pricing/
-  quoteToggle: show
-editingCard:
-  - title: Tips for Writing Better Medical Manuscript
-    backgroundColor: purple
-    buttonLink: https://contentconcepts.com/blog
-    editingCardLinks:
-      - title: Medical Manuscript Proofreading
-        description: Experience precision in medical editing with our expert PhD
-          editors. Our team ensures the highest quality medical editing service
-          for all your writing needs. Imagine holding a flawlessly polished
-          medical manuscript, conveying your message with clarity and precision
-    image: service_card.png
-    bulletpoints:
-      - title: Simple tips for manuscript writing
-        link: https://contentconcepts.com/blog/simple-and-practical-writing-tips-for-research-paper-manuscript-authors/
-      - title: What does journal editor look for in a manuscript?
-        link: https://contentconcepts.com/blog/what-does-the-editor-of-a-scientific-journal-expect-from-a-manuscript/
-      - title: Making your manuscript writing easier
-        link: https://contentconcepts.com/blog/what-makes-manuscript-writing-hard-and-how-to-make-it-easier/
-serviceProcess:
-  title: Medical Manuscript Editing Process
-  steps:
-    - id: 1
-      order: "01"
-      title: Submit Manuscript
-      description: Customer submits manuscript via our Request for quote page.
-      themeColor: "#98ECA6"
-    - id: 2
-      order: "02"
-      title: Receive Quote
-      description: After receiving the manuscript, ContentConcepts sends price quote.
-      themeColor: "#F5DA7D"
-    - id: 3
-      order: "03"
-      title: Confirm Order
-      description: After payment is made by the customer, ContentConcepts sends
-        confirmation of payment.
-      themeColor: "#98E5E0"
-    - id: 4
-      order: "04"
-      title: Edit & Return
-      description: CC assigns the right editor who edits and sends the edited document
-        back to the customer.
-      themeColor: "#FFABAB"
-flashBannerCenter:
-  quoteLink: https://contentconcepts.com/pricing/
-  quoteTitle: Polish your manuscript to perfection!
-  quoteToggle: show
-editingHighlights:
-  title: Medical Manuscript Editing Services - Why choose us?
-  highlights:
-    - id: 1
-      title: Best Price
-      description: Our medical editing charges are the best online for international
-        quality jobs
-      image: ./affordable.svg
-    - id: 2
-      title: Free Editing
-      description: Ask for free meidcal editing sample before you use our services
-      image: transaction.svg
-    - id: 3
-      title: Confidentiality
-      description: We ensure your documents are handled with utmost care. We can sign
-        NDA if necessary.
-      image: ./confidential.svg
-    - id: 4
-      title: Editing Certificate
-      description: You get free editing certificate after your work is complete
-      image: editing_certificate.svg
-  toggle: show
+title: Medical Editing Service
+highlight: PhD & MD Editors, Native English
+serviceHeader:
+  decription: Medical editing is like a surgery, where we carefully dissect your
+    manuscript, identify the problem areas, and precisely correct them to ensure
+    that your work is in optimal health and ready for publication. Our team of
+    expert medical editors hold PhD and MD degrees, have a commitment to the
+    highest quality, and are here to provide you with unparalleled medical
+    editing service for all your medical writing needs.
+  serviceLink:
+    - title: ""
+      link: <a
+        href="https://contentconcepts.com/blog/how-much-does-manuscript-editing-cost-per-page-per-word/">Affordable
+        medical manuscript editing</a>
+    - title: ""
+      link: <a
+        href="https://contentconcepts.com/blog/contentconcepts-top-rated-academic-editing-and-proofreading-services/">Top-rated
+        medical editing service on Google - 4.9</a>
+    - title: ""
+      link: <a
+        href="https://contentconcepts.com/blog/free-english-editing-certificate/">Free
+        English Editing Certificate</a>
+btnTxt:
+  sample: Medical Editing Sample
+  editing: Medical Editing Process
 editorSecTitle: Our Medical Editors
 nativeEditorSecToggle: show
 editorSecCards:
@@ -137,29 +53,61 @@ editorSecCards:
       of pages of research papers and thesis with meticulous attention to
       detail. "
     image: ashraf_bio_editor.jpeg
-flashBannerBottom:
-  quoteTitle: Polish your manuscript to perfection!
+flashBannerTop:
+  quoteTitle: Transforming research into compelling scientific prose!
   quoteLink: https://contentconcepts.com/pricing/
   quoteToggle: show
-editingSample:
-  title: Medical Manuscript Editing Sample
-  samples:
+serviceProcess:
+  title: Medical Manuscript Editing Process
+  steps:
     - id: 1
-      title: Copy Editing
-      description: Line by line editing for language, readability and technical
-        learning improvement
-      image: ./substantive_editing.png
+      order: "01"
+      title: Submit Manuscript
+      description: Customer submits manuscript via our Request for quote page.
+      themeColor: "#98ECA6"
     - id: 2
-      title: Substantive Editing
-      description: Line by line editing for language, readibility nad technical
-        learning improvement
-      image: ./substantive_editing.png
+      order: "02"
+      title: Receive Quote
+      description: After receiving the manuscript, ContentConcepts sends price quote.
+      themeColor: "#F5DA7D"
     - id: 3
-      title: Developmental Editing
-      description: Line by line editing for language, readibility nad technical
-        learning improvement
-      image: ./substantive_editing.png
+      order: "03"
+      title: Confirm Order
+      description: After payment is made by the customer, ContentConcepts sends
+        confirmation of payment.
+      themeColor: "#98E5E0"
+    - id: 4
+      order: "04"
+      title: Edit & Return
+      description: CC assigns the right editor who edits and sends the edited document
+        back to the customer.
+      themeColor: "#FFABAB"
+editingHighlights:
+  title: Medical Manuscript Editing Services - Why choose us?
+  highlights:
+    - id: 1
+      title: Best Price
+      description: Our medical editing charges are the best online for international
+        quality jobs
+      image: ./affordable.svg
+    - id: 2
+      title: Free Editing
+      description: Ask for free meidcal editing sample before you use our services
+      image: transaction.svg
+    - id: 3
+      title: Confidentiality
+      description: We ensure your documents are handled with utmost care. We can sign
+        NDA if necessary.
+      image: ./confidential.svg
+    - id: 4
+      title: Editing Certificate
+      description: You get free editing certificate after your work is complete
+      image: editing_certificate.svg
   toggle: show
+flashBannerCenter:
+  quoteLink: https://contentconcepts.com/pricing/
+  quoteTitle: Polish your manuscript to perfection!
+  quoteToggle: show
 editingLevels:
   title: Medical Editing Services
   subHeading: Medical Editing Levels
@@ -222,6 +170,77 @@ editingLevels:
       substantive: no
       developmental: yes
   toggle: show
+connectToolsTitle: Your research, our precision
+connectToolsDec: Our medical editors ensure your medical manuscript convey your
+  message with utmost clarity and precision
+connectToolsToggle: show
+connectTools:
+  - title: Double Check
+    description: We use a two-editor system to thoroughly review your thesis from
+      multiple perspectives, resulting in a polished  manuscript.
+    image: transaction.svg
+  - title: Editing Certificate
+    description: We provide a free editing certificate with our medical editing
+      service, ensuring that your document has been edited to the highest
+      professional standards
+    image: editing_certificate.svg
+  - title: Personal Attention
+    description: We provide personalized manuscript editing services tailored to
+      your specific needs and preferences. Trust us to give your manuscript the
+      care it deserves
+    image: affordable.svg
+editingCard:
+  - title: Tips for Writing Better Medical Manuscript
+    backgroundColor: purple
+    buttonLink: https://contentconcepts.com/blog
+    editingCardLinks:
+      - title: Medical Manuscript Proofreading
+        description: Experience precision in medical editing with our expert PhD
+          editors. Our team ensures the highest quality medical editing service
+          for all your writing needs. Imagine holding a flawlessly polished
+          medical manuscript, conveying your message with clarity and precision
+    image: service_card.png
+    bulletpoints:
+      - title: <a
+          href="https://contentconcepts.com/blog/simple-and-practical-writing-tips-for-research-paper-manuscript-authors/">Simple
+          and Practical Writing Tips for Research Paper Manuscript Authors</a>
+        link: <a
+          href="https://contentconcepts.com/blog/what-does-the-editor-of-a-scientific-journal-expect-from-a-manuscript/">What
+          Does the Editor of a Scientific Journal Expect from a Manuscript?</a>
+        buttonLink: https://contentconcepts.com/blog/simple-and-practical-writing-tips-for-research-paper-manuscript-authors/
+      - title: <a
+          href="https://contentconcepts.com/blog/what-does-the-editor-of-a-scientific-journal-expect-from-a-manuscript/">What
+          Does the Editor of a Scientific Journal Expect from a Manuscript?</a>
+        link: https://contentconcepts.com/blog/what-does-the-editor-of-a-scientific-journal-expect-from-a-manuscript/
+        buttonLink: https://contentconcepts.com/blog/what-does-the-editor-of-a-scientific-journal-expect-from-a-manuscript/
+      - title: Making your manuscript writing easier
+        link: https://contentconcepts.com/blog/what-makes-manuscript-writing-hard-and-how-to-make-it-easier/
+        buttonLink: https://contentconcepts.com/blog/what-does-the-editor-of-a-scientific-journal-expect-from-a-manuscript/
+message: Not happy with edit? <span>100% refund without any condition</span>
+cardImage: medical_editing_service.jpeg
+flashBannerBottom:
+  quoteTitle: Where science engages and clarity mesmerizes!
+  quoteLink: https://contentconcepts.com/pricing/
+  quoteToggle: show
+editingSample:
+  title: Medical Manuscript Editing Sample
+  samples:
+    - id: 1
+      title: Copy Editing
+      description: Line by line editing for language, readability and technical
+        learning improvement
+      image: ./substantive_editing.png
+    - id: 2
+      title: Substantive Editing
+      description: Line by line editing for language, readibility nad technical
+        learning improvement
+      image: ./substantive_editing.png
+    - id: 3
+      title: Developmental Editing
+      description: Line by line editing for language, readibility nad technical
+        learning improvement
+      image: ./substantive_editing.png
+  toggle: show
 faq:
   title: Frequently Asked Questions
   questions:
@@ -234,7 +253,6 @@ faq:
       question: Is my information secure with you?
       answer: We can edit as per two English language styles – American English and
         British English.
-key: letter_editing
 parentType: academic
 priceCard:
   pricing:
@@ -244,6 +262,18 @@ priceCard:
       usd: <span>$0.05</span>/word
   tagContent: ASK FOR FREE SAMPLE EDIT
   content: No rush fee, Sunday available
+features:
+  - id: 1
+    title: Reduce the clutter and get to the point
+  - id: 2
+    title: Modify the tone and structure for better flow
+  - id: 3
+    title: Use the right words to convey the message
+  - id: 4
+    title: Highlight the best part of the content
+  - id: 5
+    title: Review and re-edit multiple times
+key: letter_editing
 seo:
   title: Medical editing services, medical proofreading services
   description: PhD and MD editors edit and proofread your medical manuscripts at
