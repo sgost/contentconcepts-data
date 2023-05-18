@@ -55,6 +55,7 @@ flashBannerTop:
   quoteTitle: Proofread your paper to perfection
   quoteLink: https://contentconcepts.com/pricing/
   quoteToggle: show
+editingToggle: show
 serviceProcess:
   title: 1-Hour Editing & Proofreading Process
   steps:
