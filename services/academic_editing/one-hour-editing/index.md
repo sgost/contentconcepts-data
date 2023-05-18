@@ -1,6 +1,6 @@
 ---
 navTitle: 1-Hour Editing & Proofreading
-navIndex: 1
+navIndex: 11
 title: 1-Hour Immediate Editing & Proofreading
 highlight: Fast and reliable proofreading in 1 hour
 serviceHeader:
