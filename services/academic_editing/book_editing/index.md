@@ -7,6 +7,7 @@ btnTxt:
   quote: Get Quote
   sample: Check Sample
   editing: Editing Process
+editingToggle: show
 message: Not happy with edit? <span>100% refund without any condition</span>
 connectToolsTitle: Connect your tools, connect your teams
 connectToolsDec: Slack channels are the place for work, Bring your tools to your team, save time and avoid context-switching.
