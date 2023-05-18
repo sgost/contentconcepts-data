@@ -51,11 +51,12 @@ editorSecCards:
       of North Carolina.
     image: carole_medical_editor.jpeg
 flashBannerTop:
-  quoteTitle: Turn your manuscript from mediocre to masterpiece
+  quoteTitle: Turn your manuscript from mediocre to masterpiece!
   quoteLink: https://contentconcepts.com/pricing/
   quoteToggle: show
+editingToggle: show
 serviceProcess:
-  title: How Manuscript Editing works?
+  title: Manuscript Editing Process
   steps:
     - id: 1
       order: "01"
@@ -102,7 +103,7 @@ editingHighlights:
       image: editing_certificate.svg
 flashBannerCenter:
   quoteLink: https://contentconcepts.com/pricing/
-  quoteTitle: Polish your paper to perfection
+  quoteTitle: Polish your paper to perfection!
   quoteToggle: show
 editingLevels:
   title: Manuscript Editing Services
@@ -173,12 +174,20 @@ editingCard:
     buttonLink: www.google.com
     image: proofreading_101.png
     bulletpoints:
-      - title: What does manuscript editor do?
+      - title: <a
+          href="https://contentconcepts.com/blog/manuscript-editing-101/">Everything
+          you want to know about Manuscript Editing</a>
+        link: https://contentconcepts.com/blog/manuscript-editing-101
+        buttonLink: https://contentconcepts.com/blog/manuscript-editing-101
+      - title: <a href="https://contentconcepts.com/blog/manuscript-editing-101/">What
+          are the different editing levels</a>
         link: https://contentconcepts.com/blog/manuscript-editing-101/
         buttonLink: https://contentconcepts.com/blog
-      - title: Levels of editing
-        link: https://contentconcepts.com/blog/manuscript-editing-101/
-        buttonLink: https://contentconcepts.com/blog
+      - title: <a
+          href="https://contentconcepts.com/blog/use-of-tense-in-manuscripts-and-science-writing/">What
+          tense to use in manuscript writing sections?</a>
+        link: https://contentconcepts.com/blog/use-of-tense-in-manuscripts-and-science-writing/
+        buttonLink: https://contentconcepts.com/blog/use-of-tense-in-manuscripts-and-science-writing/
 message: Not happy with edit? <span>100% refund without any condition</span>
 cardImage: manuscript_editing_service.png
 flashBannerBottom:
