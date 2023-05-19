@@ -52,29 +52,29 @@ flashBannerTop:
   quoteTitle: Refine your thesis with our expert editing services
   quoteLink: https://contentconcepts.com/services/academic_editing/thesis_editing/
   quoteToggle: show
+editingToggle: show
 serviceProcess:
   title: How Thesis Editing Service works?
   steps:
     - id: 1
       order: "01"
-      title: Submit Manuscript
-      description: Customer submits manuscript via our Request for quote page.
+      title: Wordcount
+      description: Enter the wordcount of your document on our Pricing page
       themeColor: "#98ECA6"
     - id: 2
       order: "02"
-      title: Receive Quote
-      description: After receiving the manuscript, ContentConcepts sends price quote.
+      title: Instant Quote
+      description: View quote instantly after entering wordcount or document upload
       themeColor: "#F5DA7D"
     - id: 3
       order: "03"
-      title: Confirm Order
-      description: After payment is made by the customer, ContentConcepts sends
-        confirmation of payment.
+      title: Pay & Confirm
+      description: Pay online and get confirmation via email or email us
       themeColor: "#98E5E0"
     - id: 4
       order: "04"
       title: Edit & Return
-      description: CC assigns the right editor who edits and sends the edited document
+      description: CC assigns the right editor who edits and sends the edited thesis
         back to the customer.
       themeColor: "#FFABAB"
 editingHighlights:
