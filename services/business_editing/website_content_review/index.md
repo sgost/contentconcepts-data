@@ -219,9 +219,9 @@ features:
     title: Suggest page titles, keywords and meta descriptions
 key: website_review_editing
 seo:
-  title: Website copy editing, website proofreading services in India
-  description: Website editing and proofreading services in India at affordable
-    prices and quality services. No-nonsese business services.
+  title: Website copy editing, website proofreading services
+  description: Website editing and proofreading service at affordable prices and
+    quality services. No-nonsese business services.
   keywords:
     - Website copy editing
     - website proofreading services in India
