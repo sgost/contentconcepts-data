@@ -13,8 +13,8 @@ serviceHeader:
     type of document you may need.
 btnTxt:
   editing: Formatting Process
-editorSecTitle: asdasd
-nativeEditorSecToggle: no
+editorSecTitle: Expert Document Editors
+nativeEditorSecToggle: No
 flashBannerTop:
   quoteTitle: Style. Structure. Perfection
   quoteLink: https://contentconcepts.com/pricing/
