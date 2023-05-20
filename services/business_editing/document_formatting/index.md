@@ -91,6 +91,7 @@ editingSample:
       description: Line by line editing for language, readibility nad technical
         learning improvement
       image: newsletter_formatting_sample.png
+  toggle: show
 faq:
   title: Frequently Asked Questions
   questions:
