@@ -1,7 +1,7 @@
 ---
 navTitle: Scientific Manuscript Editing
 navIndex: 3
-title: Scientific Manuscript Editing
+title: Scientific Manuscript Editin
 highlight: by PhD & Native English Editors
 serviceHeader:
   decription: Our scientific editing service is like a lab where we experiment
@@ -184,19 +184,6 @@ editingCard:
       - title: Plagiarism Editing Service
         link: https://contentconcepts.com/services/plagiarism_check/plagiarism_editing/
         buttonLink: https://contentconcepts.com/services/plagiarism_check/plagiarism_editing/
-features:
-  - id: 1
-    title: International editing service at affordable price
-    link: https://contentconcepts.in/pricing/
-  - id: 2
-    title: Free manuscript editing sample
-    link: https://contentconcepts.in/blog/free-editing-proofreading-on-first-200-words/
-  - id: 3
-    title: "Plagiarism correction service available "
-    link: https://contentconcepts.in/services/plagiarism_correction
-  - title: Free English editing certificate
-    id: 4
-    link: https://contentconcepts.in/blog/free-english-editing-certificate/
 message: Not happy with edit? <span>100% refund without any condition. Yes we
   boast our top-notch service</span>
 cardImage: scientific_editing_service.jpeg
@@ -249,7 +236,6 @@ faq:
       answer: Our payment is handled by banks and PayPal, so we would say it's 100%
         safe. We do not keep any payment details and is directly done by bank's
         payment gateway.
-key: scientific_manuscript_editing
 parentType: academic
 priceCard:
   pricing:
@@ -259,6 +245,20 @@ priceCard:
       usd: <span>$0.025</span>/word
   tagContent: Get FREE Editing Certificate
   content: GET FREE EDITING SAMPLE
+features:
+  - id: 1
+    title: International editing service at affordable price
+    link: https://contentconcepts.in/pricing/
+  - id: 2
+    title: Free manuscript editing sample
+    link: https://contentconcepts.in/blog/free-editing-proofreading-on-first-200-words/
+  - id: 3
+    title: "Plagiarism correction service available "
+    link: https://contentconcepts.in/services/plagiarism_correction
+  - title: Free English editing certificate
+    id: 4
+    link: https://contentconcepts.in/blog/free-english-editing-certificate/
+key: scientific_manuscript_editing
 seo:
   title: Scientific manuscript editing services - Phd & Native English Editors
   description: Our PhD editor editors trained in scientific English edit your
