@@ -1,10 +1,10 @@
 ---
 title: Pricing
-heading: Top quality, truly affordable services @ INR 1.3 per word
-subHeading: " Our manuscript editing & proofreading charge is one of the best
-  and affordable for authors and students. Why pay dollar$$ when you can pay in
-  INR? We do not charge express fee. Our payment gateway is secured and handled
-  by banks. Try with us and you will not be disappointed"
+heading: Best English Editing Services, Truly Affordable @ $0.021 per word
+subHeading: Our manuscript editing and proofreading price is highly competitive
+  and budget-friendly, catering to both authors and students. No additional
+  express fee is imposed. Rest assured, our payment gateway is securely managed
+  by reputable banks. Give us a try and you won't be let down.
 types:
   - id: 1
     title: Editing Services
@@ -44,40 +44,46 @@ types:
           usd: ₹ <span>2.50</span>/word
         themeColor: "linear-gradient(116.47deg, #03CA8B -5.73%, #02C688 -5.72%, #05E29C
           103.5%)"
-  - id: -2
-    title: .
+  - id: 2
+    title: Content Writing
     pricing:
       - id: 1
-        title: Basic Pack
+        title: Copywriting
         editingServices:
-          - Grammar, spelling
-          - Check for appropriate usage of words
-          - Editing at word and sentence level
+          - Understanding client requirements and target audience to craft
+            persuasive copy
+          - Researching keywords and industry trends to optimize content for
+            search engines
+          - Proofreading editing and collaborating with clients to ensure
+            high-quality tailored copy
         price:
-          inr: $ <span>0.025</span>/word
-          usd: " ₹ <span>1.50</span>/word"
+          inr: $ <span>0.12</span>/word
+          usd: " ₹ <span>10</span>/word"
         themeColor: "linear-gradient(116.8deg, #FF912F -9.97%, #FFAD64 105%)"
       - id: 2
-        title: Premium Pack
+        title: Research Writing
         editingServices:
-          - All services offered in English editing plus
-          - Substantive editing to ensure proper sentence structure and flow
-          - Correct terminology
-          - Adherence to style guide
+          - Researching and analyzing the topic & gathering relevant data and
+            evidence
+          - Writing informative and authoritative content and incorporating
+            visuals and proofreading for clarity and accuracy
+          - Collaborating with clients & revising as needed
         price:
-          inr: "$ <span>0.03</span>/word "
-          usd: ₹ <span>2.00</span>/word
+          inr: "$ <span>0.12</span>/word "
+          usd: ₹ <span>7.00</span>/word
         themeColor: "linear-gradient(119.96deg, #B361FF -2.59%, #C98EFF 104.08%)"
       - id: 3
-        title: Deluxe Pack
+        title: SEO Content
         editingServices:
-          - English and scientific editing
-          - Analysis of your paper by subject matter expert
-          - Detailed report on the structure and technical correctness of your
-            paper
+          - Conduct thorough keyword research to identify relevant and
+            high-performing keywords aligned with client goals. Develop a
+            content plan and strategy outlining topics-formats
+          - and SEO optimizations. Write high-quality engaging content
+            incorporating keywords and optimize on-page elements for improved
+            search engine visibility.
         price:
-          inr: "$ <span>0.045</span>/word "
-          usd: ₹ <span>3.00</span>/word
+          inr: "$ <span>0.10</span>/word "
+          usd: ₹ <span>7.00</span>/word
         themeColor: "linear-gradient(116.47deg, #03CA8B -5.73%, #02C688 -5.72%, #05E29C
           103.5%)"
 ---
