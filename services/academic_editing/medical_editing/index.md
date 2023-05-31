@@ -277,7 +277,7 @@ features:
     title: Highlight the best part of the content
   - id: 5
     title: Review and re-edit multiple times
-key: letter_editing
+key: medical_editing
 seo:
   title: Medical editing services, medical proofreading services
   description: PhD and MD editors edit and proofread your medical manuscripts at
