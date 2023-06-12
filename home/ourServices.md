@@ -1,5 +1,5 @@
 ---
-title: English Editing Service
+title: English Editing Services
 services:
   - id: 1
     title: Editing & Proofreading
