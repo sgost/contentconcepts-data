@@ -2,7 +2,7 @@
 title: English Editing Services
 services:
   - id: 1
-    title: Editing & Proofreadin
+    title: Editing & Proofreading
     description: Our PhD editors and English language specialists have worked on
       tons of manuscripts and know exactly what to do with your content. Hence
       you get a well polished content for publication.
