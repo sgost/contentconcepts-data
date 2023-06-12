@@ -1,10 +1,10 @@
 ---
 title: Pricing
-heading: Best English Editing Services, Truly Affordable @ $0.021 per word
-subHeading: Our manuscript editing and proofreading price is highly competitive
-  and budget-friendly, catering to both authors and students. No additional
-  express fee is imposed. Rest assured, our payment gateway is securely managed
-  by reputable banks. Give us a try and you won't be let down.
+heading: Top quality, truly affordable services @ INR 1.3 per word
+subHeading: " Our manuscript editing & proofreading charge is one of the best
+  and affordable for authors and students. Why pay dollar$$ when you can pay in
+  INR? We do not charge express fee. Our payment gateway is secured and handled
+  by banks. Try with us and you will not be disappointed"
 types:
   - id: 1
     title: Editing Services

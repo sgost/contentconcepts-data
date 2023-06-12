@@ -1,11 +1,12 @@
 ---
 title: Trusted by Top Universities & Publishers
-description: Unlock the true potential of your writing, whether it's research
-  papers or captivating marketing copy. With a team of seasoned professional
-  editors, we possess the expertise and industry knowledge to refine your
-  content with precision and finesse. Our meticulous review encompasses grammar,
-  spelling, syntax, and overall structure, ensuring your ideas shine through
-  with absolute clarity and maximum impact.
+description: Whether you're writing research papers or crafting marketing copy,
+  we're here to transform your documents into polished, influential, and
+  error-free works that command attention. Our team of professional editors
+  possesses the expertise and industry knowledge to refine your documents with
+  precision and finesse. We'll meticulously review grammar, spelling, syntax,
+  and overall structure, ensuring your ideas are conveyed with clarity and
+  impact.
 clients:
   - id: 1
     title: English Editing and Proofreading Service in India
