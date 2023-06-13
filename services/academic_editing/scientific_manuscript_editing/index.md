@@ -1,7 +1,7 @@
 ---
 navTitle: Scientific Manuscript Editing
 navIndex: 3
-title: Scientific Manuscript Editin
+title: Scientific Manuscript Editing
 highlight: by PhD & Native English Editors
 serviceHeader:
   decription: Our scientific editing service is like a lab where we experiment
