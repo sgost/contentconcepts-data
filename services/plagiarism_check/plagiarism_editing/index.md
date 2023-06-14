@@ -4,13 +4,16 @@ navIndex: 1
 title: Plagiarism Editing
 highlight: Plagiarism Report & Rewriting Support
 serviceHeader:
-  decription: Concerned about unintentional plagiarism in your manuscript leading
-    to rejection? Our plagiarism checker services provide a detailed report on
-    your paper and our editors help rewrite the paper to reduce similarity. Our
-    manuscript editors work with you to fix problem areas, improve English
-    language and flow, and ensure your work is original. Trust us to help you
-    avoid unintended plagiarism and achieve your publication goals. And here are
-    more reasons to select our plagiarism removal service
+  decription: "Are you worried about unintentional plagiarism in your manuscript,
+    which could lead to rejection? Look no further. Our plagiarism checker
+    services not only provide a comprehensive report on your paper but also
+    offer expert assistance in reducing similarity. With the expertise of our
+    manuscript editors, we work closely with you to identify and address
+    problematic areas, improve the English language and flow, and ultimately
+    ensure the originality of your work. Trust us to help you navigate the
+    complexities of avoiding unintended plagiarism and successfully achieve your
+    publication goals. And that's not all – here are additional compelling
+    reasons to choose our plagiarism removal service:"
   serviceLink:
     - title: ""
       link: <a
@@ -111,18 +114,11 @@ flashBannerCenter:
   quoteToggle: yes
 connectToolsTitle: Benefits of our Plagiarism Editing service
 connectToolsDec: Benefits of our Plagiarism Editing service
-connectToolsToggle: No
-features:
-  - id: 1
-    title: Plagiarism check by both software and human editors
-  - id: 2
-    title: Recommendations to rewrite similar text
-  - id: 3
-    title: Plagiarism editors assist you in rewriting problem areas
-  - id: 4
-    title: Fast & Affordable work
-  - id: 5
-    title: Free followup support for further editing
+connectToolsToggle: show
+editingCard:
+  - title: We accept only author's unintentional plagiarism of their work
+    backgroundColor: " #872657 "
+    image: plagiarism_check.jpeg
 message: Not happy with edit? <span>100% refund without any condition</span>
 cardImage: plagiarism_check.jpeg
 flashBannerBottom:
@@ -161,7 +157,6 @@ faq:
       answer: We can edit as per two English language styles – American English and
         British English.
   toggle: show
-key: plagiarism_editing
 parentType: technical
 priceCard:
   pricing:
@@ -171,6 +166,18 @@ priceCard:
       usd: <span>$0.06</span>/word
   tagContent: Tech + Human powered solution
   content: Significantly reduced similarity results with report
+features:
+  - id: 1
+    title: Plagiarism check by both software and human editors
+  - id: 2
+    title: Recommendations to rewrite similar text
+  - id: 3
+    title: Plagiarism editors assist you in rewriting problem areas
+  - id: 4
+    title: Fast & Affordable work
+  - id: 5
+    title: Free followup support for further editing
+key: plagiarism_editing
 seo:
   title: Plagiarism editing, Plagiarism rewriting, Plagiarism removal
   description: We check for plagiarised content and edit or rewrite the manuscript
@@ -182,7 +189,7 @@ seo:
     - Plagiarism checker
     - Plagiarism remover
 ---
-Welcome to our plagiarism editing service, designed to help authors and researchers avoid unintentional plagiarism.
+Welcome to our [plagiarism editing service](https://contentconcepts.com/services/plagiarism_check/plagiarism_editing/), designed to help authors and researchers avoid unintentional plagiarism.
 
 We understand that plagiarism is a serious concern for anyone working on research or writing projects. Accidental plagiarism can be especially tricky to identify, and even the most careful writers can inadvertently use someone else's words or ideas without proper attribution.
 
