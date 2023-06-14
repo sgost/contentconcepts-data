@@ -1,10 +1,10 @@
 ---
 title: Pricing
-heading: Top quality, truly affordable services @  USD 0.020 per word
-subHeading: " Our manuscript editing & proofreading charge is one of the best
-  and affordable for authors and students. Why pay dollar$$ when you can pay in
-  INR? We do not charge express fee. Our payment gateway is secured and handled
-  by banks. Try with us and you will not be disappointed"
+heading: Trusted, truly affordable editing services @  $0.020 per word
+subHeading: " Editing fee need not be exorbitant. Our manuscript editing &
+  proofreading charge is one of the best and affordable for authors and
+  students. We do not charge express fee. Our payment gateway is secured and
+  handled by banks. Try with us and you will not be disappointed"
 types:
   - id: 1
     title: Editing Services
