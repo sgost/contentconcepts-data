@@ -1,16 +1,18 @@
 ---
-navTitle: Free Plagiarism Check
+navTitle: Plagiarism Check
 navIndex: 2
-title: Free Plagiarism Check
+title: Plagiarism Check
 highlight: Free with Plagiarism Editing service
 serviceHeader:
-  decription: Concerned about unintentional plagiarism in your manuscript leading
-    to rejection? Our plagiarism checker services provide a detailed report on
-    your paper and our editors help rewrite the paper to reduce similarity. Our
-    manuscript editors work with you to fix problem areas, improve English
-    language and flow, and ensure your work is original. Trust us to help you
-    avoid unintended plagiarism and achieve your publication goals. And here are
-    more reasons to select our plagiarism removal service
+  decription: "Worried about accidental plagiarism jeopardizing your manuscript's
+    acceptance? Don't fret! Our plagiarism checker services offer a
+    comprehensive report, while our skilled editors assist in reworking your
+    paper to minimize similarity. Collaborating closely with our manuscript
+    editors, you'll address any problematic sections, enhance language
+    proficiency and coherence, and guarantee the originality of your work. Rest
+    assured, we'll steer you clear of unintentional plagiarism and guide you
+    toward achieving your publication aspirations. Plus, here are additional
+    reasons to choose our plagiarism removal service:"
   serviceLink:
     - title: ""
       link: <a
@@ -239,25 +241,22 @@ seo:
     - Plagiarism detection
     - Plagiarism remover
 ---
-
 <span style="color:red">📣 **_WE DO NOT SUPPORT OR ENCOURAGE INTENTIONAL PLAGIARISM_**</span>.
 
 <br>
 
-🤔 Worried your manuscript or research paper will be rejected for plagiarism or high similarity score. We provide professional plagiarism check using industry-leading plagiarism checker tools such as Turnitin and Plagiarism Checker X. Our [manuscript editors](https://contentconcepts.in/about/#team), help you in [manuscript rewriting](https://contentconcepts.in/services/publication_support/manuscript_rewriting), [manuscript paraphrasing](https://contentconcepts.in/services/publication_support/manuscript_rewriting) and [manuscript editing](https://contentconcepts.in/services/academic_editing/manuscript_editing) to reduce the plagiarism.
+🤔 Concerned about potential manuscript or research paper rejection due to plagiarism or high similarity scores? Rest easy, as we offer professional plagiarism checks utilizing leading industry tools like Turnitin and Plagiarism Checker X. Our dedicated [manuscript editors](https://contentconcepts.com/about/#team) are here to assist you with [manuscript rewriting](https://contentconcepts.com/services/publication_support/manuscript_rewriting), [manuscript paraphrasing](https://contentconcepts.com/services/publication_support/manuscript_rewriting), and [manuscript editing](https://contentconcepts.com/services/academic_editing/manuscript_editing) to minimize plagiarism concerns.
 
 <br>
 
-We use PAID online plagiarism checker software, which gives us accurate results. When you select [Plagiarism Editing service](https://contentconcepts.in/services/plagiarism_check/plagiarism_editing), plagiarism check is offered free. You get plagiarism report before and after plagiarism check.
+We utilize premium online plagiarism checker software, ensuring accurate results. By selecting our [Plagiarism Editing service](https://contentconcepts.com/services/plagiarism_check/plagiarism_editing), you receive a complimentary plagiarism check. You'll receive a plagiarism report both before and after the check.
 
 <br>
 
-You can also ask for only plagiarism check as an add-on service, when you select [manuscript editing](https://contentconcepts.in/services/academic_editing/manuscript_editing) or [English language editing](https://contentconcepts.in/services/academic_editing/english_editing). You will receive plagiarism report along with edited manuscript.
+You also have the option to add-on a standalone plagiarism check when you choose our [manuscript editing](https://contentconcepts.com/services/academic_editing/manuscript_editing) or [English language editing](https://contentconcepts.com/services/academic_editing/english_editing) services. In addition to an edited manuscript, you'll receive a detailed plagiarism report.
 
 <br>
 
-Check our 👉 [Plagiarism Check ordering process](https://contentconcepts.in/services/plagiarism_check/similarity_check#editingProcess)
+Curious about our 👉 [Plagiarism Check ordering process](https://contentconcepts.com/services/plagiarism_check/similarity_check#editingProcess)?
 
 <br>
-
-<h3>Other Services Related to Plagiarism Check</h3>
