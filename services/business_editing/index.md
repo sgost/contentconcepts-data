@@ -182,7 +182,7 @@ editingSample:
       description: Line by line editing for language, readability and technical
         learning improvement
       image: ./substantive_editing.png
-  toggle: show
+  toggle: ""
 faq:
   title: Frequently Asked Questions
   questions:
