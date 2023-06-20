@@ -95,6 +95,7 @@ editingHighlights:
       description: Your documents as wells as payment is handled by our secure website
         which has passed the best level of security testing in the industry.
       image: ./transaction.svg
+  toggle: show
 editingLevels:
   title: Different levels of editing
   subHeading: Because each author is unique
@@ -156,6 +157,11 @@ editingLevels:
       copy: no
       substantive: no
       developmental: yes
+  toggle: show
+editingCard:
+  - title: Business Document Editing
+    backgroundColor: " #872657 "
+    image: service_card.png
 message: Not happy with edit? <span>100% refund without any condition</span>
 cardImage: business_editing_service.svg
 editingSample:
