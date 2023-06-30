@@ -1,91 +1,116 @@
 ---
-title: Sales Copy
-navTitle: Sales Copy
+navTitle: Copywriting & Copywriters
 navIndex: 6
-highlight: For Authors & Publishers
+title: Copywriting Service
+highlight: Take our word.
+serviceHeader:
+  decription: Unleash your brand's full potential and captivate your audience with
+    our exceptional copywriting service. We craft persuasive narratives that
+    leave a lasting impact, elevating your business to new heights. With
+    unrivaled professionalism and a touch of wit, we transform your ideas into
+    compelling, resonant copy. Say goodbye to lackluster content and hello to a
+    captivating brand voice that sets you apart from the competition. Get ready
+    to witness the power of our words as we unlock your business's true
+    potential.
+  serviceLink:
+    - title: ""
+      link: <a
+        href="https://contentconcepts.com/blog/contentconcepts-top-rated-academic-editing-and-proofreading-services/">Top-rated
+        writing & editing service on Google - 4.9</a>
+    - title: ""
+      link: <a
+        href="https://contentconcepts.in/blog/how-much-does-manuscript-editing-cost-per-page-per-word/">Affordable
+        writing & editing service</a>
 btnTxt:
   quote: Get Quote
   sample: Check Sample
   editing: Editing Process
-message: Not happy with edit? <span>100% refund without any condition</span>
-connectToolsTitle: Connect your tools, connect your teams
-connectToolsDec: Slack channels are the place for work, Bring your tools to your team, save time and avoid context-switching.
-connectToolsToggle: show
-connectTools:
-  - title: Unified and secure
-    description: Lorem ipsum dolor sit amet consectetur. Pellentesque cursus habitant vel nullam cras pellentesque amet. Vulputate sagittis cras fusce fermentum. Mauris lorem sapien scelerisque nunc quis suspendisse. Senectus venenatis neque tellus duis erat amet id praesent. Consequat integer consectetur urna cras egestas elit mi neque pellentesque.
-    image: ./connect_img1.svg
-  - title: Unified and secure
-    description: Lorem ipsum dolor sit amet consectetur. Pellentesque cursus habitant vel nullam cras pellentesque amet. Vulputate sagittis cras fusce fermentum. Mauris lorem sapien scelerisque nunc quis suspendisse. Senectus venenatis neque tellus duis erat amet id praesent. Consequat integer consectetur urna cras egestas elit mi neque pellentesque.
-    image: ./connect_img2.svg
-  - title: Unified and secure
-    description: Lorem ipsum dolor sit amet consectetur. Pellentesque cursus habitant vel nullam cras pellentesque amet. Vulputate sagittis cras fusce fermentum. Mauris lorem sapien scelerisque nunc quis suspendisse. Senectus venenatis neque tellus duis erat amet id praesent. Consequat integer consectetur urna cras egestas elit mi neque pellentesque.
-    image: ./connect_img3.svg
-flashBannerTop:
-  quoteTitle: Professional English Editing for any Research Paper
-  quoteLink: https//www.google.com
-  quoteToggle: show
-flashBannerCenter:
-  quoteTitle: Professional English Editing for any Research Paper
-  quoteLink: https//www.google.com
-  quoteToggle: show
-flashBannerBottom:
-  quoteTitle: Professional English Editing for any Research Paper
-  quoteLink: https//www.google.com
-  quoteToggle: show
-editingCard:
-  - image: ./service_card.png
-    title: Lorem ipsum dolor sit amet consectetur. Odio malesuada eu fames dictum.
-    buttonLink: www.google.com
-    backgroundColor: "#1C55BE"
-    bulletpoints:
-      - title: Lorem ipsum dolor sit amet <a href="https://app.netlify.com/sites/test-contentconcepts/overview" target="_blank">consectetur</a>. Odio malesuada eu fames dictum. Lorem ipsum dolor sit amet consectetur. Odio malesuada eu fames dictum
-        link: www.google.com
-      - title: Lorem ipsum dolor sit amet consectetur. Odio malesuada eu fames dictum. Lorem ipsum dolor sit amet consectetur. Odio malesuada eu fames dictum
-        link: www.google.com
-      - title: Lorem ipsum dolor sit amet consectetur. Odio malesuada eu fames dictum. Lorem ipsum dolor sit amet consectetur. Odio malesuada eu fames dictum
-        link: www.google.com
-    editingCardLinks:
-      - title: Lorem ipsum dolor sit amet consectetur. Odio malesuada eu fames dictum.
-        description: Lorem ipsum dolor sit amet consectetur. Odio malesuada eu fames dictum.
-        links:
-          - title: Lorem ipsum dolor sit consectetur
-            titleLinkDescription: Lorem ipsum dolor sit amet consectetur. Sit a mattis
-            titleLink: www.google.com
-editorSecTitle: Manuscript Editors & Native English Editors
+editorSecTitle: Our Copywriters
 nativeEditorSecToggle: show
 editorSecCards:
-  - image: ./userAvatar.png
-    name: Victor Rice
-    designation: Customer Engagement Manager CADD Centre
-    description: Lorem ipsum dolor sit amet, <a href="" target="_blank">consectetur</a> adipiscing elit. Nunc pretium scelerisque neque amet consectetur adipiscing elit. Nunc pretium scelerisque neque amet
-  - image: ./userAvatar.png
-    name: Victor Rice
-    designation: Customer Engagement Manager CADD Centre
-    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc pretium scelerisque neque amet consectetur adipiscing elit. Nunc pretium scelerisque neque amet
-  - image: ./userAvatar.png
-    name: Victor Rice
-    designation: Customer Engagement Manager CADD Centre
-    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc pretium scelerisque neque amet consectetur adipiscing elit. Nunc pretium scelerisque neque amet
-serviceHeader:
-  decription: Lorem ipsum dolor sit  consectetur
-  serviceLink:
-    - title: Lorem ipsum dolor sit  consectetur
-      link: Lorem ipsum dolor sit amet <a href="" target=_blank>consectetur</a>. Sit a mattis
-features:
-  - id: 1
-    title: Analyzing your manuscript as a whole
-  - id: 2
-    title: Improving the structure and flow
-  - id: 3
-    title: Maintaining consistent tone and style
-  - id: 4
-    title: Rewriting sentences to make content clear, concise and effective
-  - id: 5
-    title: Suggesting, illustrations and artwork
-cardImage: ./blog_image.png
-editingLevels:
+  - name: "Anita "
+    designation: Expert Copywriter
+    description: With over 15 years of website copywriting and editing experience,
+      Anita is a detail-oriented wordsmith. Her proven track record showcases
+      her ability to refine website content to perfection. Equipped with a
+      degree in English and Communications, Anita's expertise in editing and
+      proofreading guarantees clarity, coherence, and accuracy.
+    image: anita_copy_editor.jpeg
+  - name: Jan Roberts
+    designation: Copywriter
+    description: Meet Jan, a seasoned professional copywriter with a stellar 9-year
+      track record. Jan specializes in crafting top-notch, SEO-optimized content
+      that captivates and persuades. Let Jan work her magic and showcase your
+      content in its best possible light. With a BA in English, a minor in
+      French, and three specialized areas of expertise, Jan graduated with high
+      honors from The University of California SB. Trust Jan to elevate your
+      brand's message and engage your audience with precision and flair.
+    image: jan_website_editor.jpeg
+flashBannerTop:
+  quoteTitle: Write for People, Rank on Google
+  quoteLink: https://contentconcepts.com/contact/
+  quoteToggle: show
+serviceProcess:
+  title: How Copywriting process works?
+  steps:
+    - id: 1
+      order: "01"
+      title: Submit Request
+      description: Customer submits copy request via our Request for quote page.
+      themeColor: "#98ECA6"
+    - id: 2
+      order: "02"
+      title: Receive Quote
+      description: After receiving the request, ContentConcepts sends price quote.
+      themeColor: "#F5DA7D"
+    - id: 3
+      order: "03"
+      title: Confirm Order
+      description: After payment is made by the customer, ContentConcepts sends
+        confirmation of payment.
+      themeColor: "#98E5E0"
+    - id: 4
+      order: "04"
+      title: Write & Return
+      description: CC assigns the right copywriter who will work with you to create
+        copy that excels!
+      themeColor: "#FFABAB"
+editingHighlights:
   toggle: show
+  title: Why people use our Copywriting service?
+  highlights:
+    - id: 1
+      title: Affordable Prices
+      description: We believe in making our website content writing service accessible
+        to businesses of all sizes with our pocket-friendly pricing options.
+        Quality content shouldn't drain your wallet!
+      image: ./affordable.svg
+    - id: 2
+      title: Expertise
+      description: Our team comprises skilled and experienced writers who are masters
+        of their craft. With a deep understanding of various industries, they
+        create engaging and compelling content that resonates with your target
+        audience.
+      image: ./confidential.svg
+    - id: 3
+      title: Superior Support
+      description: Our commitment to exceptional customer support is unwavering. Our
+        dedicated writers are here to assist you every step of the way, ensuring
+        a seamless experience. Have questions? We've got you covered!
+      image: ./support.svg
+    - id: 4
+      title: "Industry Awareness "
+      description: Delving deep into your industry is our specialty. We pride
+        ourselves on understanding the intricacies of your niche. Our writers
+        possess domain knowledge, enabling them to craft well-written, highly
+        informative content that's relevant to your specific field.
+      image: ./transaction.svg
+flashBannerCenter:
+  quoteTitle: Creating Content for People, Optimized for Google
+  quoteLink: https://contentconcepts.com/contact/
+  quoteToggle: show
+editingLevels:
+  toggle: ""
   title: Sales Copy levels
   subHeading: Because each author is unique
   levelTypes:
@@ -146,8 +171,41 @@ editingLevels:
       copy: no
       substantive: no
       developmental: yes
+connectToolsTitle: Connect your tools, connect your teams
+connectToolsDec: Slack channels are the place for work, Bring your tools to your
+  team, save time and avoid context-switching.
+connectToolsToggle: ""
+connectTools:
+  - title: Unified and secure
+    description: Lorem ipsum dolor sit amet consectetur. Pellentesque cursus
+      habitant vel nullam cras pellentesque amet. Vulputate sagittis cras fusce
+      fermentum. Mauris lorem sapien scelerisque nunc quis suspendisse. Senectus
+      venenatis neque tellus duis erat amet id praesent. Consequat integer
+      consectetur urna cras egestas elit mi neque pellentesque.
+    image: ./connect_img1.svg
+  - title: Unified and secure
+    description: Lorem ipsum dolor sit amet consectetur. Pellentesque cursus
+      habitant vel nullam cras pellentesque amet. Vulputate sagittis cras fusce
+      fermentum. Mauris lorem sapien scelerisque nunc quis suspendisse. Senectus
+      venenatis neque tellus duis erat amet id praesent. Consequat integer
+      consectetur urna cras egestas elit mi neque pellentesque.
+    image: ./connect_img2.svg
+  - title: Unified and secure
+    description: Lorem ipsum dolor sit amet consectetur. Pellentesque cursus
+      habitant vel nullam cras pellentesque amet. Vulputate sagittis cras fusce
+      fermentum. Mauris lorem sapien scelerisque nunc quis suspendisse. Senectus
+      venenatis neque tellus duis erat amet id praesent. Consequat integer
+      consectetur urna cras egestas elit mi neque pellentesque.
+    image: ./connect_img3.svg
+editingCard: []
+message: Not happy with copy? <span>100% refund without any condition</span>
+cardImage: copywriting-service.jpg
+flashBannerBottom:
+  quoteTitle: Creating Content for People, Optimized for Google
+  quoteLink: https://contentconcepts.com/contact/
+  quoteToggle: show
 editingSample:
-  toggle: show
+  toggle: ""
   title: Sales Copy Sample
   samples:
     - id: 1
@@ -157,8 +215,7 @@ editingSample:
       image: ./book_editing_sample_free.png
     - id: 2
       title: Substantive Editing
-      description:
-        Line by line editing for language, readibility. Overall structure
+      description: Line by line editing for language, readibility. Overall structure
         of the paper, tone and section transition.
       image: ./book_editing_sample2_free.png
     - id: 3
@@ -166,110 +223,71 @@ editingSample:
       description: Technical review of manuscript by editor + Copy editing,
         substantive editing features
       image: ./substantive_editing.png
-editingHighlights:
-  toggle: show
-  title: Why people use our Sales Copy service?
-  highlights:
-    - id: 1
-      title: Affordable Prices
-      description:
-        Our book manuscript editing fee is one of the best in the industry
-        for the level of quality work we offer from our trusted PhD and native
-        English editors.
-      image: ./affordable.svg
-    - id: 2
-      title: Superior Support
-      description:
-        You can talk to your book manuscript editor until you are satisfied
-        with our editing service, get your queries answered via email or chat
-        and send your manuscript after review for further check.
-      image: ./support.svg
-    - id: 3
-      title: Confidentiality
-      description:
-        We ensure your documents are handled with utmost care. We can sign
-        NDA if necessary.
-      image: ./confidential.svg
-    - id: 4
-      title: Secure transaction
-      description:
-        Your documents as wells as payment is handled by our secure website
-        which has passed the best level of security testing in the industry.
-      image: ./transaction.svg
-serviceProcess:
-  title: How the Sales Copy process works?
-  steps:
-    - id: 1
-      order: "01"
-      title: Submit Manuscript
-      description: Customer submits manuscript via our Request for quote page.
-      themeColor: "#98ECA6"
-    - id: 2
-      order: "02"
-      title: Receive Quote
-      description: After receiving the manuscript, ContentConcepts sends price quote.
-      themeColor: "#F5DA7D"
-    - id: 3
-      order: "03"
-      title: Confirm Order
-      description: After payment is made by the customer, ContentConcepts sends
-        confirmation of payment.
-      themeColor: "#98E5E0"
-    - id: 4
-      order: "04"
-      title: Edit & Return
-      description:
-        CC assigns the right editor who edits and sends the edited document
-        back to the customer.
-      themeColor: "#FFABAB"
 faq:
   toggle: show
-  title: Book Manuscript Editing - FAQ
+  title: Copywriting - FAQ
   questions:
     - id: 1
-      question: How do I get started with book manuscript editing service?
-      answer:
-        You can use the Get Quote form to send the <a href="test" target="_blank">document</a> or email us. Our
-        team will get back to you with quote and other details
+      question: Why should I hire a professional copywriter?
+      answer: Hiring a pro copywriter means winning big at the high-stakes poker game
+        of websites. We're the royal flush of wordsmiths, crafting irresistible
+        copy that grabs attention, stirs emotions, and compels action. Stack the
+        deck in your favor.
     - id: 2
-      question: Do you provide free sample editing for my manuscript?
-      answer:
-        " Yes, if your book manuscript is longer than 20,000 words, you will get
-        free sample edit of approximately 300 words. This sample edit gives you
-        an idea of the book manuscript editor’s and English editor’s editing
-        style "
+      question: How can professional copywriting benefit my business?
+      answer: Be the life of the party with our expert copywriting. We'll make your
+        business shine like a disco ball, captivating your audience, boosting
+        your brand, and skyrocketing sales. Get ready to be the talk of the
+        town!
     - id: 3
-      question: How do I choose the editing level for my manuscript? How do you decide?
-      answer: We offer three levels of editing - Proofreading & Copy Editing,
-        Substantive Editing and Plagiarism Editing. All are explained on each
-        service page and Pricing page.When you send your manuscript to us, we
-        can check and advise you on the level of editing required.
+      question: What makes your copywriters stand out?
+      answer: Our copywriters are Olympic gymnasts of words, creating mind-blowing
+        content. They understand your brand, connect with your audience, and
+        deliver copy that leaves the competition in the dust. It's copywriting
+        gold!
     - id: 4
-      question: Is my book manuscript secure with you?
-      answer:
-        Absolutely. Our site is built with superior & latest technologies and is
-        most secure. Moreover, we have been in this field for over 15 years
-        offering secure services without any glitches so far
+      question: Can you handle different types of projects?
+      answer: Absolutely! We're versatile chameleons, excelling in website copy, sales
+        pages, blog posts, social media content, and more. Consider us your
+        one-stop-shop for all your copywriting needs.
     - id: 5
-      question: How do I make payment for Sales Copy? Is your website safe for
-        making online payment?
-      answer:
-        Our payment is handled by banks and PayPal, so we would say it's 100%
-        safe. We do not keep any payment details and is directly done by bank's
-        payment gateway.
+      question: How do you match my brand's voice?
+      answer: We have a sixth sense for capturing your brand's voice. We dive deep,
+        understanding your brand's values and personality. Then we craft copy
+        that sings in perfect harmony with your brand. It's a match made in
+        copywriting heaven!
+    - id: 1
+      question: Can you work with tight deadlines?
+      answer: " You bet! We thrive under pressure, delivering top-notch copy even with
+        tight deadlines. Let us know your timeline, and we'll make your
+        copywriting dreams come true. No deadline is too tight!"
 key: book_editing
 parentType: academic
+features:
+  - id: 1
+    title: Analyzing your manuscript as a whole
+  - id: 2
+    title: Improving the structure and flow
+  - id: 3
+    title: Maintaining consistent tone and style
+  - id: 4
+    title: Rewriting sentences to make content clear, concise and effective
+  - id: 5
+    title: Suggesting, illustrations and artwork
 seo:
-  title: Book manuscript editing and proofreading services in India.
-  description: Book manuscript editing and proofreading services in India starts
-    at INR 1. One of the most trusted and affordable services online
+  title: Copywriting services, Expert copywriters
+  description: Unlock the power of persuasive and engaging copywriting services to
+    captivate your audience and elevate your brand. Experience the magic of
+    expertly crafted content that drives results.
   keywords:
-    - Sales Copy services
-    - book proofreading service
-    - Sales Copy services in India
-    - book proofreading services in India
-    - Sales Copy services
-    - book proofreading services
+    - copywriting service
+    - professional copywriter
+    - persuasive writing
+    - engaging content
+    - brand elevation
+    - expert copywriting
+    - captivating copy
+    - driving results
 ---
 
 ContentConcepts specializes in editing and proofreading science, technology, business and non-fiction book manuscripts. Editing a book manuscript is an art. It's more than just grammar and correct usage of words. We have exclusive editors for book manuscripts who have experience in editing more than 1000 book manuscripts. Our manuscript editing combines copy editing and developmental editing by:
