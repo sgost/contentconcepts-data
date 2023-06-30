@@ -106,8 +106,8 @@ editingHighlights:
         informative content that's relevant to your specific field.
       image: ./transaction.svg
 flashBannerCenter:
-  quoteTitle: Professional English Editing for any Research Paper
-  quoteLink: https//www.google.com
+  quoteTitle: Creating Content for People, Optimized for Google
+  quoteLink: https://contentconcepts.com/contact/
   quoteToggle: show
 editingLevels:
   toggle: ""
@@ -198,7 +198,7 @@ connectTools:
       consectetur urna cras egestas elit mi neque pellentesque.
     image: ./connect_img3.svg
 editingCard: []
-message: Not happy with edit? <span>100% refund without any condition</span>
+message: Not happy with copy? <span>100% refund without any condition</span>
 cardImage: copywriting-service.jpg
 flashBannerBottom:
   quoteTitle: Creating Content for People, Optimized for Google
