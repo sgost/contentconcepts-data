@@ -203,7 +203,7 @@ cardImage: copywriting-service.jpg
 flashBannerBottom:
   quoteTitle: Creating Content for People, Optimized for Google
   quoteLink: https://contentconcepts.com/contact/
-  quoteToggle: show
+  quoteToggle: ""
 editingSample:
   toggle: ""
   title: Sales Copy Sample
