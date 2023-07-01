@@ -110,8 +110,8 @@ editingHighlights:
         which has passed the best level of security testing in the industry.
       image: ./transaction.svg
 flashBannerCenter:
-  quoteTitle: Professional English Editing for any Research Paper
-  quoteLink: https//www.google.com
+  quoteTitle: Manuscript to masterpiece!
+  quoteLink: https://contentconcepts.com/contact/
   quoteToggle: show
 editingLevels:
   toggle: show
@@ -178,7 +178,7 @@ editingLevels:
 connectToolsTitle: Connect your tools, connect your teams
 connectToolsDec: Slack channels are the place for work, Bring your tools to your
   team, save time and avoid context-switching.
-connectToolsToggle: show
+connectToolsToggle: ""
 connectTools:
   - title: Unified and secure
     description: Lorem ipsum dolor sit amet consectetur. Pellentesque cursus
