@@ -201,7 +201,10 @@ connectTools:
       venenatis neque tellus duis erat amet id praesent. Consequat integer
       consectetur urna cras egestas elit mi neque pellentesque.
     image: ./connect_img3.svg
-editingCard: []
+editingCard:
+  - title: Meticulous Editing for Captivating Prose
+    backgroundColor: "#872657"
+    image: service_card.png
 message: Not happy with edit? <span>100% refund without any condition</span>
 cardImage: ./blog_image.png
 flashBannerBottom:
@@ -273,9 +276,9 @@ features:
   - id: 5
     title: Suggesting, illustrations and artwork
 seo:
-  title: Book manuscript editing and proofreading services in India.
-  description: Book manuscript editing and proofreading services in India starts
-    at INR 1. One of the most trusted and affordable services online
+  title: Book manuscript editing and proofreading services
+  description: Book manuscript editing and proofreading services at affordable
+    prices by best manuscript editors
   keywords:
     - Book editing services
     - book proofreading service
