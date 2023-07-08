@@ -6,12 +6,12 @@ highlight: "Elevate your content to engage & succeed "
 serviceHeader:
   decription: In today's digital age, where websites serve as windows to
     businesses and platforms for communication, the significance of precise,
-    clear and compelling content cannot be overstated.<p> A website's content
+    clear and compelling content cannot be overstated. A website's content
     represents the essence of an organization, conveying its values, offerings,
     and credibility. Our website editors transform your content with flawless
     editing that refines text, ensuring clarity, coherence, and accuracy, while
     skillful proofreading eliminates errors, enhancing professionalism and
-    trustworthiness. <p/>
+    trustworthiness.
 editorSecTitle: Our Website Copy Editors
 nativeEditorSecToggle: show
 editorSecCards:
