@@ -48,7 +48,7 @@ teamMembers:
       English language problems faced by these researchers. She helped these
       researchers communicate effectively by teaching them ESL writing
       techniques. She is a specialist in ESL writing and editing.
-    image: ../assets/essay_editor.png
+    image: ../assets/nalini_editor-science.png
     themeColor: "#FFC6CD"
   - id: 5
     name: Dr Benny K, Ph.D
