@@ -14,6 +14,6 @@ services:
     title: Editing Certificate
     link: blog/free-english-editing-certificate/
   - id: 3
-    title: Free Editing
-    link: blog/free-editing-proofreading-on-first-200-words/
+    title: Manuscript Editors
+    link: https://blog.contentconcepts.com/our-manuscript-editorsscientific-editors-proofreaders
 ---
