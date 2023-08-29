@@ -20,13 +20,13 @@ seo:
     - language editing certificate
     - english editing certificate
 ---
-When you choose ContentConcepts for your Substantive Editing Service, you're not only investing in refined content but also receiving a valuable bonus: a complimentary English Editing Certificate. This certificate serves as a testament to the precision and expertise that goes into your manuscript.
+When you choose [ContentConcepts](https://contentconcepts.com/) for your [Substantive Editing Service](https://contentconcepts.com/services/academic_), you're not only investing in refined content but also receiving a valuable bonus: a complimentary English Editing Certificate. This certificate serves as a testament to the precision and expertise that goes into your manuscript.
 
 ![ English Editing Certificate](proofreading-certificate.png " English Editing Certificate")
 
 ## What is the English Editing Certificate?
 
-Our English Editing Certificate is your evidence of having a professional English language editor meticulously review and refine your academic work. ContentConcepts proudly offers this certificate as a downloadable proof of language accuracy, ensuring your document is submission-ready. We guarantee 100% language error-free papers, establishing our name as a trusted figure in academic editing and proofreading.
+Our [English Editing Certificate](https://contentconcepts.com/blog/free-english-editing-certificate) is your evidence of having a professional English language editor meticulously review and refine your academic work. ContentConcepts proudly offers this certificate as a downloadable proof of language accuracy, ensuring your document is submission-ready. We guarantee 100% language error-free papers, establishing our name as a trusted figure in academic editing and proofreading.
 
 ## What's Included in the Editing Certificate?
 
@@ -40,7 +40,7 @@ The Editing Certificate includes the following key details:
 
 ## The Importance of an Editing Certificate
 
-An Editing Certificate holds significant value, especially for ESL authors seeking journal publication. At ContentConcepts, we offer this valuable certificate with every order, demonstrating that your document meets the highest editing standards upheld by our expert editors. By showcasing this certificate, you exhibit your dedication to meeting industry requisites and showcasing professionally edited content.
+An Editing Certificate holds significant value, especially for ESL authors seeking journal publication. At ContentConcepts, we offer this valuable certificate with every order, demonstrating that your document meets the highest editing standards upheld by our expert [editors](https://blog.contentconcepts.com/our-manuscript-editorsscientific-editors-proofreaders). By showcasing this certificate, you exhibit your dedication to meeting industry requisites and showcasing professionally edited content.
 
 ## Your Path to Publication
 
