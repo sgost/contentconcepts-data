@@ -3,11 +3,15 @@ title: "English Editing Services  "
 ---
 </br>
 
+ContentConcepts, established in 2001, is an international proofreading and editing service based in **New Jersey, USA**. Our editors, PhDs with extensive academic and business experience, guarantee excellence.
+
+</br>
+
 ### **Elevate the Power of the Written Word**
 
 In a world where precision and impact are paramount, researchers and business owners are seeking a partner that can elevate their written materials to extraordinary heights. Look no further than ContentConcepts, the trusted authority in professional editing and proofreading services. With an unwavering commitment to quality and a penchant for meticulous refinement, we are here to transform your documents into polished, influential, and error-free works that command attention.  
 
-![](/4.8-google-review.jpg)
+![Best rated manuscript editing service Google](/4.8-google-review.jpg "Top-rated online proofreading and editing service")
 
 <br>
 
@@ -15,6 +19,7 @@ In a world where precision and impact are paramount, researchers and business ow
 
 At ContentConcepts, we recognize the profound significance of well-crafted written content in both academic and business realms. Our seasoned team of editors, possessing a wealth of expertise and industry knowledge, stands ready to refine your documents with precision and finesse. From the intricate nuances of grammar, spelling, and syntax to the holistic structure that underpins your ideas, we meticulously examine every element, ensuring that your message shines with unparalleled clarity and impact.</br>
 </br>
+
 ### **Tailored Solutions for Discerning Researchers and Business Owners**
 
  We understand that the needs of researchers and business owners are as distinct as the paths they tread. That's why ContentConcepts offers tailored editing and proofreading solutions, finely crafted to meet your specific requirements. Whether you're a researcher seeking to perfect your scholarly papers or a visionary business owner striving to elevate your marketing materials, our dedicated editors will seamlessly enhance your content while preserving your unique voice and message.
@@ -68,7 +73,6 @@ Our [English manuscript editors](https://contentconcepts.in/about/) specialise i
 Starting from simple proofreading to substantive editing, you can choose the level of editing that suits your budget or what your manuscript requires. If you need, help check [How to select the editing level for my ](https://contentconcepts.in/blog/manuscript-editing-services-for-research-papers-proofreading-copy-editing-substantive-editing-which-editing-level-should-i-select/)document.
 
 </br>
-
 
 ### **Our top editing services**
 
