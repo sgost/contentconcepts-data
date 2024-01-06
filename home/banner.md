@@ -8,12 +8,12 @@ typedWords:
   - Website $0.02/word
 services:
   - id: 1
-    title: Manuscript Editing
+    title: Best Manuscript Editing
     link: services/academic_editing/manuscript_editing
   - id: 2
     title: Editing Certificate
     link: blog/free-english-editing-certificate/
   - id: 3
-    title: Manuscript Editors
-    link: https://blog.contentconcepts.com/our-manuscript-editorsscientific-editors-proofreaders
+    title: Topt 5 Editing Service
+    link: https://contentconcepts.com/blog/contentconcepts-top-rated-academic-editing-and-proofreading-services/
 ---
