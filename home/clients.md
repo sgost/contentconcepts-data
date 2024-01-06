@@ -1,12 +1,10 @@
 ---
-title: Trusted by Top Universities & Publishers
-description: Whether you're writing research papers or crafting marketing copy,
-  we're here to transform your documents into polished, influential, and
-  error-free works that command attention. Our team of professional editors
-  possesses the expertise and industry knowledge to refine your documents with
-  precision and finesse. We'll meticulously review grammar, spelling, syntax,
-  and overall structure, ensuring your ideas are conveyed with clarity and
-  impact.
+title: "Top 5 manuscript editing service - Rated 4.9 "
+description: As a top-rated, best manuscript editing service on Google with 4.9
+  rating, our PhD editors and native-English editors provide top-quality editing
+  services at the best pricing. With fast turnaround times, our manuscript
+  editing service is the perfect choice for anyone looking to improve their
+  writing. Trust our professional editors to help you achieve your goals.
 clients:
   - id: 1
     title: English Editing and Proofreading Service in India
