@@ -14,6 +14,6 @@ services:
     title: Editing Certificate
     link: blog/free-english-editing-certificate/
   - id: 3
-    title: Topt 5 Editing Service
+    title: 4.9 Rated Editing Service
     link: https://contentconcepts.com/blog/contentconcepts-top-rated-academic-editing-and-proofreading-services/
 ---
