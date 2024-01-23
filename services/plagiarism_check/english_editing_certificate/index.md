@@ -48,22 +48,22 @@ serviceProcess:
   steps:
     - title: Submit Manuscript
       id: 1
-      order: 1
+      order: "01"
       description: Submit manuscript via our Get Quote link.
       themeColor: "#98ECA6"
     - title: Receive Quote
       id: 2
-      order: "2"
+      order: "02"
       description: After receiving the manuscript, we send price quote.
       themeColor: "#F5DA7D"
     - title: Confirm Order
       id: 3
-      order: "3"
+      order: "03"
       description: After you make the payment we will  send confirmation of the payment.
       themeColor: "#98E5E0"
     - title: Receive Certificate
       id: 4
-      order: "4"
+      order: "04"
       description: We provide certificate after completing the edit.
       themeColor: "#FFABAB"
 editingHighlights:
