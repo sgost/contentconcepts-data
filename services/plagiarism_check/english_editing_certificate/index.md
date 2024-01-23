@@ -126,7 +126,7 @@ faq:
     - id: 1
       question: FAQ Question
       answer: FAQ Answer
-key: plagiarism_check
+key: english_editing_certificate
 parentType: technical
 seo:
   title: Free English Editing Certificate
