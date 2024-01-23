@@ -9,11 +9,11 @@ serviceHeader:
     accepted by all major journals. Please check the editing certificate sample
     and the process below.
   serviceLink:
-    - title: T
+    - title: ""
       link: <a
         href="https://contentconcepts.com/blog/free-english-editing-certificate/">Editing
         Certificate Sample</a>
-    - title: T
+    - title: ""
       link: <a
         href="https://contentconcepts.com/blog/free-proofreading-certificate/">Proofreading
         Certificate Sample</a>
@@ -106,7 +106,7 @@ editingCard:
         buttonLink: https://contentconcepts.com/blog/contentconcepts-top-rated-academic-editing-and-proofreading-services/
     image: 25-years.jpeg
 message: Get Your English Editing Certificate Now
-cardImage: confidential.svg
+cardImage: screenshot-2024-01-23-at-8.44.54-am.png
 flashBannerBottom:
   quoteTitle: Get Your Free English Editing Certificate Now
   quoteLink: https://contentconcepts.com/pricing/
