@@ -106,7 +106,7 @@ editingCard:
         buttonLink: https://contentconcepts.com/blog/contentconcepts-top-rated-academic-editing-and-proofreading-services/
     image: 25-years.jpeg
 message: Get Your English Editing Certificate Now
-cardImage: screenshot-2024-01-23-at-8.44.54-am.png
+cardImage: english-editing-certificate_small.jpg
 flashBannerBottom:
   quoteTitle: Get Your Free English Editing Certificate Now
   quoteLink: https://contentconcepts.com/pricing/
@@ -124,8 +124,21 @@ faq:
   title: FAQ Container Title
   questions:
     - id: 1
-      question: FAQ Question
-      answer: FAQ Answer
+      question: What's an editing certificate good for?
+      answer: Shows your academic work got a pro English makeover by ContentConcepts
+        editors.
+    - id: 2
+      question: What does it "certify"?
+      answer: That your doc is polished and error-free, thanks to our editing ninjas.
+    - id: 3
+      question: How do I get the English Editing Certificate?
+      answer: Submit your work document on our Get Quote page
+    - id: 4
+      question: What's on the certificate?
+      answer: Paper title, author names, editing proof, date, and a fancy QR code.
+    - id: 5
+      question: Speaking of guarantees, what's yours?
+      answer: We guarantee zero language errors, making us your editing BFF.
 key: english_editing_certificate
 parentType: technical
 seo:
@@ -139,5 +152,63 @@ seo:
 ## What is  English Editing Certificate?
 
 Our [English Editing Certificate](https://contentconcepts.com/blog/english-language-editing-certificate-for-manuscript-authors/) is proof that a skilled [English language edito](https://blog.contentconcepts.com/our-manuscript-editorsscientific-editors-proofreaders)r from ContentConcepts has thoroughly reviewed and refined your academic work. We proudly provide this certificate for download, offering tangible evidence of language accuracy and ensuring your document is ready for submission. We guarantee papers free from language errors, solidifying our reputation as a trusted name in academic editing and proofreading.<p>
+
+### **1. What is the purpose of an editing certificate?**
+
+[Editing certificate](https://contentconcepts.com/blog/english-language-editing-certificate-for-manuscript-authors/) serves as proof that a professional English language editor has proofread and edited academic work.
+
+### **2. What does an English editing certificate certify?**
+
+Our English editing certificate certifies that your document has been edited to the highest standards by ContentConcepts' expert editors. 
+
+### **3. How can I obtain a certificate of editing from ContentConcepts?**
+
+To obtain a certificate of editing from ContentConcepts, you can submit your document [here.](https://contentconcepts.com/pricing/)
+
+#### **4. What information is included in the editing certificate provided by ContentConcepts?**
+
+The editing certificate includes the title of the paper, names of the authors, a declaration of English language editing by the [Chief Editor](https://blog.contentconcepts.com/our-manuscript-editorsscientific-editors-proofreaders), date of editing, and a QR code for validation.
+
+### **5. Why is it important to avoid making additional revisions after editing?**
+
+Avoiding additional revisions after editing is crucial to maintain the guarantee of 100% language accuracy provided by ContentConcepts.
+
+### **6. What guarantee does ContentConcepts provide regarding language accuracy?**
+
+ContentConcepts guarantees 100% language error-free papers, establishing us as a trusted name in [academic editing and proofreading](https://contentconcepts.com/services/academic_editing/).
+
+### **7. How can I validate the editing certificate using the QR code?**
+
+You can validate the editing certificate using the QR code provided on the certificate.
+
+### **8. Is the English Editing Certificate provided by ContentConcepts free of charge?**
+
+Yes, the English Editing Certificate provided by ContentConcepts is free of charge. You will receive this when you submit your document for [manuscript editing service.](https://contentconcepts.com/services/academic_editing/manuscript_editing/)
+
+### **9. Will having an editing certificate guarantee the publication of my work?**
+
+Having an editing certificate does not guarantee publication, but it can be helpful in providing evidence of expert review to journal editors.
+
+### **10. How can the editing certificate benefit authors in the publishing process?**
+
+The editing certificate can increase the chances of your paper being sent out for peer-review by allowing editors to focus on scientific content rather than language errors.
+
+### **11. Does submitting an editing certificate increase the chances of peer-review for my paper?** 
+
+Yes, submitting an editing certificate can indeed increase the chances of your paper being sent out for peer-review.
+
+### **12. How can ContentConcepts assist authors in achieving their publishing goals?** 
+
+ContentConcepts supports authors in achieving their publishing goals by providing professional editing services and English Editing Certificates.
+
+### **13. What makes ContentConcepts a trusted name in academic editing and proofreading?**
+
+ ContentConcepts is considered a trusted name due to their guarantee of 100% language error-free papers.
+
+### **14. Can I place an order with ContentConcepts to receive both professional editing and an English Editing Certificate?** 
+
+Yes, you can place an order with ContentConcepts to receive both professional editing and an English Editing Certificate.
+
+
 
 ![English Editing Certificate Sample](english-editing-certificate.png "English Editing Certificate Sample")
