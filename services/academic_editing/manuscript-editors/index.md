@@ -1,7 +1,7 @@
 ---
 navTitle: Our Editors
 navIndex: 11
-title: Our Manuscript Editors
+title: Our Editors
 highlight: PhD, Native English, Certified
 serviceHeader:
   decription: We bring your manuscript to life, with expert editing and
@@ -25,7 +25,7 @@ btnTxt:
   quote: Get Quote
   sample: Editing Sample
   editing: Editing
-editorSecTitle: Native Editor Section Title
+editorSecTitle: Native English & PhD Editors
 nativeEditorSecToggle: no
 editorSecCards: []
 flashBannerTop:
@@ -37,27 +37,26 @@ serviceProcess:
   title: ""
   steps: []
 editingHighlights:
-  toggle: show
-  title: Editing Highlights Title
+  toggle: no
+  title: PhD & Native English Editors
   highlights: []
 flashBannerCenter:
   quoteTitle: Flash Banner Title
   quoteLink: www.sample.com
-  quoteToggle: show
+  quoteToggle: ""
 editingLevels:
-  toggle: no
+  toggle: ""
   title: ""
   subHeading: ""
   levelTypes: []
   levels: []
-connectToolsTitle: Connect Tools Section Title
-connectToolsDec: Connect Tools Section Description
+connectToolsTitle: Google 4.9 Rated Manuscript Editors & Proofreaders
+connectToolsDec: "Our editing services are rated the best by authors and
+  researchers who have used our manuscript editing, proofreading and thesis
+  editing services. "
 connectToolsToggle: show
 connectTools: []
-editingCard:
-  - title: Editing Links card Title
-    backgroundColor: "#17A589"
-    image: scientific_editing_service.jpeg
+editingCard: []
 message: Message Text
 cardImage: scientific_editing_service.jpeg
 flashBannerBottom:
