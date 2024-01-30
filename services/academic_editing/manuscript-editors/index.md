@@ -83,8 +83,6 @@ seo:
   keywords:
     - Manuscript Editors & Proofreaders
 ---
-
-
 # **Manuscript Editors**
 
 ## **Ross Taylor**
@@ -97,16 +95,40 @@ Masterful English editing meets scientific precision. A linguist and engineer by
 
 # **Scientific Editors**
 
-**Dr. Katharine Hughes:** 25+ years of academic editing prowess. From theses to dissertations, Dr. Katharine has polished over 20,000 pages across medical sciences, IT, and bioinformatics. ESL specialists welcome!
+![Scientific Editor](scientific-editor_kat.jpeg "Scientific Editor")
 
-**Dr. Ashraf:** Biostatistics PhD meets meticulous editor. Dr. Ashraf's 45+ research publications and years of academic experience translate into sharp editing for your medical papers and theses. Board-certified and detail-oriented, he'll ensure success.
+### **Dr. Katharine Hughes**
 
-**Dr. Monika Mukherjee:** Pharmacology expert, editing ace. With 20+ years at a top pharma lab and a PhD in Pharmacology, Dr. Monika specializes in ESL editing for scientific manuscripts. Clear communication starts here.
+ 25+ years of academic editing prowess. From theses to dissertations, Dr. Katharine has polished over 20,000 pages across medical sciences, IT, and bioinformatics. ESL specialists welcome!
+
+### **Dr. Ashraf**
+
+![Scientific editor](ashraf_bio_editor.jpeg "Scientific Editor")
+
+Biostatistics PhD meets meticulous editor. Dr. Ashraf's 45+ research publications and years of academic experience translate into sharp editing for your medical papers and theses. Board-certified and detail-oriented, he'll ensure success.
+
+### **Dr. Monika Mukherjee**
+
+![Medical editor](monika_medical_manuscript_editor.jpeg "Medical editor")
+
+Pharmacology expert, editing ace. With 20+ years at a top pharma lab and a PhD in Pharmacology, Dr. Monika specializes in ESL editing for scientific manuscripts. Clear communication starts here.
 
 # **Thesis Editors**
 
-**Dr. Athira:** Biotechnology PhD, meticulous thesis editor. Dr. Athira's 16 years of academic experience and 45+ publications equip her to provide detailed feedback and support. Trust her to help you navigate the path to successful publication.
+### **Dr. Athira**
 
-**Dr. Nalini Kannan:** Scientist turned editor, your thesis whisperer. Dr. Nalini's 20-year career at a leading Indian biotech lab honed her writing and editing skills across research proposals, regulatory documents, and clinical trials. She understands your journey and guides you to thesis excellence.
+![](thesis-editor.jpeg)
 
-**Alan Wichelman:** Flawless research writing, guaranteed. Native English editor Alan specializes in thesis editing, with expertise in APA, Chicago Manual, and more. He's edited over 100 theses, ensuring impeccable clarity and formatting.
+Biotechnology PhD, meticulous thesis editor. Dr. Athira's 16 years of academic experience and 45+ publications equip her to provide detailed feedback and support. Trust her to help you navigate the path to successful publication.
+
+### **Dr. Nalini Kannan**
+
+![Thesis editor](nalini_editor-science.png "Thesis editor")
+
+Scientist turned editor, your thesis whisperer. Dr. Nalini's 20-year career at a leading Indian biotech lab honed her writing and editing skills across research proposals, regulatory documents, and clinical trials. She understands your journey and guides you to thesis excellence.
+
+### **Alan Wichelman**
+
+![Thesis editor](manucript-editor-native.jpeg "Thesis editor")
+
+Flawless research writing, guaranteed. Native English editor Alan specializes in thesis editing, with expertise in APA, Chicago Manual, and more. He's edited over 100 theses, ensuring impeccable clarity and formatting.
