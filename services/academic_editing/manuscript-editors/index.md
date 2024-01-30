@@ -72,8 +72,34 @@ faq:
   title: About Our Editors & Proofreaders
   questions:
     - id: 1
-      question: FAQ Question
-      answer: FAQ Answer
+      question: How can I start editing my manuscript?
+      answer: "Submit your document via the <a
+        href=\"https://contentconcepts.com/pricing//\">Get Quote</a> form or
+        email us. We'll send you a quote and details. "
+    - id: 2
+      question: Is my information secure with you?
+      answer: Absolutely! We use advanced technology and have 23 years of secure
+        service experience.
+    - id: 3
+      question: What's the editing process like?
+      answer: Check out the "How it Works" section for a comprehensive explanation.
+    - id: 4
+      question: Which editing level do I need?
+      answer: We offer Proofreading & Copy Editing, Substantive Editing, and
+        Plagiarism Editing. Service and pricing pages have descriptions.
+    - id: 5
+      question: " Can I get a free sample edit?"
+      answer: " <a
+        href=\"https://contentconcepts.com/blog/free-editing-proofreading-on-fi\
+        rst-200-words/\">Free sample editing & proofreading </a>Yes, if your
+        manuscript is over 20,000 words (500-word sample). It's an opportunity
+        to ask questions and give feedback."
+    - id: 6
+      question: Do you provide editing certificates?
+      answer: <a
+        href="https://contentconcepts.com/blog/english-language-editing-certificate-for-manuscript-authors/">Free
+        editing certificate</a>Yes, we provide certificates with QR codes for
+        journal submissions.
 key: manuscript-editors
 parentType: academic
 seo:
