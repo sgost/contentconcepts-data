@@ -61,8 +61,8 @@ editingCard:
 message: Message Text
 cardImage: scientific_editing_service.jpeg
 flashBannerBottom:
-  quoteTitle: Flash Banner Title
-  quoteLink: www.sample.com
+  quoteTitle: Medical Editor, Scientific Editor, Thesis Editor, Native English
+  quoteLink: https://contentconcepts.com/pricing/
   quoteToggle: show
 editingSample:
   toggle: no
@@ -70,7 +70,7 @@ editingSample:
   samples: []
 faq:
   toggle: show
-  title: FAQ Container Title
+  title: About Our Editors & Proofreaders
   questions:
     - id: 1
       question: FAQ Question
