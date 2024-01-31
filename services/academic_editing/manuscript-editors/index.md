@@ -25,9 +25,28 @@ btnTxt:
   quote: Get Quote
   sample: Editing Sample
   editing: Editing
-editorSecTitle: ","
-nativeEditorSecToggle: ","
-editorSecCards: []
+editorSecTitle: "PhD Editors for Science, Medicine and Technology manuscripts  "
+nativeEditorSecToggle: show
+editorSecCards:
+  - name: Dr. Katharine Hughes
+    designation: "Biology Manuscript Editor "
+    description: With 25+ years of experience, she is an expert in <a
+      href="https://contentconcepts.com/services/academic_editing/scientific_manuscript_editing/">scientific
+      editing </a>  and <a
+      href="https://contentconcepts.com/services/academic_editing/manuscript_editing/">manuscript
+      editing</a>. She has edited 20,000+ pages, specializing in ESL documents
+      and a broad range of fields, including medical sciences, IT, and
+      bioinformatics.
+    image: scientific-editor.jpeg
+  - name: Dr Carole J
+    designation: Medical Editor
+    description: Carole is a meticulous <a
+      href="https://contentconcepts.com/services/academic_editing/medical_editing/">medical
+      editor </a>  with standout professional and research experience in the
+      United States, and Europe. She has conducted research at prestigious
+      academic institutions in North America, including Harvard Medical School,
+      Columbia University and the University of North Carolina.
+    image: carole_medical_editor.jpeg
 flashBannerTop:
   quoteTitle: Get professional editing from native-English editors
   quoteLink: https://contentconcepts.com/pricing/
