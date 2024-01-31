@@ -25,8 +25,8 @@ btnTxt:
   quote: Get Quote
   sample: Editing Sample
   editing: Editing
-editorSecTitle: Native English & PhD Editors
-nativeEditorSecToggle: show
+editorSecTitle: ","
+nativeEditorSecToggle: ","
 editorSecCards: []
 flashBannerTop:
   quoteTitle: Get professional editing from native-English editors
