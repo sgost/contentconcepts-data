@@ -25,8 +25,8 @@ btnTxt:
   quote: Get Quote
   sample: Editing Sample
   editing: Editing
-editorSecTitle: Native English & PhD Editors
-nativeEditorSecToggle: no
+editorSecTitle: ","
+nativeEditorSecToggle: ","
 editorSecCards: []
 flashBannerTop:
   quoteTitle: Get professional editing from native-English editors
@@ -38,7 +38,7 @@ serviceProcess:
   steps: []
 editingHighlights:
   toggle: no
-  title: PhD & Native English Editors
+  title: ""
   highlights: []
 flashBannerCenter:
   quoteTitle: Flash Banner Title
@@ -56,7 +56,16 @@ connectToolsDec: "Our editing services are rated the best by authors and
   editing services. "
 connectToolsToggle: show
 connectTools: []
-editingCard: []
+editingCard:
+  - title: Best and affordable proofreading services
+    backgroundColor: "#3498DB"
+    bulletpoints:
+      - title: <a
+          href="https://contentconcepts.com/blog/english-language-editing-certificate-for-manuscript-authors/">Free
+          editing certificate</a>
+        link: https://contentconcepts.com/blog/english-language-editing-certificate-for-manuscript-authors/
+        buttonLink: www.google.com
+    image: proofreading_services-removebg-preview.png
 message: Message Text
 cardImage: scientific_editing_service.jpeg
 flashBannerBottom:
@@ -112,7 +121,7 @@ seo:
 
 ## **Ross Taylor**
 
-![](manuscript-editor.jpeg)
+![Manuscript Editors](manuscript-editor.jpeg "Manuscript Editors")
 
 Masterful English editing meets scientific precision. A linguist and engineer by training, Ross specializes in science, medical, and tech manuscripts. He also holds a TEFL certification, ensuring clarity for international authors.
 
