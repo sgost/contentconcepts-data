@@ -38,7 +38,7 @@ serviceProcess:
   steps: []
 editingHighlights:
   toggle: no
-  title: PhD & Native English Editors
+  title: ""
   highlights: []
 flashBannerCenter:
   quoteTitle: Flash Banner Title
