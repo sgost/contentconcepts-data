@@ -26,7 +26,7 @@ btnTxt:
   sample: Editing Sample
   editing: Editing
 editorSecTitle: Native English & PhD Editors
-nativeEditorSecToggle: no
+nativeEditorSecToggle: show
 editorSecCards: []
 flashBannerTop:
   quoteTitle: Get professional editing from native-English editors
@@ -112,7 +112,7 @@ seo:
 
 ## **Ross Taylor**
 
-![](manuscript-editor.jpeg)
+![Manuscript Editors](manuscript-editor.jpeg "Manuscript Editors")
 
 Masterful English editing meets scientific precision. A linguist and engineer by training, Ross specializes in science, medical, and tech manuscripts. He also holds a TEFL certification, ensuring clarity for international authors.
 
