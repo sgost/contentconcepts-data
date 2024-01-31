@@ -129,9 +129,9 @@ Masterful English editing meets scientific precision. A linguist and engineer by
 
 # **Scientific Editors**
 
-![Scientific Editor](scientific-editor_kat.jpeg "Scientific Editor")
-
 ### **Dr. Katharine Hughes**
+
+![](scientific-editor.jpeg)
 
  25+ years of academic editing prowess. From theses to dissertations, Dr. Katharine has polished over 20,000 pages across medical sciences, IT, and bioinformatics. ESL specialists welcome!
 
@@ -151,7 +151,7 @@ Pharmacology expert, editing ace. With 20+ years at a top pharma lab and a PhD i
 
 ### **Dr. Athira**
 
-![](thesis-editor.jpeg)
+![](editor22_female.jpeg)
 
 Biotechnology PhD, meticulous thesis editor. Dr. Athira's 16 years of academic experience and 45+ publications equip her to provide detailed feedback and support. Trust her to help you navigate the path to successful publication.
 
