@@ -56,7 +56,16 @@ connectToolsDec: "Our editing services are rated the best by authors and
   editing services. "
 connectToolsToggle: show
 connectTools: []
-editingCard: []
+editingCard:
+  - title: Best and affordable proofreading services
+    backgroundColor: "#3498DB"
+    bulletpoints:
+      - title: <a
+          href="https://contentconcepts.com/blog/english-language-editing-certificate-for-manuscript-authors/">Free
+          editing certificate</a>
+        link: https://contentconcepts.com/blog/english-language-editing-certificate-for-manuscript-authors/
+        buttonLink: www.google.com
+    image: proofreading_services-removebg-preview.png
 message: Message Text
 cardImage: scientific_editing_service.jpeg
 flashBannerBottom:
