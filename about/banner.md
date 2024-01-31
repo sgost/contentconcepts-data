@@ -3,7 +3,9 @@ title: "English Editing Services  "
 ---
 </br>
 
-ContentConcepts, established in 2001, is an international [proofreading and editing service](https://contentconcepts.com/services/academic_editing/english_editing/) based in **New Jersey, USA**. Our editors, PhDs with extensive academic and business experience, guarantee excellence.
+ContentConcepts, established in 2001, is an international [proofreading and editing service](https://contentconcepts.com/services/academic_editing/english_editing/) based in **New Jersey, USA**. Our editors, PhDs with extensive academic and business experience, guarantee excellence. 
+
+R﻿ead more about our [PhD and native-English editors](https://contentconcepts.com/services/academic_editing/manuscript-editors/)
 
 </br>
 
