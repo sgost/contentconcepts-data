@@ -25,9 +25,28 @@ btnTxt:
   quote: Get Quote
   sample: Editing Sample
   editing: Editing
-editorSecTitle: ","
-nativeEditorSecToggle: ","
-editorSecCards: []
+editorSecTitle: "PhD Editors for Science, Medicine and Technology manuscripts  "
+nativeEditorSecToggle: show
+editorSecCards:
+  - name: Dr. Katharine Hughes
+    designation: "Biology Manuscript Editor "
+    description: With 25+ years of experience, she is an expert in <a
+      href="https://contentconcepts.com/services/academic_editing/scientific_manuscript_editing/">scientific
+      editing </a>  and <a
+      href="https://contentconcepts.com/services/academic_editing/manuscript_editing/">manuscript
+      editing</a>. She has edited 20,000+ pages, specializing in ESL documents
+      and a broad range of fields, including medical sciences, IT, and
+      bioinformatics.
+    image: scientific-editor.jpeg
+  - name: Dr Carole J
+    designation: Medical Editor
+    description: Carole is a meticulous <a
+      href="https://contentconcepts.com/services/academic_editing/medical_editing/">medical
+      editor </a>  with standout professional and research experience in the
+      United States, and Europe. She has conducted research at prestigious
+      academic institutions in North America, including Harvard Medical School,
+      Columbia University and the University of North Carolina.
+    image: carole_medical_editor.jpeg
 flashBannerTop:
   quoteTitle: Get professional editing from native-English editors
   quoteLink: https://contentconcepts.com/pricing/
@@ -129,9 +148,9 @@ Masterful English editing meets scientific precision. A linguist and engineer by
 
 # **Scientific Editors**
 
-![Scientific Editor](scientific-editor_kat.jpeg "Scientific Editor")
-
 ### **Dr. Katharine Hughes**
+
+![](scientific-editor.jpeg)
 
  25+ years of academic editing prowess. From theses to dissertations, Dr. Katharine has polished over 20,000 pages across medical sciences, IT, and bioinformatics. ESL specialists welcome!
 
@@ -151,7 +170,7 @@ Pharmacology expert, editing ace. With 20+ years at a top pharma lab and a PhD i
 
 ### **Dr. Athira**
 
-![](thesis-editor.jpeg)
+![](editor22_female.jpeg)
 
 Biotechnology PhD, meticulous thesis editor. Dr. Athira's 16 years of academic experience and 45+ publications equip her to provide detailed feedback and support. Trust her to help you navigate the path to successful publication.
 
