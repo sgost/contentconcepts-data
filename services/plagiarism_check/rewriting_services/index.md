@@ -114,7 +114,7 @@ editingCard:
         buttonLink: www.google.com
     image: best_editing_service.jpg
 message: Get the best quote  from expert rewriting service
-cardImage: screenshot-2024-02-02-at-9.50.28-am.png
+cardImage: revision_rewriting_plagiarisn.jpg
 flashBannerBottom:
   quoteTitle: Flash Banner Title
   quoteLink: www.sample.com
