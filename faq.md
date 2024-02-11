@@ -72,11 +72,13 @@ questions:
       journal requires so that our editor can follow the required style for
       editing and formatting  "
   - id: 14
-    question: Refund & Cancellation. Do you offer a refund if I am not satisfied
-      with the work?
+    question: Refund & Cancellation Policy. Do you offer a refund if I am not
+      satisfied with the work?
     answer: If you are unsatisfied with the service that you have received and can
       produce justification that the editing quality was substandard (e.g.,
       language and punctuation errors, very low editing), we may issue a partial
-      or full refund. Contact our project manager by sending an email to
-      info@contentconcepts.in
+      or full refund. For any reasons you want to cancel the order, you may want
+      to do that within one hour. If you cancel after 1 hour of submission, we
+      provide 50% of the amount paid. Contact our project manager by sending an
+      email to info@contentconcepts.in
 ---
