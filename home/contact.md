@@ -13,4 +13,8 @@ categories:
   - id: 3
     title: Others
     value: others
+addresses:
+  - line1: Branch, Country
+    line2: Building, Street
+    line3: City, Code
 ---
